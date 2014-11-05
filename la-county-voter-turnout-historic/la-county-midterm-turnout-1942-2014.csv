@@ -1,4 +1,4 @@
-"election_type","formal_date","YEAR","registered_voters","ballots_cast","turnout","vote_by_mail_absentee_ballots","vote_by_mail_absentee_percent_of_ballots_cast","data_source"
+"election_type","formal_date","year","registered_voters","ballots_cast","turnout","vote_by_mail_absentee_ballots","vote_by_mail_absentee_percent_of_ballots_cast","data_source"
 "Midterm General","11/4/2014",2014,"4,544,455","1,147,248",0.2525,"325,421",0.2837,"http://rrcc.co.la.ca.us/elect/14110014/rr0014p26.htm"
 "Midterm Primary","6/3/2014",2014,"4,823,407","824,070",0.1708,"400,694",0.4862,"http://rrcc.co.la.ca.us/elect/14062043/rr2043p20.htm"
 "Midterm General","11/2/2010",2010,"4,421,019","2,377,105",0.5377,"678,651",0.2855,"http://rrcc.co.la.ca.us/elect/10110010/rr0010px.html-ssi"
