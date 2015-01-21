@@ -1,4 +1,5 @@
-# 2014-la-county-certified-primary-results
+2014-la-county-certified-primary-results
+========================================
 
 * **WHAT**: Certified results from LA County for the June 3, 2014 primary.
     * Results for each race available by:

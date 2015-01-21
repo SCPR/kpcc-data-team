@@ -1,4 +1,5 @@
-# 2014-la-county-general-election-results
+2014-la-county-general-election-results
+=======================================
 
 * **WHAT**: General election results from LA County for the Nov. 4, 2014 primary.
     * Results for each race available by:
