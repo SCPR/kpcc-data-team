@@ -7,6 +7,7 @@ Table of Contents
 =================
 
 * [Checklists](/checklists)
+* [Data](/data)
 
 Dare we say a "Statement of Purpose"
 ====================================
