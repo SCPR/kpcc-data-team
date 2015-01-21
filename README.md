@@ -57,7 +57,7 @@ Sharing & Showing Our Work
     * [KPCC's projects & news applications codebase](https://github.com/SCPR/static-projects)
     * [Fire Tracker codebase](https://github.com/SCPR/firetracker)
     * [Earthquake Tracker codebase](https://github.com/SCPR/calif-earthquakes)
-    * ["Periodically updated archive of data" published by the city of Los Angeles on its open data portal](https://github.com/SCPR/opendata-la-watchdog)
+    * ["Periodically updated archive of data" from city of Los Angeles open data portal](https://github.com/SCPR/opendata-la-watchdog)
     * [Generate timeline content from KPCC's API](https://github.com/SCPR/timeline-data-generator)
     * [Iterative in-house Django project to store and provide data](https://github.com/SCPR/accountability-tracker)
 
