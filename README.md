@@ -1,63 +1,84 @@
-### KPCC/SCPR Data
+KPCC Data Team "[Thomas Guide](https://en.wikipedia.org/wiki/Thomas_Guide)"
+===========================================================================
 
-A repository containing datasets, information and other goodies from KPCC/SCPR
+Where we attempt to lay a foundation, document practices and find our way...
 
-* **[OpenData LA](https://github.com/SCPR/opendata-la-watchdog)**
+Table of Contents
+=================
 
-    * **WHAT**: Using code created by the [Los Angeles Times Data Desk](https://github.com/datadesk) and its [Checkbook LA Watchdog project](https://github.com/datadesk/checkbook-la-watchdog), this is a "periodically updated archive of data" published by the city of Los Angeles on its [open data portal](https://data.lacity.org/).
+* [Checklists](/checklists)
 
-    * **HOW ACQUIRED**: [Python script](https://github.com/SCPR/opendata-la-watchdog/blob/master/watchdog.py) will download each dataset.
+Dare we say a "Statement of Purpose"
+====================================
 
-* **[2014-la-county-certified-primary-results](https://github.com/SCPR/data/tree/master/2014-la-county-certified-primary-results)**
+**["When deciding whether to commit to something, if I feel anything less than, 'Wow! That would be amazing! Absolutely! Hell yeah!' - then my answer is no."](https://sivers.org/hellyeah)**
 
-    * **WHAT**: Certified results from LA County for the June 3, 2014 primary.
+While not always an appropriate - or practical - attitude in a newsroom setting, the above-anecdote from Derek Sivers is an important one...
 
-    * **HOW ACQUIRED**: Purchased from the LA County Registrar/Recorder for $54.00
+----
 
-    * **NOTES**: Converted from original .xls files to .csv using csvkit and the following commands.
+So what are common elements of successful projects?
 
-        * Change the file permissions
+----
 
-                chmod -R 777 .
+Each Tuesday we've have a Muddle Huddle to consider the following:
 
-        * Convert .xls to .csv using csvkit
+* What did we accomplish last week? What worked? What didn't?
+* What do we want to accomplish in the week ahead?
+* What did we learn that we didn't know before?
 
-                for file in *.xls ; do in2csv $file > _$file | mv _$file `echo _$file | sed 's/\(.*\.\)xls/\1csv/'` ; done
+We will share this information with the KPCC Regional Desk, Chris Knap, Paul Glickman, Stephen Gregory and the shows.
 
-* **[2014-la-county-general-election-results](https://github.com/SCPR/data/tree/master/2014-la-county-general-election-results)**
+----
 
-    * **WHAT**: General election results from LA County for the Nov. 4, 2014 primary.
+* What we ready to do:
+    * Collaborate on reporting, stories or projects with reporters.
+    * Offer advice on how to request records and data, find and clean datasets and check findings.
+    * Brainstorm how to present findings and data whether in a narrative or visual form.
+    * Recommend data to use to make apples-to-apples comparisons, data sources to shy away from and how to understand limitations.
+    * Request records and data, find and clean datasets and check findings when required.
+    * Offer insight about the things that don't lead to stories and how we do work.
+    * Ask "Who is our audience?", "What do they need?" and "What can we make?"
 
-        * Results for each race available by:
+* What we're not:
+    * A service desk where you drop off a spreadsheet and continue on your way.
+    * The place where you go when you "want a map" for a story.
 
-            * [pre-certified-results](https://github.com/SCPR/data/tree/master/2014-la-county-general-election-results/pre-certified-results)
+Sharing & Showing Our Work
+==========================
 
-                * [results-by-precinct](https://github.com/SCPR/data/tree/master/2014-la-county-general-election-results/pre-certified-results/results-by-precinct)
+* **Projects & News applications**
+    * [News & Data Projects](http://projects.scpr.org/)
+    * [Fire Tracker](http://firetracker.scpr.org/)
+    * [Earthquake Tracker](http://earthquakes.scpr.org/)
 
-    * **HOW ACQUIRED**: Downloaded from the [LA County Registrar/Recorder](http://www.lavote.net/home/voting-elections/election-resources/past-elections/past-election-results#Nov42014)
+* **Code**
+    * [Codebase for KPCC's projects & news applications ](https://github.com/SCPR/static-projects)
+    * [Fire Tracker: KPCC's tool for following & researching California wildfires](https://github.com/SCPR/firetracker)
+    * [Earthquake Tracker: KPCC's tool for following & researching California earthquakes](https://github.com/SCPR/calif-earthquakes)
+    * [Code to create "periodically updated archive of data" published by the city of Los Angeles on its open data portal](https://github.com/SCPR/opendata-la-watchdog)
+    * [Code to query KPCC's content API and return results as a csv formatted for use as timeline](https://github.com/SCPR/timeline-data-generator)
+    * [Repository to house an iterative Django project that will store and provide data for a series of projects dealing with accountability in the political process.](https://github.com/SCPR/accountability-tracker)
 
-    * **NOTES**: Converted from original .xls files to .csv using csvkit and the following commands.
+* **Data**
+    * [Datasets, information and other goodies from KPCC/SCPR](https://github.com/SCPR/data)
 
-        * Change the file permissions
+Mentors & Inspiration
+=====================
 
-                chmod -R 777 .
+These compendium is based largely on the work by Investigative News Network and others, and shares their aim to formalize work and leave a roadmap for others to follow. For their work and inspiration we are thankful.
 
-        * Convert .xls to .csv using csvkit
+* [Investigative News Network](https://github.com/inn/docs)
+* [ProPublica's News App and Data Style Guides](https://github.com/propublica/guides)
+* The NPR Visuals Team's [app template](https://github.com/nprapps/app-template), [coding best practices](https://github.com/nprapps/bestpractices) and [manifesto](http://blog.apps.npr.org/2014/06/04/how-we-work.html)
+* [Guides](https://github.com/newsapps/guides) and [Process Docs](http://blog.apps.chicagotribune.com/2014/03/05/everything-you-ever-wanted-to-know-about-the-news-apps-process/) from The Chicago Tribune's News Apps Team
+* [MinnPost's UI Style Guide](https://github.com/MinnPost/minnpost-styles)
 
-                for file in *.xls ; do in2csv $file > _$file | mv _$file `echo _$file | sed 's/\(.*\.\)xls/\1csv/'` ; done
+Suggestions
+===========
 
-* **[la-county-voter-turnout-historic](https://github.com/SCPR/data/tree/master/la-county-voter-turnout-historic)**
+Contributors
+============
 
-    * **WHAT**: Dates, registration, ballots cast, turnout and source data for midterm primary and general elections in Los Angeles County between 1942 and 2014.
-
-    * **HOW ACQUIRED**: Acquired via [available data](http://apps1.lavote.net/General/ARCHIVES/OFFICIAL_ELECTION_RETURNS/Default.cfm) on the LA County Registrar/Recorder website
-
-    * **NOTES**:
-        * Registered voters not available for elections between 1942 and 1958.
-        * Turnout figures not available for elections between 1942 and 1950; the 1954 midterm primary ; the 1958 midterm primary.
-
-* **[2014-ca-election-tweets](https://github.com/SCPR/data/tree/master/2014-ca-election-tweets)**
-
-    * **WHAT**: Tweets that used the hashtag #CAElection and #CAElections between 8 a.m. on Nov. 4, 2014 and 12:10 a.m. on Nov. 5, 2014.
-
-    * **HOW ACQUIRED**: Pulled using the Twitter API.
+* **[Chris Keller](https://github.com/chrislkeller)**: [@chrislkeller](http://twitter.com/chrislkeller)
+* **[Aaron Mendelson](https://github.com/amendelson)**: [@a_mendelson](https://twitter.com/a_mendelson)
