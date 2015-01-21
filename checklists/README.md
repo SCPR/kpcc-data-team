@@ -4,7 +4,7 @@ Completed Checklists
 While using written checklists can be inefficient they are a valuable way to formalize process and create muscle memory. Here are some we use.
 
 * [Checking Common Data Cleaning & Transformations](/checklists/checking-common-data-cleaning-and-transformations.md)
-* [Helping the newsroom aka Beginning a collaborative project](/checklists/helping-the-newsroom-or-beginning-a-collaborative-project.md)
+* [Helping the newsroom aka Beginning a collaborative project](/checklists/beginning-a-collaborative-project.md)
 * [Launching A Project](/checklists/launching-a-project.md)
 
 Checklists to Create
