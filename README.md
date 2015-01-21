@@ -32,7 +32,7 @@ We will share this information with the KPCC Regional Desk, Chris Knap, Paul Gli
 
 ----
 
-* What we ready to do:
+* What we're ready to do:
     * Collaborate on reporting, stories or projects with reporters.
     * Offer advice on how to request records and data, find and clean datasets and check findings.
     * Brainstorm how to present findings and data whether in a narrative or visual form.
@@ -41,7 +41,7 @@ We will share this information with the KPCC Regional Desk, Chris Knap, Paul Gli
     * Offer insight about the things that don't lead to stories and how we do work.
     * Ask "Who is our audience?", "What do they need?" and "What can we make?"
 
-* What we're not:
+* What we shy away from:
     * A service desk where you drop off a spreadsheet and continue on your way.
     * The place where you go when you "want a map" for a story.
 
