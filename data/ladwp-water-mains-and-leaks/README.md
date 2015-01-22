@@ -2,9 +2,11 @@ ladwp-water-mains-and-leaks
 ===========================
 
 * **WHAT**: Data acquired from the LADWP in 2014. There are three seperate csv files. 
+	
 	*main_leaks_2010_to_partial_2014.csv contains information about leaks
 	*REDACTED_CPRA_Mainlines.csv contains information about mains in the system
 	*And REDACTED_CPRA_TrunkLine.csv contains informaiton about trunks in the system.
+
 The two files were provided with location information redacted. Documentation was provided for the latter two csv files, but not for the leaks csv. Per an LADWP spokeswoman, "pipes larger than 20” in diameter are considered trunklines. Pipes smaller than that are mainlines."
 
 * **HOW ACQUIRED**: Leaks csv was provided in response to a records request. The mains and trunks data were provided in response to questions to LADWP about the status of the system's pipes.
