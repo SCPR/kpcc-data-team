@@ -15,7 +15,7 @@ ladwp-water-mains-and-leaks
     * The solution: earthquake resistant ductile iron pipes (ERDIP). The problem: we don't have any. LADWP spokesperson says "we don't have a statistically significant amount of earthquake resilient pipe at this time." Building with those would make pipe projects 10-20% more expensive.
 
     * The pipes we have now are getting old and breaking. Of the breaks in our dataset, here is when the broken pipes were originally installed. Many of them are from the 1920s
-    ![](/images/year_installed_for_mains_with_leaks.png)
+    [[/images/year_installed_for_mains_with_leaks.png]]
 
     * Below is when all the pipes in the system were installed. Notice that there were big booms of pipe-building the 1920s, and from the 50s through the 70s (the colors here reflect the "likelihood of failure" grade that the DWP gives its pipes. Darker is worse)
     ![](/images/year_installed_by_likelihood_of_failure.png)
