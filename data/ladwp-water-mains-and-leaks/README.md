@@ -20,7 +20,6 @@ ladwp-water-mains-and-leaks
     * Below is when all the pipes in the system were installed. Notice that there were big booms of pipe-building the 1920s, and from the 50s through the 70s (the colors here reflect the "likelihood of failure" grade that the DWP gives its pipes. Darker is worse)
     ![](https://raw.githubusercontent.com/SCPR/kpcc-data-team/master/data/ladwp-water-mains-and-leaks/images/year_installed_by_likelihood_of_failure.png)
 
-
     * The majority of pipes are graded C or worse by the LADWP for their "likelihood of failure". C means "medium likelihood of failure"—and that doesn't even factor in the risks posed by an earthquake.
 
     * Finally, our pipes ain't getting any younger. You can see from this graph that several are approaching the end of their "useful life" (as defined by the DWP). The line here is the end of "useful life". Some are past it, and there are many pipes approaching that line:
