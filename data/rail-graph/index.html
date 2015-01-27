@@ -1,0 +1,51 @@
+ <!DOCTYPE html>
+ <html>
+   <head>
+ 		<script src="http://d3js.org/d3.v3.min.js"></script>
+ 		<script src="http://dimplejs.org/dist/dimple.v2.1.2.min.js"></script>
+   		<style>
+
+      #bigContainer{
+        font-family: sans-serif;
+        font-size: 20px;
+      }
+
+      #text.dimple-axis.dimple-title.dimple-custom-axis-titledimple-axis-x{
+        font-family: sans-serif;
+        font-size: 20px;
+
+      }
+ 		</style>
+   </head>
+   <body>
+<div id="bigContainer">
+HOW LATE R TRAINS
+  <div id="chartContainer">
+    <script type="text/javascript">
+      var svg = dimple.newSvg("#chartContainer", 700, 400);
+      d3.csv("railonly.csv", function (data) {
+        var myChart = new dimple.chart(svg, data);
+        myChart.setBounds(60, 30, 615, 305);
+        var x = myChart.addCategoryAxis("x", "Year");
+        x.addOrderRule("Date");
+        myChart.addMeasureAxis("y", "Percentage of trains that arrived late");
+        var s = myChart.addSeries("Line", dimple.plot.line);
+        s.interpolation = "cardinal";
+        myChart.addLegend(60, 10, 615, 20, "right");
+        myChart.assignColor("Blue", "#0072bb");
+        myChart.assignColor("Gold", "#ffb715");
+        myChart.assignColor("Green", "#6cc06b");
+        myChart.assignColor("Red/Purple", "#ea1d24");
+        myChart.assignColor("EXPO", "#01a4e5");
+        myChart.draw();
+        x.titleShape.text("Year").style("font-size", "13px");
+
+      });
+
+    </script>
+  </div>
+</div>
+</body>
+
+
+</html>
