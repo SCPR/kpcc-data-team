@@ -1,16 +1,16 @@
-In a hurry to get downtown from Hollywood? Hop on the Metro's Red Line trains, which arrive to stations on schedule 99.5% of the time. Don't mind showing up late? Wait for the 2 bus, which pulls up to stops five minutes late -- or worse -- nearly a quarter of the time.
+In a hurry to get downtown from Hollywood? Hop on the Metro's Red Line trains, which arrive at stations on schedule 99.5% of the time. Don't mind showing up late? Wait for the 2 bus, which pulls up to stops five minutes late -- or worse -- nearly a quarter of the time.
 
 One-fifth of Metro's buses close their doors [TK--accurate] late, according to data from the agency covering the last five years. About 5% of buses on Metro's 170 bus lines show up early, and more than 75% of buses show up on time. But the definition of "on time" may surprise riders: buses defined as "on time" can be as many as five minutes late.
 
-Metro's trains glide into stations on time far more often. Since December 2009, more than 99% of trains have arrived on time. Trains have gotten slightly more late in recent years, as the rail system has undergone rapid expansion, and changed the way it tracks late trains. But in 2014, the data show that 99.3% of trains still showed up on schedule -- or within 5 minutes of it.
+Metro's trains glide into stations on time far more often. Since December 2009, more than 99% of trains have arrived on time. Trains have gotten slightly more late in recent years, as the rail system has undergone rapid expansion, and changed the way it tracks late trains. But in 2014, the data show that 99.3% of trains arrived on schedule -- or within 5 minutes of it.
 
-Some lines are more punctual than others (embed graph of rail line lateness). Only 1 in 200 Red and Purple Line trains arrive late (the lines are tracked together; all examples cover th elast five years, unless otherwise noted).
+Some lines are more punctual than others (embed graph of rail line lateness). Only 1 in 200 Red and Purple Line trains arrive late (the lines are tracked together; all examples cover the last five years, unless otherwise noted).
 
 Blue Line trains are four times more likely to show up late. About 1 in 50 of them have, the worst performance in the rail system. Metro spokesman Giancarlo Restreppo said that Blue Line trains has more street-grade crossings than other lines, making them more susceptable to street traffic. The 22-mile Blue Line was the first in the county's modern rail system, opening in 1990.
 
 No bus line is as timely as the Metro's trains. Some are punctual, though. The 901 bus rapid transit line--which ferries commuters from Chatsworth to North Hollywood in its own dedicated lane--showed up within 5 minutes of schedule 94% of the time. The 901 is also known as the Orange Line.
 
-On the other side of the specutrum, the 205 bus--which runs along Western, Vermont and Wilmington from San Pedro to Willowbrook--has made it to stops on schedule about 70% of the time since August 2010. That's the worst of any bus with more than 250,000 stops recorded by the Metro. (EXPLORE OUR INTERACTIVE....)
+On the other side of the specutrum, the 205 bus--its TK-mile line runs along Western, Vermont and Wilmington from San Pedro to Willowbrook--has made it to stops on schedule about 70% of the time since August 2010. That's the worst performance of any bus with more than 250,000 stops recorded by the Metro. (EXPLORE OUR INTERACTIVE....)
 
 Then again, you'd have better luck on the 205 in the summer than in the fall. Over millions of stops tracked in the database, some months emerge as timelier than others for buses.
 
@@ -29,9 +29,9 @@ The data, provided by the Metro in response to a Public Records Act request, tal
 
 The system ignores buses that were more than 20 minutes early or more than an hour late, and the first and last stops are also ignored.
 
-Data collection works differently for trains. When a train arrives more than five minutes late, or is cancelled, an employee at the Rail Operations Control Center makes a paper record. Those records are eventually entered into an electronic databases. According to Restreppo, "we may miss logging one or two delays but it’s a rare occurrence." The collection method changed in September 2011, and now relies less on sometimes inscrutable handwritten notes. 
+Data collection works differently for trains. When a train arrives more than five minutes late, or is cancelled, an employee at the Rail Operations Control Center makes a paper record. Those records are eventually entered into an electronic databases. According to Restreppo, "we may miss logging one or two delays but it’s a rare occurrence." The collection method changed in September 2011, and no longer relies on handwritten notes. 
 
-Restreppo says that the price tag on the Metro's data efforts is unknown.
+Restreppo says that the price tag on the Metro's data collection efforts is unknown.
 
 Richard Anderson, who studies transit at Imperial College London, says that some systems have moved towards "passenger dealy metrics", which gauge the impact of transit service for riders. Buses that are late but fairly regular may not incovenice riders, the thinking goes. The Metro doesn't track such metrics, according to Restreppo.
 
