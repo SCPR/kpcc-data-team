@@ -10,7 +10,7 @@ The light rail Blue Line trains are four times more likely to show up late. Abou
 
 No bus line is as timely as the Metro's trains. Some are punctual, though. The 901 bus rapid transit line--which ferries commuters 20 miles from Chatsworth to North Hollywood in its own dedicated lane--departed from stops within 5 minutes of schedule 94 percent of the time. The 901 is also known as the Orange Line, and it's the only bus route in the system with a dedicated lane. (bus times gif)
 
-On the other side of the specutrum, the 205 bus--which traces 29-mile route along Western, Vermont and Wilmington from San Pedro to Willowbrook--has made it to stops on schedule just 70 percent of the time since August 2010. That's the worst performance of any bus with more than 250,000 stops recorded by the Metro. (EXPLORE OUR INTERACTIVE....)
+On the other side of the specutrum, the 205 bus--which traces 29-mile route along Western, Vermont and Wilmington from San Pedro to Willowbrook--has made it to stops on schedule just 70 percent of the time since August 2010. That's the worst performance of any bus with more than 250,000 stops recorded by the Metro.
 
 Then again, you'd have better luck on the 205 in the summer than in the fall. Over millions of stops tracked in the database, some months emerge as timelier than others for buses.
 
@@ -24,7 +24,7 @@ Here's how some notable routes fare:
 * The 720 bus, which has the highest ridership of any route, is one of the latest in the system, departing from stops late nearly 30 percent of the time.
 * Buses speed up on highways. The Silver Line uses express lanes, and stays timely (17.6 percent late). The 577 uses HOV lanes, arriving late 18.7 percent of the time.
 
-Buses have gotten slightly more timely in recent years, according to the data. 20.1 percent of the trips tracked by the the Metro in 2012 were classified as late arrivals. In 2013, that number fell to 19.2 percent and in 2014 it was 19.1 percent. The data tracks millions of stops each year, so a even the 0.1 percent improvement in 2014 meant that buses reached stops on schedule an additional 146,000 times.
+Buses have gotten slightly more timely in recent years, according to the data. 20.1 percent of the trips tracked by the the Metro in 2012 were classified as late arrivals. In 2013, that number fell to 19.2 percent and in 2014 it was 19.1 percent. The data tracks millions of stops each year, so a even the 0.1 percent improvement in 2014 meant that buses were on schedule an additional 146,000 times.
 
 The data, provided by the Metro in response to a Public Records Act request, tallies 74,425,377 stops by its buses and trains across Los Angeles County, from December 2011 to November 2014. In recent years, the Metro has outfitted buses with equipment that tracks when and were they open and shut their doors. Each night, that data is downloaded from buses and matched to bus schedules to determine how many departed early, on-time and late. 
 
@@ -38,6 +38,11 @@ Richard Anderson, who studies transit at Imperial College London, says that some
 
 It's difficult to compare the on-time performance of Los Angeles' transit system to others around the country. The Bureau of Transportation Statistics doesn't collect on-time transit performance from transit agencies. Few of those agencies publicize their numbers. And methodlogies and data collection can vary widely from system to system, making them apples-to-oranges comparisons.
 
-Data from the Orange County Transportation Authority show that about 87 percent of buses arrive to stops on-time. The agency also tracks if buses arrive within five minutes of schedule, but is much smaller than Los Angeles County's Metro, ferrying far fewer passengers on about 100 fewer routes.
+About 87 percent of buses arrive to stops on-time in Orange County, according to figures from the Orange County Transportation Authority's. The agency also tracks if buses arrive within five minutes of schedule, but is much smaller than Los Angeles County's Metro, ferrying far fewer passengers on about 100 fewer routes.
 
-The Metro [surveyed other big-city transit systems in 2008](http://media.metro.net/board/Items/2008/06_june/20080618F&BItem18.pdf), and found that it performed the worst of any agency surveyed, which included Chicago, New York and Seattle. Metro's own-time performance improved between 2010 to 2014, according to its own data.
+The Metro [surveyed other big-city transit systems in 2008](http://media.metro.net/board/Items/2008/06_june/20080618F&BItem18.pdf), and found that its buses were the least punctual of any agency surveyed, which included Chicago, New York and Seattle. Metro's own-time performance improved between 2010 to 2014, according to its own data.
+
+For story we also have
+* A graph of rail times
+* An interactive (not yet built)
+* A gif of the best/worst bus lines
