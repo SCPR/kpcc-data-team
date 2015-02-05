@@ -6,20 +6,16 @@
    		<style>
 
       #bigContainer{
-        font-family: sans-serif;
-        font-size: 20px;
+        font-family: "proxima-nova-condensed", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 21px;
       }
 
-      #text.dimple-axis.dimple-title.dimple-custom-axis-titledimple-axis-x{
-        font-family: sans-serif;
-        font-size: 20px;
 
-      }
  		</style>
    </head>
    <body>
 <div id="bigContainer">
-HOW LATE R TRAINS
+How often are Metro's trains late?
   <div id="chartContainer">
     <script type="text/javascript">
       var svg = dimple.newSvg("#chartContainer", 700, 400);
@@ -39,7 +35,6 @@ HOW LATE R TRAINS
         myChart.assignColor("EXPO", "#01a4e5");
         myChart.draw();
         x.titleShape.text("Year").style("font-size", "13px");
-
       });
 
     </script>
