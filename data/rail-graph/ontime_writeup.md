@@ -19,10 +19,10 @@ For example, less than a fifth of all Metro buses were late in July (17.5 percen
 Restreppo says there's a reason for that. "October and September late rates are seasonally high due to increased ridership as most schools are back in session. During the Summer, ridership decreases. It is easier to adhere to a schedule if there are less patrons." He cites traffic and heavy loads as the biggest challenges in keeping buses running on time.
 
 Here's how some notable routes fare:
-* The Metro's longest route is the 460, which runs 40 miles from Downtown Los Angeles to Disneyland. The 460 departed from stops late 25.4 percent of the time.
-* The shortest route is the 220, which runs along Robertson Blvd. from West Hollywood to Culver City. The 220 ran late 22.5 percent of the time.
-* The 720 bus, which has the highest ridership of any route, is one of the latest in the system, departing from stops late nearly 30 percent of the time.
-* Buses speed up on highways. The Silver Line uses express lanes, and stays timely (17.6 percent late). The 577 uses HOV lanes, arriving late 18.7 percent of the time.
+* The 460, Metro's longest route, was late 25.4 percent of the time. Its 40 mile route stretches from Downtown Los Angeles to Disneyland.
+* The 220, Metro's shortest route, was late 22.5 percent of the time. The line runs along Robertson Blvd. from West Hollywood to Culver City.
+* The 720, Metro's most-boarded route, was late 30 percent of the time. The line runs from Santa Monica to Commerce, and is one of the worst-performing routes in the system.
+* Two buses zip along the highways in lanes that aren't bus-only. The Silver Line uses express lanes, and stays timely (17.6 percent late). The 577 uses HOV lanes, arriving late 18.7 percent of the time.
 
 Buses have gotten slightly more timely in recent years, according to the data. 20.1 percent of the trips tracked by the the Metro in 2012 were classified as late arrivals. In 2013, that number fell to 19.2 percent and in 2014 it was 19.1 percent. The data tracks millions of stops each year, so a even the 0.1 percent improvement in 2014 meant that buses were on schedule an additional 146,000 times.
 
