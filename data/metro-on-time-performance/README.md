@@ -7,17 +7,11 @@ This is the graph of rail lines and how often they're late.
 # ontime_writeup.md
 Here's a sketch of a story that can go along with the interactive, explaining the data.
 
-# railonly.csv
-This is the data for index.html.
-
 # ontime_performance_orig_documentation_orig
 This is an excel file containing the data and documentation provided by the Metro
 
 #OCTA_summary.csv
 Summary statistics about on-time transit performance provided by the Orange County Transportation Authority.
-
-# bus.gif
-Gif showing the 5 bus lines (with over 250,000 stops recorded in the Metro data) that are most and least often late.
 
 # OTP_FY11_15
 Excel file provided by the Orange County Transportation Authority. Contains data about how often bus lines were late, broken down by month. The red text is not meaningful, according to an agency spokesman.
