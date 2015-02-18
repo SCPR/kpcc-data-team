@@ -1,7 +1,7 @@
 ladwp-water-mains-and-leaks
 ===========================
 
-What
+Data
 ====
 
 * Data acquired from the LADWP in 2014. There are three seperate csv files.
@@ -41,10 +41,14 @@ Working With The Data
     * You will want to access the raw data files in the repository. The links are below:
 
         * [```main_leaks_2010_to_partial_2014.csv```](https://raw.githubusercontent.com/SCPR/kpcc-data-team/master/data/ladwp-water-mains-and-leaks/documented-leaks/main_leaks_2010_to_partial_2014.csv)
+            * 1 header row + 5,238 records
+            * spans Jan. 2010 to Nov. 2014
 
-        * [```REDACTED_CPRA_Mainlines.csv contains```](https://raw.githubusercontent.com/SCPR/kpcc-data-team/master/data/ladwp-water-mains-and-leaks/documented-leaks/REDACTED_CPRA_Mainlines.csv) - 1 header row + 261,501 records
+        * [```REDACTED_CPRA_Mainlines.csv contains```](https://raw.githubusercontent.com/SCPR/kpcc-data-team/master/data/ladwp-water-mains-and-leaks/documented-leaks/REDACTED_CPRA_Mainlines.csv)
+            * 1 header row + 261,501 records
 
-        * [```REDACTED_CPRA_TrunkLine.csv```](https://raw.githubusercontent.com/SCPR/kpcc-data-team/master/data/ladwp-water-mains-and-leaks/documented-leaks/REDACTED_CPRA_TrunkLine.csv) - 1 header row + 13,561 records
+        * [```REDACTED_CPRA_TrunkLine.csv```](https://raw.githubusercontent.com/SCPR/kpcc-data-team/master/data/ladwp-water-mains-and-leaks/documented-leaks/REDACTED_CPRA_TrunkLine.csv)
+            * 1 header row + 13,561 records
 
     * Using the link, you will use the ```curl``` command to download the data and output it to a file.
 
@@ -59,3 +63,6 @@ Working With The Data
                 curl https://raw.githubusercontent.com/SCPR/kpcc-data-team/master/data/ladwp-water-mains-and-leaks/documented-leaks/REDACTED_CPRA_TrunkLine.csv > REDACTED_CPRA_TrunkLine.csv
 
     * You're now ready to work with these file in Excel, R or your application of choice.
+
+Findings
+========
