@@ -3,7 +3,9 @@ LADWP water main leaks by council district
 
 * No surprise that two of the oldest parts of the city have had the most water main breaks. When grouped by city council district, Council District 4 - which is up in this spring's primary - had the most. Council district 5 came in right behind. Both in are older parts of the city, and are two larger council districts.
 
-![](https://raw.githubusercontent.com/SCPR/kpcc-data-team/master/data/ladwp-water-mains-and-leaks/findings/ladwp_leaks_by_council_district/ladwp_leaks_by_council_district.png)
+![](https://raw.githubusercontent.com/SCPR/kpcc-data-team/master/data/ladwp-water-mains-and-leaks/findings/ladwp_leaks_by_council_district/ladwp_leaks_by_council_district_all.png)
+
+![](https://raw.githubusercontent.com/SCPR/kpcc-data-team/master/data/ladwp-water-mains-and-leaks/findings/ladwp_leaks_by_council_district/ladwp_leaks_by_council_district_4.png)
 
 * The data contains 5,238 leaks recorded by DWP, and spans Jan. 2010 to Nov. 2014. About 345 records could not be plotted against the council districts.
 
