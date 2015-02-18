@@ -6,13 +6,17 @@ What
 
 * Data acquired from the LADWP in 2014. There are three seperate csv files.
 
-	* [```main_leaks_2010_to_partial_2014.csv```](https://github.com/SCPR/kpcc-data-team/blob/master/data/ladwp-water-mains-and-leaks/documented-leaks/main_leaks_2010_to_partial_2014.csv) contains information about leaks
+	* [```main_leaks_2010_to_partial_2014.csv```](https://github.com/SCPR/kpcc-data-team/blob/master/data/ladwp-water-mains-and-leaks/documented-leaks/main_leaks_2010_to_partial_2014.csv) contains information about leaks.
+        * 1 header row + 5,238 records
+        * spans Jan. 2010 to Nov. 2014
 
-	* [```REDACTED_CPRA_Mainlines.csv contains```](https://github.com/SCPR/kpcc-data-team/blob/master/data/ladwp-water-mains-and-leaks/all_mains_trunks/REDACTED_CPRA_Mainlines.csv) information about mains in the system
+	* [```REDACTED_CPRA_Mainlines.csv```](https://github.com/SCPR/kpcc-data-team/blob/master/data/ladwp-water-mains-and-leaks/all_mains_trunks/REDACTED_CPRA_Mainlines.csv) contains information about mains in the system
+        * 1 header row + 261,501 records
 
 	* And [```REDACTED_CPRA_TrunkLine.csv```](https://github.com/SCPR/kpcc-data-team/blob/master/data/ladwp-water-mains-and-leaks/all_mains_trunks/REDACTED_CPRA_TrunkLine.csv) contains informaiton about trunks in the system.
+        * 1 header row + 13,561 records
 
-* The latter two files were provided with location information redacted. Documentation was provided for the latter two csv files, but not for the leaks csv. Per an LADWP spokeswoman, "pipes larger than 20” in diameter are considered trunklines. Pipes smaller than that are mainlines."
+* ```REDACTED_CPRA_Mainlines.csv``` and ```REDACTED_CPRA_TrunkLine.csv``` were provided with location information redacted. Documentation was provided for the latter two csv files, but not for the leaks csv. Per an LADWP spokeswoman, "pipes larger than 20” in diameter are considered trunklines. Pipes smaller than that are mainlines."
 
 How Acquired
 ============
@@ -38,9 +42,9 @@ Working With The Data
 
         * [```main_leaks_2010_to_partial_2014.csv```](https://raw.githubusercontent.com/SCPR/kpcc-data-team/master/data/ladwp-water-mains-and-leaks/documented-leaks/main_leaks_2010_to_partial_2014.csv)
 
-        * [```REDACTED_CPRA_Mainlines.csv contains```](https://raw.githubusercontent.com/SCPR/kpcc-data-team/master/data/ladwp-water-mains-and-leaks/documented-leaks/REDACTED_CPRA_Mainlines.csv)
+        * [```REDACTED_CPRA_Mainlines.csv contains```](https://raw.githubusercontent.com/SCPR/kpcc-data-team/master/data/ladwp-water-mains-and-leaks/documented-leaks/REDACTED_CPRA_Mainlines.csv) - 1 header row + 261,501 records
 
-        * [```REDACTED_CPRA_TrunkLine.csv```](https://raw.githubusercontent.com/SCPR/kpcc-data-team/master/data/ladwp-water-mains-and-leaks/documented-leaks/REDACTED_CPRA_TrunkLine.csv)
+        * [```REDACTED_CPRA_TrunkLine.csv```](https://raw.githubusercontent.com/SCPR/kpcc-data-team/master/data/ladwp-water-mains-and-leaks/documented-leaks/REDACTED_CPRA_TrunkLine.csv) - 1 header row + 13,561 records
 
     * Using the link, you will use the ```curl``` command to download the data and output it to a file.
 
