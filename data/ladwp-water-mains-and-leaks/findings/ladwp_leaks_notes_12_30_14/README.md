@@ -86,8 +86,7 @@ Reproducing these graphs (2/18/15)
 
 * **[Useful life left](https://github.com/SCPR/kpcc-data-team/blob/master/data/ladwp-water-mains-and-leaks/findings/ladwp_leaks_notes_12_30_14/images/remaining_years_of_useful_life.png)**
 
-* Can use same data frame as first chart, but here have as different name for clarity
-    * add years beyond useful life column and T/F
+* Can use same data frame as first chart, but here have as different name for clarity. add years beyond useful life column and T/F
 
         REDACTED.CPRAMainlines$BEYONDUSEFUL <- REDACTED.CPRAMainlines$AGE - REDACTED.CPRAMainlines$UL
 
