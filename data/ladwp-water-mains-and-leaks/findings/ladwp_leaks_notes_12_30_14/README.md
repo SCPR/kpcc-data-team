@@ -30,71 +30,71 @@ Reproducing these graphs (2/18/15)
 
 * I used the statistical program R. You can reproduce these graphs yourself using the data in this repo.
 
-* used Main_Leaks_2010_to_Current_date file with TWENTIES column
+    * used Main_Leaks_2010_to_Current_date file with TWENTIES column
 
-```mains <- Main_Leaks_2010_to_Current_date```
+            mains <- Main_Leaks_2010_to_Current_date
 
-* turned TWENTIES vector into factors...necessary for this chart
+    * turned TWENTIES vector into factors...necessary for this chart
 
-```mains$TWENTIES <- as.factor(mains$TWENTIES)```
+            mains$TWENTIES <- as.factor(mains$TWENTIES)
 
-* [When broken pipes were installed](https://github.com/SCPR/kpcc-data-team/blob/master/data/ladwp-water-mains-and-leaks/findings/ladwp_leaks_notes_12_30_14/images/year_installed_for_mains_with_leaks.png)
+* **[When broken pipes were installed](https://github.com/SCPR/kpcc-data-team/blob/master/data/ladwp-water-mains-and-leaks/findings/ladwp_leaks_notes_12_30_14/images/year_installed_for_mains_with_leaks.png)**
 
-* plotted chart using ggplot library, which I make use of again later
+    * plotted chart using ggplot library, which I make use of again later
 
-```library(ggplot2)```
+            library(ggplot2)
 
-```hist_color <- ggplot(mains, aes(x=YR_INST, fill=TWENTIES)) + geom_bar(binwidth = 1) + xlim(1880,2015)  + scale_fill_manual(values = c("0" = "#5ABBDC", "1" = "#2788A9")) + ggtitle("When L.A.'s broken pipes were installed") + ylab("Number of leaks") + xlab("Year pipe was installed (1920s are in dark blue)") + theme(legend.position = "none")```
+            hist_color <- ggplot(mains, aes(x=YR_INST, fill=TWENTIES)) + geom_bar(binwidth = 1) + xlim(1880,2015)  + scale_fill_manual(values = c("0" = "#5ABBDC", "1" = "#2788A9")) + ggtitle("When L.A.'s broken pipes were installed") + ylab("Number of leaks") + xlab("Year pipe was installed (1920s are in dark blue)") + theme(legend.position = "none")
 
-```plot(hist_color)```
+            plot(hist_color)
 
 ----
 
-* [Likelihood of failure](https://github.com/SCPR/kpcc-data-team/blob/master/data/ladwp-water-mains-and-leaks/findings/ladwp_leaks_notes_12_30_14/images/year_installed_by_likelihood_of_failure.png)
+* **[Likelihood of failure](https://github.com/SCPR/kpcc-data-team/blob/master/data/ladwp-water-mains-and-leaks/findings/ladwp_leaks_notes_12_30_14/images/year_installed_by_likelihood_of_failure.png)**
 
-```REDACTED.CPRAMainlines <- read.csv("~/Desktop/projects/_inactive/watermain/data/LADWP_pipes/all_mains_trunks/REDACTED CPRAMainlines.csv")```
+        REDACTED.CPRAMainlines <- read.csv("~/Desktop/projects/_inactive/watermain/data/LADWP_pipes/all_mains_trunks/REDACTED CPRAMainlines.csv")
 
-```REDACTED.CPRATrunkLine <- read.csv("~/Desktop/projects/_inactive/watermain/data/LADWP_pipes/all_mains_trunks/REDACTED CPRATrunkLine.csv")```
+        REDACTED.CPRATrunkLine <- read.csv("~/Desktop/projects/_inactive/watermain/data/LADWP_pipes/all_mains_trunks/REDACTED CPRATrunkLine.csv")
 
 * rename columns for user friendliness
 
-```colnames(REDACTED.CPRAMainlines)[33] <- "Grade"```
+        colnames(REDACTED.CPRAMainlines)[33] <- "Grade"
 
-```colnames(REDACTED.CPRATrunkLine)[17] <- "Grade"```
+        colnames(REDACTED.CPRATrunkLine)[17] <- "Grade"
 
 * reformat and then add mains and trunks together.
 
-```trunks_lof <- list(REDACTED.CPRATrunkLine$PIPE_PLR_Y,REDACTED.CPRATrunkLine$Grade)```
+        trunks_lof <- list(REDACTED.CPRATrunkLine$PIPE_PLR_Y,REDACTED.CPRATrunkLine$Grade)
 
-```mains_lof <- list(REDACTED.CPRAMainlines$PIPE_PLR_YEAR,REDACTED.CPRAMainlines$Grade)```
+        mains_lof <- list(REDACTED.CPRAMainlines$PIPE_PLR_YEAR,REDACTED.CPRAMainlines$Grade)
 
-```mains_df <- as.data.frame(mains_lof)```
+        mains_df <- as.data.frame(mains_lof)
 
-```trunks_df <- as.data.frame(trunks_lof)```
+        trunks_df <- as.data.frame(trunks_lof)
 
-```colnames(mains_df) <- c("Year", "Grade")```
+        colnames(mains_df) <- c("Year", "Grade")
 
-```colnames(trunks_df) <- c("Year", "Grade")```
+        colnames(trunks_df) <- c("Year", "Grade")
 
-```lof_df <- rbind(mains_df, trunks_df)```
+        lof_df <- rbind(mains_df, trunks_df)
 
 * plot it
 
-```ggplot(lof_df, aes(x=Year, fill=Grade)) + geom_bar(binwidth = 1) + scale_fill_manual(values = c("A" = "#ADDDED", "B" = "#6FC4E0", "C" = "#31aad3", "D" = "#227794", "F" = "#144454")) + xlim(1880,2015) + ggtitle("Grading the likelihood of failure of LADWP's pipes") + ylab("Number of pipes") + xlab("Year pipes were installed")```
+        ggplot(lof_df, aes(x=Year, fill=Grade)) + geom_bar(binwidth = 1) + scale_fill_manual(values = c("A" = "#ADDDED", "B" = "#6FC4E0", "C" = "#31aad3", "D" = "#227794", "F" = "#144454")) + xlim(1880,2015) + ggtitle("Grading the likelihood of failure of LADWP's pipes") + ylab("Number of pipes") + xlab("Year pipes were installed")
 
 ----
 
-* [Useful life left](https://github.com/SCPR/kpcc-data-team/blob/master/data/ladwp-water-mains-and-leaks/findings/ladwp_leaks_notes_12_30_14/images/remaining_years_of_useful_life.png)
+* **[Useful life left](https://github.com/SCPR/kpcc-data-team/blob/master/data/ladwp-water-mains-and-leaks/findings/ladwp_leaks_notes_12_30_14/images/remaining_years_of_useful_life.png)**
 
 * Can use same data frame as first chart, but here have as different name for clarity
     * add years beyond useful life column and T/F
 
-```REDACTED.CPRAMainlines$BEYONDUSEFUL <- REDACTED.CPRAMainlines$AGE - REDACTED.CPRAMainlines$UL```
+        REDACTED.CPRAMainlines$BEYONDUSEFUL <- REDACTED.CPRAMainlines$AGE - REDACTED.CPRAMainlines$UL
 
-```REDACTED.CPRAMainlines$lifeleft <- REDACTED.CPRAMainlines$BEYONDUSEFUL <= 0```
+        REDACTED.CPRAMainlines$lifeleft <- REDACTED.CPRAMainlines$BEYONDUSEFUL <= 0
 
-* plot
+* plot it
 
-```beyond_hist <- ggplot(REDACTED.CPRAMainlines, aes(x=BEYONDUSEFUL, fill=lifeleft)) + geom_bar(binwidth = 1) + xlim(-125,100) + scale_fill_manual(values = c("TRUE" = "#6FC4E0", "FALSE" = "#227794")) + ggtitle("How close are LADWP's pipes to the end of their 'useful life'?") + ylab("Number of pipes") + xlab("Years beyond useful life. Below 0 (light blue) indicates more years of useful life remain") + theme(legend.position = "none")```
+        beyond_hist <- ggplot(REDACTED.CPRAMainlines, aes(x=BEYONDUSEFUL, fill=lifeleft)) + geom_bar(binwidth = 1) + xlim(-125,100) + scale_fill_manual(values = c("TRUE" = "#6FC4E0", "FALSE" = "#227794")) + ggtitle("How close are LADWP's pipes to the end of their 'useful life'?") + ylab("Number of pipes") + xlab("Years beyond useful life. Below 0 (light blue) indicates more years of useful life remain") + theme(legend.position = "none")
 
-```plot(beyond_hist)```
+        plot(beyond_hist)
