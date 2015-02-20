@@ -1,8 +1,6 @@
 ## Visualizing information
 
-Charts can be an effective and engaging way of displaying quantitative information. They can also be [total garbage](http://viz.wtf/).
-
-How can we make sure our charts are on the right side of [the thin line between clever and stupid](https://www.youtube.com/watch?v=wtXkD1BC564)?
+Charts can be an effective and engaging way of displaying quantitative information. They can also be [total garbage](http://viz.wtf/). How can we make sure our charts stay on the right side of [the thin line between clever and stupid](https://www.youtube.com/watch?v=wtXkD1BC564)?
 
 Here are some general principles we will keep in mind in making charts.
 
