@@ -2,7 +2,24 @@
 
 Charts can be an effective and engaging way of displaying quantitative information. They can also be [total garbage](http://viz.wtf/). How can we make sure our charts stay on the right side of [the thin line between clever and stupid](https://www.youtube.com/watch?v=wtXkD1BC564)?
 
-Here are some general principles we will keep in mind in making charts.
+Below are general guidelines, along with tools we use and use cases for those tools.
+
+## General charting guidelines
+**Colors**
+**Color schemes**
+**Fonts**
+**Font size**
+
+## General principles
+-- Collaborate on reporting, stories or projects with reporters.
+-- Offer advice on how to request records and data, find and clean datasets and check findings.
+-- Brainstorm how to present findings and data whether in a narrative or visual form.
+-- Recommend data to use to make apples-to-apples comparisons, data sources to shy away from and how to understand limitations.
+-- Request records and data, find and clean datasets and check findings when required.
+-- Offer insight about the things that don't lead to stories and how we do work.
+-- Ask "Who is our audience?", "What do they need?" and "What can we make?"
+-- Don't get swept away by [the wave of bullshit p.r. data](http://www.niemanlab.org/2014/12/a-wave-of-p-r-data/)
+-- [Humanize the data](https://source.opennews.org/en-US/learning/connecting-dots/)
 
 ## Chartbuilder
 KPCC's [chartbuilder tool](http://projects.scpr.org/internal/tools/kpcc-chartbuilder/), adapted [from Quartz](http://quartz.github.io/Chartbuilder/), quickly makes four simple types of charts: line, column, bar grid and scatter.
@@ -22,7 +39,7 @@ Use cases:
 - Data team: Effective tool for many visualizations.
 
 ## R
-The [statistical program R](http://www.r-project.org/) can visualize large, complex datasets. It's something the KPCC data team uses internally in analyzing data.
+The [open source programming language R](http://www.r-project.org/) can visualize large, complex datasets. It's something the KPCC data team uses internally in analyzing data.
 
 Those visualizations can be adapted for publication. Packages like [ggplot2](http://ggplot2.org/) and [ggthemes](https://github.com/jrnold/ggthemes) can be used to get those images ready for primetime. We recently [featured R visualizations in a story](http://www.scpr.org/news/2015/02/18/49905/water-main-break-submerges-vehicles-in-hollywood/) for the first time.
 
@@ -35,10 +52,10 @@ Standards for our R visualizations are a work in progress. Those can be found he
 **Drawbacks** 
 - Static images
 - Legends are tricky
-- Steep learning curve; only 2 people in news room have any familiarity with R
+- Steep learning curve
 
 Use cases:
-- Data team: Effective tool for complex, customized visualizations.
+- Data team: tool for complex, customized visualizations.
 
 
 ## Interactive charting
@@ -46,7 +63,7 @@ Some stories and data sets benefit from an interactive treatment, allowing users
 
 There are myriad options out there for creative interactive charts. In creating an interactive—especially from scratch—we will be mindful of the amount of time required. Creating a one-off for every project isn't possible, but some of those one-offs can become models that we can plug new data into for new stories.
 
-Advantages and disadvantages are highly case-specific to the chart and code behind it.
+Advantages and disadvantages are highly case-specific to the chart and code behind it. Those are broken down below.
 
 Chartist
 --------
