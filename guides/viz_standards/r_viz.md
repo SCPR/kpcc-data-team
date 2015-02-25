@@ -6,12 +6,10 @@ The [statistical program R](http://www.r-project.org/) can visualize large, comp
 - Font
 - Font size
 - Legends
-- Chart types/gallery/code examples
 
-## Improvements
-Tools exist to make web-friendly, interactive versions of R plots. A few of these are featured on [htmlwidgets for R](http://www.htmlwidgets.org/showcase_leaflet.html), including time series and scatterplots. [Shiny](http://shiny.rstudio.com/) is another option. To my knowledge, neither features responsive charting.
+##Chart types
 
-## Histogram
+### Histogram
 This is the code we used to visualize the likelihood of failure in LADWP pipes, as assessed by the department itself. This is a complicated example; elements could be stripped away from the code to produce a simpler graph (i.e. one without colors). I recommend avoiding 'xlim' (and its cousin) 'ylim' as a rule, but in this case it was helpful to exclude outliers.
 
 It draws on the ggplot2 library, [documentation for which can be found here](http://docs.ggplot2.org/current/).
@@ -24,4 +22,6 @@ For good measure, here is a code for a further customized chart:
 
 ```ggplot(lof_df, aes(x=Year, fill=Grade)) + geom_bar(binwidth = 1) + scale_fill_manual(values = c("A" = "#ADDDED", "B" = "#6FC4E0", "C" = "#31aad3", "D" = "#227794", "F" = "#144454")) + xlim(1880,2015) + ggtitle("Grading the likelihood of failure of LADWP's pipes") + ylab("Number of pipes") + xlab("Year pipes were installed") + theme(text = element_text(size=20), axis.text.x = element_text(angle=90, vjust=1))```
 
+## Future Improvements
+Tools exist to make web-friendly, interactive versions of R plots. A few of these are featured on [htmlwidgets for R](http://www.htmlwidgets.org/showcase_leaflet.html), including time series and scatterplots. [Shiny](http://shiny.rstudio.com/) is another option. To my knowledge, neither features responsive charting.
 
