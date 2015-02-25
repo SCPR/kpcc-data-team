@@ -1,12 +1,15 @@
 ## Visualizing information with R
 The [statistical program R](http://www.r-project.org/) can visualize large, complex datasets. It's something the KPCC data team uses internally in analyzing data, and that we've used on our website before.
 
-## Guidelines:
+## Guidelines
 - Colors
 - Font
 - Font size
 - Legends
 - Chart types/gallery/code examples
+
+## Improvements
+Tools exist to make web-friendly, interactive versions of R plots. A few of these are featured on [htmlwidgets for R](http://www.htmlwidgets.org/showcase_leaflet.html), including time series and scatterplots. [Shiny](http://shiny.rstudio.com/) is another option. To my knowledge, neither features responsive charting.
 
 ## Histogram
 This is the code we used to visualize the likelihood of failure in LADWP pipes, as assessed by the department itself. This is a complicated example; elements could be stripped away from the code to produce a simpler graph (i.e. one without colors). I recommend avoiding 'xlim' (and its cousin) 'ylim' as a rule, but in this case it was helpful to exclude outliers.

@@ -1,25 +1,35 @@
 ## Visualizing information
 
-Charts can be an effective and engaging way of displaying quantitative information. They can also be [total garbage](http://viz.wtf/). How can we make sure our charts stay on the right side of [the thin line between clever and stupid](https://www.youtube.com/watch?v=wtXkD1BC564)?
+Charts can be an effective and engaging way of displaying quantitative information. They can also be [total garbage](http://viz.wtf/). How can we make sure our charts fall on the right side of [the thin line between clever and stupid](https://www.youtube.com/watch?v=wtXkD1BC564)?
 
 Below are general guidelines, along with tools we use and use cases for those tools.
 
 ## General charting guidelines
-**Colors**
-**Color schemes**
-**Fonts**
+- Colors
+	- Blue: #31aad3
+	- Orange: #f17b21
+- Color schemes**
+ 	- Here's a range of five blues, with our blue in the middle: "#ADDDED", "#6FC4E0", #31aad3", #227794", #144454"
+- Fonts
+	- Used in stories for <h2> tags: font-family: "merriweatherbold", "Baskerville", "Garamond", "Cambria", Georgia, serif;
+	- Used in stories for main text: "font-family: "merriweatherregular", "Baskerville", "Garamond", "Cambria", Georgia, serif;"
+	- Used in stories as title: font-family: "freight-sans-pro", "Avenir Next", "Avenir", "Lucida Grande", "Corbel", "Tahoma", Arial, sans-serif;
+	- Projects titles: font-family: proxima-nova, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	- Projects description: font-family: proxima-nova, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+
 **Font size**
 
 ## General principles
--- Collaborate on reporting, stories or projects with reporters.
--- Offer advice on how to request records and data, find and clean datasets and check findings.
--- Brainstorm how to present findings and data whether in a narrative or visual form.
--- Recommend data to use to make apples-to-apples comparisons, data sources to shy away from and how to understand limitations.
--- Request records and data, find and clean datasets and check findings when required.
--- Offer insight about the things that don't lead to stories and how we do work.
--- Ask "Who is our audience?", "What do they need?" and "What can we make?"
--- Don't get swept away by [the wave of bullshit p.r. data](http://www.niemanlab.org/2014/12/a-wave-of-p-r-data/)
--- [Humanize the data](https://source.opennews.org/en-US/learning/connecting-dots/)
+- Collaborate on reporting, stories or projects with reporters.
+- Offer advice on how to request records and data, find and clean datasets and check findings.
+- Brainstorm how to present findings and data whether in a narrative or visual form.
+- Recommend data to use to make apples-to-apples comparisons, data sources to shy away from and how to understand limitations.
+- Request records and data, find and clean datasets and check findings when required.
+- Offer insight about the things that don't lead to stories and how we do work.
+- Ask "Who is our audience?", "What do they need?" and "What can we make?"
+- Don't get swept away by [the wave of bullshit p.r. data](http://www.niemanlab.org/2014/12/a-wave-of-p-r-data/)
+- [Humanize the data](https://source.opennews.org/en-US/learning/connecting-dots/)
 
 ## Chartbuilder
 KPCC's [chartbuilder tool](http://projects.scpr.org/internal/tools/kpcc-chartbuilder/), adapted [from Quartz](http://quartz.github.io/Chartbuilder/), quickly makes four simple types of charts: line, column, bar grid and scatter.
