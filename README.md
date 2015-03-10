@@ -74,6 +74,7 @@ These compendium is based largely on the work by Investigative News Network and 
 * The NPR Visuals Team's [app template](https://github.com/nprapps/app-template), [coding best practices](https://github.com/nprapps/bestpractices) and [manifesto](http://blog.apps.npr.org/2014/06/04/how-we-work.html)
 * [Guides](https://github.com/newsapps/guides) and [Process Docs](http://blog.apps.chicagotribune.com/2014/03/05/everything-you-ever-wanted-to-know-about-the-news-apps-process/) from The Chicago Tribune's News Apps Team
 * [MinnPost's UI Style Guide](https://github.com/MinnPost/minnpost-styles)
+* Noah Veltman's [Principles for making things for the web](https://github.com/veltman/principles/blob/master/README.md)
 
 Suggestions
 ===========
