@@ -1,0 +1,56 @@
+{
+    "release": {
+        "id": "acs2013_5yr",
+        "name": "ACS 2013 5-year",
+        "years": "2009-2013"
+    },
+    "tables": {
+        "B25034": {
+            "title": "Year Structure Built",
+            "universe": "Housing Units",
+            "denominator_column_id": "B25034001",
+            "columns": {
+                "B25034001": {
+                    "name": "Total:",
+                    "indent": 0
+                },
+                "B25034002": {
+                    "name": "Built 2010 or later",
+                    "indent": 1
+                },
+                "B25034003": {
+                    "name": "Built 2000 to 2009",
+                    "indent": 1
+                },
+                "B25034004": {
+                    "name": "Built 1990 to 1999",
+                    "indent": 1
+                },
+                "B25034005": {
+                    "name": "Built 1980 to 1989",
+                    "indent": 1
+                },
+                "B25034006": {
+                    "name": "Built 1970 to 1979",
+                    "indent": 1
+                },
+                "B25034007": {
+                    "name": "Built 1960 to 1969",
+                    "indent": 1
+                },
+                "B25034008": {
+                    "name": "Built 1950 to 1959",
+                    "indent": 1
+                },
+                "B25034009": {
+                    "name": "Built 1940 to 1949",
+                    "indent": 1
+                },
+                "B25034010": {
+                    "name": "Built 1939 or earlier",
+                    "indent": 1
+                }
+            }
+        }
+    }
+}
