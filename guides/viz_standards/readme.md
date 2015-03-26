@@ -99,6 +99,19 @@ Use cases:
 
 ## Maps/gifs/Data table
 
+### Interactive maps
+
+### Static maps/gifs
+A couple recent stories have featured a static map (to indicate the radius that a study covered) and a gif (to display 10 different bus lines)
+
+For both, I exported images from QGIS, using the Stamen Terrain layer as the background. I like that particular Stamen map as it does a nice job of indentifying cities and neighborhoods, which hopefully helps the user orient him/herself.
+
+
+
+
+
+
+
 
 
 
