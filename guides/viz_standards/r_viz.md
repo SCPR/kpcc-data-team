@@ -81,7 +81,7 @@ The text is on the small side. The font doesn't look like the rest of the site. 
 	hist <- ggplot(mains, aes(x=PIPE_PLR_YEAR, fill=Grade)) + geom_bar(binwidth = 1) + xlim(1880,2015) + scale_fill_manual(values = c("A" = "#ADDDED", "B" = "#6FC4E0", "C" = "#31aad3", "D" = "#227794", "F" = "#144454")) + xlim(1880,2015) + ggtitle("Grading the likelihood of failure of LADWP's pipes") + ylab("Number of pipes") + xlab("Year pipes were installed") + theme_bw() +  theme(plot.background = element_blank() ,panel.grid.major = element_blank() ,panel.grid.minor = element_blank(),panel.border = element_blank()) + theme(text = element_text(size=18, family="Baskerville"))
 	plot(hist)
 
-Much nicer, no? I think that improves on the published version.
+Much nicer, no? I think this improves on the published version. ![](https://raw.githubusercontent.com/SCPR/kpcc-data-team/aaron-dev/guides/viz_standards/images/watergrades.png)
 
 ### Facet wraps a.k.a small multiples
 Lets make a facet wrap in R. These are also known as small multiples, and are great at showing how related things changed over time. Our example here is a dataset representing how often the Los Angeles Metro's trains showed up late. [In reality](http://projects.scpr.org/charts/metro-on-time-performance/rail-performance/), we visualized these on a single line chart. But a facet wrap could have been effective as well.
@@ -118,11 +118,15 @@ So in that hopeful spirit, lets do our "facet wrap".
 
 	ggplot(data=linebyyear, aes(x=Year, y=latepct)) + geom_line() + facet_wrap(~ Line)
 
-There we go. That arguably gives a clearer picture of each rail line. We can try to prettify this as well, though that should always be the last step. Do the real work first.
+There we go. That arguably gives a clearer picture of each rail line.
+![](https://raw.githubusercontent.com/SCPR/kpcc-data-team/aaron-dev/guides/viz_standards/images/facet_trains_nocolor.png)
+
+We can try to prettify this as well, though that should always be the last step. Do the real work first.
 
 	ggplot(data=linebyyear, aes(x=Year, y=latepct, color=Line)) + ylab("Percent of trains that left stations late") + ggtitle("How late are LA's train lines?") + geom_line(lwd = 2, alpha=0.8) + facet_wrap(~ Line) + theme_bw() +  theme(plot.background = element_blank() ,panel.grid.major = element_blank() ,panel.grid.minor = element_blank(),panel.border = element_blank()) + theme(text = element_text(size=15, family="Baskerville")) + theme(axis.text.x = element_text(angle = 90, hjust = 1)) + scale_colour_manual(values = c("#0072bb", "#01a4e5", "#ffb715", "#6cc06b", "#ea1d24"))
 
 Does that abstract our data too much?
+![](https://raw.githubusercontent.com/SCPR/kpcc-data-team/aaron-dev/guides/viz_standards/images/facet_trains.png)
 
 ## Future Improvements
 Tools exist to make web-friendly, interactive versions of R plots. A few of these are featured on [htmlwidgets for R](http://www.htmlwidgets.org/showcase_leaflet.html), including time series and scatterplots. [Shiny](http://shiny.rstudio.com/) and [plotly](https://plot.ly/r/) are other options. The [googleVis package](http://cran.r-project.org/web/packages/googleVis/vignettes/googleVis_examples.html) provides an interface to Google Charts. To my knowledge, none features responsive charting.
