@@ -16,6 +16,6 @@ This is the breakdown of bike classes, per Metro's Dave Sotero:
 - Class 3 – On-street bike route (signge only)
 - Cycle Track – On-street Separated Bike Lane
 
-Here's what the original Metro map looked like. This doesn't include all bikeways, only class 2 and 3 are represented here, because we were trying to hem to [the methodology used by the Washington Post's Wonkblog](http://www.washingtonpost.com/blogs/wonkblog/wp/2015/04/01/bleak-maps-of-how-cities-look-using-only-their-bike-lanes/). Here's what theat looked like when we did it:
+Here's what the original Metro map looked like. This doesn't include all bikeways, only class 2 and 3 are represented here, because we were trying to hem to [the methodology used by the Washington Post's Wonkblog](http://www.washingtonpost.com/blogs/wonkblog/wp/2015/04/01/bleak-maps-of-how-cities-look-using-only-their-bike-lanes/). Here's what that looked like:
 
 ![](https://raw.githubusercontent.com/SCPR/kpcc-data-team/aaron-dev/data/2014-04-bike-gis/metro_bikeways.png)
