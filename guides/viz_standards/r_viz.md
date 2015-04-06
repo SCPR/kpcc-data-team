@@ -11,7 +11,9 @@ The [statistical program R](http://www.r-project.org/) can visualize large, comp
 This section will demonstrate how to make various charts using R.
 
 ### Histogram
-This is the code we used to visualize the likelihood of failure in LADWP pipes, as assessed by the department itself. This is what that looked like![](https://raw.githubusercontent.com/SCPR/kpcc-data-team/master/data/ladwp-water-mains-and-leaks/findings/ladwp_leaks_notes_12_30_14/images/year_installed_by_likelihood_of_failure.png) You may have seen a similar graph [elsewhere](http://graphics.latimes.com/la-aging-water-infrastructure/).
+This is the code we used to visualize the likelihood of failure in LADWP pipes, as assessed by the department itself. This is what that looked like![](https://raw.githubusercontent.com/SCPR/kpcc-data-team/master/data/ladwp-water-mains-and-leaks/findings/ladwp_leaks_notes_12_30_14/images/year_installed_by_likelihood_of_failure.png)
+
+You may have seen a similar graph [elsewhere](http://graphics.latimes.com/la-aging-water-infrastructure/).
 
 
 To reproduce the graph in R, let's start at the beginning by setting the working directory. Here, we will assume the working directory is the Desktop.
