@@ -1,17 +1,10 @@
-# busline_bymonth.csv
-This is data includes the on-time performance data per bus line for each month, going back to December 2009 (where available). To be used for an interactive where user can select their bus line.
+Data relating to a story about bus and rail times, [published in February 2015](http://www.scpr.org/news/2015/02/19/49937/how-late-are-los-angeles-buses-and-trains-depends/).
 
-# index.html
-This is the graph of rail lines and how often they're late.
+# LACMTA_ontime_performance
+This is an excel file containing the data and documentation provided by the Los Angeles Coutny Metro about on-time performance of bus and rail service.
 
-# ontime_writeup.md
-Here's a sketch of a story that can go along with the interactive, explaining the data.
-
-# ontime_performance_orig_documentation_orig
-This is an excel file containing the data and documentation provided by the Metro
+# OTP_FY11_15_OCTA
+This is an excel file containing the data and documentation provided by the Orange County Transportation Authority about on-time performance of bus service.
 
 #OCTA_summary.csv
-Summary statistics about on-time transit performance provided by the Orange County Transportation Authority.
-
-# OTP_FY11_15
-Excel file provided by the Orange County Transportation Authority. Contains data about how often bus lines were late, broken down by month. The red text is not meaningful, according to an agency spokesman.
+Summary statistics about on-time transit performance by fiscal year provided by the Orange County Transportation Authority.
