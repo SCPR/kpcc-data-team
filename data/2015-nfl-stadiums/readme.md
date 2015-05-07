@@ -5,9 +5,9 @@ Anyway, in an effort to provide context around two stadium proposals in the Los 
 
 Instead, I brought together information from a handful of sources:
 
-- John Vrooman, an economist at Vanderbilt. His spreadsheet on stadium construction and renovations over the past 20 years was the basis for our .csv.
-- Lat/lon data and capacity [from here](https://github.com/zief0002/EPsy-8252/blob/master/data/NFL-Meta-Data.csv)
-- I also calcualted the stadium costs, using Consumer Price Index data from the BLS to control for inflation in 2014 dollars.
+- John Vrooman, an economist at Vanderbilt. His spreadsheet on stadium construction and renovations over the past 20 years was the basis for this .csv.
+- Lat/lon and capacity data [from here](https://github.com/zief0002/EPsy-8252/blob/master/data/NFL-Meta-Data.csv)
+- I also calcualted the stadium costs, using Consumer Price Index data from the BLS to control for inflation. So we can compare stadium prices in 2014 dollars.
 
 I added another column "titular_jurisdiction", which answers the question "Do the San Francisco 49ers actually play in San Francisco?" (they don't) for each team.
 
