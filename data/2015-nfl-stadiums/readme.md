@@ -15,8 +15,8 @@ This is all in stadium_cpi.csv.
 
 In general, we see that stadium costs over time have exploded, even controlling for inflation:
 
-![](/images/cost_over_time.png)
+![](https://raw.githubusercontent.com/SCPR/kpcc-data-team/aaron-dev/data/2015-nfl-stadiums/images/cost_over_time.png)
 
 And the private share of construction costs has been rising (it's nominally 100% in the Southern California proposals):
 
-![](/images/private_share.png)
+![](https://raw.githubusercontent.com/SCPR/kpcc-data-team/aaron-dev/data/2015-nfl-stadiums/images/private_share.png)
