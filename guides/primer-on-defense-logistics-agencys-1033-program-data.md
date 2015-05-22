@@ -100,6 +100,15 @@ When the Glendora, Calif. Police Department received two Peacekeeper-style armor
 [Data smells](https://source.opennews.org/en-US/learning/distrust-your-data/)
 =============================================================================
 
+* **Regarding the May 18, 2015 Executive Order**
+
+	* Law Enforcement Equipment Working Group released recommendations to the President in May; it also included an Executive Order that prohibited certain kinds of military equipment from being transferred to law enforcement.
+	
+	* The report mentions the categories of prohibited equipment, but not the actual items that fall into those categories. So we asked the Defense Logistics Agency to share the NSNs that will now be prohibited. On 5/22 the DLA's Michelle McCaskill sent an Excel spreadsheet with those NSNs. I have [added that to the repo here]().
+	
+	* Here is how McCaskill explained the data: "The attached excel spreadsheet contains the NSNs that the LESO has identified as inventory items that fall within the "Prohibited equipment list" that are on the LESO inventory.  I've also enclosed background information on the 1033/LESO program that may be of interest."
+
+
 * **Regarding the Nov. 21, 2104 Defense Logistics Agency data**:
 
     * The data can't tell us how the equipment is used by a law enforcement agency nor can it tell us an items condition. So a helicopter or a vehicle that ends up with law enforcement agency could be fully functioning or it could be a shell of its useful self. Either way, original value when the item entered the supply chain is what will be displayed.
