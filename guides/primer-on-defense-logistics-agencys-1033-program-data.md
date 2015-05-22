@@ -102,11 +102,11 @@ When the Glendora, Calif. Police Department received two Peacekeeper-style armor
 
 * **Regarding the May 18, 2015 Executive Order**
 
-	* Law Enforcement Equipment Working Group released recommendations to the President in May; it also included an Executive Order that prohibited certain kinds of military equipment from being transferred to law enforcement.
+	* The White House's Law Enforcement Equipment Working Group released recommendations to the President in May; it also included an Executive Order that prohibited certain kinds of military equipment from being transferred to law enforcement.
 	
-	* The report mentions the categories of prohibited equipment, but not the actual items that fall into those categories. So we asked the Defense Logistics Agency to share the NSNs that will now be prohibited. On 5/22 the DLA's Michelle McCaskill sent an Excel spreadsheet with those NSNs. I have [added that to the repo here]().
+	* The report mentions the categories of prohibited equipment, but not the actual items that fall into those categories. So we asked the Defense Logistics Agency to share the NSNs that will now be prohibited. On 5/22 the DLA's Michelle McCaskill sent an Excel spreadsheet with those NSNs. I have [added that to the repo here](https://github.com/SCPR/kpcc-data-team/blob/aaron-dev/guides/prohibited_equipment.csv). Before uploading we combined all the sheets in the spreadsheet into a single csv file. We also added a "type" for each item, corresponding to the sheet each NSN was on in the Excel file. Those types can allow users to group by types, such as bayonet or camouflage.
 	
-	* Here is how McCaskill explained the data: "The attached excel spreadsheet contains the NSNs that the LESO has identified as inventory items that fall within the "Prohibited equipment list" that are on the LESO inventory.  I've also enclosed background information on the 1033/LESO program that may be of interest."
+	* Here is how McCaskill explained the data: "The attached excel spreadsheet contains the NSNs that the LESO has identified as inventory items that fall within the "Prohibited equipment list" that are on the LESO inventory.  I've also enclosed background information on the 1033/LESO program that may be of interest." On the phone, she mentioned that there are other NSNs that would be prohibited that are not reflected in the 1033 data. I.e. there are no NSNs for weaponized aircraft because there are [no weaponized planes in the current 1033 data](http://www.npr.org/sections/thetwo-way/2015/05/21/407958035/white-house-ban-on-militarized-gear-for-police-may-mean-little).
 
 
 * **Regarding the Nov. 21, 2104 Defense Logistics Agency data**:
@@ -133,7 +133,7 @@ Known data releases
 ===================
 
 * [Nov. 21, 2104 Defense Logistics Agency data](http://www.dispositionservices.dla.mil/EFOIA-Privacy/Pages/ereadingroom.aspx)
-    * On or about Nov. 21 the Defense Logistics Agency released data current through Nov. 14, 2014 that details controlled and non-controlled dispursements to the local law enforcement level.
+    * On or about Nov. 21 the Defense Logistics Agency released data current through Nov. 14, 2014 that details controlled and non-controlled disbursements to the local law enforcement level.
 
 
 * [Sept. 4, MuckRock state-by-state data](https://www.muckrock.com/news/archives/2014/sep/04/we-have-over-half-countrys-agency-agency-1033-data/)
@@ -186,7 +186,7 @@ Glossary of Terms
 
 * **National Stock Number (NSN)**: Each item has a 13-digit code used by the Department of Defense to identify equipment known as a National Stock Number. This number can be used to determine the general category of each item.
 
-* **Value**: How much the Pentagon paid for a piece of equipment on its original purchase. However the data doesn't offer insight into when that was. Some items could have been purchased decades ago. This means you will find items that have the same National Stock Number but valued at diffrent amounts. This is driven by the year of purchase.
+* **Value**: How much the Pentagon paid for a piece of equipment on its original purchase. However the data doesn't offer insight into when that was. Some items could have been purchased decades ago. This means you will find items that have the same National Stock Number but valued at different amounts. This is driven by the year of purchase.
 
 State Program Coordinators
 ==========================
