@@ -7,7 +7,11 @@ In the 1996 version of that budget, Congress created Section 1033 that allowed [
 
 The 24-year-old program received increased scrutiny in 2014 after several media reports in [The New York Times](http://www.nytimes.com/interactive/2014/08/15/us/surplus-military-equipment-map.html?_r=0) and The Washington Post, a [report by the American Civil Liberties Union](https://www.aclu.org/sites/default/files/assets/jus14-warcomeshome-report-web-rel1.pdf) and protests following the shooting death of Michael Brown in Ferguson, Missouri that included confrontations between protestors and police armed with automatic weapons and military vehicles.
 
-On or about Nov. 21, 2014, the Defense Logistics Agency [released data](http://www.dispositionservices.dla.mil/EFOIA-Privacy/Pages/ereadingroom.aspx) that provides a deeper look into which law enforcement agencies have received surplus military items distributed through the 1033 program. Previous releases only detailed to the county level what are now being called controlled items.
+On or about Nov. 21, 2014, the Defense Logistics Agency [released data](http://www.dispositionservices.dla.mil/EFOIA-Privacy/Pages/ereadingroom.aspx) that provides a deeper look into which law enforcement agencies have received surplus military items distributed through the 1033 program. Previous releases only detailed to the county level what are now being called controlled items. Updates have been released quarterly since November 21.
+
+On May 19, 2015 President Obama's Law Enforcement Equipment Working Group issued a report including recommendations on equipment transfers and oversight. That day Obama issued an executive order that prohibited certain items from transfer through federal programs, and placed new restrictions on others. The order attracted positive press coverage, but a subsequent NPR story revealed [it would have little practicial impact](http://www.npr.org/sections/thetwo-way/2015/05/21/407958035/white-house-ban-on-militarized-gear-for-police-may-mean-little).
+
+
 
 In This Guide
 =============
@@ -16,9 +20,10 @@ In This Guide
 * [Data Smells](#data-smells)
 * [Glossary of Terms](#glossary-of-terms)
 * [Known data releases](#known-data-releases)
+* [Executive order and prohibited equipment](#Executive-order-and-prohibited-equipment)
 * [State Program Coordinators](#state-program-coordinators)
 * [Authors and Contributors](#authors-and-contributors)
-* [Sources](#sources)
+* [Sources and Coverage](#sources-and-coverage)
 
 FAQ: What can I find in the data
 ================================
@@ -100,15 +105,6 @@ When the Glendora, Calif. Police Department received two Peacekeeper-style armor
 [Data smells](https://source.opennews.org/en-US/learning/distrust-your-data/)
 =============================================================================
 
-* **Regarding the May 18, 2015 Executive Order**
-
-	* The White House's Law Enforcement Equipment Working Group released recommendations to the President in May; it also included an Executive Order that prohibited certain kinds of military equipment from being transferred to law enforcement.
-	
-	* The report mentions the categories of prohibited equipment, but not the actual items that fall into those categories. So we asked the Defense Logistics Agency to share the NSNs that will now be prohibited. On 5/22 the DLA's Michelle McCaskill sent an Excel spreadsheet with those NSNs. I have [added that to the repo here](https://github.com/SCPR/kpcc-data-team/blob/aaron-dev/guides/prohibited_equipment.csv). Before uploading we combined all the sheets in the spreadsheet into a single csv file. We also added a "type" for each item, corresponding to the sheet each NSN was on in the Excel file. Those types can allow users to group by types, such as bayonet or camouflage.
-	
-	* Here is how McCaskill explained the data: "The attached excel spreadsheet contains the NSNs that the LESO has identified as inventory items that fall within the "Prohibited equipment list" that are on the LESO inventory.  I've also enclosed background information on the 1033/LESO program that may be of interest." On the phone, she mentioned that there are other NSNs that would be prohibited that are not reflected in the 1033 data. I.e. there are no NSNs for weaponized aircraft because there are [no weaponized planes in the current 1033 data](http://www.npr.org/sections/thetwo-way/2015/05/21/407958035/white-house-ban-on-militarized-gear-for-police-may-mean-little).
-
-
 * **Regarding the Nov. 21, 2104 Defense Logistics Agency data**:
 
     * The data can't tell us how the equipment is used by a law enforcement agency nor can it tell us an items condition. So a helicopter or a vehicle that ends up with law enforcement agency could be fully functioning or it could be a shell of its useful self. Either way, original value when the item entered the supply chain is what will be displayed.
@@ -132,29 +128,31 @@ When the Glendora, Calif. Police Department received two Peacekeeper-style armor
 Known data releases
 ===================
 
-* [Nov. 21, 2104 Defense Logistics Agency data](http://www.dispositionservices.dla.mil/EFOIA-Privacy/Pages/ereadingroom.aspx)
-    * On or about Nov. 21 the Defense Logistics Agency released data current through Nov. 14, 2014 that details controlled and non-controlled disbursements to the local law enforcement level.
+* [April 7, 2015 Defense Logistics Agency data](http://www.dispositionservices.dla.mil/EFOIA-Privacy/Pages/ereadingroom.aspx)
+	* The data is current as of March 31, 2015. The data can also be obtained by following [this Marshall Project walkthrough](https://github.com/themarshallproject/dod1033). 
+
+* Nov. 21, 2104 & February 6, 2015 Defense Logistics Agency data
+    * On or about Nov. 21 the Defense Logistics Agency released data current through Nov. 14, 2014 that details controlled and non-controlled disbursements to the local law enforcement level. That data appears to no longer be a live on the DLA's website, but can still downloaded on [the Marshall Project's repo](https://github.com/themarshallproject/dod1033). Ditto for the February 2015 release.
 
 
 * [Sept. 4, MuckRock state-by-state data](https://www.muckrock.com/news/archives/2014/sep/04/we-have-over-half-countrys-agency-agency-1033-data/)
-    * Details coming soon.
 
 * [Aug. 28, 2014 National Public Radio data](https://drive.google.com/folderview?id=0B03IIavLYTovVEkyU3ZGNGVkMWs&usp=sharing)
     * Through a Freedom of Information Act request NPR obtained data showing which U.S. counties received equipment and items through the 1033 program. The data ranges between 2006 through April 23, 2014. "Every row represents a single instance of a single type of equipment going to a law enforcement agency. An asterisk(*) denotes that we added this field to the raw data to help with your analyses. The fields, and definitions, are as follows":
 
         * state
         * county
-        * *fips: The Federal Information Processing Standard code for the county
+        * fips: The Federal Information Processing Standard code for the county
         * nsn: a standardized categorization system for equipment
         * ui: A description of the unit to use for the item (e.g. "each" or "square feet")
         * quantity: Number of units
         * acquistion_cost: The per-unit cost of the item for the military
-        * *total_cost: Calculated by multiplying quantity times acquisition cost
+        * total_cost: Calculated by multiplying quantity times acquisition cost
         * ship_date: When the item was shipped to a law enforcement agency
-        * *federal_supply_category: The two digit code corresponding to the top level categorization of this equipment (e.g. 10).
-        * *federal_supply_category_name: The label associated with the category code (e.g. WEAPONS).
-        * *federal_supply_class: The four digit code corresponding to the specific categorization of the equipment (e.g. 6245).
-        * *federal_supply_class_name: The name of the federal supply class (e.g. "Guns, under 30mm").
+        * federal_supply_category: The two digit code corresponding to the top level categorization of this equipment (e.g. 10).
+        * federal_supply_category_name: The label associated with the category code (e.g. WEAPONS).
+        * federal_supply_class: The four digit code corresponding to the specific categorization of the equipment (e.g. 6245).
+        * federal_supply_class_name: The name of the federal supply class (e.g. "Guns, under 30mm").
 
 * [Aug. 19, 2014 Upshot data](https://github.com/TheUpshot/Military-Surplus-Gear)
     * "County-level data showing military equipment given to state and local law enforcement agencies through the Defense Department's 1033 program. The data was received from the Defense Department in May 2014 as an Excel file, and includes transfers since 2006."
@@ -163,7 +161,7 @@ Known data releases
 Glossary of Terms
 =================
 
-* **1033**: A Department of Defense surplus disposal program with roots in the [1990 National Defense Authorization Act](https://www.govtrack.us/congress/bills/101/hr2461/text), which sets the federal budget for the Department of Defense every two years. In the 1996 version of that budget, Congress created Section 1033 that allowed ["all law enforcement agencies to acquire property for bona fide law enforcement purposes that assist in their arrest and apprehension mission."](http://www.dispositionservices.dla.mil/leso/Pages/1033ProgramFAQs.aspx#q1). The program is adminstered by the Defense Logistics Agency and its Law Enforcement Support Office. You can read more about the program [here](http://www.dispositionservices.dla.mil/leso/Pages/1033ProgramFAQs.aspx#q1).
+* **1033**: A Department of Defense surplus disposal program with roots in the [1990 National Defense Authorization Act](https://www.govtrack.us/congress/bills/101/hr2461/text), which sets the federal budget for the Department of Defense every two years. In the 1996 version of that budget, Congress created Section 1033 that allowed ["all law enforcement agencies to acquire property for bona fide law enforcement purposes that assist in their arrest and apprehension mission."](http://www.dispositionservices.dla.mil/leso/Pages/1033ProgramFAQs.aspx#q1). The program is administered by the Defense Logistics Agency and its Law Enforcement Support Office. You can read more about the program [here](http://www.dispositionservices.dla.mil/leso/Pages/1033ProgramFAQs.aspx#q1).
 
 * **Controlled item**: A classification for 1033 equipment. Law enforcement agencies are required to track controlled property for as long as it's in their possession. Strictly speaking, "controlled property is defined as personal property under Department of State, Department of Commerce, or Department of Defense control," according to the Defense Logistics Agency's Tonya Johnson. Law enforcement agencies must track controlled property for as long as it's in their possession.
 
@@ -187,6 +185,16 @@ Glossary of Terms
 * **National Stock Number (NSN)**: Each item has a 13-digit code used by the Department of Defense to identify equipment known as a National Stock Number. This number can be used to determine the general category of each item.
 
 * **Value**: How much the Pentagon paid for a piece of equipment on its original purchase. However the data doesn't offer insight into when that was. Some items could have been purchased decades ago. This means you will find items that have the same National Stock Number but valued at different amounts. This is driven by the year of purchase.
+
+Executive order and prohibited equipment
+==========================
+
+* The White House's Law Enforcement Equipment Working Group [released recommendations to the President in May](https://www.documentcloud.org/documents/2083818-law-enforcement-equipment-working-group-report.html); it also included an Executive Order that prohibited certain kinds of military equipment from being transferred to law enforcement.
+	
+* The report mentions the categories of prohibited equipment, but doesn't provide the actual items that fall into those categories. So we asked the Defense Logistics Agency to share the NSNs that will now be prohibited. On 5/22 the DLA's Michelle McCaskill sent an Excel spreadsheet with those NSNs. I have [added that to the repo here](https://github.com/SCPR/kpcc-data-team/blob/aaron-dev/guides/prohibited_equipment.csv). Before uploading we combined all the sheets in the spreadsheet into a single csv file. We also added a "type" for each item, corresponding to the sheet each NSN was on in the Excel file. Those types can allow users to group by types, such as bayonet or camouflage.
+	
+* Here is how McCaskill explained the data: "The attached excel spreadsheet contains the NSNs that the LESO has identified as inventory items that fall within the "Prohibited equipment list" that are on the LESO inventory.  I've also enclosed background information on the 1033/LESO program that may be of interest." On the phone, she mentioned that there are other NSNs that would be prohibited that are not reflected in the 1033 data. I.e. there are no NSNs for weaponized aircraft because there are [no weaponized planes in the current 1033 data](http://www.npr.org/sections/thetwo-way/2015/05/21/407958035/white-house-ban-on-militarized-gear-for-police-may-mean-little).
+
 
 State Program Coordinators
 ==========================
@@ -260,10 +268,13 @@ Authors and Contributors
 * [Chris Keller](https://twitter.com/ChrisLKeller)
 * [Tom Meagher](https://twitter.com/ultracasual)
 
-Sources
-=======
-
-* NPR's [Understanding Data On Military Surplus Transfers From The Law Enforcement Support Office](http://www.npr.org/2014/09/02/342494225/mraps-and-bayonets-what-we-know-about-the-pentagons-1033-program)
-* MuckRock's [We have over half the country's agency-by-agency 1033 data](https://www.muckrock.com/news/archives/2014/sep/04/we-have-over-half-countrys-agency-agency-1033-data/)
-* [Pentagon releases new details of weapons program in SoCal](http://www.scpr.org/news/2014/12/16/48711/pentagon-releases-new-details-of-weapons-program-i/)
-* [Defense Logistics Agency](http://www.dispositionservices.dla.mil/Pages/default.aspx).
+Sources and Coverage
+===================
+* [Defense Logistics Agency homepage](http://www.dispositionservices.dla.mil/Pages/default.aspx)
+* KPCC, 5/23/2015: [Obama's new restrictions on military equipment for cops will have little effect in SoCal](http://www.scpr.org/news/2015/05/23/51865/obama-s-new-restrictions-on-military-equipment-for/)
+* NPR, 5/21/2015: [White House Ban On Militarized Gear For Police May Mean Little](http://www.npr.org/sections/thetwo-way/2015/05/21/407958035/white-house-ban-on-militarized-gear-for-police-may-mean-little)
+* MuckRock, 9/4/2014: [We have over half the country's agency-by-agency 1033 data](https://www.muckrock.com/news/archives/2014/sep/04/we-have-over-half-countrys-agency-agency-1033-data/)
+* KPCC, 12/16/2014: [Pentagon releases new details of weapons program in SoCal](http://www.scpr.org/news/2014/12/16/48711/pentagon-releases-new-details-of-weapons-program-i/)
+* Marshall Project, 12/3/2014: [The Pentagon Finally Details its Weapons-for-Cops Giveaway](https://www.themarshallproject.org/2014/12/03/the-pentagon-finally-details-its-weapons-for-cops-giveaway)
+* NPR, 9/2/2014: [Understanding Data On Military Surplus Transfers From The Law Enforcement Support Office](http://www.npr.org/2014/09/02/342494225/mraps-and-bayonets-what-we-know-about-the-pentagons-1033-program)
+* Newsweek, 8/13/2014: [How America’s Police Became an Army: The 1033 Program](http://www.newsweek.com/how-americas-police-became-army-1033-program-264537)
