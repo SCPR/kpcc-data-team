@@ -10,6 +10,8 @@ The [statistical program R](http://www.r-project.org/) can visualize large, comp
 ##Making Charts in R
 This section will demonstrate how to make various charts using R.
 
+For an exhaustive look at how to tweak charts in R using the ggplot2, [check out Zev Ross' guide](http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/).
+
 ### Histogram
 This is the code we used to visualize the likelihood of failure in LADWP pipes, as assessed by the department itself. This is what that looked like![](https://raw.githubusercontent.com/SCPR/kpcc-data-team/master/data/ladwp-water-mains-and-leaks/findings/ladwp_leaks_notes_12_30_14/images/year_installed_by_likelihood_of_failure.png)
 
