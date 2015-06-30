@@ -27,19 +27,21 @@ How long between the incident and the payout?
 * Mean--251 days. That's a litte over 8 months
 * Longest--2,207 days (6 years). For an unspecified "breach of contract"
 
-# You can't always get [the dollar amount] you want
-* Overall, people asked for $52,131,003.67 on claims where they actually received $16,091,005.7. That's 30.87 %.
+## You can't always get [the dollar amount] you want
+* Overall, people asked for $52,131,003.67 on claims where they actually received $16,091,005.7. That's 30.87 %
 * Only 18 claims received more money than they originally asked for
 * 273 received the exact same amount they asked for
 * 317 received less than they asked for
 * Of course, this doesn't include claims that were rejected
 
-# UCLA
+## UCLA
 * We have 624 total claims in our data. 253 of them were from the UCLA incident; that's nearly half
 	* 25 claims was second most from an incident (a power outage/failure)
-* Many descriptions mention damage to vehicles and personal property. The single largest payout was $41748.60
+* Many descriptions mention damage to vehicles and personal property. The single largest payout was $41,748.60
 
-# Some odd claims    
+## Some odd claims    
+Most of these verbatim from description field 
+
 * P/I-O/S as a result of falling through manhole cover on sidewalk (29999)
 * Personal Injury due to fall through cover of DWP water vault (16000)
 * P/I-O/S as a result of trip and fall on uneven sidewalk paneling (60000)
@@ -55,7 +57,7 @@ Two interesting claim types:
 * GLAS-Damage To Glasses
 * FDSP-Food Spoilage
 
-# Graphs
+## Graphs
 There are a number of types of claims, but a small handful account for most of the money paid out:
 ![](https://raw.githubusercontent.com/SCPR/kpcc-data-team/aaron-dev/data/2015-dwp-claims/imgs/paid_by_claim.png)
 
@@ -63,13 +65,12 @@ We don't see a seasonal pattern in payouts:
 ![](https://raw.githubusercontent.com/SCPR/kpcc-data-team/aaron-dev/data/2015-dwp-claims/imgs/claims_per_month.png)
 
 # Details of the data
-* Some of the dates in the date_of_loss column are probably wrong, i.e. the person who reported a loss from UCLA break on the day before it happened. They represent the date the claimant *reported* the loss happened, which could represent the date it was discovered.
-* The matter_sub column is the unique ID for this data. I made it by combining (you guessed it) the matter and sub columns.
-	* if that appears multiple times, it means the same person received claims from the same incident multiple times
-	* totally possible some unlucky/litigious soul would be in there receiving multiple claims from multiple incidents
-
+* Some of the dates in the date_of_loss column are probably wrong, i.e. the person who reported a loss from UCLA break on the day before the break happened. They represent the date the claimant *reported* the loss happened, which could represent the date it was discovered.
+* The matter_sub column was created by combining (you guessed it) the matter and sub columns.
+	* If that appears multiple times, it means the same person received claims from the same incident multiple times
+	* Totally possible some unlucky/litigious soul would be in there receiving multiple claims from multiple incidents
+		* One person received 4 separate payouts from a 2013 main break
 * The description field is often opaque but gives a general idea about what happened
-
 * If you, like me, need to brush up on subrogation claims, [here's a start](http://www.investopedia.com/terms/s/subrogation.asp#ixzz3c2pWhEZY)
 	* A lot of these claims are pursued by insurance companies
 
@@ -82,4 +83,4 @@ I asked for details on the claim types in the data. Many are straightforward, he
 * FIRE – could mean any type of fire related claim
 * AAPI – is personal injury as a result of an Auto Accident
 * AAPD would be property damage or out of pocket expenses due to an auto accident
-* DMVH is damage to vehicle from causes other than a traffic collision…the others are fairly self-explanatory.
+* DMVH is damage to vehicle from causes other than a traffic collision
