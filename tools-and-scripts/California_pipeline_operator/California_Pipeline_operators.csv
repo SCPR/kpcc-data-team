@@ -1,0 +1,99 @@
+,Name,ID,Incidents,Inspections,Enforcement Actions,Hazardous Liquid,States of Operation-HL,Fed and State Inspected Miles-HL,Gas Transmission,States of Operation-GT,Fed and State Inspected Miles-GT,Gas Gathering,States of Operation-GG,Fed and State Inspected Miles-GG
+0, AERA ENERGY LLC,31067,  ,          17,  ,Present, CA,           0,Present, CA,           1,Present, CA,          11
+1, AIR PRODUCTS & CHEMICALS INC,117,  ,          10,           6,NA,NA,NA,Present," CA,KS,LA,OH,TX",         733,NA,NA,NA
+2, AMERIGAS PROPANE LP,32013,  ,          17,           9,Present, PA,           5,Present, CA,           1,NA,NA,NA
+3," ARGUELLO, INC.",31367,  ,  ,  ,Present, CA,          28,NA,NA,NA,Present, CA,          10
+4, BERRY PETROLEUM CO,26009,  ,           1,  ,NA,NA,NA,Present, CA,           3,NA,NA,NA
+5, BETA OFFSHORE,32224,  ,           8,           4,Present, CA,          18,NA,NA,NA,NA,NA,NA
+6," BIG WEST OF CALIFORNIA, LLC",32088,  ,           4,           3,NA,NA,NA,Present, CA,           2,NA,NA,NA
+7, BP PIPELINE (NORTH AMERICA) INC.,31189,  ,          53,           6,Present," AL,CA,IA,IL,IN,KSKY,LA,MO,OC(B),OK,TNTX,WA","       2,104",Present, OC(B),         213,NA,NA,NA
+8, BP WEST COAST PRODUCTS L.L.C.,31610,  ,           6,           2,Present, CA,         142,Present, CA,          19,NA,NA,NA
+9, BREA CANON OIL COMPANY,30546,  ,           1,  ,NA,NA,NA,NA,NA,NA,Present, CA,          11
+10," BREITBURN MANAGEMENT COMPANY, LLC",38899,  ,  ,  ,Present, CA,           0,NA,NA,NA,NA,NA,NA
+11, BREITBURN OPERATING L.P.,30029,  ,  ,  ,Present, CA,           0,Present," KY,MI",         122,Present," IN,MI",          24
+12," BUCKEYE PARTNERS, LP",1845,  ,         112,          40,Present," AL,CA,CT,FL,IA,ILIN,MA,ME,MI,MO,NJNV,NY,OH,PA,TN,TX","       6,409",NA,NA,NA,NA,NA,NA
+13, BULLDOG GAS & POWER LLC,30965,  ,           3,           2,NA,NA,NA,Present, CA,           3,NA,NA,NA
+14, CALIFORNIA GAS GATHERING INC,31394,  ,           5,           1,NA,NA,NA,Present, CA,          33,NA,NA,NA
+15, CALNEV PIPELINE CO,26125,  ,          24,  ,Present," CA,NV",         571,NA,NA,NA,NA,NA,NA
+16," CENTRAL RESOURCES, INC.",32104,  ,  ,  ,Present, CA,           3,NA,NA,NA,NA,NA,NA
+17," CENTRAL VALLEY GAS STORAGE, LLC",32603,  ,  ,  ,NA,NA,NA,Present, CA,          16,NA,NA,NA
+18, CHEMOIL TERMINALS CORP.,879,  ,  ,  ,Present, CA,          37,NA,NA,NA,NA,NA,NA
+19, CHEVRON PIPE LINE CO,2731,  ,         103,          28,Present," CA,CO,ID,LA,MS,NMOR,TX,UT,WA,WY","       6,807",Present," AL,CA,LA,MS",         478,NA,NA,NA
+20," CITY OF GLENDALE, GLENDALE WATER & POWER",31986,  ,           3,           3,NA,NA,NA,Present, CA,           6,NA,NA,NA
+21, CITY OF REDDING,32304,  ,           4,           2,NA,NA,NA,Present, CA,           3,NA,NA,NA
+22, CITY OF VERNON,31955,  ,           9,           4,NA,NA,NA,Present, CA,           4,NA,NA,NA
+23, CPN PIPELINE COMPANY,31477,  ,          19,           7,NA,NA,NA,Present," AR,AZ,CA,MN,OR",         125,Present, CA,           9
+24, CRIMSON PIPELINE L.P.,32103,  ,  ,  ,Present, CA,         615,NA,NA,NA,NA,NA,NA
+25," DCOR, LLC",32083,  ,          20,           2,Present," CA,OC(B)",          43,NA,NA,NA,Present," CA,CA,OC(B),OC(B)",          54
+26, DELTA GAS GATHERING INC,31393,  ,           1,  ,NA,NA,NA,NA,NA,NA,Present, CA,          24
+27, DICK BROWN TECHNICAL SERVICES,32116,  ,          10,           1,Present, CA,          11,Present, CA,          10,NA,NA,NA
+28, DOD DEFENSE ENERGY SUPPORT CENTER,31460,  ,  ,  ,Present, CA,          19,NA,NA,NA,NA,NA,NA
+29, E&T LLC,39038,  ,  ,  ,Present, CA,           0,NA,NA,NA,NA,NA,NA
+30, EDISON MISSION OPERATIONS AND MAINTENANCE,31904,  ,           4,           3,NA,NA,NA,Present, CA,           5,NA,NA,NA
+31, EX EL PIPELINE SERVICES LLC,32093,  ,           6,           1,NA,NA,NA,Present, CA,          12,NA,NA,NA
+32, EXXONMOBIL OIL CORP - WEST COAST,26134,  ,           4,  ,Present, CA,         681,Present, CA,           3,NA,NA,NA
+33, EXXONMOBIL OIL CORPORATION-TERMINALS,32009,  ,           7,           2,Present," CA,IL,TX,WA",           5,NA,NA,NA,NA,NA,NA
+34," EXXONMOBIL PRODUCTION COMPANY, A DIVISION OF EXXON MOBIL COR",4908,  ,          18,           3,Present," AL,CA,TX,WY",         279,Present, TX,         249,Present," AL,AL,CA,TX",         107
+35, FREEPORT-MCMORAN OIL & GAS,18667,  ,          17,           9,Present, CA,          62,Present, CA,           7,Present," CA,CA",          28
+36, GILL RANCH STORAGE LLC,32549,  ,  ,  ,NA,NA,NA,Present, CA,          32,NA,NA,NA
+37, GREKA ENERGY,31541,  ,           5,           7,NA,NA,NA,NA,NA,NA,Present, CA,          13
+38, HILLCREST BEVERLY OIL CORP,31075,  ,           5,           1,Present, CA,           1,NA,NA,NA,Present, CA,           1
+39, INERGY WEST COAST,31919,  ,           4,           1,Present, CA,          48,NA,NA,NA,Present, CA,           3
+40, KERN OIL & REFINING CO.,30658,  ,  ,  ,Present, CA,          25,NA,NA,NA,NA,NA,NA
+41, KERN RIVER GAS TRANSMISSION CO,844,  ,          33,           7,NA,NA,NA,Present," CA,NV,UT,WY","       1,417",NA,NA,NA
+42," LINN WESTERN OPERATING, INC",31806,  ,           4,           2,Present, CA,           4,NA,NA,NA,Present, CA,           5
+43," LODI GAS STORAGE, LLC",31697,  ,  ,  ,NA,NA,NA,Present, CA,          45,NA,NA,NA
+44, MACPHERSON OIL COMPANY,32638,  ,  ,  ,NA,NA,NA,Present, CA,           7,NA,NA,NA
+45, MIDWAY SUNSET COGENERATION CO,997,  ,           4,           4,NA,NA,NA,Present, CA,           4,NA,NA,NA
+46, MOBIL PACIFIC PIPELINE CO,30005,  ,  ,  ,Present, CA,          29,NA,NA,NA,NA,NA,NA
+47, MOJAVE PIPELINE OPERATING COMPANY,840,  ,          19,           1,NA,NA,NA,Present," AZ,CA",         562,NA,NA,NA
+48, NAFTEX OPERATING COMPANY,32642,  ,  ,  ,NA,NA,NA,Present, CA,           5,NA,NA,NA
+49, NORTH BAJA PIPELINE LLC,31891,  ,          14,           5,NA,NA,NA,Present," AZ,CA",          86,NA,NA,NA
+50, NORTHERN CALIFORNIA POWER AGENCY,32308,  ,           4,  ,NA,NA,NA,Present, CA,           1,NA,NA,NA
+51, NRG ENERGY SERVICES,39027,  ,           1,           1,NA,NA,NA,Present, CA,           6,NA,NA,NA
+52, NUSTAR TERMINALS OPERATIONS PARTNERSHIP L. P.,26094,  ,          17,           3,Present," CA,DC,MD,NJ,NM,NYOR,TX,VA",         106,NA,NA,NA,NA,NA,NA
+53," OCCIDENTAL OF ELK HILLS, INC",31228,  ,           6,  ,Present, CA,          54,Present, CA,          24,NA,NA,NA
+54, OXY USA INC,32602,  ,           1,  ,Present, CA,           6,NA,NA,NA,Present, CA,           4
+55," PACIFIC COAST ENERGY COMPANY, LP",999,  ,           2,           4,Present, CA,           4,NA,NA,NA,Present, CA,           8
+56, PACIFIC GAS & ELECTRIC CO,15007,  ,  ,  ,NA,NA,NA,Present, CA,"       5,751",Present, CA,           4
+57, PACIFIC OPERATORS OFFSHORE,31295,  ,           8,           6,Present, CA,           6,Present, CA,           6,NA,NA,NA
+58, PACIFIC PIPELINE SYSTEM LLC,31325,  ,  ,  ,Present, CA,         339,NA,NA,NA,NA,NA,NA
+59, PARAMOUNT PETROLEUM CORP,26136,  ,  ,  ,Present, CA,         130,Present, CA,           9,NA,NA,NA
+60, PETRO-DIAMOND TERMINAL COMPANY,31135,  ,  ,  ,Present, CA,           1,NA,NA,NA,NA,NA,NA
+61, PHILLIPS 66 COMPANY - LOS ANGELES REFINERY,32135,  ,  ,  ,Present, CA,          13,NA,NA,NA,NA,NA,NA
+62, PHILLIPS 66 PIPELINE LLC,31684,  ,         195,          47,Present," CA,CO,ID,IL,KS,LAMO,MT,NJ,NM,OK,TXUT,WA,WY","      10,040",Present," CA,LA,TX",          64,NA,NA,NA
+63," PLAINS MARKETING, L.P.",26085,  ,           9,           2,Present," AL,AZ,CA,LA,MI,OHSC,TX",         415,NA,NA,NA,NA,NA,NA
+64," PLAINS PIPELINE, L.P.",300,  ,          81,          22,Present," AL,CA,CO,IL,KS,LAMS,MT,ND,NE,NM,OKSD,TX,UT,WY","       6,437",NA,NA,NA,NA,NA,NA
+65," PRAXAIR, INC",20044,  ,           6,           7,NA,NA,NA,Present," CA,IN,LA,MI,NY,TX",         327,NA,NA,NA
+66, QUESTAR PIPELINE COMPANY,12874,  ,          41,           7,NA,NA,NA,Present," AZ,CA,CO,NM,UT,WY","       2,648",NA,NA,NA
+67, ROSETTA RESOURCES,32203,  ,           3,           1,NA,NA,NA,Present, CA,           4,Present, CA,           7
+68, SACRAMENTO MUNICIPAL UTILITY DISTRICT,30749,  ,           8,  ,NA,NA,NA,Present, CA,          76,NA,NA,NA
+69, SAN DIEGO GAS & ELECTRIC CO,18112,  ,  ,  ,NA,NA,NA,Present, CA,         234,NA,NA,NA
+70, SEAL BEACH GAS PROCESSING VENTURE,31068,  ,           3,           1,NA,NA,NA,Present, CA,           1,Present, CA,           3
+71, SENECA RESOURCES CORP,18201,  ,           2,  ,Present, CA,           8,Present, CA,          23,Present, CA,           8
+72," SFPP, LP",18092,  ,          92,          14,Present," AZ,CA,NM,NV,OR,TX","       2,868",NA,NA,NA,NA,NA,NA
+73, SHELL OIL PRODUCTS COMPANY,30765,  ,           2,  ,Present, CA,           7,Present, CA,           2,NA,NA,NA
+74," SHELL PIPELINE CO., L.P.",31174,  ,          51,          11,Present," CA,IL,KY,LA,MS,OC(B)TN,TX,WI","       4,490",NA,NA,NA,NA,NA,NA
+75," SIGNAL HILL PETROLEUM, INC.",32195,  ,  ,  ,Present, CA,           1,NA,NA,NA,NA,NA,NA
+76, SILICON VALLEY POWER,32054,  ,           6,           6,NA,NA,NA,Present, CA,           2,NA,NA,NA
+77, SOUTHERN CALIFORNIA GAS CO,18484,  ,  ,  ,NA,NA,NA,Present, CA,"       3,526",NA,NA,NA
+78, SOUTHWEST GAS CORP,18536,  ,           1,  ,NA,NA,NA,Present," AZ,CA,NV",         710,NA,NA,NA
+79, ST. JAMES OIL CORPORATION,32266,  ,  ,  ,Present, CA,           3,NA,NA,NA,NA,NA,NA
+80, STANDARD PACIFIC GAS LINE INC,18608,  ,  ,  ,NA,NA,NA,Present, CA,          55,NA,NA,NA
+81, TESORO LOGISTICS OPERATIONS LLC - GOLDEN EAGLE,31874,  ,  ,  ,Present, CA,           5,NA,NA,NA,NA,NA,NA
+82, TESORO LOGISTICS OPERATIONS LLC - SOUTHERN CALIFORNIA,38933,  ,  ,  ,Present, CA,          16,NA,NA,NA,NA,NA,NA
+83, TESORO REFINING & MARKETING COMPANY LLC - LOS ANGELES REFINE,32253,  ,           6,           5,Present, CA,          15,Present, CA,           1,NA,NA,NA
+84, THUMS LONG BEACH CO,19410,  ,           8,           2,Present, CA,           7,Present, CA,           4,Present, CA,          11
+85, TIDELANDS OIL PRODUCTION COMPANY,30834,  ,  ,  ,Present, CA,           2,NA,NA,NA,NA,NA,NA
+86, TRANSWESTERN PIPELINE COMPANY LLC,19610,  ,          20,           1,NA,NA,NA,Present," AZ,CA,CO,NM,TX","       2,482",NA,NA,NA
+87, TUSCARORA GAS TRANSMISSION COMPANY,30838,  ,           9,           1,NA,NA,NA,Present," CA,NV,OR",         305,NA,NA,NA
+88, U.S. BORAX,31087,  ,           2,           1,NA,NA,NA,Present, CA,           2,NA,NA,NA
+89, ULTRAMAR INC,20202,  ,           2,           1,Present, CA,          29,Present, CA,           3,NA,NA,NA
+90, VALERO REFINING COMPANY - CALIFORNIA,32223,  ,  ,  ,Present, CA,          24,NA,NA,NA,NA,NA,NA
+91," VENOCO, INC",31296,           3,          17,           7,Present," CA,OC(B)",          51,Present, CA,          38,Present," CA,OC(B)",          15
+92, VINTAGE PIPELINE INC,21315,  ,  ,  ,NA,NA,NA,Present, CA,          19,Present," CA,LA,OK,TX",          61
+93, VINTAGE PRODUCTION CALIFORNIA LLC,32178,  ,           8,           8,Present, CA,           5,Present, CA,          16,Present, CA,          15
+94, VOPAK TERMINAL LOS ANGELES INC.,31420,  ,  ,  ,Present, CA,          21,NA,NA,NA,NA,NA,NA
+95, WEST COAST TERMINAL PIPELINE  (WCTP),32688,  ,           4,  ,Present," CA,OR",          39,NA,NA,NA,NA,NA,NA
+96, WICKLAND OIL COMPANY,31136,  ,  ,  ,Present, CA,          12,NA,NA,NA,NA,NA,NA
+97, WILD GOOSE STORAGE INC,31287,  ,  ,  ,NA,NA,NA,Present, CA,          34,NA,NA,NA
