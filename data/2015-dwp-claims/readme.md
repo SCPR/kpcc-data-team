@@ -1,5 +1,4 @@
-# DWP Claims
-### The data
+# The data
 We have one year's worth of data. It covers one full year of claims, from May 1, 2014 through April 30, 2015.
 
 A few important details about what this data actually represents.
@@ -15,10 +14,10 @@ A few important details about what this data actually represents.
 	* It took 595 days before this claim paid out
 	* Wonder why being run over by a DWP vehicle resulted in a much larger payout than being killed by a DWP vehicle???
 
-### It can take a while to get your money
+## It can take a while to get your money
 * Many of the claims are from incidents that happened before the May 2014-April 2015 window.
 * 115 of the claims took a year or more to resolve.
-	* they represent $7,333,213.78 of what was paid out. 45.6% of total payouts
+	* They represent $7,333,213.78 of what was paid out. 45.6% of total payouts
 * Someone waited 453 days to get their "Food spoilage as a result of erroneous shut off" claim paid out. only got $112.50 from it.
 
 How long between the incident and the payout?
@@ -28,19 +27,19 @@ How long between the incident and the payout?
 * Mean--251 days. That's a litte over 8 months
 * Longest--2,207 days (6 years). For an unspecified "breach of contract"
 
-### You can't always get [the dollar amount] you want
+# You can't always get [the dollar amount] you want
 * Overall, people asked for $52,131,003.67 on claims where they actually received $16,091,005.7. That's 30.87 %.
 * Only 18 claims received more money than they originally asked for
 * 273 received the exact same amount they asked for
 * 317 received less than they asked for
 * Of course, this doesn't include claims that were rejected
 
-### UCLA
+# UCLA
 * We have 624 total claims in our data. 253 of them were from the UCLA incident; that's nearly half
 	* 25 claims was second most from an incident (a power outage/failure)
 * Many descriptions mention damage to vehicles and personal property. The single largest payout was $41748.60
 
-### Some odd claims    
+# Some odd claims    
 * P/I-O/S as a result of falling through manhole cover on sidewalk (29999)
 * Personal Injury due to fall through cover of DWP water vault (16000)
 * P/I-O/S as a result of trip and fall on uneven sidewalk paneling (60000)
@@ -56,14 +55,14 @@ Two interesting claim types:
 * GLAS-Damage To Glasses
 * FDSP-Food Spoilage
 
-### Graphs
+# Graphs
 There are a number of types of claims, but a small handful account for most of the money paid out:
 ![](https://raw.githubusercontent.com/SCPR/kpcc-data-team/aaron-dev/data/2015-dwp-claims/imgs/paid_by_claim.png)
 
 We don't see a seasonal pattern in payouts:
 ![](https://raw.githubusercontent.com/SCPR/kpcc-data-team/aaron-dev/data/2015-dwp-claims/imgs/claims_per_month.png)
 
-### Details of the data
+# Details of the data
 * Some of the dates in the date_of_loss column are probably wrong, i.e. the person who reported a loss from UCLA break on the day before it happened. They represent the date the claimant *reported* the loss happened, which could represent the date it was discovered.
 * The matter_sub column is the unique ID for this data. I made it by combining (you guessed it) the matter and sub columns.
 	* if that appears multiple times, it means the same person received claims from the same incident multiple times
