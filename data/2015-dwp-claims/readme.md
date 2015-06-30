@@ -4,9 +4,9 @@ We have one year's worth of data. It covers one full year of claims, from May 1,
 
 A few important details about what this data actually represents.
 
-* The claims represent $16,091,005.70
-* There are 624 claims in the database
-* Just two of the types of claims (Personal injury and wrongful death) make up more than half 8.25 million of the total paid out.
+* The claims represent $16,091,005.70 that the DWP paid out.
+* There are 624 claims paid out during this time period
+* Just two of the types of claims (Personal injury and wrongful death) make up more than half ($8.25 million) of the total paid out.
 * The wrongful death payouts all stem from a single incident in July 2013.
 	* There were five different payouts. It's unclear if 5 people died in the accident or if 5 family members got claims on the same death.
 	* The payouts range from $1 million to $250,000
