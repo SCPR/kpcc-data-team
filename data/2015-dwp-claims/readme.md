@@ -3,8 +3,9 @@ We have one year's worth of data. It covers one full year of claims, from May 1,
 
 A few important details about what this data actually represents.
 
-* The claims represent $16,091,005.70 that the DWP paid out.
+* The claims represent $14,317,195.30 that the DWP paid out.
 * There are 624 claims paid out during this time period
+* It's difficult to separate out claims from water main breaks. Something like half of the claims relate to water mains (many of those from the UCLA break). But those claims don't account for much of the money DWP pays out.
 * Just two of the types of claims (Personal injury and wrongful death) make up more than half ($8.25 million) of the total paid out.
 * The wrongful death payouts all stem from a single incident in July 2013.
 	* There were five different payouts. It's unclear if 5 people died in the accident or if 5 family members got claims on the same death
@@ -17,7 +18,7 @@ A few important details about what this data actually represents.
 ## It can take a while to get your money
 * Many of the claims are from incidents that happened before the May 2014-April 2015 window.
 * 115 of the claims took a year or more to resolve.
-	* They represent $7,333,213.78 of what was paid out. 45.6% of total payouts
+	* They represent $7,333,213.78 of what was paid out. 51.2% of total payouts
 * Someone waited 453 days to get their "Food spoilage as a result of erroneous shut off" claim paid out. only got $112.50 from it.
 
 How long between the incident and the payout?
@@ -28,7 +29,7 @@ How long between the incident and the payout?
 * Longest--2,207 days (6 years). For an unspecified "breach of contract"
 
 ## You can't always get [the dollar amount] you want
-* Overall, people asked for $52,131,003.67 on claims where they actually received $16,091,005.7. That's 30.87 %
+* Overall, people asked for $52,131,003.67 on claims where they actually received $14,317,195.30. That's 27.5 %
 * Only 18 claims received more money than they originally asked for
 * 273 received the exact same amount they asked for
 * 317 received less than they asked for
@@ -38,6 +39,7 @@ How long between the incident and the payout?
 * We have 624 total claims in our data. 253 of them were from the UCLA incident; that's nearly half
 	* 25 claims was second most from an incident (a power outage/failure)
 * Many descriptions mention damage to vehicles and personal property. The single largest payout was $41,748.60
+* These are listed as matter number *1033780* in our data
 
 ## Some odd claims    
 Most of these verbatim from description field 
@@ -73,6 +75,7 @@ We don't see a seasonal pattern in payouts:
 * The description field is often opaque but gives a general idea about what happened
 * If you, like me, need to brush up on subrogation claims, [here's a start](http://www.investopedia.com/terms/s/subrogation.asp#ixzz3c2pWhEZY)
 	* A lot of these claims are pursued by insurance companies
+* This data was entered by hand. There may be errors for that reason. I caught a couple irregularities and ran them by the DWP spokespeople, who provided the correct numbers for them. There are very possibly others.
 
 I asked for details on the claim types in the data. Many are straightforward, here's the rest:
 
