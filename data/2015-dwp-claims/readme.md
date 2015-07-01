@@ -67,16 +67,6 @@ We don't see a seasonal pattern in payouts:
 ![](https://raw.githubusercontent.com/SCPR/kpcc-data-team/aaron-dev/data/2015-dwp-claims/imgs/claims_per_month.png)
 
 # Details of the data
-* Some of the dates in the date_of_loss column are probably wrong, i.e. the person who reported a loss from UCLA break on the day before the break happened. They represent the date the claimant *reported* the loss happened, which could represent the date it was discovered
-* The matter_sub column was created by combining (you guessed it) the matter and sub columns
-	* If that appears multiple times, it means the same person received claims from the same incident multiple times
-	* Totally possible some unlucky/litigious soul would be in there receiving multiple claims from multiple incidents
-		* One person received 4 separate payouts from a 2013 main break
-* The description field is often opaque but gives a general idea about what happened
-* If you, like me, need to brush up on subrogation claims, [here's a start](http://www.investopedia.com/terms/s/subrogation.asp#ixzz3c2pWhEZY)
-	* A lot of these claims are pursued by insurance companies
-* This data was entered by hand. There may be errors for that reason. I caught a couple irregularities and ran them by the DWP spokespeople, who provided the correct numbers for them. There are very possibly other errors
-
 I asked for details on the claim types in the data. Many are straightforward, here's the rest:
 
 * PDOR- is damage to real property
@@ -87,3 +77,24 @@ I asked for details on the claim types in the data. Many are straightforward, he
 * AAPI – is personal injury as a result of an Auto Accident
 * AAPD would be property damage or out of pocket expenses due to an auto accident
 * DMVH is damage to vehicle from causes other than a traffic collision
+
+Here are what each field means:
+
+* matter: each incident has a matter number.
+* sub: "The “Sub” number is the claimant identifier John Doe is sub 1, Jane Doe is sub 2, George white is sub 3…so their individual number would be 100000-1, 100000-2 etc. Sub numbers are assigned when a new claim is received that is related to particular incident or event like an auto accident, power outage, main break, etc."
+* matter_sub: * created by combining (you guessed it) the matter and sub columns. If it appears multiple times, it means the same person received claims from the same incident multiple times
+* claim_type: DWP's classifications
+* date_of_loss: Date of incident or date incident was discovered. Some of the dates in the date_of_loss column are probably wrong, i.e. the person who reported a loss from UCLA break on the day before the break happened. 
+* date_paid: date of payment
+* amt_paid: amount of payment
+* check_no: check number
+* amt_claimed: amount claimed
+* description: DWP's description of what happened. Often opaque.
+* claim_pct_received: amt_paid divided by amt_claimed
+
+
+* It's totally possible some unlucky/litigious soul would be in there receiving multiple claims from multiple incidents
+	* One person received 4 separate payouts from a 2013 main break
+* If you, like me, need to brush up on subrogation claims, [here's a start](http://www.investopedia.com/terms/s/subrogation.asp#ixzz3c2pWhEZY)
+	* A lot of these claims are pursued by insurance companies
+* This data was entered by hand. There may be errors for that reason. I caught a couple irregularities and ran them by the DWP spokespeople, who provided the correct numbers for them. There are very possibly other errors
