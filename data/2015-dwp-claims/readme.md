@@ -39,6 +39,7 @@ How long between the incident and the payout?
 * We have 624 total claims in our data. 253 of them were from the UCLA incident; that's nearly half
 	* 25 claims was second most from an incident (a power outage/failure)
 * Many descriptions mention damage to vehicles and personal property. The single largest payout was $41,748.60
+* The total amount of payouts was 1,065,035.61 (through May 2015, I expect the final number will be somewhat higher)
 * These are listed as matter number *1033780* in our data
 
 ## Some odd claims    
