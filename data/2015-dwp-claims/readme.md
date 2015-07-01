@@ -92,7 +92,7 @@ Here are what each field means:
 * description: DWP's description of what happened. Often opaque.
 * claim_pct_received: amt_paid divided by amt_claimed
 
-
+Misc notes:
 * It's totally possible some unlucky/litigious soul would be in there receiving multiple claims from multiple incidents
 	* One person received 4 separate payouts from a 2013 main break
 * If you, like me, need to brush up on subrogation claims, [here's a start](http://www.investopedia.com/terms/s/subrogation.asp#ixzz3c2pWhEZY)
