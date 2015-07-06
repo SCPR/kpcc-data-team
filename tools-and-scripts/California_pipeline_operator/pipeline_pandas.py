@@ -19,7 +19,7 @@ def operator_information(master_list):
     
     for item in list_tr:
         
-        row = {"Name": "NA" , "ID": "NA", "Incidents": "NA", "Inspections": 'NA', "Enforcement Actions": "NA", "Hazardous Liquid": "NA" , "States of Operation-HL": "NA" , "Fed and State Inspected Miles-HL": "NA" , "Gas Transmission": "NA" , "States of Operation-GT": "NA" , "Fed and State Inspected Miles-GT": "NA" , "Gas Gathering": "NA" , "States of Operation-GG": "NA" , "Fed and State Inspected Miles-GG": "NA" }
+        row = {"name": "NA" , "id": "NA", "incidents": "NA", "inspections": 'NA', "enforcement-actions": "NA", "hazardous-liquid": "false" , "states-of-operation-hl": "-" , "inspected-miles-hl": "-" , "gas-transmission": "false" , "states-of-operation-gt": "-" , "inspected-miles-gt": "-" , "gas-gathering": "false" , "states-of-operation-gg": "-" , "inspected-miles-gg": "-" }
         
         operator_page = BeautifulSoup(urllib2.urlopen("http://primis.phmsa.dot.gov/comm/reports/operator/"+item.find('a').get('href')))
         
@@ -31,47 +31,61 @@ def operator_information(master_list):
             
             info_text = my_table.text
             
-            row["Name"] = item.find_all('td')[1].text
+            row["name"] = item.find_all('td')[1].text
             
-            row["ID"] = int(item.find_all('td')[0].text)
+            row["id"] = int(item.find_all('td')[0].text)
             
             if item.find_all('td')[4].text == ' ':
-                row["Incidents"] = 'NA'
+                row["incidents"] = 'null'
             else:
-                row["Incidents"] = item.find_all('td')[4].text
+                row["incidents"] = item.find_all('td')[4].text
             
             if item.find_all('td')[5].text == ' ':
-                row["Inspections"] = 'NA'
+                row["inspections"] = 'null'
             else:
-                row["Inspections"] = item.find_all('td')[5].text
+                row["inspections"] = item.find_all('td')[5].text
             
             if item.find_all('td')[6].text == ' ':
-                row["Enforcement Actions"] = 'NA'
+                row["enforcement-actions"] = 'null'
             else:
-                row["Enforcement Actions"] = item.find_all('td')[6].text
+                row["enforcement-actions"] = item.find_all('td')[6].text
                     
             
             if "Hazardous Liquid" in info_text:
-                row['Hazardous Liquid'] = "Present"
-                row['States of Operation-HL'] = information[1].find_all('td')[0].text
-                row['Fed and State Inspected Miles-HL'] = information[2].find_all('td')[0].text
+                row['hazardous-liquid'] = "true"
+                row['states-of-operation-hl'] = information[1].find_all('td')[0].text
+                row['inspected-miles-hl'] =information[2].find_all('td')[0].text
 
             if "Gas Transmission" in info_text:
-                row['Gas Transmission'] = "Present"
-                row['States of Operation-GT'] = information[4].find_all('td')[0].text
-                row['Fed and State Inspected Miles-GT'] = information[5].find_all('td')[0].text
+                row['gas-transmission'] = "true"
+                row['states-of-operation-gt'] = information[4].find_all('td')[0].text
+                row['inspected-miles-gt'] = information[5].find_all('td')[0].text
 
             if "Gas Gathering" in info_text:
-                row['Gas Gathering'] = "Present"
-                row['States of Operation-GG'] = information[7].find_all('td')[0].text
-                row['Fed and State Inspected Miles-GG'] = information[8].find_all('td')[0].text
+                row['gas-gathering'] = "true"
+                row['states-of-operation-gg'] = information[7].find_all('td')[0].text
+                row['inspected-miles-gg'] = information[8].find_all('td')[0].text
             
             list_rows.append(row)
     
     return list_rows
             
 #create dataframe
-data_frame_operators = pd.DataFrame(operator_information("http://primis.phmsa.dot.gov/comm/reports/operator/OperatorListNoJS.html"), columns = ["Name", "ID", "Incidents", "Inspections", "Enforcement Actions", "Hazardous Liquid", "States of Operation-HL", "Fed and State Inspected Miles-HL", "Gas Transmission", "States of Operation-GT", "Fed and State Inspected Miles-GT", "Gas Gathering", "States of Operation-GG", "Fed and State Inspected Miles-GG"] )
+data_frame_operators = pd.DataFrame(operator_information("http://primis.phmsa.dot.gov/comm/reports/operator/OperatorListNoJS.html"), columns = ["name", "id", "incidents", "inspections", "enforcement-actions", "hazardous-liquid", "states-of-operation-hl", "inspected-miles-hl", "gas-transmission", "states-of-operation-gt", "inspected-miles-gt", "gas-gathering", "states-of-operation-gg", "inspected-miles-gg"] )
 
+#getting rid of commas in numbers for conversion to sortable ints
+data_frame_operators['inspected-miles-hl'] = data_frame_operators['inspected-miles-hl'].str.replace(',','')
+data_frame_operators['inspected-miles-gt'] = data_frame_operators['inspected-miles-gt'].str.replace(',','')
+data_frame_operators['inspected-miles-gg'] = data_frame_operators['inspected-miles-gg'].str.replace(',','')
+
+data_frame_operators['inspected-miles-hl'] = data_frame_operators['inspected-miles-hl'].convert_objects(convert_numeric=True)
+data_frame_operators['inspected-miles-gt'] = data_frame_operators['inspected-miles-gt'].convert_objects(convert_numeric=True)
+data_frame_operators['inspected-miles-gg'] = data_frame_operators['inspected-miles-gg'].convert_objects(convert_numeric=True)
+
+data_frame_operators['enforcement-actions'] = data_frame_operators['enforcement-actions'].convert_objects(convert_numeric=True)
+data_frame_operators['inspections'] = data_frame_operators['inspections'].convert_objects(convert_numeric=True)
+data_frame_operators['incidents'] = data_frame_operators['incidents'].convert_objects(convert_numeric=True)
+
+data_frame_operators = data_frame_operators.fillna('-')
 #export to csv
 data_frame_operators.to_csv('California_Pipeline_operators.csv', encoding = 'utf-8')
