@@ -1,1 +1,0 @@
-test_dic = {'date' : '', 'system': '','city': '', 'state': '', 'county': '', 'cause': '', 'sub_cause': '','fatalities': '','injuries': '', 'prop_damage': '', 'barrels_spilled_hl': '', 'barrels_lost': '',}

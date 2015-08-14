@@ -61,8 +61,8 @@ def _init_():
             logger.debug(incident_details_url)
 
 
-            """ACCESS AND PROCESS THE TABLE IN FRONT OF ME"""
-
+            """ACCESS AND PROCESS THE TABLE IN FRONT OF ME """
+            """ IF NO TABLE MAKE SURE TO HANDLE THE EXCEPTION """
 
         else:
             break
