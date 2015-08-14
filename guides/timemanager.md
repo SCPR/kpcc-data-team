@@ -1,8 +1,8 @@
 ##Using the QGIS Time Manager plugin in QGIS to make gifs
 While loading a bunch of graffiti data into QGIS, I was transfixed by how the data began popping up as bubbles. It was cool.
 
-![](./images/purp.png =300x)
-![](./images/blu.png =300x)
+![](./images/purp.png)![](./images/blu.png)
+
 
 I realized that this data could be used to tell a story about graffiti in Los Angeles, which resulted [in this interactive](http://projects.scpr.org/maps/graffiti-map/).
 
@@ -15,7 +15,7 @@ To work with it, you need to load data into QGIS that has some sort of temporal 
 Keep in mind you'll do all the styling outside of Time Manager, most likely using the properties on your layer.
 
 Call the Time Manager toolbar up, which will look like this:
-![](./images/time_mgr.png =700x)
+![](./images/time_mgr.png)
 
 Hit the "Settings" button. Make sure that "Display frame start time on map" is selected, because you want the time displayed on the images to lend clarity and help the viewer understand. (One feature you will not have using this method is a legend.)
 
