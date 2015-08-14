@@ -1,8 +1,7 @@
 ##Using the QGIS Time Manager plugin in QGIS to make gifs
 While loading a bunch of graffiti data into QGIS, I was transfixed by how the data began popping up as bubbles. It was cool.
 
-![](./images/purp.png =216x)![](./images/blu.png =216x)
-
+![](./images/blu_purp.png)
 
 
 I realized that this data could be used to tell a story about graffiti in Los Angeles, which resulted [in this interactive](http://projects.scpr.org/maps/graffiti-map/).
@@ -20,7 +19,7 @@ Call the Time Manager toolbar up, which will look like this:
 
 Hit the "Settings" button. Make sure that "Display frame start time on map" is selected, because you want the time displayed on the images to lend clarity and help the viewer understand. (One feature you will not have using this method is a legend.)
 
-If you click on the "Time display options" you'll be able to customize how the time is displayed (for example, I removed time of day from my gif). The placement options are limited, but for Los Angeles, where there is the "empty" space of the Pacific Ocean to the southwest, you have a nice option. Using a black background to the time display helps it fit nicely there with the Stamen map, with only the white letters visible to the viewer.
+If you click on the "Time display options" you'll be able to customize how the time is displayed (for example, I removed time of day from my gif). The placement options are limited, but for Los Angeles, where there is the "empty" space of the Pacific Ocean to the southwest, you have a nice option. Using a black background to the time display helps it match the Stamen toner map, with only the white letters visible to the viewer.
 
 Note the "Accumulate features" box in the settings. I accumulated features for this image, but you may or may not want to do that.
 
