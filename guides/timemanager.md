@@ -1,4 +1,4 @@
-##Using the QGIS Time Manager plugin in QGIS to make gifs
+##Using the QGIS Time Manager plugin to make gifs
 While loading a bunch of graffiti data into QGIS, I was transfixed by how the data began popping up as bubbles. It was cool.
 
 ![](./images/blu_purp.png)
