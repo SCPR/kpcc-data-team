@@ -1,0 +1,4 @@
+date,system,city,state,county,cause,sub_cause,fatalities,injuries,propertydamage_(a),gross_barrels_spilled_(hazliq)_(b),net_barrels_lost_(hazliq)_(b)(c)
+12/31/10,HL,MCPHERSON,KS,MCPHERSON,INCORRECT OPERATION,PIPELINE/EQUIPMENT OVERPRESSURED,0,0,$387,4,4
+12/12/08,HL,MCPHERSON,KS,MCPHERSON,CORROSION,INTERNAL,0,0,$8700,5,5
+12/29/07,HL,MCPHERSON,KS,MCPHERSON,CORROSION,UNSPECIFIED CORROSION,0,0,$2600,1,1

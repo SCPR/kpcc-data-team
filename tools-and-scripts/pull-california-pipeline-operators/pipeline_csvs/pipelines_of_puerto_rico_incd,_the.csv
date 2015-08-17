@@ -1,0 +1,3 @@
+date,system,city,state,county,cause,sub_cause,fatalities,injuries,propertydamage_(a),gross_barrels_spilled_(hazliq)_(b),net_barrels_lost_(hazliq)_(b)(c)
+01/28/11,HL,SANTURCE,PR,,OTHER OUTSIDE FORCE DAMAGE,ELECTRICAL ARCING FROM OTHER EQUIPMENT/FACILITY,0,0,$490276,66,26
+11/19/09,HL,CAROLINA,PR,,INCORRECT OPERATION,INCORRECT OPERATION,0,0,$9389,35,0
