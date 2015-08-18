@@ -58,17 +58,30 @@ def write_to_csv(html,div_tag):
     #This does not yet signify whether it is in CA, am currently writing that code 
     list_tr = html.find("div", {"id": div_tag }).find_all("tr")
     op_name  = html.find("h4").text.lower().replace(" ","_")
-    column_names = map(lambda x: x.text.encode("utf8").strip().lower().replace(" ", "_").replace("\xc2\xa0",""), list_tr[0].find_all("th"))
+    list_th = list_tr[0].find_all("th")
+    column_names = clean_text_for_csv(list_th, "th")
     list_of_rows.append(column_names)
-    list_of_rows[0].append("in_california")
-    for item in list_tr[1:-1]:
+    list_td = list_tr[1:-1]
+    
+    for item in list_td:
         """the string cutting removes the first row, headers, and the last row, which we don't need"""
-        list_of_rows.append(map(lambda x: x.text.encode("utf8").strip().replace(",",""), item.find_all("td")))
+        list_of_rows.append(clean_text_for_csv(list, "td"))
     csv_file = open(op_name+".csv", "wb")
     writer = csv.writer(csv_file)
     writer.writerows(list_of_rows)
 
-
+def clean_text_for_csv(list, tag):
+    if tag == "th":
+        for item in list:
+            text.encode("utf8").strip().lower().replace(" ", "_").replace("\xc2\xa0","")
+        list.append("in_california")
+        return list
+    if tag == "td":
+        for item in list:
+            item.text.encode("utf8").strip().replace(",","")
+        if list[3] ==  "CA":
+            list.append("true")
+        return list 
 
 def get_list_items(html, id, position):
     target_div = html.find("div", {"id": id })
