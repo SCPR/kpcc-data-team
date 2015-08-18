@@ -39,9 +39,12 @@ def _init_():
             incident_details_url = build_url(url, determine_details_tab["url_stub"])
             details_html = open_page_and_get_soup(incident_details_url)
             write_to_csv(details_html)
+<<<<<<< HEAD
 
 def populate_config(state):
     #populated the config dict with operator ID's only from the given state
+=======
+>>>>>>> 76d62a3fcb0ce81fb368fd80e10af85f576e8a1e
 
 def get_list_items(html, id, position):
     target_div = html.find("div", {"id": id })
@@ -81,6 +84,10 @@ def open_page_and_get_soup(url):
             return False
 
 def write_to_csv(html):
+<<<<<<< HEAD
+=======
+    # this does not yet signify whether it is in ca, am currently writing that code
+>>>>>>> 76d62a3fcb0ce81fb368fd80e10af85f576e8a1e
     list_tr = html.find("div", {"id": "Incidents_tab_4"}).find_all("tr")
     op_name  = html.find("h4").text.lower().replace(" ","_")
     list_th = list_tr[0].find_all("th")
