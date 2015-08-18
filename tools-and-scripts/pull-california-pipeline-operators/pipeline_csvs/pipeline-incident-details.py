@@ -65,7 +65,7 @@ def write_to_csv(html,div_tag):
     
     for item in list_td:
         """the string cutting removes the first row, headers, and the last row, which we don't need"""
-        list_of_rows.append(clean_text_for_csv(list, "td"))
+        list_of_rows.append(clean_text_for_csv(item, "td"))
     csv_file = open(op_name+".csv", "wb")
     writer = csv.writer(csv_file)
     writer.writerows(list_of_rows)
