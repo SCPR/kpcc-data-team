@@ -62,7 +62,7 @@ def write_to_csv(html,div_tag):
     list_of_rows.append(column_names)
     list_of_rows[0].append("in_california")
     for item in list_tr[1:-1]:
-        """this removes the first row, which is the column names, the last row which is just totals and a weird hole in the table"""
+        """the string cutting removes the first row, headers, and the last row, which we don't need"""
         list_of_rows.append(map(lambda x: x.text.encode("utf8").strip().replace(",",""), item.find_all("td")))
     csv_file = open(op_name+".csv", "wb")
     writer = csv.writer(csv_file)
