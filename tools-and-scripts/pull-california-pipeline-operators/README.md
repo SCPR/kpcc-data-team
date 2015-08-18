@@ -23,11 +23,11 @@ How it Works
 
 Analyzing the data 
 ------------------
-#Guiding Questions 
-    * Who are the biggest offenders in California?
-    * Is there a relation between mileage operated and number of incidents? 
-    * What is the most common cause of pipeline failure? Most common sub-cause?
-     
+Guiding Questions 
+* Who are the biggest offenders in California?
+* Is there a relation between mileage operated and number of incidents? 
+* What is the most common cause of pipeline failure? Most common sub-cause?
+
 
 
 
