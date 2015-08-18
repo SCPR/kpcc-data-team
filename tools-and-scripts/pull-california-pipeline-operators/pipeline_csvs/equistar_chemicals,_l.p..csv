@@ -1,0 +1,4 @@
+date,system,city,state,county,cause,sub_cause,fatalities,injuries,propertydamage_(a),gross_barrels_spilled_(hazliq)_(b),net_barrels_lost_(hazliq)_(b)(c),value_of_product_lost_(d)
+02/08/11,HL,MONT BELVIEU,TX,CHAMBERS,OTHER OUTSIDE FORCE DAMAGE,FIRE/EXPLOSION AS PRIMARY CAUSE,0,0,$12360,288,288,$8360
+06/16/09,HL,CHANNELVIEW,TX,HARRIS,CORROSION,UNSPECIFIED CORROSION,0,0,$30327,3,3,$327
+11/13/08,HL,DEER PARK,TX,HARRIS,MATERIAL/WELD/EQUIP FAILURE,UNSPECIFIED EQUIPMENT FAILURE,0,0,$647,1,1,$147

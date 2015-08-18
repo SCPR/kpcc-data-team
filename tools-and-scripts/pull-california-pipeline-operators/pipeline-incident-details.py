@@ -55,15 +55,15 @@ def get_all_incident_details():
 
 
 def write_to_csv(html,div_tag):
-    list_of_rows = []
+    #This does not yet signify whether it is in CA, am currently writing that code 
     list_tr = html.find("div", {"id": div_tag }).find_all("tr")
     op_name  = html.find("h4").text.lower().replace(" ","_")
     column_names = map(lambda x: x.text.encode("utf8").strip().lower().replace(" ", "_").replace("\xc2\xa0",""), list_tr[0].find_all("th"))
     list_of_rows.append(column_names)
+    list_of_rows[0].append("in_california")
     for item in list_tr[1:-1]:
-        """this removes the first row, which is the column names, the last row which is just totals
-        and a weird hole in the table"""
-        list_of_rows.append(map(lambda x: x.text.encode("utf8").strip().replace(",",""), item.find_all("td")[0:-1]))
+        """this removes the first row, which is the column names, the last row which is just totals and a weird hole in the table"""
+        list_of_rows.append(map(lambda x: x.text.encode("utf8").strip().replace(",",""), item.find_all("td")))
     csv_file = open(op_name+".csv", "wb")
     writer = csv.writer(csv_file)
     writer.writerows(list_of_rows)
