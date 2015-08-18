@@ -12,13 +12,38 @@ logging.basicConfig(
 )
 
 config = {
+
+    "csv_filename": "pipeline-incident-details.csv",
+
     "operator_ids": [
-        2731
+        2731,
+        31909,
+        31371,
+        32646
     ],
+
     "request_headers": {
         "From": "ckeller@scpr.org",
         "User-Agent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/525.19 (KHTML, like Gecko) Chrome/1.0.154.53 Safari/525.19"
     },
+
+    "column_headers": [
+        "Operator",
+        "Date",
+        "System",
+        "City",
+        "State",
+        "County",
+        "Cause",
+        "Sub Cause",
+        "Fatalities",
+        "Injuries",
+        "Property Damage (A)",
+        "Gross Barrels Spilled (Haz Liq) (B)",
+        "Net Barrels Lost (Haz Liq) (B)(C)",
+        "Value of Product Lost (D)",
+    ]
+
 }
 
 def _init_():
@@ -27,17 +52,21 @@ def _init_():
     """
     url_prefix = "http://primis.phmsa.dot.gov/comm/reports/operator/OperatorIM_opid_"
     url_suffix = ".html?nocache=%s" % (randint(1000, 1999))
-    for operator in config["operator_ids"]:
-        url = build_url(url_prefix, operator, url_suffix)
-        raw_html = open_page_and_get_soup(url)
-        determine_incidents_tab = get_list_items(raw_html, "OuterPanel", 1)
-        if determine_incidents_tab["length"] == 4:
-            incident_url = build_url(url, determine_incidents_tab["url_stub"])
-            incident_details_html = open_page_and_get_soup(incident_url)
-            determine_details_tab = get_list_items(incident_details_html, "Incidents", -1)
-            incident_details_url = build_url(url, determine_details_tab["url_stub"])
-            details_html = open_page_and_get_soup(incident_details_url)
-            write_to_csv(details_html)
+    with open(config["csv_filename"], "wb") as file:
+        csv_file = csv.writer(file, delimiter=',', quoting=csv.QUOTE_ALL)
+        csv_file.writerow(config["column_headers"])
+        for operator in config["operator_ids"]:
+            url = build_url(url_prefix, operator, url_suffix)
+            raw_html = open_page_and_get_soup(url)
+            determine_incidents_tab = get_list_items(raw_html, "OuterPanel", 1)
+            if determine_incidents_tab["length"] == 4:
+                incident_url = build_url(url, determine_incidents_tab["url_stub"])
+                incident_details_html = open_page_and_get_soup(incident_url)
+                determine_details_tab = get_list_items(incident_details_html, "Incidents", -1)
+                incident_details_url = build_url(url, determine_details_tab["url_stub"])
+                details_html = open_page_and_get_soup(incident_details_url)
+                div_id = determine_details_tab["url_stub"].replace("#", "")
+                write_to_csv(csv_file, details_html, div_id)
 
 def get_list_items(html, id, position):
     target_div = html.find("div", {"id": id })
@@ -76,21 +105,20 @@ def open_page_and_get_soup(url):
             logger.error("(%s) %s - %s" % (str(datetime.datetime.now()), request_url, exception))
             return False
 
-def write_to_csv(html):
-    # this does not yet signify whether it is in ca, am currently writing that code
-    list_tr = html.find("div", {"id": "Incidents_tab_4"}).find_all("tr")
-    op_name  = html.find("h4").text.lower().replace(" ","_")
-    list_th = list_tr[0].find_all("th")
-    with open(op_name + ".csv", "wb") as file:
-        csv_output = csv.writer(file, delimiter=',', quoting=csv.QUOTE_ALL)
+def write_to_csv(csv_file, html, div_id):
+    list_tr = html.find("div", {"id": div_id}).find_all("tr")
+    if len(list_tr) > 0:
+        operator_name  = html.find("h4").text.title()
+        list_th = list_tr[0].find_all("th")
         csv_column_names = clean_text_for_csv(list_th, "th")
-        csv_output.writerow(csv_column_names)
-        list_td = list_tr[1:]
+        list_td = list_tr[1:-1]
         for row in list_td:
             table_cells = row.find_all("td")
             csv_rows = clean_text_for_csv(table_cells, "td")
-            logger.debug(csv_rows)
-            csv_output.writerow(csv_rows)
+            csv_rows.insert(0, operator_name)
+            csv_file.writerow(csv_rows)
+    else:
+        pass
 
 def clean_text_for_csv(list, tag):
     if tag == "th":
@@ -102,7 +130,7 @@ def clean_text_for_csv(list, tag):
     if tag == "td":
         list_of_row_data = []
         for item in list:
-            output = item.get_text().encode("utf8").strip().replace(" ", "_").replace("\xc2\xa0","")
+            output = item.get_text().encode("utf8").strip().replace("\xc2\xa0","")
             list_of_row_data.append(output)
         return list_of_row_data
 
