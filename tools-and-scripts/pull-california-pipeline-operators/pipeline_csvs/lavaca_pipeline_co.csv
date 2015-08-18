@@ -1,4 +1,0 @@
-date,system,city,state,county,cause,sub_cause,fatalities,injuries,propertydamage_(a),gross_barrels_spilled_(hazliq)_(b),net_barrels_lost_(hazliq)_(b)(c),value_of_product_lost_(d)
-05/22/15,GG,OFFSHORE,TX,Calhoun,CORROSION,INTERNAL,0,0,$56813,N/A,N/A,$963
-07/22/09,GG,OFFSHORE,OCS,,CORROSION,EXTERNAL,0,0,$8000,N/A,N/A,$250
-09/22/08,GG,POINT COMFORT,TX,CALHOUN,CORROSION,INTERNAL,0,0,$0,N/A,N/A,$0

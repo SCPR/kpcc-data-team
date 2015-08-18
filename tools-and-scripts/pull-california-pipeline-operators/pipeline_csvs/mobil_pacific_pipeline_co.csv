@@ -1,4 +1,0 @@
-date,system,city,state,county,cause,sub_cause,fatalities,injuries,propertydamage_(a),gross_barrels_spilled_(hazliq)_(b),net_barrels_lost_(hazliq)_(b)(c)
-07/28/14,HL,LONG BEACH,CA,LOS ANGELES,CORROSION,INTERNAL,0,0,$137600,16,0
-10/14/13,HL,LONG BEACH,CA,LOS ANGELES,CORROSION,EXTERNAL,0,0,$365600,6,0
-08/06/11,HL,TORRANCE,CA,LOS ANGELES,CORROSION,INTERNAL,0,0,$196640,35,0

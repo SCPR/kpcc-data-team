@@ -46,10 +46,10 @@ def get_all_incident_details():
             """ACCESS AND PROCESS THE TABLE IN FRONT OF ME """
             #this determines whether there is a table to scrape
             try:
-                if raw_html.find('div', {'id': incident_div_tag}).find("p").text == "No incidents reported since 2006.":
+                """if raw_html.find('div', {'id': incident_div_tag}).find("p").text == "No incidents reported since 2006.":
                     pass
-                else:
-                    write_to_csv(raw_html, incident_div_tag)
+                else:"""
+                write_to_csv(raw_html, incident_div_tag)
             except:
                 pass
 
@@ -74,13 +74,13 @@ def clean_text_for_csv(list, tag):
     if tag == "th":
         for item in list:
             text.encode("utf8").strip().lower().replace(" ", "_").replace("\xc2\xa0","")
-        list.append("in_california")
+            list.append("in_california")
         return list
     if tag == "td":
         for item in list:
             item.text.encode("utf8").strip().replace(",","")
-        if list[3] ==  "CA":
-            list.append("true")
+            if list[3] ==  "CA":
+                list.append("true")
         return list 
 
 def get_list_items(html, id, position):
