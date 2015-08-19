@@ -4,7 +4,7 @@ While loading a bunch of graffiti data into QGIS, I was transfixed by how the da
 ![](./images/blu_purp.png)
 
 
-I realized that this data could be used to tell a story about graffiti in Los Angeles, which resulted [in this interactive](http://projects.scpr.org/maps/graffiti-map/).
+I realized that this data could be used to tell a story about graffiti in Los Angeles, which resulted [in this story](http://www.scpr.org/news/2015/08/17/53452/watch-a-month-of-graffiti-cleanup-in-los-angeles/).
 
 The [Time Manager plug-in](http://anitagraser.com/projects/time-manager/) for QGIS by Anita Graser made that possible. This guide assumes a basic knowledge of QGIS. If you don't yet have that, or want to brush up, you can always [review the documentation](http://docs.qgis.org/2.8/).
 
