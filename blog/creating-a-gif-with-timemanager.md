@@ -6,15 +6,21 @@ While loading a bunch of graffiti data into QGIS, I was transfixed by how the da
 
 I realized that this data could be used to tell a story about graffiti in Los Angeles, which resulted [in this interactive](http://projects.scpr.org/maps/graffiti-map/).
 
-The [Time Manager plug-in](http://anitagraser.com/projects/time-manager/) for QGIS by Anita Graser made that possible.
+The [Time Manager plug-in](http://anitagraser.com/projects/time-manager/) for QGIS by Anita Graser made that possible. This guide assumes a basic knowledge of QGIS. If you don't yet have that, or want to brush up, you can always [review the documentation](http://docs.qgis.org/2.8/).
 
 
 ###Using Time Manager
-To work with it, you need to load data into QGIS that has some sort of temporal element, as well as a geographic one. Make sure you have the plugin installed (you can do that using the "Plugins" menu in QGIS). 
+To work with it, you need to load data into QGIS that has some sort of temporal element, as well as a geographic one. You could use something as simple as this:
+
+![](./images/data_layout.png)
+
+(You could actually use something even simpler. Here the TOTAL_SQFT_CLEANED column controls how large the circles are.)
+
+Make sure you have the plugin installed (you can do that using the "Plugins" menu in QGIS). 
 
 Keep in mind you'll do all the styling outside of Time Manager, most likely using the properties on your layer.
 
-Call the Time Manager toolbar up, which will look like this:
+Once you've done that, call the Time Manager toolbar up, which will look like this:
 ![](./images/time_mgr.png)
 
 Hit the "Settings" button. Make sure that "Display frame start time on map" is selected, because you want the time displayed on the images to lend clarity and help the viewer understand. (One feature you will not have using this method is a legend.)
