@@ -40,7 +40,7 @@ Guiding Questions
 * Is there a relation between mileage operated and number of incidents? What are the incidences per mile? 
 * What is the most common cause of pipeline failure?
 
-There are 1757 pipeline operators operating pipeline in CA. There have been 273 incidents in California since 2006, caused by 34 different pipeline operators. 
+There are 98 pipeline operators operating pipeline in CA. There have been 273 incidents in California since 2006, caused by 34 different pipeline operators. 
 
 Images TKTK
 
