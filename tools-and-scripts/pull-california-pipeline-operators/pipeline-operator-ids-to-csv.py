@@ -1,7 +1,8 @@
-    import requests
+import requests
 import pandas as pd
 import logging
 import time
+import datetime
 from bs4 import BeautifulSoup
 
 logger = logging.getLogger("root")
@@ -47,6 +48,7 @@ def _init_():
         operator_html = open_page_and_get_soup(operator["url"])
         updated_operator = operator_details(operator, operator_html)
         list_of_cali_operators.append(updated_operator)
+        logger.DEBUG(list_of_cali_operators)
     create_pandas_dataframe(list_of_cali_operators, config["csv_columns"])
 
 def open_page_and_get_soup(url):
@@ -55,7 +57,7 @@ def open_page_and_get_soup(url):
     """
     while True:
         try:
-            time.sleep(3)
+            time.sleep(.25)
             request = requests.get(url, headers = config["request_headers"])
             if request.status_code == 200:
                 raw_html = BeautifulSoup(request.content)

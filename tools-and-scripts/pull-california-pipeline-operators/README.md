@@ -26,10 +26,9 @@ Analyzing the data
 Guiding Questions 
 * Who are the biggest offenders in California?
 * Is there a relation between mileage operated and number of incidents? 
-* What is the most common cause of pipeline failure? Most common sub-cause?
+* What is the most common cause of pipeline failure?
 
-
-
+There are 273 incidents in California since 2006, caused by 34 different pipeline operators. There have been 9 fatalities and 62 injuries, all caused by the same pipeline operator in two separate incidences. The most common cause of pipeline failures are material/weld/equipment failure and corrosion. 
 
 
 

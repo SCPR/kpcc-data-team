@@ -2,6 +2,7 @@ import requests
 import logging
 import time
 import csv
+import datetime
 from bs4 import BeautifulSoup
 from random import randint
 
@@ -16,10 +17,6 @@ config = {
     "csv_filename": "pipeline-incident-details.csv",
 
     "operator_ids": [
-        2731,
-        31909,
-        31371,
-        32646
     ],
 
     "request_headers": {
@@ -55,6 +52,8 @@ def _init_():
     with open(config["csv_filename"], "wb") as file:
         csv_file = csv.writer(file, delimiter=',', quoting=csv.QUOTE_ALL)
         csv_file.writerow(config["column_headers"])
+        '''Populate the config dict with ids from the desired states'''
+        populate_config("CA")
         for operator in config["operator_ids"]:
             url = build_url(url_prefix, operator, url_suffix)
             raw_html = open_page_and_get_soup(url)
@@ -67,6 +66,27 @@ def _init_():
                 details_html = open_page_and_get_soup(incident_details_url)
                 div_id = determine_details_tab["url_stub"].replace("#", "")
                 write_to_csv(csv_file, details_html, div_id)
+
+
+def populate_config(state):
+    #put in the two letter state abbreviation or 'all', will grab the relevant operator IDs
+    url_prefix = "http://primis.phmsa.dot.gov/comm/reports/operator/OperatorIM_opid_"
+    url_suffix = ".html?nocache=%s" % (randint(1000, 1999))
+    main_page = open_page_and_get_soup("http://primis.phmsa.dot.gov/comm/reports/operator/OperatorListNoJS.html")
+    main_html = main_page.find('tbody').find_all("tr")
+    if state == "all":
+        for item in main_html:
+            config["operator_ids"].append(item.find('td').text.strip())
+    else:
+        for item in main_html:
+            operator_id = item.find('td').text.strip()
+            url = build_url(url_prefix, operator_id, url_suffix)
+            raw_html = open_page_and_get_soup(url)
+            if raw_html.find(text = state):
+                config["operator_ids"].append(operator_id)
+                print config["operator_ids"]
+
+
 
 def get_list_items(html, id, position):
     target_div = html.find("div", {"id": id })
