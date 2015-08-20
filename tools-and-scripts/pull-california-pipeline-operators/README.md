@@ -39,19 +39,29 @@ Guiding Questions
 * Who are the biggest offenders in California?
 * Is there a relation between mileage operated and number of incidents? What are the incidences per mile? 
 * What is the most common cause of pipeline failure?
+* What areas have been hit the hardest? 
 
-There are 98 pipeline operators operating pipeline in CA. There have been 273 incidents in California since 2006, caused by 34 different pipeline operators. 
+There are 98 companies operating pipeline in CA. There have been 273 incidents in California since 2006, caused by 34 different pipeline operators. However, the majority of the incidents have been caused by a small number of companies.
 
-Images TKTK
+#### Most common offenders - number of incidents picture #####
 
-There have been 9 fatalities and 62 injuries, all caused by the same pipeline operator in two separate incidences. The most common cause of pipeline failures are material/weld/equipment failure and corrosion. 
+However, this doesn't give us a full picture for the worst offenders in the state, because some of the companies operate vastly different quantities of pipeline.
 
-In total, 6,054,736 barrels of hazardous liquid have been spilled by 31 different operators since 2006. Only three operators spilled more than 10,000 barrels:
-* Pacific Gas & Electric : 4,009,127 barrels
-* Mojave Pipeline Operating Company: 1,037,607 barrels 
-* Southern California Gas Co: 984,104
+### operator by number of miles operated ####
 
-The next highest spiller, Crimson Pipeline L.P., only spilled 7,218 barrels 
+Calculating the number of incidents per mile gives us a better idea of which companies have pipelines that are consistently breaking.
 
+#### incidents per mile chart####
+
+There have been 9 fatalities and 62 injuries, all caused by the same pipeline operator, Pacific Gas and Electric, in two separate incidences. The largest incident, [the San Bruno pipeline explosion](http://www.scpr.org/news/2015/04/09/50901/california-regulator-suggests-utility-pg-e-is-too/), caused over $300 million in damages and killed 8 people.
+
+### top ten property damage picture 
+
+In total, 6,054,736 barrels of hazardous liquid have been spilled by 31 different operators since 2006. Only three operators spilled more than 10,000 barrels. The next highest spiller lost 7,218 barrels.
+
+#### Both spill pictures ####
+
+The most common cause of pipeline failures are material/weld/equipment failure and corrosion. 
+#### most common cause of failure pictures ####
 
 
