@@ -36,6 +36,7 @@ A note on what some of the different categories mean. No government dataset woul
 Analyzing the data 
 ------------------
 Guiding Questions 
+
 * Who are the biggest offenders in California?
 * Is there a relation between mileage operated and number of incidents? What are the incidences per mile? 
 * What is the most common cause of pipeline failure?
@@ -43,7 +44,7 @@ Guiding Questions
 
 There are 98 companies operating pipeline in CA. There have been 273 incidents in California since 2006, caused by 34 different pipeline operators. However, the majority of the incidents have been caused by a small number of companies.
 
-#### Most common offenders - number of incidents picture #####
+![](./ca_pipeline_data_results/Pipeline_Operator_Incidents_(_10_incidents).png)
 
 However, this doesn't give us a full picture for the worst offenders in the state, because some of the companies operate vastly different quantities of pipeline.
 
