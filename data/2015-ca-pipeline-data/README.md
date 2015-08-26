@@ -1,7 +1,7 @@
 California Pipeline Operator Data 
 ====================================
 
-The data was scraped from [here](http://primis.phmsa.dot.gov/comm/reports/operator/OperatorListNoJS.html) using two web scrapers. Details on those can be found in our [tools and scripts folder](https://github.com/SCPR/kpcc-data-team/tree/master/tools-and-scripts/pull-california-pipeline-operators)
+The data was scraped from [here](http://primis.phmsa.dot.gov/comm/reports/operator/OperatorListNoJS.html) using two web scrapers. Details on those can be found in our [tools and scripts folder](https://github.com/SCPR/kpcc-data-team/tree/wcraft-dev/tools-and-scripts/pull-california-pipeline-operators)
 
 Analyzing the data 
 ------------------
