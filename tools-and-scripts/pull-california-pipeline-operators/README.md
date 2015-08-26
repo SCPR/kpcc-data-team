@@ -45,7 +45,7 @@ The second scraper, [pipeline-operator-ids-to-csv.py](https://github.com/SCPR/kp
 	* The data, taken direcly from the website, isn't really suitable for analysis because all of the numbers and dollars aren't stored as integers. Using pandas, its very easy to clean up the data.
 
 
-Explanation of some of the categories
+Explanation of Categories
 ------------------------------------
  
 A note on what some of the different categories mean. No government dataset would be complete without some jargon, so here is an explanation for what each column means
