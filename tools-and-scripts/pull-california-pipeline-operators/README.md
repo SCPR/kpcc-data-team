@@ -53,19 +53,33 @@ A note on what some of the different categories mean. No government dataset woul
 ###### Columns in pipeline-incident-details.py
 
 * Operator
+	* The name of the company operating the pipeline 
 * Date
+	* The date that the incident occured
 * System
+	* Lists which of the three systems, hazardous liquid (HL), gas gathering (GG), or gas transmission (GT), the pipe that broke was 
 * City
+	* The city the pipeline was in 
 * State
+	* The state the pipeline was in 
 * County
+	* The county the pipeline was in  
 * Cause
+	* The cause for the pipeline incident. There are 7 possible causes: material/weld/equipment failure, corrosion, excavation damage, incorrect operation, natural force damage, other outside force damage, and all other causes 
 * Sub Cause
+	* a brief explanation of what caused the failure. 
 * Fatalities
+	* The number of people that died due to the incident  
 * Injuries
+	* The number of people that were injured due to the incident  
 * Property Damage (A)
+	* The estimated sum of damages caused by the incident, estimated and reported by the operator 
 * Gross Barrels Spilled (Haz Liq) (B)
+	* The total amount of hazardous liquid spilled during the incident 
 * Net Barrels Lost (Haz Liq) (B)(C)
+	* The total amount of hl spilled minus the amount of hl recovered 
 * Value of Product Lost (D)
+	* The monetary value of the product lost due to the incident 
 
 ###### Columns in pipeline-operator-ids-to-csv.py
 
