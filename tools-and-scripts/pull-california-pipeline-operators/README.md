@@ -11,7 +11,7 @@ California Pipeline Operator Scraper
 
 5. Table of Contents
 	* [Overview](#overview)
-	* [The Scripts](#scripts)
+	* [The Scripts](#the-scripts)
 	* [Explanation of Categories](#explanation-of-categories)
 
 Overview
