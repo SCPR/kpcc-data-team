@@ -20,7 +20,7 @@ In This Guide
 * [Data Smells](#data-smells)
 * [Glossary of Terms](#glossary-of-terms)
 * [Known data releases](#known-data-releases)
-* [Executive order and prohibited equipment](#Executive-order-and-prohibited-equipment)
+* [Executive order and prohibited equipment](#executive-order-and-prohibited-equipment)
 * [State Program Coordinators](#state-program-coordinators)
 * [Authors and Contributors](#authors-and-contributors)
 * [Sources and Coverage](#sources-and-coverage)
@@ -129,7 +129,7 @@ Known data releases
 ===================
 
 * [April 7, 2015 Defense Logistics Agency data](http://www.dispositionservices.dla.mil/EFOIA-Privacy/Pages/ereadingroom.aspx)
-	* The data is current as of March 31, 2015. The data can also be obtained by following [this Marshall Project walkthrough](https://github.com/themarshallproject/dod1033). 
+	* The data is current as of March 31, 2015. The data can also be obtained by following [this Marshall Project walkthrough](https://github.com/themarshallproject/dod1033).
 
 * Nov. 21, 2104 & February 6, 2015 Defense Logistics Agency data
     * On or about Nov. 21 the Defense Logistics Agency released data current through Nov. 14, 2014 that details controlled and non-controlled disbursements to the local law enforcement level. That data appears to no longer be a live on the DLA's website, but can still downloaded on [the Marshall Project's repo](https://github.com/themarshallproject/dod1033). Ditto for the February 2015 release.
@@ -190,9 +190,9 @@ Executive order and prohibited equipment
 ==========================
 
 * The White House's Law Enforcement Equipment Working Group [released recommendations to the President in May](https://www.documentcloud.org/documents/2083818-law-enforcement-equipment-working-group-report.html); it also included an Executive Order that prohibited certain kinds of military equipment from being transferred to law enforcement.
-	
-* The report mentions the categories of prohibited equipment, but doesn't provide the actual items that fall into those categories. So we asked the Defense Logistics Agency to share the NSNs that will now be prohibited. On 5/22 the DLA's Michelle McCaskill sent an Excel spreadsheet with those NSNs. I have [added that to the repo here](https://github.com/SCPR/kpcc-data-team/blob/aaron-dev/guides/prohibited_equipment.csv). Before uploading we combined all the sheets in the spreadsheet into a single csv file. We also added a "type" for each item, corresponding to the sheet each NSN was on in the Excel file. Those types can allow users to group by types, such as bayonet or camouflage.
-	
+
+* The report mentions the categories of prohibited equipment, but doesn't provide the actual items that fall into those categories. So we asked the Defense Logistics Agency to share the NSNs that will now be prohibited. On 5/22 the DLA's Michelle McCaskill sent an Excel spreadsheet with those NSNs. I have [added that to the repo here](/data/1033-program-data). Before uploading we combined all the sheets in the spreadsheet into a single csv file. We also added a "type" for each item, corresponding to the sheet each NSN was on in the Excel file. Those types can allow users to group by types, such as bayonet or camouflage.
+
 * Here is how McCaskill explained the data: "The attached excel spreadsheet contains the NSNs that the LESO has identified as inventory items that fall within the "Prohibited equipment list" that are on the LESO inventory.  I've also enclosed background information on the 1033/LESO program that may be of interest." On the phone, she mentioned that there are other NSNs that would be prohibited that are not reflected in the 1033 data. I.e. there are no NSNs for weaponized aircraft because there are [no weaponized planes in the current 1033 data](http://www.npr.org/sections/thetwo-way/2015/05/21/407958035/white-house-ban-on-militarized-gear-for-police-may-mean-little).
 
 
