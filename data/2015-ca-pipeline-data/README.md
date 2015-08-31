@@ -24,8 +24,9 @@ However, this doesn't give us a full picture for the worst offenders in the stat
 
 ![](./ca-pipeline-data-images/Operators_with_more_than_1000_miles.png)
 
+Calculating the number of incidents per mile gives us a better idea of which companies have pipelines that are consistently breaking.
 
-Calculating the number of incidents per mile gives us a better idea of which companies have pipelines that are consistently breaking. We can see that Bp West Coast has a very high number of incidents per mile, even though they only have 161 miles.
+We can see that Bp West Coast has a very high number of incidents per mile, even though they only have 161 miles.
 
 ![](./ca-pipeline-data-images/Incidents_per_1000.png)
 
@@ -36,7 +37,6 @@ There have been 9 fatalities and 62 injuries, all caused by the same pipeline op
 In total, 6,054,736 barrels of hazardous liquid have been spilled by 31 different operators since 2006. Only three operators spilled more than 10,000 barrels. The next highest spiller lost 7,218 barrels. A huge part of PG&E's lead is the San Bruno explosion.
 
 ![](./ca-pipeline-data-images/Top_5_-_Barrels_Spilled_by_Operator_Barrels_Spilled_chartbuilder.png)
-
 
 The most common cause of pipeline failures are material/weld/equipment failure and corrosion.
 
@@ -49,7 +49,6 @@ Long Beach is by far the city with the highest number of incidents, which may ma
 However, looking only within Long Beach, we can see which pipelines have the highest incident rate. Using the collected data, we could replicate this for any city in California.
 
 ![](./ca-pipeline-data-images/Operator_incidents_in_Long_Beach_Incidents_in_Long_Beach_chartbuilder.png)
-
 
 Explanation of Data Fields
 --------------------------
