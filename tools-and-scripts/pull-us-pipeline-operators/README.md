@@ -62,47 +62,52 @@ No government dataset would be complete without some jargon, so here is an attem
 
 **pipeline-incident-details.csv**
 
-* **Operator**
+* **operator_id**
+    * Each pipeline operator has a unique ID number
+
+* **operator**
     * The name of the company operating the pipeline
 
-* **Date**
+* **date**
     * The date that the incident occured
 
-* **System**
+* **system**
     * Lists which of the three systems, hazardous liquid (HL), gas gathering (GG), or gas transmission (GT), the pipe that broke was
 
-* **City**
+* **city**
     * The city the pipeline was in
 
-* **State**
+* **state**
     * The state the pipeline was in
 
-* **County**
+* **county**
     * The county the pipeline was in
 
-* **Cause**
+* **cause**
     * The cause for the pipeline incident. There are 7 possible causes: material/weld/equipment failure, corrosion, excavation damage, incorrect operation, natural force damage, other outside force damage, and all other causes
 
-* **Sub Cause**
+* **sub_cause**
     * a brief explanation of what caused the failure.
 
-* **Fatalities**
+* **fatalities**
     * The number of people that died due to the incident
 
-* **Injuries**
+* **injuries**
     * The number of people that were injured due to the incident
 
-* **Property Damage (A)**
+* **property_damage_a**
     * The estimated sum of damages caused by the incident, estimated and reported by the operator
 
-* **Gross Barrels Spilled (Haz Liq) (B)**
+* **gross_barrels_spilled_haz_liq_b**
     * The total amount of hazardous liquid spilled during the incident
 
-* **Net Barrels Lost (Haz Liq) (B)(C)**
+* **net_barrels_lost_haz_liq_b_c**
     * The total amount of hl spilled minus the amount of hl recovered
 
-* **Value of Product Lost (D)**
+* **value_of_product_lost_d**
     * The monetary value of the product lost due to the incident
+
+----
 
 **california_pipeline_operators.csv**
 

@@ -38,7 +38,6 @@ config = {
 }
 
 
-
 def _init_():
     """
     kicks off the whole process
@@ -52,6 +51,7 @@ def _init_():
         list_of_cali_operators.append(updated_operator)
         #logger.DEBUG(list_of_cali_operators)
     create_pandas_dataframe(list_of_cali_operators, config["csv_columns"])
+
 
 def open_page_and_get_soup(url):
     """
@@ -69,6 +69,7 @@ def open_page_and_get_soup(url):
         except Exception, exception:
             logger.error("(%s) %s - %s" % (str(datetime.datetime.now()), request_url, exception))
             return False
+
 
 def generate_operator_shopping_list(raw_html):
     """
@@ -101,6 +102,7 @@ def generate_operator_shopping_list(raw_html):
         list_rows.append(row)
     return list_rows
 
+
 def operator_details(operator, operator_html):
     logger.debug("Gathering details for %s" % (operator["name"]))
     my_table = operator_html.find("thead")
@@ -122,14 +124,9 @@ def operator_details(operator, operator_html):
     logger.debug(operator)
     return operator
 
+
 def create_pandas_dataframe(list, column_names):
     data_frame_operators = pd.DataFrame(list, columns=column_names)
-
-    # getting rid of commas in numbers for conversion to sortable ints
-    # data_frame_operators['inspected-miles-hl'] = data_frame_operators['inspected-miles-hl'].str.replace(',','')
-    # data_frame_operators['inspected-miles-gt'] = data_frame_operators['inspected-miles-gt'].str.replace(',','')
-    # data_frame_operators['inspected-miles-gg'] = data_frame_operators['inspected-miles-gg'].str.replace(',','')
-
     data_frame_operators["inspected-miles-hl"] = data_frame_operators["inspected-miles-hl"].convert_objects(convert_numeric = True)
     data_frame_operators["inspected-miles-gt"] = data_frame_operators["inspected-miles-gt"].convert_objects(convert_numeric=True)
     data_frame_operators["inspected-miles-gg"] = data_frame_operators["inspected-miles-gg"].convert_objects(convert_numeric=True)
@@ -138,6 +135,7 @@ def create_pandas_dataframe(list, column_names):
     data_frame_operators["incidents"] = data_frame_operators["incidents"].convert_objects(convert_numeric=True)
     data_frame_operators = data_frame_operators.fillna("")
     data_frame_operators.to_csv(config["csv_name"], encoding = "utf-8")
+
 
 if __name__ == "__main__":
     _init_()
