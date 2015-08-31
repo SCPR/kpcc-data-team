@@ -1,5 +1,5 @@
-What we've learned about particular datasets
-============================================
+What we've learned about particular datasets, gathering data or the presentation of data
+========================================================================================
 
 * [Finding Stories In Budget Documents](/guides/finding-stories-in-budget-documents.md)
 

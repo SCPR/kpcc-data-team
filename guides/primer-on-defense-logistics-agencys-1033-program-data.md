@@ -11,8 +11,6 @@ On or about Nov. 21, 2014, the Defense Logistics Agency [released data](http://w
 
 On May 19, 2015 President Obama's Law Enforcement Equipment Working Group issued a report including recommendations on equipment transfers and oversight. That day Obama issued an executive order that prohibited certain items from transfer through federal programs, and placed new restrictions on others. The order attracted positive press coverage, but a subsequent NPR story revealed [it would have little practicial impact](http://www.npr.org/sections/thetwo-way/2015/05/21/407958035/white-house-ban-on-militarized-gear-for-police-may-mean-little).
 
-
-
 In This Guide
 =============
 
