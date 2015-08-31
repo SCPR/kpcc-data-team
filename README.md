@@ -6,8 +6,11 @@ Where we attempt to lay a foundation, document practices and find our way...
 Table of Contents
 =================
 
+* [Blog Posts](/blog)
 * [Checklists](/checklists)
-* [Data](/data)
+* [Selected Datasets](/data)
+* [Guides to Datasets and Presentation](/guides)
+* [Tools and Scripts for Working with Data](/tools-and-scripts)
 
 Dare we say a "Statement of Purpose"
 ====================================
