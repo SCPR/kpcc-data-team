@@ -47,7 +47,7 @@ Here is a brief description of how the scripts work and how to change what state
 
 **pipeline-incident-details**
 
-[pipeline-incident-details.py](/tools-and-scripts/pull-california-pipeline-operators/pipeline-incident-details.py), focuses only on grabbing info on pipeline incidents and acccidents in California.
+[pipeline-incident-details.py](/tools-and-scripts/pull-california-pipeline-operators/pipeline-incident-details.py) focuses only on grabbing info on pipeline incidents and acccidents in California.
 
 * [PHMSA's operator list](http://primis.phmsa.dot.gov/comm/reports/operator/OperatorListNoJS.html) doesn't list which states the operator has pipelines in, so the script's first job is to go through the entire list and find which are in California. The function ```populate_config can``` be in changed in ```_init_``` to take any 2-letter state abbreviation, or 'all'.
 
