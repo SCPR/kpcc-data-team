@@ -20,8 +20,8 @@ For instance, when looking at the [list of operators](http://primis.phmsa.dot.go
 
 We decided to attempt to fix that - or at least address - with a couple of scrapers:
 
-* [pipeline-operator-ids-to-csv.py](tools-and-scripts/pull-california-pipeline-operators/pipeline-operator-ids-to-csv.py)
-* [pipeline-incident-details.py](tools-and-scripts/pull-california-pipeline-operators/pipeline-incident-details.py).
+* [pipeline-operator-ids-to-csv.py](/tools-and-scripts/pull-california-pipeline-operators/pipeline-operator-ids-to-csv.py)
+* [pipeline-incident-details.py](/tools-and-scripts/pull-california-pipeline-operators/pipeline-incident-details.py)
 
 Both are written in Python and use the BeautifulSoup library to go through the PHMSA website and gather info on pipelines. To get up and running simply install the dependencies - ```pip install requirements.txt```
 
