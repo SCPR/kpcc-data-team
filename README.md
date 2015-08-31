@@ -87,3 +87,4 @@ Contributors
 
 * **[Chris Keller](https://github.com/chrislkeller)**: [@chrislkeller](http://twitter.com/chrislkeller)
 * **[Aaron Mendelson](https://github.com/amendelson)**: [@a_mendelson](https://twitter.com/a_mendelson)
+* **[Will Craft](https://github.com/wcraft)**: [@craftworksxyz](https://twitter.com/craftworksxyz)
