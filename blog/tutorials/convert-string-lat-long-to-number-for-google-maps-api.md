@@ -1,7 +1,7 @@
 Convert string Lat/Long to number for Google Maps API
 =====================================================
 
-By [Chris Keller](https://github.com/chrislkeller)
+By [Chris Keller](http://www.scpr.org/about/people/staff/chris-keller)
 
 When sending [Lat/Long](https://developers.google.com/maps/documentation/javascript/reference#LatLng) values to the [Google Maps API](https://developers.google.com/maps/documentation/javascript/) for something like setCenter(), it wants an number value. But the value we pull from an option menu like the one below is a string.
 
