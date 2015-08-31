@@ -1,20 +1,24 @@
 California Pipeline Operator Data
 ====================================
 
-The data was scraped from [here](http://primis.phmsa.dot.gov/comm/reports/operator/OperatorListNoJS.html) using two web scrapers. Details on those can be found in our [tools and scripts folder](https://github.com/SCPR/kpcc-data-team/tree/wcraft-dev/tools-and-scripts/pull-california-pipeline-operators)
+The data was scraped from [here](http://primis.phmsa.dot.gov/comm/reports/operator/OperatorListNoJS.html) using two web scrapers. Details on those can be found in our [tools and scripts folder](/tools-and-scripts/pull-us-pipeline-operators)
 
 Analyzing the data
 ------------------
-Guiding Questions
+
+**Guiding Questions**
 
 * Who are the biggest offenders in California?
 * Is there a relation between mileage operated and number of incidents? What are the incidences per mile?
 * What is the most common cause of pipeline failure?
 * What areas have been hit the hardest?
 
-There are 98 companies operating pipeline in CA. There have been 273 incidents in California since 2006, caused by 34 different pipeline operators. However, the majority of the incidents have been caused by a small number of companies.
+According to data from August, 2015:
+* there are 98 companies operating pipeline in California
+* there have been 273 incidents in California since 2006, caused by 34 different pipeline operators
+    * the majority of the incidents have been caused by a handful of companies.
 
-![](./ca-pipeline-data-images/Pipeline_Operators_with_more_than_10_incidents.png)
+![](/ca-pipeline-data-images/Pipeline_Operators_with_more_than_10_incidents.png)
 
 However, this doesn't give us a full picture for the worst offenders in the state, because some of the companies operate vastly different quantities of pipeline.
 
