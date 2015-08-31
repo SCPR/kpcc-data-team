@@ -1,6 +1,6 @@
 ##How to make a quick heatmap 
 
-This is a brief guide on how to make basic heatmaps using QGIS and the OpenStreetMap and Heatmap plugins. Steps taken from this [QGIS tutorial on how to make heatmaps](http://www.qgistutorials.com/en/docs/creating_heatmaps.html), which includes instructions on how to download plugins. 
+This is a brief guide on how to make basic heatmaps using QGIS and the OpenStreetMap and Heatmap plugins. Steps taken from this [QGIS tutorial on how to make heatmaps](http://www.qgistutorials.com/en/docs/creating_heatmaps.html), which includes instructions on how to download plugins. This assumes a basic knowledge of QGIS, but it is very easy to learn how to use QGIS from scratch using the linked tutorial.  
 
 
 ##### Steps
