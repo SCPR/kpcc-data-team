@@ -23,10 +23,9 @@ We decided to attempt to fix that - or at least address - with a couple of scrap
 * [pipeline-operator-ids-to-csv.py](/tools-and-scripts/pull-california-pipeline-operators/pipeline-operator-ids-to-csv.py)
 * [pipeline-incident-details.py](/tools-and-scripts/pull-california-pipeline-operators/pipeline-incident-details.py)
 
-Both are written in Python and use the BeautifulSoup library to go through the PHMSA website and gather info on pipelines. To get up and running simply install the dependencies - ```pip install requirements.txt```
+Both are written in [Python](https://www.python.org/) and use [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/bs4/doc/) to go through the PHMSA website and gather info on pipelines. To get up and running simply install the dependencies - ```pip install requirements.txt```
 
 The [data](/data/2015-ca-pipeline-data) gathered by the scrapers from the [Pipeline and Hazardous Materials Safety Administration](http://primis.phmsa.dot.gov/comm/reports/operator/OperatorListNoJS.html) contains the number of miles and types of pipelines, and incidents for operators within California that have had pipes break.
-
 
 The Scripts
 -----------
@@ -35,7 +34,7 @@ Here is a brief description of how the scripts work and how to change what state
 
 **pipeline-operator-ids-to-csv**
 
-The second scraper, [pipeline-operator-ids-to-csv.py](tools-and-scripts/pull-california-pipeline-operators/pipeline-operator-ids-to-csv.py) grabs more general information on all pipelines operating in the US and also checks to see if they operate in California.
+[pipeline-operator-ids-to-csv.py](/tools-and-scripts/pull-california-pipeline-operators/pipeline-operator-ids-to-csv.py) grabs more general information on all pipelines operating in the US and also checks to see if they operate in California.
 
 * The scraper goes through [PHMSA's operator list](http://primis.phmsa.dot.gov/comm/reports/operator/OperatorListNoJS.html) and grabs all the info present on the page.
 
@@ -47,10 +46,10 @@ The second scraper, [pipeline-operator-ids-to-csv.py](tools-and-scripts/pull-cal
 
 **pipeline-incident-details**
 
-The first scraper, [pipeline-incident-details.py](/tools-and-scripts/pull-california-pipeline-operators/pipeline-incident-details.py), focuses only on grabbing info on pipeline incidents and acccidents in California.
+[pipeline-incident-details.py](/tools-and-scripts/pull-california-pipeline-operators/pipeline-incident-details.py), focuses only on grabbing info on pipeline incidents and acccidents in California.
 
-* [PHMSA's operator list](http://primis.phmsa.dot.gov/comm/reports/operator/OperatorListNoJS.html) doesn't list which states the operator has pipelines in, so the script's first job is to go through the entire list and find which are in California. The function populate_config can be in changed in \_init_ to take any 2-letter state abbreviation, or 'all'.
+* [PHMSA's operator list](http://primis.phmsa.dot.gov/comm/reports/operator/OperatorListNoJS.html) doesn't list which states the operator has pipelines in, so the script's first job is to go through the entire list and find which are in California. The function ```populate_config can``` be in changed in ```_init_``` to take any 2-letter state abbreviation, or 'all'.
 
-* If the operator has pipeline in the given state, it checks to see if there have been any incidents connected to the operator since 2006. Each pipeline operator has a page with more detailed info on pipeline failures. [Example](http://primis.phmsa.dot.gov/comm/reports/operator/OperatorIM_opid_2616.html?nocache=2666#_Incidents_tab_4) This is where the juicy info on each pipeline is. If there haven't been any incidents, then the pipeline passes over that operator and doesn't gather any information.
+* If the operator has pipeline in the given state, it checks to see if there have been any incidents connected to the operator since 2006. Each pipeline operator has [a page with more detailed info](http://primis.phmsa.dot.gov/comm/reports/operator/OperatorIM_opid_2616.html?nocache=2666#_Incidents_tab_4) on pipeline incidents. If there haven't been any incidents, then the pipeline passes over that operator and doesn't gather any information.
 
-*  Not every pipeline's details page is structured the same way, so the scraper opens each page and figures out the div tag for the details table. It jumps into the table and combs through the information, sanitizing the text and numbers, removing bizarre unicode and unnecessary spaces, and adds each row to a list of lists. It then writes the list of lists to a csv using python's built-in csv writer functions.
+* Not every pipeline's details page is structured the same way, so the scraper opens each page and figures out the div tag for the details table. It jumps into the table and combs through the information, sanitizing the text and numbers, removing bizarre unicode and unnecessary spaces, and adds each row to a list of lists. It then writes the list of lists to a csv using python's built-in csv writer functions.
