@@ -7,6 +7,6 @@ What we've learned about particular datasets, gathering data or the presentation
 
 * [Defense Logistics Agency's 1033 program data](/guides/primer-on-defense-logistics-agencys-1033-program-data.md)
 
-* [Thoughts On Standards For Visualizing Information](/guides/viz-standards/README.md)
+* [Thoughts On Standards For Visualizing Information](/guides/thoughts-on-standards-for-visualizing-information.md)
 
-* [Visualizing information with R](/guides/viz-standards/visualizing-information-with-r.md)
+* [Visualizing information with R](/guides/visualizing-information-with-r.md)

@@ -43,18 +43,18 @@ OK, now let's get started using ggplot. Our code is on the right of "<-" and by 
 Now plot that
 
 	plot(hist)
-	
+
 Not quite what we want. Why are all the bars so far over?
 
 If we go  back to summary(mains), you can see that the minimum value is 0. Huh? If we look even closer, there are pipes that this data tells us were installed in Los Angeles in 127 A.D. and 1066 A.D. (the year of the Battle of Hastings)	. Since the LADWP obviously wasn't installing pipes then, let's limit our histogram to any pipe installed between 1880 and 2014. That covers the vast majority of our data set.
 
 	hist <- ggplot(mains, aes(x=PIPE_PLR_YEAR)) + geom_bar(binwidth = 1) + xlim(1880,2015)
 	plot(hist)
-	
+
 Much better. But be careful with xlim (and its cousin ylim), which will exclude outliers from our chart. You need to understand your data (and clean it) *before* considering those.
-	
+
 Next, let's make sur  our bars correspond to one year per bar. The graph will look the same, but this is a good practice for our histogram.
-	
+
 	hist <- ggplot(mains, aes(x=PIPE_PLR_YEAR)) + geom_bar(binwidth = 1) + xlim(1880,2015)
 
 Let's add a little color. Or "fill", as we'll see it called here. The LOF_GRADE vector represents the LADWP's assessed "likelihood of failure" for every pipe. By adding that color, we can see if pipes of a certain age are more likely to fail.
@@ -67,7 +67,7 @@ Woah, sure looks like that's the case. Don't really love this color scheme, thou
 Let's do something a little more watery, using [a scale of blues](https://github.com/SCPR/kpcc-data-team/tree/aaron-dev/guides/viz_standards#general-charting-guidelines) based on the SCPR website colors.
 
 	hist <- ggplot(mains, aes(x=PIPE_PLR_YEAR, fill=LOF_GRADE)) + geom_bar(binwidth = 1) + xlim(1880,2015) + scale_fill_manual(values = c("A" = "#ADDDED", "B" = "#6FC4E0", "C" = "#31aad3", "D" = "#227794", "F" = "#144454"))
-	plot(hist)	
+	plot(hist)
 
 Let's also change the name of the LOF_GRADE vector. That way it'll appear differently in our legend.
 
@@ -85,12 +85,12 @@ The text is on the small side. The font doesn't look like the rest of the site. 
 	hist <- ggplot(mains, aes(x=PIPE_PLR_YEAR, fill=Grade)) + geom_bar(binwidth = 1) + xlim(1880,2015) + scale_fill_manual(values = c("A" = "#ADDDED", "B" = "#6FC4E0", "C" = "#31aad3", "D" = "#227794", "F" = "#144454")) + xlim(1880,2015) + ggtitle("Grading the likelihood of failure of LADWP's pipes") + ylab("Number of pipes") + xlab("Year pipes were installed") + theme_bw() +  theme(plot.background = element_blank() ,panel.grid.major = element_blank() ,panel.grid.minor = element_blank(),panel.border = element_blank()) + theme(text = element_text(size=18, family="Baskerville"))
 	plot(hist)
 
-Much nicer, no? I think this improves on the published version. ![](https://raw.githubusercontent.com/SCPR/kpcc-data-team/aaron-dev/guides/viz_standards/images/watergrades.png)
+Much nicer, no? I think this improves on the published version. ![](/guides/images/watergrades.png)
 
 ### Facet wraps a.k.a small multiples
 Lets make a facet wrap in R. These are also known as small multiples, and are great at showing how related things changed over time. Our example here is a dataset representing how often the Los Angeles Metro's trains showed up late. [In reality](http://projects.scpr.org/charts/metro-on-time-performance/rail-performance/), we visualized these on a single line chart. But a facet wrap could have been effective as well.
 
-You can download that data [here](https://github.com/SCPR/kpcc-data-team/blob/master/data/metro-on-time-performance/ontime_performance_orig_documentation.xlsx). We'll get started with it by setting our working directory. That's the Desktop for this example. We'll also bring in the Excel file--R can even read those with the xlsx library.
+You can download that data [here](/data/metro-on-time-performance/ontime_performance_orig_documentation.xlsx). We'll get started with it by setting our working directory. That's the Desktop for this example. We'll also bring in the Excel file--R can even read those with the xlsx library.
 
 	setwd("~/Desktop/")
 	install.packages("xlsx")
@@ -99,7 +99,7 @@ You can download that data [here](https://github.com/SCPR/kpcc-data-team/blob/ma
 
 Let's plot out a line chart.
 
-	ggplot(transpo_late, aes(Year, On.Time.pct, color = Line)) + geom_line()	
+	ggplot(transpo_late, aes(Year, On.Time.pct, color = Line)) + geom_line()
 
 There we go! Wait...that actually looks terrible. That's because there are twelve entries per line each year. If you sub in geom_point() that will be much more clear.
 
@@ -114,8 +114,8 @@ That's better. Now we need to calculate the percentage of trips that arrived lat
 	linebyyear$latepct <- (linebyyear$latetrips/linebyyear$trips)*100
 
 If we redo the earlier line chart, it will now look better.
-	
-	ggplot(linebyyear, aes(Year, latepct, color = Line)) + geom_line()	
+
+	ggplot(linebyyear, aes(Year, latepct, color = Line)) + geom_line()
 But we want these lines on separate charts, not all together. If Los Angeles' rail system was more established, we might not be able to make out the differences between 15 lines so easily.
 
 So in that hopeful spirit, lets do our "facet wrap".
@@ -123,14 +123,14 @@ So in that hopeful spirit, lets do our "facet wrap".
 	ggplot(data=linebyyear, aes(x=Year, y=latepct)) + geom_line() + facet_wrap(~ Line)
 
 There we go. That arguably gives a clearer picture of each rail line.
-![](https://raw.githubusercontent.com/SCPR/kpcc-data-team/aaron-dev/guides/viz_standards/images/facet_trains_nocolor.png)
+![](/guides/images/facet_trains_nocolor.png)
 
 We can try to prettify this as well, though that should always be the last step. Do the real work first.
 
 	ggplot(data=linebyyear, aes(x=Year, y=latepct, color=Line)) + ylab("Percent of trains that left stations late") + ggtitle("How late are LA's train lines?") + geom_line(lwd = 2, alpha=0.8) + facet_wrap(~ Line) + theme_bw() +  theme(plot.background = element_blank() ,panel.grid.major = element_blank() ,panel.grid.minor = element_blank(),panel.border = element_blank()) + theme(text = element_text(size=15, family="Baskerville")) + theme(axis.text.x = element_text(angle = 90, hjust = 1)) + scale_colour_manual(values = c("#0072bb", "#01a4e5", "#ffb715", "#6cc06b", "#ea1d24"))
 
 Does that abstract our data too much?
-![](https://raw.githubusercontent.com/SCPR/kpcc-data-team/aaron-dev/guides/viz_standards/images/facet_trains.png)
+![](/guides/images/facet_trains.png)
 
 ## Future Improvements
 Tools exist to make web-friendly, interactive versions of R plots. A few of these are featured on [htmlwidgets for R](http://www.htmlwidgets.org/showcase_leaflet.html), including time series and scatterplots. [Shiny](http://shiny.rstudio.com/) and [plotly](https://plot.ly/r/) are other options. The [googleVis package](http://cran.r-project.org/web/packages/googleVis/vignettes/googleVis_examples.html) provides an interface to Google Charts. To my knowledge, none features responsive charting.
