@@ -64,7 +64,7 @@ Let's add a little color. Or "fill", as we'll see it called here. The LOF_GRADE 
 
 Woah, sure looks like that's the case. Don't really love this color scheme, though. When I think about pipes under the ground, rainbows aren't the first thing that comes to mind.
 
-Let's do something a little more watery, using [a scale of blues](https://github.com/SCPR/kpcc-data-team/tree/aaron-dev/guides/viz_standards#general-charting-guidelines) based on the SCPR website colors.
+Let's do something a little more watery, using [a scale of blues](/guides/thoughts-on-standards-for-visualizing-information.md#general-charting-guidelines) based on the SCPR website colors.
 
 	hist <- ggplot(mains, aes(x=PIPE_PLR_YEAR, fill=LOF_GRADE)) + geom_bar(binwidth = 1) + xlim(1880,2015) + scale_fill_manual(values = c("A" = "#ADDDED", "B" = "#6FC4E0", "C" = "#31aad3", "D" = "#227794", "F" = "#144454"))
 	plot(hist)
