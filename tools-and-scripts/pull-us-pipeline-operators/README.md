@@ -24,7 +24,7 @@ We decided to attempt to fix that - or at least address - with a couple of scrap
 * [pipeline-operator-ids-to-csv.py](/tools-and-scripts/pull-california-pipeline-operators/pipeline-operator-ids-to-csv.py)
 * [pipeline-incident-details.py](/tools-and-scripts/pull-california-pipeline-operators/pipeline-incident-details.py)
 
-Both are written in [Python](https://www.python.org/) and use [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/bs4/doc/) to go through the PHMSA website and gather info on pipelines. To get up and running simply install the dependencies - ```pip install requirements.txt```
+Both are written in [Python](https://www.python.org/) and use [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/bs4/doc/) to go through the PHMSA website and gather information on pipelines. To get up and running simply install the dependencies - ```pip install requirements.txt```
 
 The [data](/data/2015-ca-pipeline-data) gathered by the scrapers from the [Pipeline and Hazardous Materials Safety Administration](http://primis.phmsa.dot.gov/comm/reports/operator/OperatorListNoJS.html) contains the number of miles and types of pipelines, and incidents for operators within California that have had pipes break.
 
@@ -37,7 +37,7 @@ Here is a brief description of how the scripts work and how to change what state
 
 [pipeline-operator-ids-to-csv.py](/tools-and-scripts/pull-california-pipeline-operators/pipeline-operator-ids-to-csv.py) grabs more general information on all pipelines operating in the US and also checks to see if they operate in California.
 
-* The scraper goes through [PHMSA's operator list](http://primis.phmsa.dot.gov/comm/reports/operator/OperatorListNoJS.html) and grabs all the info present on the page.
+* The scraper goes through [PHMSA's operator list](http://primis.phmsa.dot.gov/comm/reports/operator/OperatorListNoJS.html) and grabs all the information present on the page.
 
 * The script then jumps into each page and checks to see if the operator is present in California. This can be edited to work for any state by changing the column name in config and by changing the operator_details funciton.
 
@@ -47,11 +47,9 @@ Here is a brief description of how the scripts work and how to change what state
 
 **pipeline-incident-details**
 
-[pipeline-incident-details.py](/tools-and-scripts/pull-california-pipeline-operators/pipeline-incident-details.py) focuses only on grabbing info on pipeline incidents and acccidents in California.
+[pipeline-incident-details.py](/tools-and-scripts/pull-california-pipeline-operators/pipeline-incident-details.py) focuses on grabbing information on pipeline incidents from a list of pipeline operator ids, which you can can acquire from the ```pipeline-operator-ids-to-csv``` scraper.
 
-* [PHMSA's operator list](http://primis.phmsa.dot.gov/comm/reports/operator/OperatorListNoJS.html) doesn't list which states the operator has pipelines in, so the script's first job is to go through the entire list and find which are in California. The function ```populate_config can``` be in changed in ```_init_``` to take any 2-letter state abbreviation, or 'all'.
-
-* If the operator has pipeline in the given state, it checks to see if there have been any incidents connected to the operator since 2006. Each pipeline operator has [a page with more detailed info](http://primis.phmsa.dot.gov/comm/reports/operator/OperatorIM_opid_2616.html?nocache=2666#_Incidents_tab_4) on pipeline incidents. If there haven't been any incidents, then the pipeline passes over that operator and doesn't gather any information.
+* If an operator has pipeline in the given state the scraper checks to see if there have been any incidents connected to the operator since 2006. Each pipeline operator has [a page with more detailed information](http://primis.phmsa.dot.gov/comm/reports/operator/OperatorIM_opid_2616.html?nocache=2666#_Incidents_tab_4) on pipeline incidents. If there haven't been any incidents, then the pipeline passes over that operator and doesn't gather any information.
 
 * Not every pipeline's details page is structured the same way, so the scraper opens each page and figures out the div tag for the details table. It jumps into the table and combs through the information, sanitizing the text and numbers, removing bizarre unicode and unnecessary spaces, and adds each row to a list of lists. It then writes the list of lists to a csv using python's built-in csv writer functions.
 
@@ -62,47 +60,52 @@ No government dataset would be complete without some jargon, so here is an attem
 
 **pipeline-incident-details.csv**
 
-* **Operator**
+* **operator_id**
+    * Each pipeline operator has a unique ID number
+
+* **operator**
     * The name of the company operating the pipeline
 
-* **Date**
+* **date**
     * The date that the incident occured
 
-* **System**
+* **system**
     * Lists which of the three systems, hazardous liquid (HL), gas gathering (GG), or gas transmission (GT), the pipe that broke was
 
-* **City**
+* **city**
     * The city the pipeline was in
 
-* **State**
+* **state**
     * The state the pipeline was in
 
-* **County**
+* **county**
     * The county the pipeline was in
 
-* **Cause**
+* **cause**
     * The cause for the pipeline incident. There are 7 possible causes: material/weld/equipment failure, corrosion, excavation damage, incorrect operation, natural force damage, other outside force damage, and all other causes
 
-* **Sub Cause**
+* **sub_cause**
     * a brief explanation of what caused the failure.
 
-* **Fatalities**
+* **fatalities**
     * The number of people that died due to the incident
 
-* **Injuries**
+* **injuries**
     * The number of people that were injured due to the incident
 
-* **Property Damage (A)**
+* **property_damage_a**
     * The estimated sum of damages caused by the incident, estimated and reported by the operator
 
-* **Gross Barrels Spilled (Haz Liq) (B)**
+* **gross_barrels_spilled_haz_liq_b**
     * The total amount of hazardous liquid spilled during the incident
 
-* **Net Barrels Lost (Haz Liq) (B)(C)**
+* **net_barrels_lost_haz_liq_b_c**
     * The total amount of hl spilled minus the amount of hl recovered
 
-* **Value of Product Lost (D)**
+* **value_of_product_lost_d**
     * The monetary value of the product lost due to the incident
+
+----
 
 **california_pipeline_operators.csv**
 

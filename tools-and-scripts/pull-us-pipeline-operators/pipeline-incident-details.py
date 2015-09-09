@@ -16,8 +16,7 @@ config = {
 
     "csv_filename": "pipeline-incident-details.csv",
 
-    "operator_ids": [
-    ],
+    "operator_ids": [],
 
     "request_headers": {
         "From": "ckeller@scpr.org",
@@ -25,20 +24,21 @@ config = {
     },
 
     "column_headers": [
-        "Operator",
-        "Date",
-        "System",
-        "City",
-        "State",
-        "County",
-        "Cause",
-        "Sub Cause",
-        "Fatalities",
-        "Injuries",
-        "Property Damage (A)",
-        "Gross Barrels Spilled (Haz Liq) (B)",
-        "Net Barrels Lost (Haz Liq) (B)(C)",
-        "Value of Product Lost (D)",
+        "operator_id",
+        "operator",
+        "date",
+        "system",
+        "city",
+        "state",
+        "county",
+        "cause",
+        "sub_cause",
+        "fatalities",
+        "injuries",
+        "property_damage_a",
+        "gross_barrels_spilled_haz_liq_b",
+        "net_barrels_lost_haz_liq_b_c",
+        "value_of_product_lost_d",
     ]
 
 }
@@ -52,10 +52,8 @@ def _init_():
     with open(config["csv_filename"], "wb") as file:
         csv_file = csv.writer(file, delimiter=',', quoting=csv.QUOTE_ALL)
         csv_file.writerow(config["column_headers"])
-        '''Populate the config dict with ids from the desired states'''
-        populate_config("CA")
-        for operator in config["operator_ids"]:
-            url = build_url(url_prefix, operator, url_suffix)
+        for operator_id in config["operator_ids"]:
+            url = build_url(url_prefix, operator_id, url_suffix)
             raw_html = open_page_and_get_soup(url)
             determine_incidents_tab = get_list_items(raw_html, "OuterPanel", 1)
             if determine_incidents_tab["length"] == 4:
@@ -65,27 +63,7 @@ def _init_():
                 incident_details_url = build_url(url, determine_details_tab["url_stub"])
                 details_html = open_page_and_get_soup(incident_details_url)
                 div_id = determine_details_tab["url_stub"].replace("#", "")
-                write_to_csv(csv_file, details_html, div_id)
-
-
-def populate_config(state):
-    #put in the two letter state abbreviation or 'all', will grab the relevant operator IDs
-    url_prefix = "http://primis.phmsa.dot.gov/comm/reports/operator/OperatorIM_opid_"
-    url_suffix = ".html?nocache=%s" % (randint(1000, 1999))
-    main_page = open_page_and_get_soup("http://primis.phmsa.dot.gov/comm/reports/operator/OperatorListNoJS.html")
-    main_html = main_page.find('tbody').find_all("tr")
-    if state == "all":
-        for item in main_html:
-            config["operator_ids"].append(item.find('td').text.strip())
-    else:
-        for item in main_html:
-            operator_id = item.find('td').text.strip()
-            url = build_url(url_prefix, operator_id, url_suffix)
-            raw_html = open_page_and_get_soup(url)
-            if raw_html.find(text = state):
-                config["operator_ids"].append(operator_id)
-                print config["operator_ids"]
-
+                write_to_csv(csv_file, details_html, div_id, operator_id)
 
 
 def get_list_items(html, id, position):
@@ -98,6 +76,7 @@ def get_list_items(html, id, position):
     list_dict["url_stub"] = find_list_items[position].find("a").get("href")
     return list_dict
 
+
 def build_url(*args):
     if len(args) == 3:
         output_url = "%s%s%s" % (args[0], args[1], args[2])
@@ -107,6 +86,7 @@ def build_url(*args):
         return output_url
     else:
         return false
+
 
 def open_page_and_get_soup(url):
     """
@@ -125,7 +105,8 @@ def open_page_and_get_soup(url):
             logger.error("(%s) %s - %s" % (str(datetime.datetime.now()), request_url, exception))
             return False
 
-def write_to_csv(csv_file, html, div_id):
+
+def write_to_csv(csv_file, html, div_id, operator_id):
     list_tr = html.find("div", {"id": div_id}).find_all("tr")
     if len(list_tr) > 0:
         operator_name  = html.find("h4").text.title()
@@ -136,9 +117,11 @@ def write_to_csv(csv_file, html, div_id):
             table_cells = row.find_all("td")
             csv_rows = clean_text_for_csv(table_cells, "td")
             csv_rows.insert(0, operator_name)
+            csv_rows.insert(0, operator_id)
             csv_file.writerow(csv_rows)
     else:
         pass
+
 
 def clean_text_for_csv(list, tag):
     if tag == "th":
@@ -153,6 +136,7 @@ def clean_text_for_csv(list, tag):
             output = item.get_text().encode("utf8").strip().replace("\xc2\xa0","")
             list_of_row_data.append(output)
         return list_of_row_data
+
 
 if __name__ == "__main__":
     _init_()
