@@ -13,11 +13,12 @@ logging.basicConfig(
 
 config = {
     "url": "http://primis.phmsa.dot.gov/comm/reports/operator/OperatorListNoJS.html",
-    "csv_name": "california_pipeline_operators.csv",
+    "csv_name": "phmsa_pipeline_operators.csv",
     "csv_columns": [
         "id",
         "california",
         "name",
+        "url",
         "incidents",
         "inspections",
         "enforcement-actions",
@@ -49,7 +50,6 @@ def _init_():
         operator_html = open_page_and_get_soup(operator["url"])
         updated_operator = operator_details(operator, operator_html)
         list_of_cali_operators.append(updated_operator)
-        #logger.DEBUG(list_of_cali_operators)
     create_pandas_dataframe(list_of_cali_operators, config["csv_columns"])
 
 
