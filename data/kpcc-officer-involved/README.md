@@ -58,14 +58,14 @@ Data Dictionary
 * **person_age** (string):
     * Age of the person shot and killed at time of death, pulled from [Los Angeles County Medical Examiner](http://mec.lacounty.gov/wps/portal/mec) data for shootings during the five-year period of review in which there were "law enforcement-related circumstances."
 
-* **district_attorney_date_of_letter** (string):
+* **district_attorney_date_of_letter** (date):
     * Day, month and year of district attorney letter declining to prosecute.
 
 * **type_of_incident** (string):
     * Comma-separated list of "types of force" used by officers in an incident, ordered by occurrence. For instance, a value of ```Pepper Spray, Bean Bag Weapon, Shooting``` indicates less-than-lethal force consisting of pepper spray and a bean bag weapon were used prior to deadly force.
 
-* **date_of_incident** (string):
-    * Day, month and year of the shooting.
+* **date_of_incident** (date/time):
+    * Day, month, year and approximate time of the shooting. The csv file contains this data as local date and time (PST or PDT). The json contains this data as UTC.
 
 * **person_killed** (boolean):
     * FALSE: Person was shot but did not die
