@@ -16,11 +16,11 @@ As KPCC set out to analyze [how often on-duty police officers and sheriff's depu
 
 Most data on police shootings is scattered, focused on fatal shootings when it’s available at all and even then rarely contains the level of detail we were looking for: How often do police shoot people who are unarmed? How often do shootings occur after pursuits? Why did officers feel they had to use deadly force?
 
-The only agency privy to the details of every shooting in the county is the [Los Angeles County District Attorney’s Office](http://da.co.la.ca.us/). When an officer shoots someone, prosecutors review evidence to determine whether it was legally justified.
+The only agency privy to the details of every shooting in Los Angeles county is the [Los Angeles County District Attorney’s Office](http://da.co.la.ca.us/). When an officer shoots someone, prosecutors review evidence to determine whether it was legally justified.
 
 If prosecutors decide not to file charges, the district attorney sends a [letter](http://projects.scpr.org/officer-involved/explore/documents.html) to the head of the law enforcement agency summarizing the facts of the case and spelling out the reasons a criminal case won't be pursued.
 
-KPCC requested letters for all shootings that occurred on or after Jan. 1, 2010. All but two shootings in 2015 were still pending at the time of publication, so we ended our period of analysis at Dec. 31, 2014. The district attorney released [359 letters](http://projects.scpr.org/officer-involved/explore/documents.html) that KPCC determined were on-duty officer-involved shootings. These documents show 375 people were hurt or killed in those cases. We did not review shootings that involved off-duty officers or D.A. reviews of suspects who died in custody from causes other than shooting. At the time of publication, the D.A. had not rendered a decision on at least 29 on-duty shootings that occurred during the five-year period we reviewed.
+KPCC requested letters for all shootings that occurred on or after Jan. 1, 2010. All but two shootings in 2015 were still pending as of Nov. 10, 2015, so we ended our period of analysis at Dec. 31, 2014. The district attorney released [359 letters](http://projects.scpr.org/officer-involved/explore/documents.html) that KPCC determined were on-duty officer-involved shootings. These documents show 375 people were hurt or killed in those cases. We did not review shootings that involved off-duty officers or district attorney reviews of suspects who died in custody from causes other than shooting. As of Nov. 10, 2015, the district attorney had not rendered a decision on at least 29 on-duty shootings that occurred during the five-year period we reviewed.
 
 [Read more about how we did it](http://projects.scpr.org/officer-involved/stories/how-we-did-it/)
 
@@ -32,7 +32,7 @@ Of the data KPCC compiled we've made [select fields available](http://projects.s
 Data Dictionary
 ===============
 
-All determinations were made using language from the District Attorney narratives and Medical Examiner's data on fatalities.
+**NOTE**: All determinations were made using language from the District Attorney narratives and Medical Examiner's data on fatalities.
 
 * **id** (primary key):
     * Unique ID of the record
@@ -62,14 +62,10 @@ All determinations were made using language from the District Attorney narrative
     * Day, month and year of district attorney letter declining to prosecute.
 
 * **type_of_incident** (string):
-    * [TK--range of values]
+    * Comma-separated list of "types of force" used by officers in an incident, ordered by occurrence. For instance, a value of ```Pepper Spray, Bean Bag Weapon, Shooting``` indicates less-than-lethal force consisting of pepper spray and a bean bag weapon were used prior to deadly force.
 
 * **date_of_incident** (string):
     * Day, month and year of the shooting.
-
-* **person_wounded** (string):
-    * FALSE: Person was not shot but was mentioned in the district attorney letter
-    * TRUE: Person was shot but did not die
 
 * **person_killed** (boolean):
     * FALSE: Person was shot but did not die
@@ -121,16 +117,16 @@ All determinations were made using language from the District Attorney narrative
     * TRUE: Person's toxicology showed signs of drug or alcohol use, or person admitted to drug use.
 
 * **officer_self_defense** (boolean):
-    * FALSE: Officer not defending him or herself in shooting
-    * TRUE: Officer was defending him or herself in shooting
+    * FALSE: Officer not defending him or herself in shooting, according to district attorney summary letters.
+    * TRUE: Officer was defending him or herself in shooting, according to district attorney summary letters.
 
 * **officer_defense_of_civillians** (boolean):
-    * FALSE: Officer not defending a civilian in shooting
-    * TRUE: Officer was defending a civilian or civilians in shooting
+    * FALSE: Officer not defending a civilian in shooting, according to district attorney summary letters.
+    * TRUE: Officer was defending a civilian or civilians in shooting, according to district attorney summary letters.
 
 * **officer_defense_of_officers** (boolean):
-    * FALSE: Officer not defending a law enforcement officer in shooting
-    * TRUE: Officer was defending another law enforcement officer or officers in shooting
+    * FALSE: Officer not defending a law enforcement officer in shooting, according to district attorney summary letters.
+    * TRUE: Officer was defending another law enforcement officer or officers in shooting, according to district attorney summary letters.
 
 Authors and Contributors
 ========================
