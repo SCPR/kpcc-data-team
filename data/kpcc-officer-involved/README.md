@@ -1,92 +1,140 @@
-##Officer-Involved project data dictionary
+KPCC's Officer Involved
+=======================
+
+In This Guide
+=============
+
+* [How We Did It](#how-we-did-it)
+* [What Is Here](#what-is-here)
+* [Data Dictionary](#data-dictionary)
+* [Authors and Contributors](#authors-and-contributors)
+
+[How We Did It](http://projects.scpr.org/officer-involved/stories/how-we-did-it/)
+=================================================================================
+
+As KPCC set out to analyze [how often on-duty police officers and sheriff's deputies in Los Angeles County shot another person](http://projects.scpr.org/officer-involved/), one thing became clear:  This isn't data you can simply look up.
+
+Most data on police shootings is scattered, focused on fatal shootings when it’s available at all and even then rarely contains the level of detail we were looking for: How often do police shoot people who are unarmed? How often do shootings occur after pursuits? Why did officers feel they had to use deadly force?
+
+The only agency privy to the details of every shooting in the county is the [Los Angeles County District Attorney’s Office](http://da.co.la.ca.us/). When an officer shoots someone, prosecutors review evidence to determine whether it was legally justified.
+
+If prosecutors decide not to file charges, the district attorney sends a [letter](http://projects.scpr.org/officer-involved/explore/documents.html) to the head of the law enforcement agency summarizing the facts of the case and spelling out the reasons a criminal case won't be pursued.
+
+KPCC requested letters for all shootings that occurred on or after Jan. 1, 2010. All but two shootings in 2015 were still pending at the time of publication, so we ended our period of analysis at Dec. 31, 2014. The district attorney released [359 letters](http://projects.scpr.org/officer-involved/explore/documents.html) that KPCC determined were on-duty officer-involved shootings. These documents show 375 people were hurt or killed in those cases. We did not review shootings that involved off-duty officers or D.A. reviews of suspects who died in custody from causes other than shooting. At the time of publication, the D.A. had not rendered a decision on at least 29 on-duty shootings that occurred during the five-year period we reviewed.
+
+[Read more about how we did it](http://projects.scpr.org/officer-involved/stories/how-we-did-it/)
+
+What Is Here
+============
+
+Of the data KPCC compiled we've made [select fields available](http://projects.scpr.org/officer-involved/explore/) in a [csv](kpcc-officer-involved-data.csv) and [json](kpcc-officer-involved-data.json) formats. As we continue to report about this issue, additional fields will be made available.
+
+Data Dictionary
+===============
+
 All determinations were made using language from the District Attorney narratives and Medical Examiner's data on fatalities.
 
-* armed_with_firearm: Boolean
-    * 0: Person did not have a firearm
-    * 1: Person had firearm
+* **id** (primary key):
+    * Unique ID of the record
 
-* armed_with_weapon: [TK--different from person_armed and person_unarmed?]
+* **district_attorney_county** (string):
+    * County of District Attorney's office that reviewed the letter.
 
-* car_stop: Boolean
-    * 0: Not a traffic stop
-    * 1: Was traffic stop
+* **district_attorney_file_number** (string):
+    * File number used by the district attorney's office. In the case of the [Los Angeles District Attorney's Justice System Integrity Division](http://da.lacounty.gov/contact/office-directory/justice-system-integrity-division) the first two numbers indicate the year in which the shooting took place.
 
-* date_of_incident: Day, month and year of incident
+* **incident_url** (string):
+    * Link to the District Attorney summary letter on [DocumentCloud](https://www.documentcloud.org/home).
 
-* district_attorney_county: County of District Attorney's office that reviewed the letter
+* **person_name** (string):
+    * Name of person shot
 
-* district_attorney_date_of_letter: Day, month and year of letter declining to prosecute
+* **person_ethnicity** (string):
+    * Race/ethnicity of person shot and killed pulled from [Los Angeles County Medical Examiner](http://mec.lacounty.gov/wps/portal/mec) data for shootings during the five-year period of review in which there were "law enforcement-related circumstances."
 
-* district_attorney_file_number: File number of the Los Angeles District Attorney's Justice System Integrity Division. The first two numbers indicate the year in which the shooting took place
+* **person_gender** (string):
+    * Gender based on district attorney records or [Los Angeles County Medical Examiner](http://mec.lacounty.gov/wps/portal/mec) data.
 
-* id: Unique ID of the incident/person [TK--which?] in KPCC data
+* **person_age** (string):
+    * Age of the person shot and killed at time of death, pulled from [Los Angeles County Medical Examiner](http://mec.lacounty.gov/wps/portal/mec) data for shootings during the five-year period of review in which there were "law enforcement-related circumstances."
 
-* incident_url: Link to the District Attorney letter on DocumentCloud
+* **district_attorney_date_of_letter** (string):
+    * Day, month and year of district attorney letter declining to prosecute.
 
-* officer_defense_of_civillians: Boolean
-    * 0: Officer not defending a civilian in shooting
-    * 1: Officer was defending a civilian or civilians in shooting
+* **type_of_incident** (string):
+    * [TK--range of values]
 
-* officer_defense_of_officers
-    * 0: Officer not defending a law enforcement officer in shooting
-    * 1: Officer was defending another law enforcement officer or officers in shooting
+* **date_of_incident** (string):
+    * Day, month and year of the shooting.
 
-* officer_self_defense
-    * 0: Officer not defending him or herself in shooting
-    * 1: Officer was defending him or herself in shooting
+* **person_wounded** (string):
+    * FALSE: Person was not shot but was mentioned in the district attorney letter
+    * TRUE: Person was shot but did not die
 
-* person_age: Age of the person at time of death, as given by Medical Examiner in case of fatal shootings
+* **person_killed** (boolean):
+    * FALSE: Person was shot but did not die
+    * TRUE: Person was shot and died
 
-* person_armed: Boolean
-    * 0: Person was not armed with a weapon at the time of shooting. This includes people who officers said were using a vehicle as a weapon, or who attempted to get their firearm [TK correct? where are replica guns?]
-    * 1: Person had any type of weapon at the time of shooting, including a firearm, knife or other weapon
+* **person_armed** (boolean, null OK):
+    * FALSE: If a person did not possess a weapon at the time of the shooting we deemed them to be unarmed, even if an officer feared the person was trying to use a vehicle to injure or kill the officer, or attempting to take an officer's weapon.
+    * TRUE: Person had any type of weapon at the time of shooting, including a firearm, airsoft pistol, BB gun, knife or other weapon
+    * NULL: Person was a bystander and not involved in the shooting, or carrying a non functional, toy or replica firearm.
 
-* person_ethnicity: Race/ethnicity as given by Medical Examiner in case of fatal shootings
+* **armed_with_firearm** (boolean):
+    * FALSE: Person did not possess a firearm.
+    * TRUE: Person possessed a firearm.
 
-* person_fled_by_foot_or_vehicle: Boolean
-    * 0: Person did not flee during incident
-    * 1: Person fled during incident by foot or car
+* **armed_with_weapon** (string):
+    * FALSE: Person did not possess a weapon other than a firearm.
+    * TRUE: Person possessed a weapon other than a firearm.
 
-* person_gender: Gender as given by Medical Examiner in case of fatal shootings
+* **used_vehicle_as_weapon** (boolean):
+    * FALSE: Person did not try to use a vehicle as a weapon during incident.
+    * TRUE: Officer said person tried to use a vehicle as a weapon during incident.
 
-* person_grabbed_for_officers_weapon_holster: Boolean
-    * 0: Person did not grab for officer's weapon during incident
-    * 1: Person grabbed for officer's weapon during incident
+* **person_ignored_officer_commands** (boolean):
+    * FALSE: Person did not ignore or disobey officer commands.
+    * TRUE: Person ignored, disobeyed or did not hear officer commands.
 
-* person_hid_hands_from_officer: Boolean
-    * 0: Person was not hiding hands during incident
-    * 1: Person concealed hands or made furtive movements [TK--wording] during incident
+* **person_hid_hands_from_officer** (boolean):
+    * FALSE: Person was not hiding hands during incident.
+    * TRUE: Person concealed hands or made furtive movements during incident.
 
-* person_ignored_officer_commands: Boolean
-    * 0: Person did not ignore or disobey officer commands
-    * 1: Person ignored, disobeyed or did not hear officer commands
+* **person_reached_for_waistband** (boolean):
+    * FALSE: Person did not reach for, tug or move hands around waistband or pants.
+    * TRUE: Person reached for, tugged or moved hands around waistband or pants.
 
-* person_killed: Boolean
-    * 0: Person was non-fatally shot [TK--will data include Judd Vear or similar?]
-    * 1: Person was fatally shot
+* **person_fled_by_foot_or_vehicle** (boolean):
+    * FALSE: Person did not flee during incident.
+    * TRUE: Person fled during incident by foot or car.
 
-* person_name: Name of person
+* **person_grabbed_for_officers_weapon_holster** (boolean):
+    * FALSE: Person did not grab for officer's weapon during incident.
+    * TRUE: Person grabbed for officer's weapon during incident.
 
-* person_reached_for_waistband: Boolean
-    * 0: Person did not reach for, tug or move hands around waistband
-    * 1: Person reached for, tugged or moved hands around waistband
+* **person_signs_of_mental_illness** (boolean):
+    * FALSE: No signs of mental illness.
+    * TRUE: Person had history of mental illness, relatives and/or friends told police person had history of mental illness or toxicology tests showed presence of therapeutic drugs in the system.
 
-* person_signs_of_impairment: Boolean
-    * 0: Person's toxicology did not show signs of impairment or drug use, person did not admit to alcohol or drug use, or information about impairment comes from a third party
-    * 1: Person's toxicology showed signs of drug or alcohol use, or person him or herself admitted to drug use
+* **person_signs_of_impairment** (boolean):
+    * FALSE: Person's toxicology did not show signs of impairment or drug use, person did not admit to alcohol or drug use, or information about impairment comes from a third party.
+    * TRUE: Person's toxicology showed signs of drug or alcohol use, or person admitted to drug use.
 
-* person_signs_of_mental_illness: Boolean
-    * 0: No signs of mental illness
-    * 1: Person had history of mental illness or relatives and/or friends told police person had history of mental illness
+* **officer_self_defense** (boolean):
+    * FALSE: Officer not defending him or herself in shooting
+    * TRUE: Officer was defending him or herself in shooting
 
-* person_unarmed: [TK--how differs from person_armed or armed_with_weapon]
+* **officer_defense_of_civillians** (boolean):
+    * FALSE: Officer not defending a civilian in shooting
+    * TRUE: Officer was defending a civilian or civilians in shooting
 
-* person_weapon: Type of weapon carried by person
+* **officer_defense_of_officers** (boolean):
+    * FALSE: Officer not defending a law enforcement officer in shooting
+    * TRUE: Officer was defending another law enforcement officer or officers in shooting
 
-* person_wounded: [TK--range of values]
+Authors and Contributors
+========================
 
-* type_of_incident: [TK--range of values]
-
-* used_vehicle_as_weapon: Boolean
-    * 0: Person did not use a vehicle as a weapon during incident
-    * 1: Person used a vehicle as a weapon during incident
+* [Chris Keller](http://www.scpr.org/about/people/staff/chris-keller)
+* [Aaron Mendelson](http://www.scpr.org/about/people/staff/aaron-mendelson)
+* [Annie Gilbertson](http://www.scpr.org/about/people/staff/annie-gilbertson)
