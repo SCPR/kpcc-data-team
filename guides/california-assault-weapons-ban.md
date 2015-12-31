@@ -1,3 +1,6 @@
+[1989 California Assault Weapons Ban](http://www.scpr.org/news/2015/12/31/56599/faq-the-california-assault-weapons-ban/)
+=====================================
+
 California is a state that is known for it’s tight gun laws. And after a mass shooting at a Dec. 2 holiday party at the Inland Regional Center in San Bernardino left 14 victims dead and 22 others wounded, part of the public debate turned to how suspects Syed Rizwan Farook and Tashfeen Malik got their hands on assault-style weapons.
  
 The rifles were legal to purchase in the state of California. However both had been modified to make them illegal under the state's assault weapons ban.
