@@ -1,12 +1,10 @@
-1989 California Assault Weapons Ban
-===================================
 California is a state that is known for it’s tight gun laws. And after a mass shooting at a Dec. 2 holiday party at the Inland Regional Center in San Bernardino left 14 victims dead and 22 others wounded, part of the public debate turned to how suspects Syed Rizwan Farook and Tashfeen Malik got their hands on assault-style weapons.
  
 The rifles were legal to purchase in the state of California. However both had been modified to make them illegal under the state's assault weapons ban.
 
 Here's a primer on the state's assault weapons ban. 
 
-**What is the California ssault weapons ban?**
+**What is the California assault weapons ban?**
 
 The Roberti-Roos Assault Weapons Control Act of 1989 became law on January 1, 1990. [It established the "assault weapon" as a new classification of firearms](http://articles.latimes.com/1989-05-19/news/mn-112_1_assault-weapons-ban-military-style-assault-types-of-semiautomatic-rifles/2), and prohibited anyone from buying them without a special permit. Those who already owned a firearm deemed an assault weapon were able to keep it.
 
