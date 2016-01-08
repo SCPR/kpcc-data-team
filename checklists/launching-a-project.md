@@ -53,8 +53,6 @@ Launching A Project
 
     * Browsers
 
-        * [ ] Browser accomodation: IE8
-
         * [ ] Browser testing: IE9
 
         * [ ] Browser testing: IE10
