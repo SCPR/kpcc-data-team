@@ -43,7 +43,10 @@ class InstagramHashtagClient(object):
     instagram_timezone = timezone("UTC")
 
     def _init(self, *args, **kwargs):
-
+        """
+        start the ball a rolling with a request to instagram API
+        open a csv file and output the headers and rows based on results
+        """
         api = InstagramAPI(
             client_id = INSTAGRAM_CLIENT_ID,
             client_secret = INSTAGRAM_CLIENT_SECRET
@@ -70,6 +73,7 @@ class InstagramHashtagClient(object):
 
     def build_csv_row_from(self, item):
         """
+        parse the api data and build a csv row
         """
         utc_post_date = item.created_time.replace(tzinfo = self.instagram_timezone)
         local_post_date = utc_post_date.astimezone(LOCAL_TIMEZONE)
@@ -96,6 +100,7 @@ class InstagramHashtagClient(object):
 
     def join_list_elements(self, list):
         """
+        for tags and users who liked, convert a list of times to commma-separated strings
         """
         output = []
         for item in list:
@@ -109,6 +114,7 @@ class InstagramHashtagClient(object):
 
     def unicode_or_bust(self, obj, encoding="utf-8"):
         """
+        convert all byte strings to unicode
         """
         if isinstance(obj, basestring):
             if not isinstance(obj, unicode):
