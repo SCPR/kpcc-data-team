@@ -3,7 +3,7 @@ instagram-hashtag-search
 
 **WHAT**: A quick and easy Python script to grab instagram posts from a given hashtag, based on a suggestion by [Maggie Lee](https://twitter.com/maggie_a_lee)
 
-If you liked this, you might also like [a quick and easy Python script to grab tweets from a given hashtag]()
+If you liked this, you might also like [a quick and easy Python script to grab tweets from a given hashtag](/tools/twitter-hashtag-search)
 
 Quickstart
 ==========

@@ -3,6 +3,12 @@ Tools & Scripts
 
 ### Python-based
 
+* [instagram-hashtag-search](/tools/instagram-hashtag-search)
+    * A quick and easy Python script to grab instagram posts from a given hashtag and write to a csv.
+
+* [twitter-hashtag-search](/tools/twitter-hashtag-search)
+    * A quick and easy Python script to grab tweets from a given hashtag and write to a csv.
+
 * [Fuzzy String Matching](/tools/fuzzy-string-matching)
     * Uses fuzzywuzzy to compare strings to each other
 
