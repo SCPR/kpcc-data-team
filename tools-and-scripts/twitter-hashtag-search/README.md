@@ -3,7 +3,7 @@ twitter-hashtag-search
 
 **WHAT**: A quick and easy Python script to grab tweets from a given hashtag and write to a csv.
 
-If you liked this, you might also like [a quick and easy Python script to grab instagram posts from a given hashtag  and write to a csv.](/tools/instagram-hashtag-search)
+If you liked this, you might also like [a quick and easy Python script to grab instagram posts from a given hashtag  and write to a csv.](/tools-and-scripts/instagram-hashtag-search)
 
 Quickstart
 ==========
