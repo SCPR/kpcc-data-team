@@ -4,7 +4,7 @@
 What
 ====
 
-* GIS data for LA County voting precincts in the June 7, 2016 primary.
+* [GIS data for LA County voting precincts in the June 7, 2016 primary](/2016-primary-precinct-level-gis)
 
 Coming Soon
 ===========
