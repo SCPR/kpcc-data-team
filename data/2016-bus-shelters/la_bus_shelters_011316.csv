@@ -1,0 +1,1451 @@
+id,furn_type,address,permit_issued,installed,lat,lon
+1,Shelter ,1305 Vermont  NB Vermont NS Pico,Yes,,34.0469479,-118.2917702
+2,Shelter ,1438 Washington Bl  EB Washington Bl NS New England St,Yes,,34.0398456,-118.2877587
+3,Shelter ,1459 Alvarado Terrace NB Alvarado St FS Hoover St,Yes,,34.0450396,-118.283512
+4,Shelter ,1307 Alvarado St  NB Hoover St FS Alvarado St,Yes,,34.0470821,-118.283373
+5,Shelter ,2201 Pico Bl  SB Hoover St NS Pico Bl,Yes ,Yes,34.0476112,-118.2845874
+6,Shelter ,2202 Pico BL  EB Pico NS Hoover St,Yes,,34.0470926,-118.2844278
+7,Shelter ,1266 Hoover St  WB Pico Bl NS Hoover St,Yes ,Yes,34.0479738,-118.2841637
+8,Shelter ,2100 Pico Bl  EB Pico Bl NS Alvarado St,Yes,,34.0472247,-118.2826652
+9,Shelter ,2012 Pico Bl  WB Pico Bl NS Alvarado St,Yes,,34.0468014,-118.2817634
+10,Shelter ,1566 Pico Bl  EB Pico Bl FS Union,Yes,,34.0441584,-118.2764975
+11,Shelter ,1200 Hoover Ave  NB Hoover Av NS 12th St,Yes,,34.0497196,-118.2841718
+12,Shelter ,1605 Hoover St  EB Venice Bl NS Hoover St,Yes ,Yes,34.0436186,-118.2841871
+13,Shelter ,NB Vermont Av FS Venice Bl,Yes,,34.0442243,-118.291601
+14,Shelter ,1200 Washington Bl NB Hoover NS Washington,Yes,,34.0388532,-118.2826629
+15,Shelter ,EB Washington Bl NS Oak St,Yes,,34.0369676,-118.2777151
+16,Shelter ,WB Washington Bl NS Union Ave,Yes,,34.0385264,-118.2811579
+17,Shelter ,1116 W. Venice Bl  EB Washington Bl NS Union Ave,Yes,,34.041424,-118.2810612
+18,Shelter ,1044 W. Venice Bl  NB Union Av NS Venice Bl,Yes,,34.041424,-118.2810612
+19,Shelter ,1051 Venice Bl  WB Venice Bl NS Union Av,Yes,,34.0415215,-118.278343
+20,Shelter ,112 Venice Bl  EB Venice Bl NS Union Av,Yes,,34.0338913,-118.2630861
+21,Shelter ,1400 Pico Bl  EB Pico Bl NS Albany St,Yes,,34.0431556,-118.274417
+22,Shelter ,1535 Hoover St  SB Hoover St NS Venice Bl,Yes,,34.0443213,-118.2842036
+23,Shelter ,1920 West Venice  EB Venice NS Midway (Loyola High),Yes,,34.0440303,-118.2981566
+24,Shelter ,2011 Venice Bl  SB Normandie Av NS Venice,Yes,,34.044067,-118.3006004
+25,Shelter ,1586 Washington Bl  NB Vermont Av NS Washington,Yes ,Yes,34.0399952,-118.2912614
+26,Shelter ,1586 EB Washington Bl FS Vermont Av,Yes ,Yes,34.0399952,-118.2912614
+27,Shelter ,WB Washington Bl NS Normandie,Yes ,Yes,34.0399754,-118.3003454
+28,Shelter ,SB Normandie Ave NS Washington Bl,Yes,,34.0399754,-118.3003454
+29,Shelter ,NB Normandie Av NS Venice Bl,Yes ,Yes,34.0437449,-118.3004205
+30,Shelter ,WB Venice Bl NS Normandie Ave,Yes,,34.0437449,-118.3004205
+31,Shelter ,1901 Venice Bl WB Venice Bl NS Midway (Loyola HS),Yes ,Yes,34.04492,-118.2966467
+32,Shelter ,2773 Pico Bl WB Pico NS Normandie Ave,Yes,,34.047528,-118.299784
+33,Shelter ,1324 Normandie Ave  NB Normandie Av NS Pico Bl,Yes ,Yes,34.0457607,-118.2995755
+34,Shelter ,SB Normandie Ave FS Pico Bl,Yes ,Yes,34.0472264,-118.3000267
+35,Shelter ,EB Venice Bl NS Vermont Ave,Yes ,Yes,34.0442243,-118.291601
+36,Shelter ,1367 Venice Bl WB Venice Bl NS Courtland Ave,Yes,,34.0437373,-118.2834106
+37,Shelter ,2506 Pico Bl EB Pico Bl NS Vermont,Yes,,34.0470928,-118.2919162
+38,Shelter ,1603 Venice Bl WB Venice Bl NS Westmoreland Ave,Yes,,34.0442611,-118.2888383
+39,Shelter ,2585 Olympic Bl  WB Olympic Bl NS Elden Ave,Yes ,Yes,34.0526351,-118.2874573
+40,Shelter ,1912 Pico Bl EB Pico Bl NS Bonnie Brae St,Yes,,34.0461531,-118.2806785
+41,Shelter ,2101 W. Olympic Bl  SB Alvarado St NS Olympic Bl,Yes ,Yes,34.0520574,-118.2801032
+42,Shelter ,2500 Pico SB Vermont FS Pico,Yes,,34.0471071,-118.2918348
+43,Shelter ,1620 Venice Bl EB Venice Bl NS Westmoreland Ave,Yes,,34.0440169,-118.289471
+44,Shelter ,2411 W. Olympic Bl WB Olympic Bl NS Hoover,Yes ,Yes,34.0526575,-118.2837843
+45,Shelter ,2500 Olympic Bl SB Hoover St FS Olympic Bl,Yes,,34.0519953,-118.2845331
+46,Shelter ,997 Vermont SB Vermont NS Olympic Bl,Yes,,34.0527032,-118.2916443
+47,Shelter ,2500 W. Olympic Bl (EB Olympic NS Hoover),Yes ,Yes,34.0519953,-118.2845331
+48,Shelter ,1417 Washington Bl WB Washington Bl NS New England St,Yes,,34.04028,-118.2870979
+49,Shelter ,1729 W. Olympic Bl  WB Olympic Bl NS Burlington Ave,Yes ,Yes,34.0501038,-118.2761873
+50,Shelter ,NB Ave 26 FS Iedll,Yes,,34.0522342,-118.2436849
+51,Shelter ,NB Figueroa St FS Ave 50,Yes,,34.1049716,-118.2021592
+52,Shelter ,SB Figueroa St NS Ave 45,Yes,,34.0959275,-118.2073255
+53,Shelter ,2890 Pico EB Pico Bl NS Ardmore Ave,Yes ,Yes,34.0471891,-118.3027546
+54,Shelter ,2921 Pico Bl WB Pico Bl NS Harvard Bl,Yes,,34.0474526,-118.3038858
+55,Shelter ,1201 Broadway WB Broadway NS Bishops,Yes ,Yes,34.0381453,-118.2604936
+56,Shelter ,SB Broadway NS Cesar E. Chavez,Yes ,Yes,34.0585244,-118.2402534
+57,Shelter ,WB Cesar Chavez FS Broadway,Yes ,Yes,34.0585244,-118.2402534
+58,Shelter ,WB Cesar Chavez FS Broadway,Yes ,Yes,34.0585244,-118.2402534
+59,Shelter ,722 S. Bixel St  EB 7th St FS Bixel St,Yes ,Yes,34.0501049,-118.264067
+60,Shelter ,2316 San Fernando Rd  SB San Fernando Rd NS Verdugo Rd.,Yes,,34.104994,-118.239194
+61,Shelter ,SB Eagle Rock Bl NS Verdugo Rd,Yes ,Yes,34.1183078,-118.2327173
+62,Shelter ,942 N Broadway NB Broadway FS College St,Yes ,Yes,34.064974,-118.2365045
+63,Shelter ,531 W College St  SB Hill St NS College,Yes,,34.0650737,-118.2391378
+64,Shelter ,888 N. Hill St.  NB Hill St NS College,Yes ,Yes,34.063782,-118.238615
+65,Shelter ,984 N. Broadway NB Broadway NS Bernard St,Yes ,Yes,34.066457,-118.2358121
+66,Shelter ,303 S. Loma Av  EB 3rd St NS Loma Dr,Yes ,Yes,34.1245938,-118.2558547
+67,Shelter ,1700 W. 6th ST  EB 6th St NS Union Av,Yes,,34.0569633,-118.2704507
+68,Shelter ,1900 W. 6th St EB 6th St NS Bonnie Brae St,Yes ,Yes,34.0584364,-118.2729575
+69,Shelter ,2401 W. 6th St. WB 6th St NS Park View ST,Yes,,34.06134,-118.2780649
+70,Shelter ,1401 W. 6th St  WB 6th St FS Valencia St,Yes,,34.0567093,-118.266973
+71,Shelter ,1200 W. Wilshire Bl  EB Wilshire Bl FS Wimer St,Yes,,34.0526919,-118.2653529
+72,Shelter ,2300 Wilshire Bl WB Wilshire Bl NS Park View St,Yes ,Yes,34.0579912,-118.2759496
+73,Shelter ,600 S. Park View St.  WB 7th St NS Park View St,Yes,,34.0597809,-118.2794123
+74,Shelter ,WB 7th St FS Alvarado St,Yes,,34.0564586,-118.2768395
+75,Shelter ,1600 W. 7th ST  EB 7th St NS Union Ave,Yes,,34.0538185,-118.2715427
+76,Shelter ,1200 W. 7th St. EB 7th St NS Lucas Ave,Yes ,Yes,34.0512242,-118.266117
+77,Shelter ,700 S. Garland Ave WB 8th NS Garland Ave,Yes ,Yes,34.0516926,-118.2663156
+78,Shelter ,2100 W. 8th St WB 8th St FS Alvarado St,Yes,,34.0548618,-118.2778395
+79,Shelter ,2426 W. 8th St  EB 8th St NS Park View St,Yes ,Yes,34.056216,-118.2818272
+80,Shelter ,847 S. Alvarado St  SB Alvarado St NS James M. Wood Bl,Yes,,34.05378,-118.2789708
+81,Shelter ,1500 Venice BlEB Venice Bl NS Magnolia Av,Yes ,Yes,33.9960748,-118.4478614
+82,Shelter ,1500 Adams Bl  WB Adams NS Budlong Ave,Yes ,Yes,34.032421,-118.294461
+83,Shelter ,SB Figueroa St NS Cypress Ave,Yes,,34.0864321,-118.2190399
+84,Shelter ,3810 N. Figueroa St  NB Figueroa St NS Pasadena St,Yes ,Yes,34.090375,-118.2116518
+85,Shelter ,4228 N. Figueroa St  NB Figueroa St NS Ave 43,Yes ,Yes,34.0941388,-118.2084521
+86,Shelter ,NB Figueroa St NS Sycamore Dr,Yes,,34.1018882,-118.2031669
+87,Shelter ,300 S. Alvarado St. NB Alvarado NS 3rd St.,Yes ,Yes,34.062615,-118.272445
+88,Shelter ,650 S. Alvarado St. NB Alvarado St. NS Wilshire,Yes,,34.0575384,-118.2756459
+89,Shelter ,700 S. Alvarado NB Alvarado NS 7th St.,Yes ,Yes,34.0564514,-118.2768228
+90,Shelter ,600 S. Alvarado SB Alvarado NS 7th,Yes ,Yes,34.0591415,-118.274719
+91,Shelter ,SB Alvarado St. NS 8th St.,Yes,,34.0548755,-118.2778305
+92,Shelter ,800 S. Alvarado NB Alvarado NS 8th St.,Yes,,34.0545268,-118.2774869
+93,Shelter ,906 S. Alvarado  NB Alvarado St. NS James Woods Bl.,Yes,,34.0530228,-118.278607
+94,Shelter ,1000 S. Alvarado St. NB Alvarado St. NS Olympic Bl,Yes,,34.0516958,-118.2798103
+95,Shelter ,1100 Avarado St. NB Alvarado St. NS 11th,Yes ,Yes,34.0498486,-118.2803431
+96,Shelter ,1147 S. Alvarado  SB Alvarado NS 12th,Yes,,34.0491436,-118.2819185
+97,Shelter ,1300 S. Alvarado St. SB Alvarado NS Hoover,Yes,,34.0460107,-118.2834688
+98,Shelter ,1500 W. Cypress  SB Cypress FS Elm St.,Yes ,Yes,34.0979364,-118.2321354
+99,Shelter ,13730 Riverside Dr SB Woodman FS Riverside Dr.,Yes ,Yes,34.1569007,-118.4320016
+100,Shelter ,13645 Riverside Dr NB Woodman FS Riverside Dr.,Yes ,Yes,34.1580541,-118.4307348
+101,Shelter ,13827 Riverside Dr WB Riverside Dr. NS Ranchito,Yes ,Yes,34.157911,-118.434544
+102,Shelter ,5556 Sepulveda Bl EB Burbank Bl FS Sepulveda,Yes ,Yes,34.171852,-118.465753
+103,Shelter ,6780 Vineland Ave (on Vanowen),Yes,,34.1937367,-118.369848
+104,Shelter ,6804 Vineland NB Vineland Ave FS Vanowen,Yes ,Yes,34.1942826,-118.3698639
+105,Shelter ,7200 Vineland NB Vineland Ave FS Sherman Wy,Yes ,Yes,34.2016482,-118.3698816
+106,Shelter ,6801 Woodman Ave SB Woodman NS Vanowen,Yes,,34.1941243,-118.43175
+107,Shelter ,13100 Victory Bl. EB Victory NS Ethel Ave,Yes ,Yes,34.1864362,-118.4184333
+108,Shelter ,13103 Victory Bl. WB Victyory Bl FS Ethel Ave,Yes ,Yes,34.186963,-118.418472
+109,Shelter ,6400 Laurel Cyn NB Laurel Canyon Bl FS Victory Bl,Yes ,Yes,34.1870014,-118.3959319
+110,Shelter ,8496 Glenoaks NB Glenoaks NS Nettleton St,Yes ,Yes,34.225102,-118.361287
+111,Shelter ,4755 Radford EB Riverside Dr NS Radford,Yes,,34.157281,-118.392326
+112,Shelter ,WB Burbank Bl FS Bellaire,Yes,,34.172134,-118.4094182
+113,Shelter ,EB Burbank Bl NS Bellaire,Yes,,34.172134,-118.4094182
+114,Shelter ,11200 Victory EB Victory Bl NS Fair,Yes,,34.18638,-118.374873
+115,Shelter ,EB Foothill Bl NS McVine,Yes,,34.2596822,-118.3113822
+116,Shelter ,10853 Victory  WB Victory Bl NS Cleon,Yes,,34.187,-118.3678378
+117,Shelter ,NB San Fernando Rd NS Arvilla,Yes,,34.2105028,-118.3563221
+118,Shelter ,11300  & 11322 Ventura Bl  EB Ventura Bl NS Eureka,Yes ,Yes,34.1405514,-118.3782574
+119,Shelter ,4434 Laurel Cyn  NB Laurel Canyon FS Moorpark,Yes ,Yes,34.1510003,-118.3964781
+120,Shelter ,4444 Van Nuys Blvd NB Van Nuys Blvd FS Moorpark St,Yes,,34.1520999,-118.4483279
+121,Shelter ,12901  Sherman Way SB Coldwater Canyon NS Herman Way,Yes ,Yes,34.2015395,-118.4162314
+122,Shelter ,12900  Sherman Way EB Sherman Way NS Coldwater Cyn,Yes ,Yes,34.2012229,-118.4159795
+123,Shelter ,7019 Coldwater Cyn SB Coldwater FS Vose,Yes,,34.198101,-118.414157
+124,Shelter ,14072 Van Owen  EB Vanowen FS Hazeltine,Yes ,Yes,34.0522342,-118.2436849
+125,Shelter ,12512 Victory Bl  EB Victory NS Whitsett,Yes ,Yes,34.186342,-118.405816
+126,Shelter ,11900 Victory  EB Victory NS Radford,Yes,,34.1866499,-118.3921501
+127,Shelter ,6402 Radford Ave  WB Victory NS Radford,Yes,,34.186894,-118.391819
+128,Shelter ,6400 Tujunga  WB Victory NS Tujunga,Yes,,34.1868967,-118.3789364
+129,Shelter ,12460 Oxnard  EB Oxnard FS Whitsett,Yes ,Yes,34.1791119,-118.4050597
+130,Shelter ,13101 Oxnard  WB Oxnard FS Ethel Ave,Yes,,34.1797169,-118.418351
+131,Shelter ,1300 Oxnard St  EB Oxnard St FS Ethel,Yes ,Yes,34.179403,-118.420345
+132,Shelter ,13200 Oxnard St  EB Oxnard FS Fulton Ave,Yes,,34.1793863,-118.4204158
+133,Shelter ,5575 Woodman  SB Woodman FS Burbank,Yes ,Yes,34.1717986,-118.4315373
+134,Shelter ,5800 Fulton WB Burbank FS Ethel,Yes ,Yes,34.1757062,-118.4201438
+135,Shelter ,12500 Burbank  WB Burbank FS Whitsett,Yes ,Yes,34.1719176,-118.4054943
+136,Shelter ,5600 Laurel Cyn  WB Burbank NS Laurel Cyn,Yes,,34.1723256,-118.396044
+137,Shelter ,9200 Sunland Blvd.  SB Sunland FS Tuxford,Yes,,34.2359554,-118.3673584
+138,Shelter ,8900 N. Sunland Bl  NB Sunland Bl NS Penrose,Yes,,34.2307547,-118.3665022
+139,Shelter ,12400 Sherman Way  WB Sherman Way NS Whitsett,Yes ,Yes,34.2011354,-118.4034481
+140,Shelter ,13100 Sherman Way  EB Sherman Way NS Ethel Ave,Yes ,Yes,34.2011774,-118.418158
+141,Shelter ,12500 Vanowen St  WB Vanowen St. FS Whitsett Ave,Yes,,34.1934838,-118.405621
+142,Shelter ,8801 Coldwater Cyn  SB Coldwater Cyn NS Vanowen,Yes ,Yes,34.1941454,-118.4139446
+143,Shelter ,13100 Vanowen St.  EB Vanowen St NS Ethel Ave,Yes,,34.193616,-118.418511
+144,Shelter ,EB Vanowen St NS Fulton Ave,Yes,,34.1939428,-118.4225263
+145,Shelter ,12100 Riverside Dr.  EB Riverside Dr. NS Laurel Canyon Bl,Yes ,Yes,34.1576032,-118.3964937
+146,Shelter ,12502 Riverside Dr.  EB Riverside Dr. NS Whitsett,Yes ,Yes,34.1573416,-118.4055268
+147,Shelter ,13300 Riverside Dr.  EB Riverside Dr. NS Fulton Ave,Yes ,Yes,34.1573666,-118.4228564
+148,Shelter ,13300 Moorpark St.  WB Moorpark St FS Fulton,Yes ,Yes,34.1501863,-118.4226882
+149,Shelter ,NB Coldwater Cyn Ave NS Roscoe Blvd,Yes,,34.2216721,-118.4144001
+150,Shelter ,11500 Vanowen St.  EB Vanowen St. FS Beck Ave,Yes,,34.1939276,-118.3823298
+151,Shelter ,11354 Vanowen St.  EB Vanowen St. FS Tujunga Ave.,Yes,,34.193611,-118.378683
+152,Shelter ,11300 Vanowen St. WB Vanowen St NS Tujunga,Yes,,34.1934825,-118.3770189
+153,Shelter ,6804 Vineland NB Vineland Ave FS Vanowen,Yes,,34.1942826,-118.3698639
+154,Shelter ,6600 Vineland  SB Vineland Ave NS Kittridge,Yes,,34.1903182,-118.37031
+155,Shelter ,109945 Victory Bl  NB Vineland Ave FS Victory,Yes ,Yes,34.1866883,-118.372499
+156,Shelter ,11000 Victory Blvd SB Vineland Ave FS Victory Blvd,Yes,,34.1863264,-118.3707864
+157,Shelter ,11011 Victory Blvd WB Victory Blvd FS Vineland Ave,Yes,,34.186938,-118.3707879
+158,Shelter ,6005 Vinland Ave  SB Vineland Ave NS Oxnard St,Yes,,34.1799172,-118.3705595
+159,Shelter ,6005 Vineland Ave WB Oxnard St FS Vineland Ave,Yes,,34.1799172,-118.3705595
+160,Shelter ,11140 Oxnard St.  EB Oxnard St. FS Fair Ave,Yes,,34.179129,-118.374485
+161,Shelter ,11211 Vanowen St WB Vanowen St FS Fair Ave,Yes,,34.194211,-118.3751278
+162,Shelter ,5200 Sepulveda BL  NB Sepulveda Bl FS Magnolia,Yes,,34.1648517,-118.4661422
+163,Shelter ,5161 Sepulveda Bl.  SB Sepulveda Bl. FS Magnolia,Yes,,34.1641987,-118.4662699
+164,Shelter ,15200 W. Magnolia Bl EB Magnolia FS Sepulveda,Yes,,34.164566,-118.46416
+165,Shelter ,5810 Sepulveda Blvd NB Sepulveda Blvd FS Hatteras St,Yes,,34.1762706,-118.4655944
+166,Shelter ,5711 Sepulveda Bl  SB Sepulveda FS Hatteras,Yes ,Yes,34.174762,-118.4666606
+167,Shelter ,14850 Oxnard St EB Oxnard St FS KeSter,Yes,,34.1792435,-118.4572421
+168,Shelter ,5700 Van Nuys Blvd NB Van Nuys Blvd NS Hatteras St,Yes,,34.174014,-118.448202
+169,Shelter ,5300 Van Nuys Blvd NB Van Nuys Blvd NS Clark St,Yes,,34.1671838,-118.4484325
+170,Shelter ,5355 Van Nuys Blvd SB Van Nuys Blvd FS Clark St,Yes,,34.1681494,-118.4491757
+171,Shelter ,5158 Magnolia Bl  NB Van Nuys NS Magnolia,Yes ,Yes,34.164911,-118.3592945
+172,Shelter ,14400 Magnolia  EB Magnolia Bl FS Van Nuys Bl,Yes,,34.1648415,-118.4465231
+173,Shelter ,5201 Vnys Bl.  SB Vnys NS Magnolia Bl.,Yes ,Yes,34.165103,-118.449075
+174,Shelter ,5100 N. Kester Ave  SB Kester Ave FS Magnolia,Yes,,34.1630208,-118.45741
+175,Shelter ,14856 Magnolia Blvd EB Magnolia Blvd FS Kester Ave,Yes,,34.1645716,-118.457
+176,Shelter ,13600 W. Oxnard St  EB Oxnard St FS Woodman,Yes,,34.1800682,-118.5493714
+177,Shelter ,5955 Woodman Ave SB Woodman Ave FS Oxnard St,Yes,,34.179079,-118.431614
+178,Shelter ,NB Coldwater FS Ventura,Yes ,Yes,34.1451179,-118.41373
+179,Shelter ,12452 Moorpark St. EB Moorpark FS Whitsett Ave.,Yes,,34.1500702,-118.4048747
+180,Shelter ,12185 Ventura Blvd WB Ventura Blvd FS Vantage Ave,Yes ,Yes,34.1436617,-118.398089
+181,Shelter ,12100 Moorpark St WB Moorpark St FS Laurel Canyon Blvd,Yes ,Yes,34.1503435,-118.3965044
+182,Shelter ,4370 Tujunga Ave NB Tujunga Ave NS Moorpark St,Yes,,34.1498615,-118.3787014
+183,Shelter ,4805 Colfax Ave.  WB Riverside FS Colfax,Yes,,34.1579529,-118.3880108
+184,Shelter ,11701 Magnolia Bl.  WB Magnolia FS Colfax,Yes ,Yes,34.1648916,-118.3877766
+185,Shelter ,13500 W. Riverside Dr.  WB Riverside Dr. FS Sunnyslope Ave.,Yes,,34.1575954,-118.4268787
+186,Shelter ,6001 Laurel Cyn Bl.  SB Laurel Cyn Bl.  NS Oxnard St.,Yes,,34.179617,-118.396753
+187,Shelter ,6774 Coldwater Canyon Ave.  EB Vanowen St. FS Coldwater Cyn Ave,Yes,,34.1937825,-118.4133505
+188,Shelter ,13656 Burbank Bl.  EB Burbank FS Woodman Ave.,Yes,,34.1719156,-118.4309967
+189,Shelter ,6300 Coldwater Canyon  NB Coldwater NS Victory,Yes ,Yes,34.185061,-118.413453
+190,Shelter ,9224 Sunland Bl.  NB Sunland NS Tuxford,Yes,,34.2362944,-118.3669328
+191,Shelter ,8351 San Fernando Rd NB San Fernando Rd FS Roscoe Blvd,Yes,,34.2216078,-118.373188
+192,Shelter ,8351 San Fernando Rd SB San Fernando Rd NS Roscoe Bl,Yes,,34.2216078,-118.373188
+193,Shelter ,NB Laurel Cyn FS Mulholland Dr.,Yes ,Yes,34.1235428,-118.3753323
+194,Shelter ,NB Topanga  Canyon FS Vanowen St.,Yes,,34.1937511,-118.6059233
+195,Shelter ,SB Topanga Cyn NS Vanowen,Yes,,34.1937511,-118.6059233
+196,Shelter ,22004 Sherman Way SB Topanga Cyn FS Sherman Way,Yes,,34.2006974,-118.6062581
+197,Shelter ,6633 Topanga Cyn Bl SB Topanga Cyn FS Kittridge,Yes,,34.1906559,-118.6063044
+198,Shelter ,5440 Topanga Cyn Bl NB Topanga Cyn FS Ventura Bl,Yes,,34.1699345,-118.6050889
+199,Shelter ,22001 Ventura BlWB Ventura Bl FS Topanga Cyn Bl,Yes ,Yes,34.168839,-118.606138
+200,Shelter ,22000 Ventura Bl  SB Topanga Cyn Bl FS Ventura,Yes,,34.1682415,-118.6062546
+201,Shelter ,SB Topanga Cyn Bl FS Burbank Bl,Yes,,34.171959,-118.6058945
+202,Shelter ,NB Topanga Cyn Bl FS Burbank Bl,Yes,,34.171959,-118.6058945
+203,Shelter ,NB Winnetka Ave FS Calvert St,Yes ,Yes,34.1822648,-118.5709533
+204,Shelter ,NB Owensmouth Ave NS Erwin St,Yes ,Yes,34.1828447,-118.6014731
+205,Shelter ,6101 Ownensmouth Ave SB Owensmouth FS Erwin St,Yes ,Yes,34.18081,-118.603629
+206,Shelter ,21650 Oxnard St NB Owensmouth Av NS Oxnard St.,Yes ,Yes,34.178822,-118.6009663
+207,Shelter ,Owensmouth Ave @ Mall Dr.,Yes,,34.1811198,-118.601463
+208,Shelter ,21700 Oxnard St SB Owensmouth Ave FS Oxnard St.,Yes ,Yes,34.1788386,-118.6020525
+209,Shelter ,NB Owensmouth Ave FS Private Dr,Yes ,Yes,NA,NA
+210,Shelter ,EB Vanowen St FS Topanga Cyn Bl,Yes ,Yes,34.1937511,-118.6059233
+211,Shelter ,EB Vanowen St. NS Owensmouth,Yes,,34.1937521,-118.6015562
+212,Shelter ,21650 Oxnard Street,Yes,,34.178822,-118.6009663
+213,Shelter ,EB Oxnard St. NS Canoga Ave,Yes ,Yes,34.1792969,-118.5973842
+214,Shelter ,WB Victory Bl FS Canoga,Yes,,34.1883594,-118.5973536
+215,Shelter ,WB Vanowen St FS Canoga,Yes ,Yes,34.1937592,-118.5974714
+216,Shelter ,NB DeSoto Ave FS Oxnard,Yes,,34.1792624,-118.5904288
+217,Shelter ,SB De Soto Ave NS Burbank,Yes ,Yes,34.1733286,-118.5882164
+218,Shelter ,EB Burbank Bl FS Canoga,Yes,,34.1733042,-118.5975016
+219,Shelter ,20905 Ventura Blvd. WB Ventura Bl FS De Soto,Yes ,Yes,34.1667231,-118.5885684
+220,Shelter ,20855 Ventura Blvd. NB De Soto Ave FS Ventura Bl,Yes ,Yes,34.1669206,-118.587789
+221,Shelter ,5450 Canoga Ave NB Canoga Ave. FS Ventura Blvd,Yes ,Yes,34.1688782,-118.5969607
+222,Shelter ,NB De Soto Ave NS Burbank Bl,Yes,,34.1733286,-118.5882164
+223,Shelter ,NB De Soto Ave FS El Rancho Dr.,Yes,,34.1847519,-118.5886681
+224,Shelter ,SB De Soto Ave FS Vanowen St,Yes ,Yes,34.1937683,-118.5884636
+225,Shelter ,NB De Soto NS Victory Bl,Yes,,34.1883711,-118.5884673
+226,Shelter ,6019 De Soto & Erwin St,Yes,,34.1826768,-118.5903679
+227,Shelter ,NB Winnetka Ave FS Victory Bl,Yes,,34.1857099,-118.5709761
+228,Shelter ,EB Vanowen St. FS Winnetka,Yes ,Yes,34.1937993,-118.5709647
+229,Shelter ,SW Corner Ventura Blvd @ Winnetka,Yes,,34.1709712,-118.5708897
+230,Shelter ,SB Fallbrook Ave NS Victory Bl,Yes,,34.1864354,-118.6233597
+231,Shelter ,22741 Victory Bl NB Fallbrook Ave FS Victory,Yes ,Yes,34.1873631,-118.6225811
+232,Shelter ,22915 Victory Bl WB Victory Bl NS Royer Ave,Yes,,34.1871323,-118.626377
+233,Shelter ,22968 EB Victory Bl FS Royer Ave,Yes ,Yes,34.1864289,-118.629916
+234,Shelter ,23644 Vanowen St.  EB Vanowen FS Platt,Yes,,34.1928749,-118.6420833
+235,Shelter ,7240 Sherman Way  WB Sherman Way FS Royer Ave,Yes,,34.2012002,-118.3626986
+236,Shelter ,19706 Ventura Blvd EB Ventura NS Corbin Ave,Yes ,Yes,34.1722309,-118.562534
+237,Shelter ,5405 Shoup Ave WB Ventura Blvd FS Shoup,Yes,,34.168968,-118.614985
+238,Shelter ,22766 Ventura Bl  EB Ventura FS Fallbrook,Yes ,Yes,34.165853,-118.6227402
+239,Shelter ,8225 Topanga Cyn Bl SB Topanga Cyn FS Roscoe Bl,Yes,,34.2192323,-118.6064979
+240,Shelter ,6201 Owensmouth Ave on Erwin St,Yes,,34.1828512,-118.6037516
+241,Shelter ,NB Western Ave. NS 242nd Place,Yes ,Yes,33.8049245,-118.3075291
+242,Shelter ,SB Valley Circle FS Burbank,Yes,,34.1715584,-118.6454489
+243,Shelter ,SB Valley Circle FS Mariano St,Yes,,34.1684201,-118.6425862
+244,Shelter ,NB Valley Circle FS Mariano,Yes ,Yes,34.1684201,-118.6425862
+245,Shelter ,5598 Valley Circle NB Valley Circle NS Burbank Blvd,Yes ,Yes,34.1724424,-118.6462245
+246,Shelter ,7301 Medical Center Dr  SB Medical Center Dr NS Sherman Way,Yes,,34.2030191,-118.6297862
+247,Shelter ,23101 Sherman Pl  WB Sherman Pl FS Medical Center Dr,Yes ,Yes,34.2014926,-118.6297771
+248,Shelter ,20506 Roscoe Bl EB Roscoe Bl NS Mason,Yes ,Yes,34.219158,-118.580386
+249,Shelter ,8240 Winnetka Ave NB Winnetka Ave NS Roscoe,Yes ,Yes,34.2193619,-118.570024
+250,Shelter ,7574 Winnetka Ave  NB Winnetka Ave NS Saticoy St,Yes ,Yes,34.2081526,-118.5708873
+251,Shelter ,6301 DESoto Ave  SB De Soto Ave NS El Rancho,Yes,,34.1848786,-118.592767
+252,Shelter ,NB De Soto Ave FS Hart,Yes,,34.197404,-118.5884761
+253,Shelter ,21103 Vanowen St.  WB Vanowen St FS Variel,Yes,,34.1941452,-118.5930628
+254,Shelter ,20901 Vanowen St. WB Vanowen FS De Soto,Yes ,Yes,34.194018,-118.588775
+255,Shelter ,7360 Valerio St  NB Reseda Bl NS Valerio St,Yes ,Yes,34.2044893,-118.633564
+256,Shelter ,6950 Reseda Bl  NB Reseda Bl NS Hart St,Yes ,Yes,34.1972818,-118.5357776
+257,Shelter ,19305 Victory Bl  WB Victory Bl FS Tampa Ave,Yes ,Yes,34.1869833,-118.5540084
+258,Shelter ,6766 Tampa Ave  NB Tampa Ave NS Vanowen St,Yes ,Yes,34.19369,-118.5533899
+259,Shelter ,6759 Tampa Ave  SB Tampa Ave FS Vanowen St.,Yes ,Yes,34.1935529,-118.5537846
+260,Shelter ,6766 Tampa Ave  EB Vanowen St FS Tampa Ave,Yes ,Yes,34.19369,-118.5533899
+261,Shelter ,19271 Sherman Way  NB Tampa Ave FS Sherman Way,Yes,,34.2014049,-118.5532523
+262,Shelter ,19300 Sherman Way  WB Sherman Way FS Tampa Ave,Yes ,Yes,34.2007872,-118.5539097
+263,Shelter ,7550 Tampa Ave  NB Tampa Ave NS Saticoy St,Yes ,Yes,34.2080401,-118.5530755
+264,Shelter ,19301 Saticoy St  SB Tampa Ave NS Saticoy St,Yes ,Yes,34.2086533,-118.5538493
+265,Shelter ,8255 Tampa Ave  SB Tampa Ave FS Roscoe Bl,Yes,,34.2202927,-118.5535674
+266,Shelter ,8242 Tampa Ave  EB Roscoe Bl FS Tampa Ave,Yes ,Yes,34.2203151,-118.5531089
+267,Shelter ,20103 Saticoy St  SB Winnetka Ave NS Saticoy St,Yes,,34.208999,-118.5714055
+268,Shelter ,7200 Winnetka Ave NB Winnetka Ave FS Sherman Way,Yes,,34.2009971,-118.5709571
+269,Shelter ,6360 Reseda Bl  EB Victory Bl FS Reseda,Yes,,34.186252,-118.5355894
+270,Shelter ,18200 Victory Bl  WB Victory FS Lindley Ave,Yes,,34.1866077,-118.5295992
+271,Shelter ,6400 N. Zelzah Ave WB Victory NS Zelzah,Yes,,34.1866455,-118.525115
+272,Shelter ,17700 Vanowen St. EB Vanowen St. NS White Oak Ave,Yes ,Yes,34.1938601,-118.5185704
+273,Shelter ,18904 Roscoe Bl  EB Roscoe Bl NS Wilbur Ave,Yes,,34.2202121,-118.5451804
+274,Shelter ,EB Roscoe Bl FS Winnetka Ave,Yes ,Yes,34.2202328,-118.5710212
+275,Shelter ,8200 De Soto Ave  SB De Soto Ave FS Roscoe Bl,Yes ,Yes,34.2180067,-118.5885165
+276,Shelter ,24400 Roscoe Bl  EB Roscoe Bl NS Canoga,Yes,,34.2193139,-118.5987357
+277,Shelter ,EB Roscoe Bl FS Topanga Cyn Bl,Yes,,34.2196628,-118.6060042
+278,Shelter ,22700 W. Sherman Way  EB Sherman Way FS Fallbrook Ave,Yes,,34.2009766,-118.623984
+279,Shelter ,7200 N. Fallbrook  NB Fallbrook Ave FS Sherman Way,Yes,,34.2009841,-118.6233822
+280,Shelter ,21900 Mulholland Dr.  EB Mulholland Dr NS Topanga Cyn Bl,Yes ,Yes,34.1507724,-118.6041932
+281,Shelter ,23300 Mulholland Dr.  NB Mulholland Dr. NS Spielberg Dr.,Yes ,Yes,34.1556943,-118.6340285
+282,Shelter ,23300 Mulholland Dr.  SB Mulholland Dr. NS Spielberg Dr.,Yes ,Yes,34.1556943,-118.6340285
+283,Shelter ,5700 Melrose  EB Melrose NS Larchmont,Yes ,Yes,34.083184,-118.324045
+284,Shelter ,300 S. La Brea NB La Brea NS 3rd St,Yes ,Yes,34.0687164,-118.3436826
+285,Shelter ,NB Fairfax NS 6th St,Yes ,Yes,34.0648717,-118.3613923
+286,Shelter ,7257 Sunset Bl  WB Sunset NS Poinsettia Pl,Yes ,Yes,34.0984882,-118.3484233
+287,Shelter ,7101 Sunset Bl  SB La Brea NS Sunset,Yes ,Yes,34.0981998,-118.3444389
+288,Shelter ,5554 Melrose  EB Melrose NS Windsor,Yes ,Yes,34.0834912,-118.3237589
+289,Shelter ,5500 Franklin Ave  EB Franklin NS Western,Yes ,Yes,34.1052311,-118.3094784
+290,Shelter ,1657 N. La Brea  EB Hwd NS La Brea,Yes,,34.1014197,-118.345494
+291,Shelter ,4500 Los Feliz Blvd. EB Los Feliz NS Hillhurst,Yes ,Yes,34.1114549,-118.287726
+292,Shelter ,1869 Hillhurst Ave.  SB Hillhurst Ave. FS Franklin Ave.,Yes,,34.1049455,-118.2874452
+293,Shelter ,450 Los Feliz Blvd.  WB Franklin FS Hillhurst,Yes ,Yes,34.111744,-118.2897407
+294,Shelter ,4693 Hollywood Blvd.,Yes ,Yes,34.101433,-118.291348
+295,Shelter ,1805 N. Vermont Ave  SB Vermont NS Melbourne Ave.,Yes,,34.1040944,-118.29179
+296,Shelter ,4650 Franklin Ave.  NB Vermont Ave NS Franklyn Ave,Yes ,Yes,34.1052042,-118.2913399
+297,Shelter ,351 S. Fuller  SB Hauser NS Burnside,Yes ,Yes,34.0686412,-118.3512032
+298,Shelter ,SB Hauser NS Burnside,Yes ,Yes,34.0662012,-118.3505597
+299,Shelter ,6101 W. 3rd St.  WB 3rd FS Gardner,Yes ,Yes,34.0703831,-118.3532376
+300,Shelter ,Wilshire @ Curson,Yes,,34.0624933,-118.3545812
+301,Shelter ,WB Olympic Bl  NS Cochran Ave,Yes,,34.057296,-118.3490957
+302,Shelter ,711 S. La Brea EB Wilshire NS La Brea,Yes ,Yes,34.061906,-118.344558
+303,Shelter ,SB La Brea Ave NS 8th St,Yes,,34.0605165,-118.3446945
+304,Shelter ,SB La Brea Ave NS 9th St,Yes,,34.058869,-118.3453503
+305,Shelter ,5007 Melrose Ave  WB Melrose FS Western,Yes,,34.0836723,-118.3096278
+306,Shelter ,4990 Melrose Ave EB Melrose FS Western,Yes ,Yes,34.0828909,-118.3083291
+307,Shelter ,5175 Melrose Ave  WB Melrose NS Wilton Pl,Yes,,34.083706,-118.313183
+308,Shelter ,5200 MelroseAve  EB Melrose NS Wilton Pl,Yes,,34.0833603,-118.3137058
+309,Shelter ,6567 Santa Monica WB Santa Monica NS Seward St.,Yes,,34.090973,-118.332891
+310,Shelter ,1354 N Highland  NB Highland Ave NS DeLongpre,Yes ,Yes,34.0959185,-118.3383918
+311,Shelter ,6536 Melrose  EB Melrose FS Highland,Yes ,Yes,34.0831818,-118.3382912
+312,Shelter ,5969 Melrose Ave  WB Melrose Ave NS Wilcox Ave,Yes,,34.0837054,-118.3306889
+313,Shelter ,1309 N. La Brea Ave  SB La Brea NS Fountain,Yes ,Yes,34.094629,-118.344441
+314,Shelter ,WB Beverly Bl NS Western Ave,Yes,,34.0762409,-118.3091606
+315,Shelter ,500 N. Western Ave NB Western Ave FS Maplewood,Yes,,34.080099,-118.308776
+316,Shelter ,503 N. Western Ave  SB Western Ave NS Maplewood,Yes,,34.0806187,-118.3094058
+317,Shelter ,5560 Lankershim Bl  NB Lankershim Bl NS Burbank,Yes,,34.1717377,-118.378541
+318,Shelter ,5356 N. Lankershim Blvd FS Chandler,Yes ,Yes,34.168347,-118.376002
+319,Shelter ,4455 Lankershim Bl  SB Lankershim FS Riverside Dr,Yes ,Yes,34.1520361,-118.3673391
+320,Shelter ,4506 Lankershim Bl  NB Lankershim Bl FS Riverside,Yes ,Yes,34.1525897,-118.3667952
+321,Shelter ,3901 Lankershim  SB Lankershim FS Campo de Cahuenga,Yes,,34.1390389,-118.3625846
+322,Shelter ,EB Ventura FS Riverton Ave.,Yes ,Yes,34.1393978,-118.3674589
+323,Shelter ,10602 Lankershim Bl  EB Ventura Bl NS Lankershim,Yes ,Yes,34.2332133,-118.3877657
+324,Shelter ,3640 Cahuenga Bl  WB Cahuenga Bl NS 101 South,Yes ,Yes,34.1350833,-118.3606191
+325,Shelter ,3356 Barham  NB Barham NS Lake Hwd,Yes ,Yes,34.1320419,-118.344042
+326,Shelter ,6228 Franklin Ave  EB Franklin Ave FS Argyle Ave,Yes ,Yes,34.1050308,-118.3250044
+327,Shelter ,4685 Hollywood Bl  WB Hollywood Bl NS Vermont,Yes,,34.1011451,-118.2911719
+328,Shelter ,SB CrySantal Springs Dr NS Los Feliz Blvd,Yes ,Yes,34.1170374,-118.2716712
+329,Shelter ,6051 Franklin Ave WB Franklin Ave FS Beachwood Dr,Yes,,34.1054961,-118.3215386
+330,Shelter ,6379 Santa Monica Blvd @Cahuenga,Yes,,34.0907654,-118.3288771
+331,Shelter ,6700 Santa Monica EB Santa Monica Bl NS Las Palmas Ave.,Yes ,Yes,34.090407,-118.3368635
+332,Shelter ,551 Vermont (SB Vermont Ave NS 6th),Yes,,34.0643889,-118.291669
+333,Shelter ,3829 W. 6th WB 6th NS Serrano,Yes ,Yes,34.0638228,-118.3063117
+334,Shelter ,SB Western FS 3rd St,Yes,,34.0689776,-118.309132
+335,Shelter ,450 S. Western NB Western FS 5th,Yes ,Yes,34.065769,-118.3084638
+336,Shelter ,3601 W. 6th SB Normandie NS 6th,Yes ,Yes,34.0638871,-118.3008652
+337,Shelter ,551 Vermont SB Vermont Ave NS 6th,Yes ,Yes,34.0643889,-118.291669
+338,Shelter ,7651 Sunset Bl  WB Sunset Bl NS Santanley Ave,Yes,,34.0980593,-118.3561121
+339,Shelter ,7652 Sunset Bl  EB Sunset Bl NS Santanley,Yes ,Yes,34.0979071,-118.3564062
+340,Shelter ,1300 N. Fairfax Ave  NB Fairfax FS Fountain Ave,Yes ,Yes,34.0946935,-118.3611852
+341,Shelter ,7600 Hollywood Bl  EB Hollywood NS Curson,Yes ,Yes,34.1013469,-118.355236
+342,Shelter ,7504 Hollywood Bl  EB Hollywood Bl NS Gardner St,Yes,,34.1013484,-118.3530987
+343,Shelter ,1861 Van Ness Ave  EB Franklin NS Van Ness,Yes,,34.105023,-118.316199
+344,Shelter ,1302 Highland Ave  NB Highland FS Fountain,Yes ,Yes,34.0946242,-118.3381516
+345,Shelter ,1350 Highland Ave.  NB Highland NS De Longpre,Yes,,34.095819,-118.338264
+346,Shelter ,5757 Wilshire Bl.  WB Wilshire FS Masselin,Yes,,34.0627069,-118.3539114
+347,Shelter ,5225 Wilshire Bl  WB Wilshire Bl NS La Brea,Yes,,34.0624628,-118.3436634
+348,Shelter ,10800 Oxnard St  EB Oxnard St FS Whitnall Hwy,Yes,,34.1794311,-118.3659429
+349,Shelter ,10600 Oxnard St  EB Oxnard St NS Cahuenga Bl,Yes,,34.1794238,-118.3615671
+350,Shelter ,5559 Vineland Ave  SB Vineland Ave FS Burbank Bl,Yes ,Yes,34.1715446,-118.3703126
+351,Shelter ,11135 Magnolia Bl  EB Magnolia  NS Lankershim,Yes ,Yes,34.1653992,-118.3738957
+352,Shelter ,4885 Lankershim Bl  SB Lankershim Bl NS Huston St,Yes,,34.1597404,-118.3715296
+353,Shelter ,4751 Lankershim NB Vineland Ave. NS Lankershim Bl.,Yes ,Yes,34.1569395,-118.3698183
+354,Shelter ,4660 Lankershim NB Lankershim NS Kling St.,Yes,,34.1554968,-118.3686277
+355,Shelter ,10660 Riverside Dr EB Riverside NS Cartwright Ave,Yes ,Yes,34.1518621,-118.3636479
+356,Shelter ,10984 Riverside Dr.  NB Vineland Ave,Yes,,34.1520078,-118.3698235
+357,Shelter ,4408 Vineland Ave  NB Vineland Ave FS Moorpark St,Yes ,Yes,34.1507189,-118.370017
+358,Shelter ,6931 Santa Monica Bl WB Santa Monica Bl NS Orange,Yes ,Yes,34.0907959,-118.3408976
+359,Shelter ,7000 Santa Monica Bl  EB Santa Monica NS Orange,Yes ,Yes,34.090407,-118.341829
+360,Shelter ,5971 Olympic Bl  WB Olympic Bl NS Ogden Dr,Yes ,Yes,34.0577678,-118.3612269
+361,Shelter ,5675 Olympic Bl WB Olympic NS Hauser,Yes ,Yes,34.0576946,-118.3531861
+362,Shelter ,6298 3rd Ave  EB 3rd FS Ogden,Yes ,Yes,33.9830278,-118.3205876
+363,Shelter ,4501 3rd St.  WB 3rd FS Wilton Pl,Yes,,34.0689761,-118.3128534
+364,Shelter ,4360 3rd St  EB 3rd NS Western,Yes ,Yes,34.0689603,-118.3092637
+365,Shelter ,4399 3rd St  WB 3rd NS St. Andrews Pl,Yes ,Yes,34.0689855,-118.3097201
+366,Shelter ,4704 Franklin Ave  EB Franklin Ave NS Vermont,Yes ,Yes,34.1054105,-118.294261
+367,Shelter ,2759 Rowena Ave  WB Rowena Ave FS Glendale Bl,Yes ,Yes,34.1075357,-118.2640565
+368,Shelter ,2724 Griffith Pk Bl  NB Griffith Park Bl FS Hyperion,Yes ,Yes,34.1077147,-118.2731108
+369,Shelter ,4201 Fountain Ave  WB Fountain Ave NS Hoover,Yes ,Yes,34.0969849,-118.280842
+370,Shelter ,4745 Hollywood Bl  WB HWD Bl NS New Hampshire,Yes ,Yes,34.1017926,-118.2934717
+371,Shelter ,3901 Lankershim  SB Lankershims FS Campo de Cahuenga,Yes ,Yes,34.1390389,-118.3625846
+372,Shelter ,10974 Ventura Bl.  EB Ventura Bl. FS Vineland,Yes ,Yes,34.1399938,-118.3699395
+373,Shelter ,4888 Lankershim Bl NB Lankershim Bl NS Huston St,Yes,,34.1600348,-118.3712817
+374,Shelter ,5045 Lankershim Bl SB Lankershim Bl NS Huston St,Yes,,34.1620204,-118.3731994
+375,Shelter ,5605 Lankershim Bl SB Lankershim Bl NS Huston St,Yes ,Yes,34.1723742,-118.3813389
+376,Shelter ,NB CrySantal Springs Dr FS Los Feliz Blvd,Yes ,Yes,34.1170374,-118.2716712
+377,Shelter ,WB Western Heritage Wy NS CrySantal Springs Dr,Yes,,34.1449463,-118.2851548
+378,Shelter ,NB CrySantal Springs Dr @ Autry National Center,Yes,,34.0522342,-118.2436849
+379,Shelter ,SB Cahuenga Bl. FS Riverside Dr.,Yes ,Yes,34.1522004,-118.3614726
+380,Shelter ,200 S. Rossmore Ave. SB Rossmore NS 3rd St.,Yes,,34.0706955,-118.3273134
+381,Shelter ,5000 W. 3rd St. WB 3rd St NS Rossmore,Yes,,34.0689207,-118.3259767
+382,Shelter ,300 S. Rossmore Ave. NB Rossmore NS 3rd St.,Yes,,34.0687377,-118.326872
+383,Shelter ,2201 Prosser Ave EB Olympic NS Prosser,Yes ,Yes,34.0476389,-118.42463
+384,Shelter ,2201 Beverly Glen Bl. EB Olympic NS Beverly Glen,Yes ,Yes,34.0498765,-118.4228456
+385,Shelter ,2070 Century Pk East  WB Olympic Bl NS Century PK East,Yes ,Yes,34.059208,-118.411539
+386,Shelter ,121 La Cienega  SB La Cienega Bl NS 3rd,Yes,,34.075004,-118.377562
+387,Shelter ,2152 Prosser Ave WB Olympic NS Prosser,Yes ,Yes,34.048428,-118.424483
+388,Shelter ,10612 Nat'l EB Nat'l Blvd. FS Overland Ave,Yes ,Yes,34.0522342,-118.2436849
+389,Shelter ,121 La CienegaWB 3rd St. FS La Cienega,Yes,,34.075004,-118.377562
+390,Shelter ,SB Sepulveda NS Palms,Yes ,Yes,34.0192753,-118.4222279
+391,Shelter ,10611 Nat'l WB Nat'l Blvd. NS Overland Ave,Yes ,Yes,34.0311375,-118.4156895
+392,Shelter ,WB National Bl. NS Sepulveda Bl.,Yes ,Yes,34.0273788,-118.4286615
+393,Shelter ,3272 Motor WB Nat'l Blvd. FS Motor Ave,Yes ,Yes,34.0297924,-118.4107323
+394,Shelter ,WB Melrose Ave NS Spaulding Ave.,Yes ,Yes,34.0837282,-118.3573819
+395,Shelter ,7101 Melrose Ave  SB La Brea FS Melrose,Yes ,Yes,34.0836581,-118.3443528
+396,Shelter ,WB Melrose Ave NS Orlando Ave.,Yes,,34.0835572,-118.3731523
+397,Shelter ,7890 Melrose EB Melrose Ave FS Fairfax,Yes ,Yes,34.0837691,-118.3611946
+398,Shelter ,660 Fairfax  NB Fairfax NS Melrose,Yes ,Yes,34.0829324,-118.3635602
+399,Shelter ,7900 Melrose Av  SB Fairfax FS Melrose,Yes ,Yes,34.0834789,-118.361814
+400,Shelter ,7900 Melrose Ave EB Melrose NS Fairfax,Yes ,Yes,34.0834789,-118.361814
+401,Shelter ,EB Melrose NS Ogden,Yes ,Yes,34.0837568,-118.3594651
+402,Shelter ,SB Sepulveda Bl FS La Grange,Yes ,Yes,34.042999,-118.440312
+403,Shelter ,SB Sepulveda Bl FS Ohio Ave,Yes ,Yes,34.0504092,-118.4466666
+404,Shelter ,NB Sepulveda NS Ohio Ave,Yes ,Yes,34.0504092,-118.4466666
+405,Shelter ,11110 W. Pico Bl  SB Sepulveda FS Pico,Yes ,Yes,34.0363952,-118.4353034
+406,Shelter ,NB Sepulveda FS Santa Monica Bl,Yes ,Yes,34.0477238,-118.4443473
+407,Shelter ,NB Sepulveda FS Getty Center Dr,Yes ,Yes,34.088648,-118.4748578
+408,Shelter ,3033 S. Sepulveda Bl SB Sepulveda FS National,Yes ,Yes,34.0263003,-118.428587
+409,Shelter ,NB Robertson Bl. FS Alden,Yes,,34.0752722,-118.3837338
+410,Shelter ,EB 3rd St. FS Robertson Bl.,Yes ,Yes,34.0735815,-118.3837509
+411,Shelter ,10830 W. Pico Bl NB Westwood Bl NS Pico Bl,Yes ,Yes,34.0398504,-118.4280822
+412,Shelter ,1959 Westwood Bl @ La Grange,Yes,,34.046861,-118.434742
+413,Shelter ,1899 Westwood Bl  SB Westwood NS Missouri,Yes ,Yes,34.0481882,-118.4354714
+414,Shelter ,10863 W. Olympic Bl (on WeStwood Bl),Yes ,Yes,34.0439855,-118.4322403
+415,Shelter ,3479 Motor (WB Palms FS Motor),Yes,,34.0265017,-118.4090294
+416,Shelter ,10650 Ashby WB Palms FS Nat'l,Yes ,Yes,34.0379729,-118.4207975
+417,Shelter ,1500 Westwood Bl  NB Westwood NS Ohio,Yes ,Yes,34.0541136,-118.4403545
+418,Shelter ,10867 W. Pico Bl (@ Westwood),Yes,,34.0401271,-118.428979
+419,Shelter ,NB La Cienega Bl. NS Rosewood,Yes ,Yes,34.079833,-118.376493
+420,Shelter ,10460 W. Pico SB Motor Ave FS Pico,Yes ,Yes,34.0453783,-118.4185855
+421,Shelter ,NE cor of Motor  Ave. and National Blvd.,Yes,,34.0292204,-118.4106979
+422,Shelter ,WB 3rd St. NS Sweetzer Ave.,Yes ,Yes,34.0726641,-118.3700102
+423,Shelter ,SB Fairfax NS 3rd,Yes ,Yes,34.0715299,-118.3614304
+424,Shelter ,1293 S. Beverly Glen Bl  SB Beverly Glen NS Wellworth,Yes ,Yes,34.0643645,-118.4276501
+425,Shelter ,1320 Devon Ave NB Beverly Glen NS Devon,Yes ,Yes,34.0639152,-118.4269066
+426,Shelter ,SB Westwood Bl NS Massachusetts,Yes,,34.051834,-118.4387819
+427,Shelter ,2000 Westwood Blvd. NB Westwood NS LaGrange,Yes ,Yes,34.0466824,-118.4338505
+428,Shelter ,2999 Overland Ave SB Overland NS Nat'l,Yes ,,34.0325454,-118.4182872
+429,Shelter ,Overland Ave @ Clarkson,Yes ,Yes,34.033376,-118.4183084
+430,Shelter ,1350 Westwood Bl  NB Westwood NS Rochester Ave,Yes ,Yes,34.055905,-118.441702
+431,Shelter ,SB Gayley Ave. NS Landfair Ave.,Yes,,34.0656254,-118.447733
+432,Shelter ,4480 Kester Ave EB Ventura Blvd FS Kester Ave,Yes ,Yes,34.1518634,-118.4564418
+433,Shelter ,15433 Ventura Blvd WB Ventura Blvd NS Orion Ave,Yes,,34.1549289,-118.4695264
+434,Shelter ,15374 Ventura Blvd EB Ventura Blvd FS Sherman Oaks Ave,Yes ,Yes,34.154004,-118.4687179
+435,Shelter ,16640 Ventura Blvd EB Ventura Blvd FS Petit Ave,Yes ,Yes,34.1577682,-118.4959177
+436,Shelter ,910 S. Fairfax SB Fairfax NS San Vicente,Yes ,Yes,34.0592345,-118.3628124
+437,Shelter ,1801 Century Pk West  SB Century Pk West FS Santa Monica Bl,Yes ,Yes,34.0587179,-118.4214672
+438,Shelter ,NB Century Pk West NS Santa Monica,Yes ,Yes,34.059147,-118.4213851
+439,Shelter ,12800 Burbank Blvd EB Burbank Blvd NS Coldwater Cyn Ave (located,Yes,,34.1721281,-118.4120498
+440,Shelter ,5212 Whitsett Ave WB Magnolia Blvd NS Whitsett Ave,Yes,,34.1651209,-118.4050369
+441,Shelter ,15626 Ventura Blvd EB Ventura Blvd FS Haskell Ave,Yes ,Yes,34.1548245,-118.4739723
+442,Shelter ,15840 Ventura Blvd EB Ventura Blvd FS Gloria Ave,Yes,,34.1554718,-118.4788928
+443,Shelter ,4940 Balboa Ave NB Balboa Ave NS Moorpark St,Yes,,34.1592413,-118.5010873
+444,Shelter ,WB Ventura Blvd NS White Oak Ave,Yes,,34.1624349,-118.5185842
+445,Shelter ,5224 Coldwater Cyn Ave NB Coldwater Cyn Ave FS Magnolia Blvd,Yes ,Yes,34.165516,-118.4134708
+446,Shelter ,12100 W Magnolia Blvd EB Magnolia Blvd NS Laurel Canyon Blvd,Yes,,34.164868,-118.396519
+447,Shelter ,12900 Riverside Dr WB Riverside Dr FS Coldwater Cyn Ave,Yes ,Yes,34.1574075,-118.4140012
+448,Shelter ,13200 W Ventura Blvd EB Ventura Blvd FS Fulton Ave (located on Isla,Yes ,Yes,34.1465781,-118.4246865
+449,Shelter ,14401 Ventura Blvd WB Ventura Blvd FS Tyrone Ave,Yes,,34.151009,-118.4457709
+450,Shelter ,NB Fairfax FS Oakwood,Yes,,34.0782138,-118.3614212
+451,Shelter ,3000 S. Sepulveda Bl.  NB Sepulveda Bl NS Nat'l Bl.,Yes,,34.027484,-118.4278284
+452,Shelter ,EB Burbank Bl. FS Fulton,Yes,,34.172129,-118.422511
+453,Shelter ,100 S. 3rd St.  SB San Vicente Bl NS 3rd St.,Yes ,Yes,34.0735322,-118.3799633
+454,Shelter ,NB La Cienega FS Olympic,Yes,,34.0594708,-118.3762439
+455,Shelter ,WB Oxnard St NS Van Nuys Bl,Yes ,Yes,34.1793899,-118.4487083
+456,Shelter ,6001 Vnys BlSB Van Nuys Bl NS Oxnard,Yes,,34.179933,-118.4491689
+457,Shelter ,14453 Oxnard NB Vnys FS Oxnard,Yes ,Yes,34.1794789,-118.4476709
+458,Shelter ,6303 Van Nuys Bl. SB Vnys NS Sylvan St.,Yes ,Yes,34.1847236,-118.4489457
+459,Shelter ,6007 Sepulveda Bl. @ Oxnard,Yes,,34.1793734,-118.4661754
+460,Shelter ,EB Victory Bl FS Sepulveda,Yes ,Yes,34.18665,-118.46618
+461,Shelter ,6411 Sepulveda Bl. @ Victory,Yes,,34.1872814,-118.4688866
+462,Shelter ,6759 Vanowen St  EB Vanowen St NS Sepulveda,Yes ,Yes,34.1935529,-118.5537846
+463,Shelter ,6801 Sepulveda WB Vanowen St. FS Sepulveda,Yes ,Yes,34.193917,-118.4683757
+464,Shelter ,15250 Sherman Way EB Sherman Way FS Sepulveda,Yes ,Yes,34.2011101,-118.4654714
+465,Shelter ,7161 Sepulveda SB Sepulveda FS Sherman Way,Yes ,Yes,34.2011488,-118.4664184
+466,Shelter ,15326 Roscoe Bl. SB Sepulveda FS Roscoe Bl,Yes ,Yes,34.2211433,-118.4664987
+467,Shelter ,SB Sunland Blvd FS San Fernando Rd,Yes ,Yes,34.2190823,-118.3690054
+468,Shelter ,14441 Roscoe Bl. NB Van Nuys FS Roscoe,Yes ,Yes,34.2217858,-118.4479774
+469,Shelter ,8252 Van Nuys Bl EB Roscoe FS Van Nuys,Yes ,Yes,34.2212143,-118.4484877
+470,Shelter ,NB San Fernando Rd NS Olinda St.,Yes,,34.2222493,-118.3737152
+471,Shelter ,NB Glenoaks NS Penrose St.,Yes,,34.2315424,-118.3681907
+472,Shelter ,NB Glenoaks Bl FS La Tuna Cyn,Yes,,34.2345169,-118.371325
+473,Shelter ,NB Sunland Bl NS Nettleton St.,Yes ,Yes,34.2253745,-118.3657781
+474,Shelter ,NB Sunland Bl NS Olinda St,Yes,,34.2277493,-118.3661443
+475,Shelter ,WB Roscoe Bl NS Arleta,Yes ,Yes,34.2216733,-118.4052783
+476,Shelter ,EB Rosco Bl FS Woodley,Yes,,34.221328,-118.483679
+477,Shelter ,EB Roscoe Bl NS Haskel Ave,Yes ,Yes,34.221384,-118.4749304
+478,Shelter ,6262 Van Nuys Bl  NB Van Nuys NS Sylvan,Yes ,Yes,34.1841498,-118.4480332
+479,Shelter ,SB Van Nuys Bvd NS Victory Blvd,Yes,,34.1866634,-118.4487136
+480,Shelter ,6203 Van Nuys Bl  SB Van Nuys Bl NS Delano St,Yes ,Yes,34.1828511,-118.4489898
+481,Shelter ,EB Vanowen St. NS Kester Ave,Yes ,Yes,34.193931,-118.457453
+482,Shelter ,EB Vanowen St. NS Woodley Ave.,Yes,,34.1939039,-118.483653
+483,Shelter ,EB Vanowen St.  FS Hayvenhurst Ave.,Yes,,34.1938959,-118.492384
+484,Shelter ,SB Lankershim Bvd FS Strathern St.,Yes,,34.2157148,-118.3877853
+485,Shelter ,SB San Fernando Rd FS Penrose St,Yes ,Yes,34.22479,-118.377439
+486,Shelter ,SB San Fernando Rd FS  Wick St,Yes,,34.2363098,-118.3905835
+487,Shelter ,SB San Fernando Rd FS Sheldon St.,Yes ,Yes,34.2392993,-118.3937337
+488,Shelter ,NB Vineland Ave FS Saticoy St.,Yes,,34.2084499,-118.370323
+489,Shelter ,WB Saticoy St FS Vineland Ave,Yes,,34.2084499,-118.370323
+490,Shelter ,WB Sherman Way NS Tujunga Ave,Yes ,Yes,34.201197,-118.379045
+491,Shelter ,EB Sherman Way NS Tujunga Ave,Yes,,34.201197,-118.379045
+492,Shelter ,WB Sherman Way NS Beck Ave,Yes,,34.2011968,-118.383404
+493,Shelter ,EB Sherman Way FS Lankershim Blvd,Yes,,34.201197,-118.38778
+494,Shelter ,WB Vanowen St FS Lankershim Blvd.,Yes ,Yes,34.1939501,-118.3877873
+495,Shelter ,EB Roscoe Blvd FS Louise Ave.,Yes ,Yes,34.2211102,-118.5098539
+496,Shelter ,WB Roscoe Bl FS Trusedale St. (Island),Yes,,34.0522342,-118.2436849
+497,Shelter ,NB Van Nuys Blvd FS Blythe St,Yes ,Yes,34.2152287,-118.448762
+498,Shelter ,SB Van Nuys Bvd NS Blythe St,Yes ,Yes,34.2152287,-118.448762
+499,Shelter ,7011 Van Nuys BlSB Van Nuys Bl NS Hart,Yes,,34.1978398,-118.4491532
+500,Shelter ,7018 Van Nuys Bl  NB Van Nuys Bl NS Vose St,Yes,,34.1981368,-118.4481074
+501,Shelter ,7407 Van Nuys Bl  SB Van Nuys NS Valeria St,Yes,,34.2051991,-118.4492975
+502,Shelter ,8200 Van Nuys Bl  NB Vnys NS Roscoe,Yes,,34.219924,-118.4485059
+503,Shelter ,14236 Roscoe Bl  EB Roscoe NS Wakefield Ave,Yes,,34.2212729,-118.443647
+504,Shelter ,13900 W. Roscoe Bl WB Roscoe Bl FS Ranchito,Yes ,Yes,34.2216419,-118.4388267
+505,Shelter ,12900 Roscoe Bl WB Roscoe Bl FS Sheldon,Yes,,34.2216563,-118.4144289
+506,Shelter ,7900 N. Laurel Canyon Bl  SB Laurel Canyon Bl FS Stratern St,Yes ,Yes,34.2157182,-118.3986917
+507,Shelter ,7600 Laurel Canyon Bl WB Saticoy St NS Laurel Canyon,Yes,,34.2089459,-118.395961
+508,Shelter ,WB Vanowen St FS Beck Ave,Yes,,34.1939422,-118.3834129
+509,Shelter ,7359 Vineland Ave  SB Vineland Ave FS Valeria,Yes,,34.2047185,-118.3705549
+510,Shelter ,7563 Tujunga Ave  EB Saticoy St NS Tujunga Ave,Yes,,34.2082872,-118.3792624
+511,Shelter ,12300 Saticoy St.  EB Saticoy St NS Shadyglade Ave,Yes,,34.208461,-118.4016436
+512,Shelter ,8950 Laurel Canyon Bl  NB Laurel Canyon Bl FS Sheldon,Yes ,Yes,34.232365,-118.4036631
+513,Shelter ,9335 Laurel Canyon BlSB Laurel Canyon Bl FS Rangoon,Yes,,34.238311,-118.411115
+514,Shelter ,12850 Branford St  NB Laurel Canyon Bl NS Branford,Yes,,34.2408616,-118.4127791
+515,Shelter ,9600 N Laurel Canyon Bl  SB Laurel Canyon Bl NS Montague St,Yes,,34.2323218,-118.4040821
+516,Shelter ,9745 Laurel Canyon BlSB Laurel Canyon FS Osborne,Yes ,Yes,34.2466779,-118.4193506
+517,Shelter ,13100 Osborne St  WB Osborne St FS Laurel Canyon Bl,Yes,,34.247507,-118.417559
+518,Shelter ,WB Osborne St FS 5 Fwy Offramp,Yes,,34.0522342,-118.2436849
+519,Shelter ,13493 Osborne St  WB Osborne St NS Arleta Ave,Yes ,Yes,34.2413325,-118.4271107
+520,Shelter ,13439 Osborne St  NB Arleta FS Osborne,Yes ,Yes,34.2425876,-118.4260447
+521,Shelter ,13700 Osborne St  EB Osborne St FS Canterbury,Yes,,34.237854,-118.431306
+522,Shelter ,9000 Woodman Ave  NB Woodman FS Osborne,Yes ,Yes,34.2333869,-118.4387019
+523,Shelter ,16851 Victory Bl  NB Balboa Bl  FS Victory,Yes,,34.187044,-118.5009019
+524,Shelter ,16860 Vanowen St  EB Vanowen St FS Balboa Bl,Yes ,Yes,34.1935734,-118.5008263
+525,Shelter ,7900 Balboa Bl  NB Balboa Bl FS Stagg,Yes,,34.2172645,-118.5011694
+526,Shelter ,14800 Roscoe Bl EB Roscoe NS Willis,Yes,,34.220962,-118.455611
+527,Shelter ,11500 Tuxford  WB Tuxford St NS Telfair,Yes,,34.2269849,-118.3815221
+528,Shelter ,16500 Roscoe Bl  EB Roscoe Bl NS Hayvenhurst,Yes ,Yes,34.2212791,-118.4915528
+529,Shelter ,EB Roscoe Bl NS Orion Ave,Yes,,34.221393,-118.472093
+530,Shelter ,11400 Tuxford EB Tuxford St FS San Fernando,Yes,,34.228608,-118.3794212
+531,Shelter ,10700 San Fernando Rd  EB San Fernando Rd NS Clybourn,Yes,,34.2162393,-118.3670181
+532,Shelter ,8345 Glenoaks Bl  EB Glenoaks Bl NS Roscoe,Yes,,34.2223075,-118.3595892
+533,Shelter ,15700 Burbank Bl  EB Burbank Bl NS Woodley,Yes ,Yes,34.1715618,-118.4755531
+534,Shelter ,16400 Burbank Bl  WB Burbank Bl @ Havenhurst,Yes,,34.1672003,-118.489762
+535,Shelter ,7600 Woodley Ave  NB Woodley Ave FS Saticoy,Yes ,Yes,34.2085813,-118.4836609
+536,Shelter ,15900 Saticoy St  EB Saticoy St FS Woodley Ave,Yes ,Yes,34.2084225,-118.4793116
+537,Shelter ,8000 Woodley Ave  NB Woodley FS Strathern St,Yes,,34.2161507,-118.4824786
+538,Shelter ,15000 Saticoy St  EB Saticoy St FS Noble Ave,Yes,,34.2084501,-118.4596995
+539,Shelter ,14900 Saticoy St  EB Saticoy St NS Kester,Yes,,34.2084366,-118.4574803
+540,Shelter ,9000 San Fernando Rd.  NB San Fernando Rd. NS Lankershim,Yes,,34.233651,-118.3899787
+541,Shelter ,9800 San Fernando Rd.  NB San Fernando Rd. NS Branford,Yes,,34.2488788,-118.4029858
+542,Shelter ,WB Nordhoff St. NS Woodman Ave.,Yes,,34.235343,-118.440421
+543,Shelter ,14900 Sherman Way  EB Sherman Way NS KeSter,Yes,,34.2007889,-118.457735
+544,Shelter ,15864 Sherman Way  WB Sherman Way NS Gloria,Yes,,34.2007477,-118.4791743
+545,Shelter ,1400 Sherman Way  EB Sherman Way FS Hazeltine Ave,Yes,,34.201197,-118.442179
+546,Shelter ,14225 Roscoe Bl.  WB Roscoe NS Wakefield Ave.,Yes,,34.221945,-118.4431678
+547,Shelter ,12900 Roscoe Bl.  EB Roscoe NS Coldwater Cyn,Yes,,34.2216563,-118.4144289
+548,Shelter ,EB Victory FS Balboa,Yes,,34.186638,-118.5011136
+549,Shelter ,15237 Brand  WB Brand Ave NS Santanwood,Yes ,Yes,34.2707576,-118.4651621
+550,Shelter ,9102 Sepulveda Bl (@ Nordhoff St),Yes,,34.2342335,-118.4671684
+551,Shelter ,9504 Sepulveda Bl WB Plummer NS Sepulveda,Yes ,Yes,34.242781,-118.4696097
+552,Shelter ,EB Plummer St FS Sepulveda Bl,Yes ,Yes,34.242781,-118.467421
+553,Shelter ,10300 Sepulveda Bl NB Sepulveda FS Devonshire,Yes ,Yes,34.2575249,-118.4663799
+554,Shelter ,10311 Sepulveda Bl SB Sepulveda Bl NS Devonshire,Yes ,Yes,34.2578214,-118.4681579
+555,Shelter ,10919 Sepulveda  SB Sepulveda Bl FS Brand Bl,Yes,,34.2686285,-118.4681202
+556,Shelter ,EB Rinaldi St FS Sepulveda,Yes ,Yes,34.2790718,-118.468811
+557,Shelter ,WB Devonshire St. NS Woodman Ave,Yes ,Yes,34.2572459,-118.4542361
+558,Shelter ,EB Devonshire St. NS Woodman Ave,Yes ,Yes,34.2572459,-118.4542361
+559,Shelter ,9501 Van Nuys Bl WB Plummer FS Van Nuys,Yes ,Yes,34.2430235,-118.4508035
+560,Shelter ,8628 Van Nuys Bl  NB Van Nuys Bl NS Parthenia St,Yes ,Yes,34.2269554,-118.4494675
+561,Shelter ,14608 Parthenia St SB Vnys FS Parthenia St,Yes ,Yes,34.2264436,-118.450729
+562,Shelter ,10641 San Fernando Rd SB San Fernando Rd NS Pierce St,Yes,,34.2630433,-118.4195782
+563,Shelter ,13814 Del Sur St SB San Fernando Rd FS Del Sur St,Yes ,Yes,34.276192,-118.433528
+564,Shelter ,WB Paxton St NS San Fernando Rd,Yes,,34.2720201,-118.4284533
+565,Shelter ,WB Paxton St NS Telfair Ave,Yes,,34.2695405,-118.431833
+566,Shelter ,EB Paxton St NS Telfair Ave,Yes ,Yes,34.2695405,-118.431833
+567,Shelter ,10736 Laurel Cyn Bl  WB Paxton St FS Haddon Ave,Yes ,Yes,34.2656304,-118.4385355
+568,Shelter ,10690 Laurel Canyon Bl  EB Paxton St FS Laurel Canyon Bl,Yes ,Yes,34.2646837,-118.4377807
+569,Shelter ,10736 Laurel Canyon Bl WB Paxton St NS Laurel Canyon Bl,Yes,,34.2656304,-118.4385355
+570,Shelter ,13361 Paxton St.  WB Paxton St NS Bradley Ave,Yes,,34.2752086,-118.4244988
+571,Shelter ,EB Paxton St FS Herrick Ave,Yes ,Yes,34.277271,-118.4212819
+572,Shelter ,11555 Glenoaks Bl  WB Paxton St FS Glenoaks Bl,Yes ,Yes,34.2794561,-118.4186606
+573,Shelter ,11646 Borden Ave  EB Paxton St FS Borden Ave,Yes,,34.2819231,-118.4143101
+574,Shelter ,13051 San Fernando Rd  SB San Fernando Rd NS Cobalt,Yes,,34.3071598,-118.4699059
+575,Shelter ,12863 San Fernando Rd.  SB San Fernando Rd NS El Casco St,Yes ,Yes,34.303344,-118.465132
+576,Shelter ,12751 San Fernando Rd  SB San Fernando Rd NS Lakeside St,Yes ,Yes,34.3009,-118.462169
+577,Shelter ,12431 San Fernando Rd.  SB San Fernando Rd NS  Astoria,Yes ,Yes,34.2961724,-118.4563128
+578,Shelter ,14200 Hubbard St. EB Hubbard St NS Herrick Ave,Yes,,34.296265,-118.442321
+579,Shelter ,12629 Glenoaks Bl  WB Hubbard St FS Glenoaks Bl,Yes ,Yes,34.2991685,-118.4402598
+580,Shelter ,EB Hubbard St FS Eldridge,Yes ,Yes,34.3154163,-118.4213694
+581,Shelter ,EB Hubbard St NS Eldridge,Yes ,Yes,34.3154163,-118.4213694
+582,Shelter ,13404 Syre St.  EB Sayre St NS Eldridge Ave,Yes,,34.3177449,-118.424772
+583,Shelter ,13552 Sayre St.  EB Sayre St NS Fenton Ave,Yes,,34.3151409,-118.427723
+584,Shelter ,13602 Sayre St.  EB Sayre St NS Wheeler Ave,Yes,,34.313815,-118.429213
+585,Shelter ,15485 Roxford St.  WB Roxford St NS Bradley Ave,Yes,,34.31398,-118.469825
+586,Shelter ,15146 Roxford St.  EB Roxford St FS Glenoaks Blvd,Yes,,34.3185533,-118.4629154
+587,Shelter ,15054 Roxford St.  EB Roxford St NS Borden Ave,Yes,,34.320696,-118.460786
+588,Shelter ,15015 Roxford Pl SB Foothill Bl FS Roxford St,Yes,,34.3220979,-118.45989
+589,Shelter ,13820 Glenoaks Bl  SB Foothill Bl FS Glenoaks Bl,Yes,,34.322711,-118.4687742
+590,Shelter ,13802 Dronfield Ave  SB Foothill Bl FS Dronfield Ave,Yes,,34.322848,-118.455686
+591,Shelter ,14540 Foothill  SB Foothill Bl FS Cobalt St,Yes,,34.3231467,-118.4518041
+592,Shelter ,14104 Foothill Bl  WB Polk St FS Foothill Bl,Yes ,Yes,34.315434,-118.4413777
+593,Shelter ,14078 Foothill Bl  SB Foothill Bl FS Polk St,Yes ,Yes,34.3149826,-118.4405383
+594,Shelter ,13796 Foothil Bl SB Foothill FS Sayre,Yes,,34.3096758,-118.4337937
+595,Shelter ,13622 Foothill Bl  SB Foothill Bl FS Hubbard St,Yes ,Yes,34.3070337,-118.4303384
+596,Shelter ,13266 SB Foothill Bl FS Harding St,Yes,,34.3007738,-118.4233851
+597,Shelter ,13131 Foothill NB Foothill Bl NS Harding St,Yes,,34.298571,-118.4200434
+598,Shelter ,13131 MacLay St  NB Foothill Bl NS MacLay St,Yes ,Yes,34.2999274,-118.4185724
+599,Shelter ,12960 Foothill Bl  SB Foothill Bl FS Driveway,Yes ,Yes,34.2953727,-118.4172085
+600,Shelter ,12985 Foothill Bl  NB Foothill Bl NS Driveway,Yes,,34.2959146,-118.417023
+601,Shelter ,12665 Foothill Bl  NB Foothill Bl NS Vaughn St,Yes,,34.289713,-118.4105506
+602,Shelter ,SB Foothill Bl FS Pierce St,Yes,,34.2779004,-118.3986682
+603,Shelter ,12001 Foothill Street NB Foothill Bl NS Pierce,Yes,,34.2770272,-118.3964103
+604,Shelter ,11886 Foothill Bl  SB Foothill Bl FS Terra Bella St,Yes ,Yes,34.273895,-118.39581
+605,Shelter ,NB Foothill Bl FS Terra Bella St,Yes,,34.27491,-118.395529
+606,Shelter ,11821 Foothill Bl  NB Foothill Bl FS Osbourne,Yes,,34.2744969,-118.393769
+607,Shelter ,10711 Glenoaks Bl  EB Osborne St. NS Glenoaks Bl,Yes ,Yes,34.2639495,-118.4017683
+608,Shelter ,10537 Glenoaks Bl  SB Glenoaks Bl FS Osborne Pl,Yes ,Yes,34.2611587,-118.3990357
+609,Shelter ,10750 Glenoaks Bl  NB Glenoaks Bl FS Osborne St,Yes ,Yes,34.2655686,-118.4022339
+610,Shelter ,12538 Gain StNB Glenoaks NS Gain St.,Yes,,34.269207,-118.406501
+611,Shelter ,12601 Pierce St.  NB Glenoaks Bl FS Pierce St,Yes ,Yes,34.272173,-118.40813
+612,Shelter ,12661 Pierce St.  SB Glenoaks Bl NS Pierce St,Yes,,34.2706609,-118.40913
+613,Shelter ,11203 SB Glenoaks Bl NS Van Nuys Bl,Yes ,Yes,34.2737022,-118.4122178
+614,Shelter ,NB Glenoaks Bl NS Filmore St,Yes ,Yes,34.2766852,-118.4148499
+615,Shelter ,12943 Filmore St SB Glenoaks Bl NS Filmore St,Yes,,34.276706,-118.415226
+616,Shelter ,11700 Glenoaks Bl  NB Glenoaks FS Vaugh St,Yes,,34.2829554,-118.4210491
+617,Shelter ,12600 Van Nuys Bl  EB Van Nuys Bl FS Borden Ave,Yes ,Yes,34.276084,-118.4068151
+618,Shelter ,12457 Van Nuys Bl  WB Van Nuys Bl NS Dronfield Ave,Yes,,34.278813,-118.405209
+619,Shelter ,12502 Van Nuys Bl  EB Van Nuys Bl FS Dronfield Ave,Yes ,Yes,34.2778393,-118.4054026
+620,Shelter ,SB Borden Ave FS Polk St,Yes ,Yes,34.3102566,-118.4467488
+621,Shelter ,14060 Sayre St.  SB Borden Ave FS Sayre St,Yes,,34.3048651,-118.4397073
+622,Shelter ,13933 Hubbard St.  SB Borden Ave NS Hubbard St,Yes,,34.3022234,-118.4366472
+623,Shelter ,12937 Van Nuys Bl  WB Van Nuys Bl NS Herrick Ave,Yes,,34.271687,-118.415056
+624,Shelter ,13100 Van Nuys Bl  EB Van Nuys Bl NS Bradley Ave,Yes ,Yes,34.268498,-118.418189
+625,Shelter ,9312 Van Nuys Bl  NB Van Nuys Bl NS Tupper St,Yes,,34.239528,-118.449619
+626,Shelter ,14555 Van Nuys Bl  NB Van Nuys Bl FS Osborne St,Yes,,34.2461986,-118.449874
+627,Shelter ,14605 Rayen St  SB Van Nuys Bl NS Rayen St,Yes,,34.2321979,-118.450649
+628,Shelter ,8750 Van Nuys Bl  NB Van Nuys Bl NS Parthenia St,Yes ,Yes,34.2283757,-118.449521
+629,Shelter ,SB Van Nuys Bl FS Chase St,Yes,,34.2247808,-118.4487105
+630,Shelter ,14000 Balboa Bl  SB Balboa @ Silver Oaks Dr.,Yes,,34.3210011,-118.488116
+631,Shelter ,8300 Van Nuys Bl  SB Van Nuys NS Roscoe,Yes,,34.2218037,-118.4484992
+632,Shelter ,10100 San Fernando Rd.  NB San Fernando Rd NS Osborne,Yes,,34.253962,-118.408296
+633,Shelter ,12600 San Fernando Rd.  NB San Fernando Rd. NS Polk,Yes,,34.298945,-118.457186
+634,Shelter ,12883 San Fernando Rd.  NB San Fernando Rd. NS Bledsoe,Yes,,34.3041293,-118.4659861
+635,Shelter ,13100 San Fernando Rd.  NB San Fernando Rd. NS Roxford St.,Yes,,34.3086401,-118.4714512
+636,Shelter ,13953 Foothill  WB Foothill NS Astoria,Yes,,34.3131542,-118.4376434
+637,Shelter ,14836 Nordhoff St.  EB Nordhoff FS Kester,Yes,,34.2350445,-118.4569337
+638,Shelter ,WB Nordhoff St. FS Kester,Yes,,34.235456,-118.456933
+639,Shelter ,15309 Parthenia St.  EB Parthenia St. FS Columbus,Yes,,34.2283569,-118.4657023
+640,Shelter ,15254 Parthenia St.  EB Parthenia St.  NS Columbus Ave.,Yes,,34.2280782,-118.465248
+641,Shelter ,14500 Chase St.  WB Chase St. FS Van Nuys Bl.,Yes,,34.2247754,-118.4488776
+642,Shelter ,9540 Van Nuys  NB Van Nuys FS Novice St.,Yes,,34.2395316,-118.4502476
+643,Shelter ,9541 Van Nuys  SB Van Nuys Bl. NS Novice St.,Yes,,34.2399193,-118.4502819
+644,Shelter ,801 MLK Bl  WB MLK FS Hoover,Yes ,Yes,34.0110372,-118.2883628
+645,Shelter ,3775 S. Vermont Ave.  EB Expo FS Vermont,Yes,,34.0179534,-118.2919511
+646,Shelter ,WB Expo NS USC Watt Way,Yes,,34.0181279,-118.2912064
+647,Shelter ,3115 S. Vermont Ave.  WB Jefferson FS Vermont,Yes,,34.0259573,-118.2919354
+648,Shelter ,WB Jefferson NS Hoover,Yes,,34.0236624,-118.2840586
+649,Shelter ,701 W. Jefferson Blvd.  EB Jefferson FS Hoover,Yes,,34.0230175,-118.2823124
+650,Shelter ,3245 Figueroa  WB Jefferson FS Fig,Yes ,Yes,34.0224325,-118.2801138
+651,Shelter ,2302 S. Fig  SB Fig FS 23rd,Yes,,34.0306997,-118.274402
+652,Shelter ,600 Exposition Bl EB Exposition Bl NS Fig,Yes ,Yes,34.0180883,-118.2865408
+653,Shelter ,950 W. Jefferson  EB Jefferson FS McClintock,Yes ,Yes,34.0246866,-118.2869462
+654,Shelter ,3413 63rd St SB Crenshaw NS 63rd,Yes,,33.9830815,-118.3314066
+655,Shelter ,4401 Crenshaw Bl SB Crenshaw FS Vernon,Yes ,Yes,34.0032403,-118.3320528
+656,Shelter ,101 E. Manchester Ave  WB Manchester NS Main,Yes ,Yes,33.9603449,-118.2734513
+657,Shelter ,500 W. Manchester Ave EB Manchester NS Fig,Yes ,Yes,33.9598181,-118.2830824
+658,Shelter ,1747 W. Manchester Ave WB Manchester NS Western,Yes,,33.9602277,-118.308535
+659,Shelter ,6111 S. Western Ave  SB Western NS 67th,Yes ,Yes,33.9841153,-118.3089667
+660,Shelter ,7902 S. Western Ave NB Western NS 79th,Yes,,33.967278,-118.3089848
+661,Shelter ,8601 S. Main EB Manchester NS Main,Yes ,Yes,33.959782,-118.27421
+662,Shelter ,8564 S. Broadway WB Manchester NS Broadway,Yes ,Yes,33.9603838,-118.2779299
+663,Shelter ,8601 S. Broadway EB Manchester NS Broadway,Yes ,Yes,33.959877,-118.278662
+664,Shelter ,4050 Crenshaw Bl EB MLK FS Crenshaw,Yes,,34.0106833,-118.3348723
+665,Shelter ,1999 Adams Bl.  NB Western FS Adams,Yes,,34.033447,-118.308465
+666,Shelter ,850 Century Bl  NB Vermont NS Century,Yes,,33.9452415,-118.2912215
+667,Shelter ,1748 Jefferson Bl  EB Jefferson FS Western,Yes ,Yes,34.0250168,-118.3074975
+668,Shelter ,1500 W. MLK Bl  EB MLK NS Denker,Yes ,Yes,34.010544,-118.3036891
+669,Shelter ,WB MLK NS Arlington,Yes,,34.0108151,-118.3182278
+670,Shelter ,WB MLK FS Sutro,Yes,,34.0108741,-118.3231534
+671,Shelter ,4120 11th Ave  EB MLK NS 9th,Yes ,Yes,34.0094148,-118.3291435
+672,Shelter ,2800 W. Vernon Ave  EB Vernon NS 6th,Yes ,Yes,34.003406,-118.323714
+673,Shelter ,4400 S. Arlington  EB Vernon NS Arlington,Yes ,Yes,34.0036885,-118.3181857
+674,Shelter ,1700 W Vernon  EB Vernon NS Western,Yes ,Yes,34.003457,-118.309297
+675,Shelter ,4800 S. Western  NB Western NS 48th,Yes ,Yes,33.999775,-118.308555
+676,Shelter ,5800 S. Western EB Slauson NS Western,Yes,,33.989567,-118.308591
+677,Shelter ,5700 Van Ness  WB Slauson NS Van Ness,Yes,,33.990809,-118.316794
+678,Shelter ,SB Van Ness NS Slauson,Yes,,33.9890939,-118.3175894
+679,Shelter ,5760 6th  WB Slauson NS 6th Ave,Yes ,Yes,33.989239,-118.3233395
+680,Shelter ,7100 S Grammercy Pl  WB Florence NS Grammercy,Yes ,Yes,33.9753729,-118.3133468
+681,Shelter ,900 W. Florence  WB Florence NS Vermont,Yes,,33.97432,-118.289319
+682,Shelter ,500 W Florence WB Florence NS Fig,Yes,,33.974649,-118.2826722
+683,Shelter ,500 W Florence  EB Florence NS Fig,Yes ,Yes,33.974649,-118.2826722
+684,Shelter ,1505 Jefferson Bl  WB Jefferson Bl FS Normandie,Yes,,34.0258384,-118.3006163
+685,Shelter ,3700 S. Normandie Ave  NB Normandie Ave FS Expo,Yes,,34.020809,-118.299917
+686,Shelter ,SB Normandie Ave FS Expo Bl,Yes ,Yes,34.0183709,-118.3001496
+687,Shelter ,1286 W. 39th St  NB Normandie Ave NS 39th St,Yes ,Yes,34.0153605,-118.2999618
+688,Shelter ,3855 S. Normandie Ave  SB Normandie Ave NS 39th St,Yes,,34.0158552,-118.3004471
+689,Shelter ,1401 MLK Bl  SB Normandie Ave NS MLK,Yes ,Yes,34.0111565,-118.3004202
+690,Shelter ,1404 MLK Bl  EB MLK NS Normandie,Yes,,34.0105247,-118.3005756
+691,Shelter ,4705 S. Normanie Ave  SB Normandie Ave NS 48th St,Yes,,34.0007499,-118.300503
+692,Shelter ,SB Normandie Ave NS Slauson Ave,Yes,,33.9891194,-118.3002203
+693,Shelter ,6219 S. Normandie Ave  SB Normandie Ave NS Gage Ave,Yes,,33.9826462,-118.3002753
+694,Shelter ,1400 W. Gage Ave  EB Gage Ave NS Normandie Ave,Yes ,Yes,33.9823156,-118.3002787
+695,Shelter ,6613 S. Normandie Ave  SB Normandie Ave NS 67th,Yes ,Yes,33.9786901,-118.3002913
+696,Shelter ,1355 W. Florence Ave WB Florence Ave NS Normandie,Yes,,33.9748871,-118.2999487
+697,Shelter ,8300 S. Normandie Ave  SB Normandie Ave FS 83rd St,Yes ,Yes,33.963432,-118.299978
+698,Shelter ,1401 Manchester Ave  SB Normandie Ave NS Manchester Ave,Yes,,33.9602202,-118.3005082
+699,Shelter ,1348 W. Manchester Ave NB Normandie Ave NS Manchester Ave,Yes,,33.9597426,-118.2999561
+700,Shelter ,1748 W Jefferson Bl.  NB Western Ave NS Jefferson Bl,Yes,,34.0250168,-118.3074975
+701,Shelter ,3665 Western Ave  SB Western Ave FS 36th Pl,Yes,,34.0214769,-118.3093041
+702,Shelter ,3773 S. Western Ave  WB Expo Bl FS Western Ave,Yes,,34.0186052,-118.3091998
+703,Shelter ,3822 S. Western Ave  NB Western Ave FS 38th Pl,Yes ,Yes,34.016865,-118.308546
+704,Shelter ,4185 S. Western Ave  SB Western Ave NS 42nd St,Yes,,34.0074659,-118.3089318
+705,Shelter ,4411 S. Western Ave.  SB Western Ave FS Vernon Ave,Yes,,34.0034226,-118.3093157
+706,Shelter ,5102 S. Western Ave  NB Western Ave NS 51st St,Yes,,33.996633,-118.308561
+707,Shelter ,5323 S. Western Ave  SB Western Ave NS 54th St.,Yes,,33.9935993,-118.3094199
+708,Shelter ,5323 S. Western Ave WB 54th St. FS Western,Yes ,Yes,33.9935993,-118.3094199
+709,Shelter ,6307 S. Western Ave.  SB Western Ave NS Gage Ave,Yes,,33.9822454,-118.3091928
+710,Shelter ,1700 W. Gage Ave.  WB Gage Ave.  NS Western Ave,Yes ,Yes,33.982093,-118.306952
+711,Shelter ,1700 W. Gage Ave.  EB Gage Ave. FS Western,Yes,,33.982093,-118.306952
+712,Shelter ,7201 S. Western Ave  EB Florence Ave NS Western,Yes,,33.9742873,-118.3092713
+713,Shelter ,7126 S. Western Ave  WB Florence Ave NS Western,Yes ,Yes,33.9747438,-118.3087915
+714,Shelter ,8222 S. Western Ave  NB Western Ave FS 83rd St.,Yes,,33.9639194,-118.308992
+715,Shelter ,8811 S. Western Ave  SB Western Ave NS 89th St,Yes ,Yes,33.9576584,-118.3097171
+716,Shelter ,9200 S. Western Ave  NB Western Ave NS 92nd St.,Yes ,Yes,33.952695,-118.3089871
+717,Shelter ,9500 S. Western Ave  SB Western Ave NS 96th,Yes ,Yes,33.949756,-118.308643
+718,Shelter ,1763 Century Bl  WB Century Bl  NS Western Ave,Yes ,Yes,33.9457083,-118.3085953
+719,Shelter ,1800 W. Century Bl  EB Century Bl NS Western Ave,Yes,,33.9454404,-118.3090185
+720,Shelter ,9800 S. Western Ave  SB Western Ave NS Century Bl,Yes ,Yes,33.946465,-118.308644
+721,Shelter ,1975 W. Century Bl  WB Century Bl  NS Gramercy Pl,Yes ,Yes,33.9454727,-118.3097669
+722,Shelter ,2163 W. Century Bl  NB Ven Ness Ave FS Century Bl,Yes,,33.945854,-118.3175161
+723,Shelter ,9530 Van Ness Ave  NB Van Ness Ave FS 96th St,Yes,,33.9495351,-118.3176956
+724,Shelter ,2157 Manchester Ave  NB Van Ness Ave FS Manchester,Yes ,Yes,33.9601967,-118.3175168
+725,Shelter ,2172 W. Florence Ave  NB Van Ness Ave  NS Florence Ave,Yes,,33.974305,-118.317436
+726,Shelter ,2172 W. Florence Ave EB Florence Ave FS Van Ness Ave,Yes ,Yes,33.974305,-118.317436
+727,Shelter ,3200 W. 54th St.  EB 54th St NS 10th Ave,Yes,,33.9931221,-118.3281698
+728,Shelter ,5401 10th Ave  SB 10th Ave FS 54th St,Yes,,33.9929125,-118.3285142
+729,Shelter ,4330 S. Crenshaw Bl  NB Crenshaw Bl FS 43rd Pl,Yes ,Yes,34.0045854,-118.3326063
+730,Shelter ,1300 W. Adams  EB Adams FS Vermont,Yes,,34.0327468,-118.2890068
+731,Shelter ,4700 S. La Brea  NB La Brea NS Don Lorenzo Dr.,Yes ,Yes,34.0036619,-118.3585615
+732,Shelter ,5800 S. Western SB Western FS Slauson,Yes ,Yes,33.989567,-118.308591
+733,Shelter ,3602 W. Slauson Ave.  EB Slauson Ave. NS West Bl.,Yes,,33.9888951,-118.3356268
+734,Shelter ,1950 W. Slauson Ave.  EB Slauson Ave. NS Ruthelen St.,Yes,,33.9889123,-118.312857
+735,Shelter ,1540 W. Slauson Ave.  EB Slauson Ave. NS Denker,Yes,,33.9891163,-118.3038734
+736,Shelter ,4000 S. Fig NB Fig NS MLK,Yes ,Yes,34.0105453,-118.2821788
+737,Shelter ,4001 S. Figueroa St SB Figueroa FS Martin Luther King,Yes,,34.0108903,-118.2830434
+738,Shelter ,800 W MLK Bl EB MLK NS Hoover,Yes,,34.010743,-118.287718
+739,Shelter ,3400 S. Figueroa EB Jefferson FS Fig,Yes,,34.0207571,-118.2798715
+740,Shelter ,WB 1st St. NS Broadway,Yes ,Yes,34.0536395,-118.2455431
+741,Shelter ,WB 1st St NS Hope St,Yes,,34.0564195,-118.2498956
+742,Shelter ,888 S. Figueroa NB Fig FS 9th St,Yes,,34.0465475,-118.2619062
+743,Shelter ,808 W. James M Wood EB James Wood NS Figueroa,Yes ,Yes,34.046155,-118.263321
+744,Shelter ,725 S. Figueroa EB 7th St NS Fig,Yes,,34.0494692,-118.2607851
+745,Shelter ,1158 S. Main St NB Main FS 12th,Yes ,Yes,34.037508,-118.258928
+746,Shelter ,524 W. Adams Bl NB Fig NS Adams,Yes,,34.027627,-118.275932
+747,Shelter ,301 W. Washington Bl  WB Washington FS Grand Ave,Yes,,34.0327877,-118.2682622
+748,Shelter ,3584 Figueroa St NB Fig FS 37th,Yes ,Yes,34.018691,-118.2815957
+749,Shelter ,3976 S. Figueroa WB MLK NS Fig,Yes ,Yes,34.011575,-118.282197
+750,Shelter ,200 N. Spring St  NB Spring St Locted Mid Blk bet. 1St St & Temple,Yes ,Yes,34.0537126,-118.2428145
+751,Shelter ,EB 1st St FS Grand Ave,Yes,,34.055699,-118.2487391
+752,Shelter ,317S Olive St @ Midblock bet. Kosciuszko Way and 4th,Yes,,34.0521278,-118.2503589
+753,Shelter ,111 N. Hope St. SB Hope St. FS Temple St,Yes,,34.0580643,-118.2495378
+754,Shelter ,801 W. Temple St.  WB Temple St FS Figueroa St,Yes ,Yes,34.060201,-118.248427
+755,Shelter ,600 W. 7th St. EB 7th St. NS Grand Ave,Yes,,34.047322,-118.2574494
+756,Shelter ,617 W. 7th St. WB 7th St. NS Hope St.,Yes,,34.0479689,-118.2572002
+757,Shelter ,612 Flower St. EB 6th St. FS Flower St.,Yes,,34.049547,-118.2574766
+758,Shelter ,NB Olive NS 5th St.,Yes,,34.0494837,-118.2528628
+759,Shelter ,601 W. 6th St.  SB Grand NS 6th St.,Yes,,34.0489997,-118.2554062
+760,Shelter ,225 N. Los Angeles St  SB LA St @ Mid Blk bet. Aliso & Temple,Yes,,34.0536228,-118.240737
+761,Shelter ,925 7th St WB 7th St NS Francisco St,Yes,,34.0498859,-118.2636686
+762,Shelter ,445 S. Fig EB 4th St. NS Figueroa St.,Yes,,34.053263,-118.2570036
+763,Shelter ,234 Figueroa St EB 2nd St FS Figueroa St,Yes,,34.0551485,-118.2535273
+764,Shelter ,Swcor of San Pedro St @ FS 12th St,Yes,,34.0337046,-118.2533229
+765,Shelter ,1188 San Pedro & 12th St,Yes,,34.0337046,-118.2533229
+766,Shelter ,560 S. Los Angeles  NB Los Angeles St. FS 6th St.,Yes,,34.0444836,-118.248138
+767,Shelter ,1060 S. Main St @ 11th St,Yes,,34.0390159,-118.2598777
+768,Shelter ,EB Olympic Bl NS Figueroa St,Yes,,34.0450064,-118.2639868
+769,Shelter ,310 W. 1St St.  SB Broadway FS 1 St St,Yes,,34.0537086,-118.2456773
+770,Shelter ,200 San Pedro St.  NB San Pedro St. NS 2nd St.,Yes,,34.048772,-118.241657
+771,Shelter ,660 Fig  NB Fig FS 7th St,Yes,,34.0493807,-118.2594055
+772,Shelter ,515 Flower St. NB Fig NS 5th,Yes,,34.0515427,-118.2569367
+773,Shelter ,1900 Figueroa EB Washington  & Figueroa,Yes,,34.0335868,-118.2718876
+774,Shelter ,NB Main St. FS Temple,Yes,,34.0540806,-118.2416528
+775,Shelter ,SB Spring St. NS 1st St,Yes,,34.0529364,-118.2444611
+776,Shelter ,SB Flower St. NS Olympic Bl,Yes ,Yes,34.0443763,-118.2627578
+777,Shelter ,950 S. Flower WB Olympic Bl NS Flower St.,Yes,,34.0446711,-118.26211
+778,Shelter ,1001 Hope St.EB Olympic Bl NS Hope St.,Yes,,34.0436107,-118.2621718
+779,Shelter ,NB Olive St. NS Pico Bl (Located Island),Yes,,34.0381005,-118.2629604
+780,Shelter ,SB Grand Ave FS 9th St,Yes,,34.0444059,-118.2593096
+781,Shelter ,400 9th St  EB 9th St. NS Olive,Yes ,Yes,34.0438289,-118.2589606
+782,Shelter ,1249 Grand Ave NS Pico Blvd,Yes ,Yes,34.039275,-118.26446
+783,Shelter ,124 W. Pico NB Broadway NS Pico,Yes ,Yes,34.0366969,-118.261111
+784,Shelter ,EB Aliso St. NS Los Angeles,Yes ,Yes,34.0548227,-118.2395054
+785,Shelter ,1221 Broadway  SB Broadway FS 12th,Yes ,Yes,34.03759,-118.2607971
+786,Shelter ,139 W. 5th St  WB 5th NS Spring St,Yes,,34.0470299,-118.2490185
+787,Shelter ,5110 Normandie  NB Normandie NS 51st St,Yes ,Yes,33.9965929,-118.299857
+788,Shelter ,EB 1st St. NS Los Angeles,Yes,,34.0515239,-118.24241
+789,Shelter ,1400 S. Central Ave  NB Central Ave NS 14th St,Yes,,34.0284219,-118.2468845
+790,Shelter ,1000 E. Adams Bl.  WB Adams Bl FS Central,Yes ,Yes,34.0193138,-118.2562343
+791,Shelter ,2500 S. Central Ave  SB Central NS Adams,Yes ,Yes,34.0196742,-118.2543183
+792,Shelter ,3510 S. Central Ave  NB Central Ave NS 35th St.,Yes ,Yes,34.0116739,-118.2560655
+793,Shelter ,5140 S Central Ave NB Central Ave NS 51st St,Yes,,33.9962219,-118.2560787
+794,Shelter ,1061 54th St.  SB Central Ave NS 54th,Yes,,33.993476,-118.293707
+795,Shelter ,1061 54th St. WB 54th FS Central,Yes,,33.993476,-118.293707
+796,Shelter ,5800 S. Central Ave  SB Central FS Slauson,Yes ,Yes,33.9899442,-118.2561313
+797,Shelter ,1000 E. Slauson Ave  EB Slauson Ave NS Central,Yes,,33.988364,-118.257548
+798,Shelter ,6300 S. Central Ave  SB Central FS Gage,Yes,,33.982281,-118.254291
+799,Shelter ,1000 E Gage Ave EB Gage Ave NS Central Ave,Yes,,33.9818679,-118.2577594
+800,Shelter ,1000 E. Gage  WB Gage FS Central,Yes ,Yes,33.9818679,-118.2577594
+801,Shelter ,7100 S Central Ave SB Central Ave NS Florence Ave,Yes,,33.975617,-118.256051
+802,Shelter ,3900 S Avalon Blvd NB Avalon Blvd FS Martin Luther King Blvd,Yes,,34.0113156,-118.2652425
+803,Shelter ,4400 1/2 Avalon Bl  NB Avalon NS Vernon,Yes ,Yes,33.9811416,-118.2654096
+804,Shelter ,600 E Vernon Ave EB Vernon Ave FS Avalon Blvd,Yes,,34.0038664,-118.2652144
+805,Shelter ,SB Avalon Bl NS 51St St.,Yes ,Yes,33.9965825,-118.2652047
+806,Shelter ,5600 S. Avalon  NB Avalon Bl NS 56 St,Yes,,33.9915533,-118.2651728
+807,Shelter ,500 E. Gage  WB Gage Ave FS Avalon Bl,Yes,,33.982147,-118.266306
+808,Shelter ,6300 S Avalon Blvd NB Avalon Blvd NS Gage Ave,Yes,,33.982483,-118.2651789
+809,Shelter ,600 E. Gage  EB Gage Ave FS Avalon,Yes,,33.9819089,-118.2651832
+810,Shelter ,7100 S Avalon Blvd SB Avalon Blvd NS Florence Ave,Yes,,33.975563,-118.264487
+811,Shelter ,7800 S. Avalon  SB Avalon NS 79th,Yes,,33.968285,-118.26482
+812,Shelter ,528 E. Manchester Ave  EB Manchester Ave NS Avalon,Yes,,33.9597154,-118.2655611
+813,Shelter ,500 E. Manchester  WB Manchester Ave FS Avalon Bl,Yes,,33.9598106,-118.2663559
+814,Shelter ,300 E. Manchester EB Manchester FS San Pedro,Yes ,Yes,33.9600534,-118.2694858
+815,Shelter ,8600 S. San Pedro St  NB San Pedro NS Manchester,Yes ,Yes,33.960069,-118.2694815
+816,Shelter ,255 E. Manchester  WB Manchester Ave FS San Pedro,Yes,,33.9605013,-118.2700068
+817,Shelter ,7200 S. San Pedro St.  NB San Pedro NS Florence,Yes ,Yes,33.97471,-118.2695203
+818,Shelter ,7125 S. San Pedro St SB San Pedro NS Florence,Yes ,Yes,33.9749721,-118.2701847
+819,Shelter ,100 S. Alameda St. NB Alameda St NS 1st St,Yes,,34.0480156,-118.2375247
+820,Shelter ,222 S. Alameda St  SB Alameda St NS 3rd St,Yes,,34.0466935,-118.2380897
+821,Shelter ,5850 S Main St  NB Main St NS Slauson Ave,Yes,,33.9882273,-118.2732047
+822,Shelter ,5821 S. Main St  SB Main St FS Slauson,Yes ,Yes,33.988936,-118.274267
+823,Shelter ,5811 S. Broadway  SB Broadway NS Slauson,Yes ,Yes,33.989521,-118.27866
+824,Shelter ,5800 S Figueroa St SB Figueroa St FS Slauson Ave,Yes,,33.9896893,-118.2826583
+825,Shelter ,1789 W. Slauson Ave  EB Slauson Ave FS Vermont Ave,Yes ,Yes,33.9891536,-118.3086543
+826,Shelter ,255 S. Grand Ave  SB Grand Ave NS 3rd St,Yes,,34.0536755,-118.2515421
+827,Shelter ,SB Grand Ave FS 5th Mid Block,Yes,,34.0522342,-118.2436849
+828,Shelter ,200 E. 3rd St  WB 3rd St. NS Los Angeles,Yes,,34.0485006,-118.2447275
+829,Shelter ,300 E. 3rd St  WB 3rd St FS San Pedro St,Yes,,34.047652,-118.243768
+830,Shelter ,880 E. 1St St.  EB 1st Street NS Vignes St,Yes,,34.048163,-118.234336
+831,Shelter ,200 N. Spring St  NB Spring NS Temple St.,Yes ,Yes,34.0537126,-118.2428145
+832,Shelter ,100 W. Temple  EB Temple NS Main,Yes,,34.0542367,-118.2419873
+833,Shelter ,100 W. 1st St.  WB 1st FS Main,Yes,,34.0518561,-118.244337
+834,Shelter ,4000 S. Main  NB Main NS MLK,Yes,,34.0104694,-118.2737963
+835,Shelter ,3900 S. Woodlawn  SB Woodlawn NS MLK,Yes,,34.0113507,-118.2728209
+836,Shelter ,(by corner)  200 N. Spring NB Spring NS Temple,Yes ,Yes,34.0549056,-118.242603
+837,Shelter ,NB Hope St. NS 1st St.,Yes,,34.0564195,-118.2498956
+838,Shelter ,NB Spring FS 1St (Midblock by Steps),Yes ,Yes,34.0529364,-118.2444611
+839,Shelter ,10341 Venice Blvd NB Motor Ave. FS Venice Bl,Yes ,Yes,34.0209029,-118.40406
+840,Shelter ,3520 Motor NB Motor Ave NS Palms,Yes ,Yes,34.0263398,-118.4079575
+841,Shelter ,4471 West Adams WB Adams Bl NS Wellington Rd,Yes ,Yes,34.0329084,-118.337455
+842,Shelter ,998 S. Western Ave.  WB Olympic Bl NS Western Ave,Yes,,34.052873,-118.308702
+843,Shelter ,9900 Venice Bl EB Venice NS Hughes Ave,Yes,,34.022969,-118.398837
+844,Shelter ,8800 Venice Bl EB Venice NS Helms Ave.,Yes ,Yes,34.0306792,-118.3851538
+845,Shelter ,8707 Venice Bl WB Venice Bl FS Cattaraugus Ave,Yes,,34.0328021,-118.3828017
+846,Shelter ,3000 Olympic Bl  SB Normandie Ave FS Olympic,Yes,,34.0523252,-118.3003129
+847,Shelter ,2940 W. Olympic Bl  EB Olympic Bl NS Fedora St.,Yes,,34.0523646,-118.2982076
+848,Shelter ,10006 Palms EB Palms Blvd. NS Exposition Blvd,Yes,,34.0287032,-118.4035833
+849,Shelter ,10375 Washington Bl NB Motor Ave. FS Washington Bl,Yes ,Yes,34.0191013,-118.4023929
+850,Shelter ,9345 Venice Bl WB Venice Bl NS Bagley Ave.,Yes,,34.0258317,-118.3951743
+851,Shelter ,8888 Venice Bl EB Venice Bl FS Nat'l Bl,Yes ,Yes,34.029298,-118.3877085
+852,Shelter ,1600 S Main St EB Venice Bl/16th St FS Main St.,Yes ,Yes,34.033284,-118.262368
+853,Shelter ,EB Venice Bl NS Robertson Bl,Yes ,Yes,34.028214,-118.3901892
+854,Shelter ,10419 Venice Bl WB Venice Bl  FS Motor Ave.,Yes ,Yes,34.0206923,-118.4042996
+855,Shelter ,8951 Venice Bl WB Venice Bl NS Robertson Bl,Yes ,Yes,34.028615,-118.390213
+856,Shelter ,3250 W. Olypmic Bl  NB Western Ave. NS Olympic Bl,Yes,,34.0521678,-118.3082091
+857,Shelter ,EB Venice Bl. FS Cadillac,Yes,,34.0373879,-118.373983
+858,Shelter ,5898 Venice Bl. EB Venice FS Fairfax,Yes ,Yes,34.0398012,-118.3690444
+859,Shelter ,5899 W. Venice Blvd.  NB Fairfax FS Venice,Yes ,Yes,34.040677,-118.369419
+860,Shelter ,SB Fairfax FS Venice,Yes ,Yes,34.0398204,-118.3696861
+861,Shelter ,1430 Fairfax Ave. EB Pico Bl FS Fairfax Ave.,Yes ,Yes,34.0514533,-118.3685456
+862,Shelter ,5871 W Pico Blvd WB Pico Blvd FS Fairfax Ave,Yes,,34.0518902,-118.3671618
+863,Shelter ,5853 W. Pico Blvd.  NB Fairfax FS Pico,Yes ,Yes,34.0514902,-118.3664672
+864,Shelter ,5869 W. Pico Blvd.  SB Fairfax FS Pico,Yes,,34.0515251,-118.3666504
+865,Shelter ,5420 Venice Bl  EB Venice Bl FS Hauser Bl,Yes,,34.0437712,-118.3583279
+866,Shelter ,4934 W Pico NB La Brea NS Pico Bl.,Yes ,Yes,34.0475748,-118.3441789
+867,Shelter ,2958 S. Robertson Blvd. NB Robertson Bl FS Kincardine Ave,Yes ,Yes,34.032955,-118.389077
+868,Shelter ,8905 Venice Bl SB National Bl NS Venice Bl,Yes,,34.0292911,-118.3893179
+869,Shelter ,6041 Cadillac Ave  WB Venice Bl NS Cadillac Ave.,Yes,,34.0383466,-118.3759001
+870,Shelter ,2060 S. La Cienega.  WB Cadillac Ave NS La Cienega Bl.,Yes,,34.0383632,-118.3768398
+871,Shelter ,1804 La Cienega Bl  NB La Cienega NS 18th St.,Yes,,34.0442126,-118.3764043
+872,Shelter ,1907 La Cienega Bl  SB La Cienega Bl FS Sawyer,Yes ,Yes,34.0421423,-118.3767216
+873,Shelter ,1301 S La Brea SB La Brea Ave. FS San Vicente Bl,Yes ,Yes,34.0498429,-118.3444614
+874,Shelter ,5517 San Vicente Bl WB San Vicente Bl  NS Hauser Bl,Yes,,34.0543294,-118.3544525
+875,Shelter ,5604 W San Vicente Blvd EB San Vicente Blvd NS Hauser Blvd,Yes,,34.0551924,-118.3575523
+876,Shelter ,1938 Hauser Bl  WB Washington Bl NS Hauser Bl,Yes ,Yes,34.0395588,-118.3600338
+877,Shelter ,5164 W Washington EB Washington Bl NS Redondo Bl,Yes ,Yes,34.0410653,-118.3533206
+878,Shelter ,5300 W Washingot EB Washington Bl NS Burnside Ave.,Yes ,Yes,34.039994,-118.357982
+879,Shelter ,5635 Washington Bl  WB Washington Bl NS Thurman Ave.,Yes,,34.0360204,-118.3666856
+880,Shelter ,2311 S Fairfax Ave WB Apple Street FS Fairfax Ave,Yes,,34.0374011,-118.3692651
+881,Shelter ,SB Fairfax FS Apple St.,Yes ,Yes,NA,NA
+882,Shelter ,WB Washington Bl NS Fairfax Ave.,Yes ,Yes,34.0343219,-118.369899
+883,Shelter ,4707 Venice Bl  WB Venice Bl NS Rimpau Bl,Yes,,34.047346,-118.3393686
+884,Shelter ,1800 S Robertson Bl NB Robertson NS 18th St,Yes,,34.0464368,-118.3858741
+885,Shelter ,1716 S. La Cienega Bl  NB La Cienega Bl NS Airdrome St.,Yes ,Yes,34.0466635,-118.3759438
+886,Shelter ,1250 S La Brea NB La Brea NS Dockweiler St.,Yes,,34.0517115,-118.3439351
+887,Shelter ,1245 S La Brea SB La Brea Ave. @ Dockweiler St.,Yes,,34.0521909,-118.3443073
+888,Shelter ,1140 S. La Brea Ave NB La Brea Ave FS Edgewood Pl,Yes,,34.054792,-118.343425
+889,Shelter ,1115 La Brea Ave.SB La Brea Ave. NS Edgewood Pl,Yes ,Yes,34.0544895,-118.3439332
+890,Shelter ,1007 S La Brea EB Olympic Bl.  NS La Brea Ave.,Yes,,34.0568563,-118.3461486
+891,Shelter ,2201 Washington Bl  SB Western Ave. NS Washington Bl,Yes,,34.0403624,-118.3093615
+892,Shelter ,1903 S Harvard Blvd EB Washington Blvd NS Harvard Blvd,Yes,,34.039712,-118.304759
+893,Shelter ,1842 Arlington  WB Washington Bl NS Arlington Ave.,Yes,,34.040241,-118.317466
+894,Shelter ,1907 Arlington Ave SB Arlington Ave FS Washington Blvd,Yes,,34.0395588,-118.3180805
+895,Shelter ,2181 W Washington Bl  WB Washington Bl NS Western Ave,Yes,,34.0402791,-118.3085225
+896,Shelter ,2341 W. Washington Bl  WB Washington Bl FS Gramercy P.,Yes ,Yes,34.04015,-118.313432
+897,Shelter ,2350 W. Washington Bl.  EB Washington Bl  NS Gramercy Pl.,Yes,,34.039601,-118.313545
+898,Shelter ,NB Arlington Ave NS Pico Blvd,Yes,,34.047181,-118.3176026
+899,Shelter ,3405 Pico Bl.  SB Arlington Ave. NS Pico Bl,Yes,,34.0473803,-118.317937
+900,Shelter ,3615 Olympic Bl  WB Olympic Bl NS 4th Ave.,Yes ,Yes,34.0532485,-118.3180398
+901,Shelter ,3610 Venice Bl  EB Venice Bl NS 6th Ave.,Yes,,34.043368,-118.3238666
+902,Shelter ,1601 S. Crenshaw Bl  EB Venice Bl NS Crenshaw Bl.,Yes,,34.0445899,-118.3289023
+903,Shelter ,4159 Venice Bl.  WB Venice Bl NS Crenshaw Bl,Yes,,34.0444906,-118.3278008
+904,Shelter ,4650 W. Olympic Bl  EB Olympic Bl NS Muirfield R.,Yes,,34.055405,-118.3329852
+905,Shelter ,1001 S. Highland Ave.  EB Olympic Bl NS Highland Ave.,Yes,,34.0568549,-118.3403071
+906,Shelter ,EB Nat'l Bl FS Robertson Bl,Yes,,34.0312268,-118.3909006
+907,Shelter ,5050 Adams  EB Adams Bl NS La Brea,Yes ,Yes,34.0325,-118.3515002
+908,Shelter ,5212 W.Adams  EB Adams FS Redondo,Yes,,34.0317797,-118.3559856
+909,Shelter ,5807 W.Adams WB Adams NS Fairfax,Yes ,Yes,34.0324665,-118.3702767
+910,Shelter ,2600 La Brea NB La Brea Ave NS Adams Bl,Yes ,Yes,34.0321356,-118.3506883
+911,Shelter ,2619 La Brea SB La Brea FS Adams Bl,Yes ,Yes,34.0318469,-118.3513228
+912,Shelter ,3400 La Brea NB La Brea Ave NS Jefferson Bl,Yes ,Yes,34.0252883,-118.3546583
+913,Shelter ,4001 Wilshire Bl  SB Wilton Pl. NS Ingraham St.,Yes,,34.0620848,-118.3144479
+914,Shelter ,8985 Venice Bl  WB Venice Bl FS Culver Bl.,Yes ,Yes,34.0273359,-118.3931007
+915,Shelter ,EB Venice Bl.  EB Venice Bl NS Culver Bl,Yes ,Yes,34.0269899,-118.394558
+916,Shelter ,1106 S. Fairfax Ave. NB Fairfax Ave. NS Whitworth Dr.,Yes,,34.055453,-118.364754
+917,Shelter ,4406 Adams Bl  SB Crenshaw Bl FS Adams Bl,Yes,,34.0322241,-118.3354856
+918,Shelter ,2855 S. Crenshaw Bl  SB Crenshaw Bl  NS 29th St.,Yes ,Yes,34.0297328,-118.3353303
+919,Shelter ,2900 S. Crenshaw Bl NB Crenshaw Bl NS 29th St.,Yes,,34.0292359,-118.3346415
+920,Shelter ,3015 S. Crenshaw Bl.  SB Crenshaw Bl. FS 30th St.,Yes,,34.0272009,-118.3355025
+921,Shelter ,2956 Crenshaw  NB Crenshaw Bl FS 30th St.,Yes ,Yes,34.02778,-118.334687
+922,Shelter ,1515 S. La Brea Ave.  SB La Brea Ave NS Venice Bl,Yes ,Yes,34.0463397,-118.3455859
+923,Shelter ,4951 PicoSB La Brea Ave. NS Pico Bl,Yes ,Yes,34.048145,-118.344875
+924,Shelter ,3601 S. La Brea Ave. SB La Brea Ave.  FS Rodeo Rd.,Yes ,Yes,34.0211922,-118.3561002
+925,Shelter ,3601 La Brea  SB La Brea Ave. NS Coliseum St.,Yes,,34.0211922,-118.3561002
+926,Shelter ,3325 Wilshire Bl.  WB Wilshire Bl NS Catalina St.,Yes ,Yes,34.0623736,-118.2947668
+927,Shelter ,4627 Pico Bl.  WB Pico Bl NS Rimpau Bl,Yes,,34.049098,-118.336522
+928,Shelter ,2283 Adams Bl.  WB Adams Bl NS Arlington Ave.,Yes ,Yes,34.033016,-118.317344
+929,Shelter ,4000 Adams Bl.  EB Adams Bl NS Edgehill Dr.,Yes,,34.032298,-118.328824
+930,Shelter ,3221 Jefferson.  WB Jefferson Bl NS 12th Ave.,Yes,,34.0258899,-118.331385
+931,Shelter ,3125 S. Western Ave.  SB Western Ave. NS Jefferson Bl.,Yes,,34.025823,-118.309254
+932,Shelter ,1906 S. Crenshaw  NB Crenshaw Bl. NS Washington Bl,Yes,,34.0395529,-118.3309197
+933,Shelter ,1800 S. Crenshaw  SB Crenshaw NS Washington,Yes,,34.0398761,-118.3332674
+934,Shelter ,4012 W. Washington  EB Washington NS 10th Ave.,Yes,,34.0396577,-118.3271678
+935,Shelter ,4311 Lincoln SB Lincoln Bl FS Marina Pointe Dr.,Yes,,33.9842441,-118.4432288
+936,Shelter ,4250 Lincoln NB Lincoln Bl FS Maxell Dr,Yes,,33.9858058,-118.4435159
+937,Shelter ,EB Mindanao Way NS Marina Fwy,Yes ,Yes,33.9837985,-118.4378886
+938,Shelter ,NB Lincoln Bl FS Mindanao Way,Yes,,33.9805146,-118.4389108
+939,Shelter ,3799 Motor  SB Motor NS Venice,Yes ,Yes,34.0204836,-118.4039716
+940,Shelter ,EB Olympic Bl NS Purdue,Yes ,Yes,34.0370607,-118.4431772
+941,Shelter ,5570 Lincoln Bl  NB Lincoln Bl FS Jefferson Bl,Yes,,33.972728,-118.4298175
+942,Shelter ,EB Manchester Ave FS Lincoln Bl,Yes,,33.9598575,-118.4192663
+943,Shelter ,8300 Lincoln Bl NB Lincoln NS 83rd,Yes,,33.9625464,-118.4213096
+944,Shelter ,EB Manchester Ave FS Loyola Bl,Yes ,Yes,33.9598522,-118.4166775
+945,Shelter ,4770 Lincoln NB Lincoln Bl FS Fiji Way,Yes,,33.9789106,-118.4365362
+946,Shelter ,11390 W. Pico Blvd.  EB Pico NS Purdue,Yes ,Yes,34.0343031,-118.4405528
+947,Shelter ,SB Motor FS Venice,Yes,,34.0203622,-118.4038507
+948,Shelter ,WB Venice Bl FS Meade Pl,Yes,,33.9927344,-118.4555321
+949,Shelter ,SB Bundy FS National Bl,Yes ,Yes,34.0198759,-118.4449201
+950,Shelter ,EB National Bl NS Sawtelle,Yes ,Yes,34.0262845,-118.4314596
+951,Shelter ,EB National Bl FS Sawtelle,Yes,,34.0262845,-118.4314596
+952,Shelter ,WB Jefferson NS Alla Rd.,Yes ,Yes,33.9747793,-118.424317
+953,Shelter ,WB Pico NS Federal,Yes,,34.0324803,-118.4439622
+954,Shelter ,11708 W. Pico Blvd  EB Pico Bl NS Barrington Ave,Yes ,Yes,34.0312576,-118.4457863
+955,Shelter ,EB Sunset Bl FS Westcove Dr,Yes ,Yes,34.0573959,-118.4960094
+956,Shelter ,NB PCH NS Sunset,Yes,,34.0385854,-118.5556301
+957,Shelter ,WB Sunset Bl NS Allenford Ave,Yes,,34.0554408,-118.4973749
+958,Shelter ,EB Sunset Bl FS Allenford Ave,Yes,,34.0554408,-118.4973749
+959,Shelter ,WB Washington Bl NS Oxford Ave,Yes,,33.9866167,-118.4547458
+960,Shelter ,EB Washington Bl NS Oxford Ave,Yes ,Yes,33.9866167,-118.4547458
+961,Shelter ,3015 Ocean  WB Washington Bl  FS Ocean Ave,Yes ,Yes,33.982705,-118.461343
+962,Shelter ,8601 S. Sepulveda Bl EB Manchester NS Sepulveda,Yes,,33.959572,-118.396668
+963,Shelter ,EB Manchester Ave NS Georgetown Ave,Yes,,33.9598531,-118.413618
+964,Shelter ,WB Santa Monica FS Bundy,Yes,,34.0405566,-118.4633161
+965,Shelter ,WB Santa Monica NS Bundy,Yes ,Yes,34.0405566,-118.4633161
+966,Shelter ,NB Pacific Ave FS Venice Bl,Yes,,33.9849925,-118.4700732
+967,Shelter ,SB Bundy NS Santa Monica Bl,Yes ,Yes,34.0405566,-118.4633161
+968,Shelter ,EB Santa Monica NS Bundy,Yes ,Yes,34.0405566,-118.4633161
+969,Shelter ,12320 W. Pico Blvd. EB Pico Bl FS Centinela,Yes ,Yes,34.0281344,-118.4522622
+970,Shelter ,12333 W. Pico Blvd. WB Pico Bl NS Centinela,Yes ,Yes,34.0282826,-118.4529959
+971,Shelter ,11675 W. Pico Blvd.  WB Pico Bl NS Barrington Ave,Yes ,Yes,34.0320795,-118.4455705
+972,Shelter ,Pico Blvd S/S @ I-405  EB Pico FS Sawtell,Yes ,Yes,34.035335,-118.43828
+973,Shelter ,11289 W. Pico Blvd,Yes ,Yes,34.0354581,-118.4386073
+974,Shelter ,EB Washington Bl FS Lincoln,Yes ,Yes,33.9904491,-118.4500274
+975,Shelter ,2418 Lincoln Bl  NB Lincoln Bl NS Venice Bl,Yes,,33.9941643,-118.4518303
+976,Shelter ,2418 Lincoln  SB Lincoln Bl FS Washington,Yes,,33.9941643,-118.4518303
+977,Shelter ,826 Washington EB Washington Bl FS Abbott Kinney,Yes ,Yes,33.988084,-118.4547777
+978,Shelter ,EB Venice Bl NS Inglewood,Yes,,34.0061425,-118.4288555
+979,Shelter ,EB Venice Bl NS Lincoln Bl,Yes,,33.9940122,-118.4526478
+980,Shelter ,580 Venice Bl  EB Venice Bl NS Abbott Kinney,Yes ,Yes,33.988761,-118.4625059
+981,Shelter ,583 3/4 Venice  WB Venice Bl FS Abbot Kinney Bl,Yes,,33.9891212,-118.4625452
+982,Shelter ,WB Washington Bl FS Abbot Kinnney Bl,Yes ,Yes,33.9882925,-118.4520509
+983,Shelter ,10715 Venice Blvd. WB Venice FS Overland,Yes ,Yes,34.0188461,-118.4076126
+984,Shelter ,11127 NE Venice Blvd WB Venice NS Dufresne,Yes ,Yes,34.0136976,-118.4166621
+985,Shelter ,NB Sawtelle Bl. FS Olympic,Yes ,Yes,34.038187,-118.44126
+986,Shelter ,NB Sawtelle Bl FS Nebraska Ave,Yes,,34.0439129,-118.446197
+987,Shelter ,SB Bundy NS Olympic,Yes,,34.0323932,-118.4537356
+988,Shelter ,11600 W Pico Blvd.,Yes,,34.032159,-118.443911
+989,Shelter ,WB Venice Bl FS Centinela,Yes,,34.0036147,-118.4335028
+990,Shelter ,WB Venice Bl NS Wade St,Yes,,34.0013887,-118.4379608
+991,Shelter ,SB Lincoln FS 83 St.,Yes,,33.9626671,-118.4217997
+992,Shelter ,8300 Lincoln SB Lincoln Bl NS Jefferson Bl,Yes,,33.9625464,-118.4213096
+993,Shelter ,NB Bundy Dr. NS Goshen,Yes,,34.0451477,-118.4680604
+994,Shelter ,SB Bundy NS Wilshire Bl.,Yes,,34.0440902,-118.467476
+995,Shelter ,EB Sunset Bl NS Barrington,Yes,,34.0649877,-118.4698803
+996,Shelter ,NB Barrington Ave @ Barrington Pl,Yes ,Yes,34.0640614,-118.468677
+997,Shelter ,WB Sunset Bl FS Via De La Paz,Yes,,34.0480524,-118.5268976
+998,Shelter ,EB Sunset NS Via De La Paz,Yes,,34.0480524,-118.5268976
+999,Shelter ,CD 11 WB Sunset FS Carey****,Yes,,34.0450717,-118.5230077
+1000,Shelter ,777 Temescal Canyon  SB Temescal Canyon NS Bowdoin,Yes ,Yes,34.0458651,-118.5308913
+1001,Shelter ,SB Temescal Cyn NS PCH,Yes ,Yes,34.0358668,-118.5357291
+1002,Shelter ,11970 Montana Ave.  NB Bundy NS Montana,Yes,,34.0507289,-118.471766
+1003,Shelter ,11461 Sunset Bl.  WB Sunset FS Church Ln.,Yes,,34.0726109,-118.4685961
+1004,Shelter ,5201 W Century,Yes,,33.9456934,-118.3706049
+1005,Shelter ,5500 W Century  EB Century NS La Cienega,Yes ,Yes,33.9448355,-118.3766901
+1006,Shelter ,5552 W Century,Yes,,33.9449735,-118.3779475
+1007,Shelter ,6225 W Century(On Sepulveda),Yes,,33.9455272,-118.3961073
+1008,Shelter ,WB 96th St. NS 96 Pl,Yes,,33.949005,-118.387555
+1009,Shelter ,EB 96th St NS Airport Bl,Yes ,Yes,33.9494336,-118.3859443
+1010,Shelter ,9840 Airport Bl. NB Airport Bl FS Century,Yes ,Yes,33.9469806,-118.386019
+1011,Shelter ,WB Wilshire Bl NS Brockton Ave,Yes,,34.0459562,-118.4651886
+1012,Shelter ,EB Santa Monica Bl FS Centinela,Yes ,Yes,34.0036147,-118.4335028
+1013,Shelter ,11700 Santa Monica  EB Santa Monica Bl NS Barrington,Yes ,Yes,34.0434212,-118.456085
+1014,Shelter ,1633 Purdue Ave  EB Santa Monica NS Purdue,Yes ,Yes,34.0448753,-118.4502967
+1015,Shelter ,EB Culver Bl NS Del Mar,Yes ,Yes,33.958801,-118.4485468
+1016,Shelter ,6521 Sepulveda Bl  SB Sepulveda Bl FS Centinela Ave,Yes,,33.9802183,-118.3945645
+1017,Shelter ,WB Centinela Ave. FS La Tijera,Yes,,33.9773113,-118.3718916
+1018,Shelter ,EB La Tijera FS 74th St.,Yes ,Yes,33.9704972,-118.3793629
+1019,Shelter ,EB La Tijera FS Manchester,Yes,,33.9599181,-118.3913513
+1020,Shelter ,8530 Airport BlWB Manchester Ave NS Airport Bl,Yes,,33.9602505,-118.3853504
+1021,Shelter ,5820 Manchester Ave  EB Manchester Ave FS Belford Ave,Yes,,33.959807,-118.3835047
+1022,Shelter ,6136 Manchester Ave  EB Manchester Ave FS Truxton Ave,Yes,,33.9593439,-118.3931436
+1023,Shelter ,EB Manchester Ave FS Falmouth,Yes ,Yes,33.9588775,-118.4374196
+1024,Shelter ,NB Lincoln Bl NS LMU Dr,Yes,,33.9655491,-118.4247884
+1025,Shelter ,8600 Sepulveda Bl  NB Sepulveda NS Manchester,Yes,,33.9597833,-118.3961536
+1026,Shelter ,8015 Sepulveda Bl  SB Sepulveda FS 80th St,Yes,,33.9659663,-118.3961429
+1027,Shelter ,NS Sepulveda Bl FS 83rd St,Yes,,33.9634805,-118.3961793
+1028,Shelter ,SB  Sepulveda BL FS 83rd St,Yes,,33.9634805,-118.3961793
+1029,Shelter ,WB Center Dr. NS Center Dr. West,Yes,,33.9781951,-118.3931804
+1030,Shelter ,6801 Park Terrace Dr  EB Center Dr NS Park Terrace Dr,Yes ,Yes,33.9775763,-118.393226
+1031,Shelter ,9204 Airport Bl  NB Airport Bl NS Arbor Vitae St,Yes,,33.9523589,-118.3855054
+1032,Shelter ,NB Sawtelle Bl FS Santa Monica,Yes ,Yes,34.0464856,-118.4484191
+1033,Shelter ,EB Venice Bl  FS Sepulveda,Yes,,34.0129684,-118.4172361
+1034,Shelter ,1600 Lincoln  NB Lincoln NS Palms,Yes,,33.9973248,-118.4588114
+1035,Shelter ,835 Brooks SB Lincoln Bl NS Brooks Ave,Yes,,33.9984309,-118.463652
+1036,Shelter ,1411 Lincoln SB Lincoln Bl FS California Ave,Yes,,33.9975486,-118.4607924
+1037,Shelter ,2121 Lincoln Bl  SB Lincoln Bl NS Victoria Ave,Yes,,33.9948918,-118.4551708
+1038,Shelter ,1606 Pacific  NB Pacific NS Windward,Yes,,33.9877448,-118.4717376
+1039,Shelter ,350 Main St  NB Main St FS Sunset Ave,Yes ,Yes,34.0483282,-118.2469693
+1040,Shelter ,EB Windward Ave FS Pacific,Yes,,33.9876903,-118.472259
+1041,Shelter ,17383 PCH  NB PCH FS Sunset,Yes,,34.0388024,-118.5571111
+1042,Shelter ,EB Century NS Aviation Bl.,Yes ,Yes,33.9455751,-118.3784871
+1043,Shelter ,12404 Venice Bl.  EB Venice Bl NS Centinela Ave,Yes,,34.0031092,-118.4336978
+1044,Shelter ,11704 Venice Bl.  EB Venice Bl. NS McLaughlin Ave.,Yes,,34.0082211,-118.4245838
+1045,Shelter ,EB Santa Monica FS Bundy,Yes ,Yes,34.0405566,-118.4633161
+1046,Shelter ,EB Jefferson Bl. FS Westlawn,Yes ,Yes,33.9792895,-118.4139023
+1047,Shelter ,NB Centinella FS La Tijera,Yes,,33.9773113,-118.3718916
+1048,Shelter ,EB Venice FS Sawtelle,Yes,,34.0113906,-118.4196791
+1049,Shelter ,SB Barrington FS Sunset,Yes,,34.0649877,-118.4698803
+1050,Shelter ,SB Inglewood Bl. NS Braddock,Yes,,33.9926551,-118.4144543
+1051,Shelter ,NB Ea Way FS Jefferson,Yes,,33.97307,-118.4282727
+1052,Shelter ,10800 W. Charnock Rd.  WB Charnock NS Midvale,Yes,,34.0203804,-118.4160578
+1053,Shelter ,SB Lincoln Bl. FS Jefferson Bl.,Yes,,33.9720496,-118.4301534
+1054,Shelter ,EB Nordhoff FS Tampa Ave,Yes,,34.2355074,-118.5535693
+1055,Shelter ,9451 Corbin Ave SB Corbin FS Plummer,Yes ,Yes,34.2420042,-118.5632618
+1056,Shelter ,19450 Plummer  EB Plummer St FS Shirley,Yes ,Yes,34.2422704,-118.5574869
+1057,Shelter ,19481  Plummer  EB Plummer St FS Shirley,Yes ,Yes,34.2426967,-118.6065087
+1058,Shelter ,18860 Nordhoff St EB Nordhoff FS Wilbur,Yes ,Yes,34.2351925,-118.5443996
+1059,Shelter ,8655 Reseda Bl SB Reseda FS Parthenia,Yes ,Yes,34.227966,-118.5365987
+1060,Shelter ,19059 Parthenia  WB Parthenia NS VanAlden,Yes ,Yes,34.22872,-118.548945
+1061,Shelter ,9025 Balboa Bl  SB Balboa Bl FS Nordhoff,Yes,,34.2354559,-118.5030099
+1062,Shelter ,9106 Balboa Bl NB Balboa Bl FS Nordhoff St,Yes ,Yes,34.2361182,-118.5021568
+1063,Shelter ,WB Nordhoff St NS Lindley,Yes ,Yes,34.2354988,-118.5273871
+1064,Shelter ,9500 Reseda Bl NB Reseda FS Plummer,Yes ,Yes,34.2430185,-118.5357871
+1065,Shelter ,9455 Reseda Bl SB Reseda FS Plummer,Yes ,Yes,34.2424301,-118.5364424
+1066,Shelter ,8316 Reseda Bl. NB Reseda FS Roscoe,Yes ,Yes,34.2211858,-118.5361027
+1067,Shelter ,8301  Reseda Bl. WB Roscoe FS Reseda,Yes ,Yes,34.1944622,-118.5799016
+1068,Shelter ,18460 Roscoe Bl EB Roscoe FS Reseda Bl,Yes,,34.2204477,-118.5357524
+1069,Shelter ,SB Reseda Bl FS Parthenia St,Yes,,34.2283143,-118.5361504
+1070,Shelter ,NB Reseda FS Parthenia,Yes,,34.2283143,-118.5361504
+1071,Shelter ,9850 Reseda Bl. NB Reseda Bl NS Lassen St,Yes ,Yes,34.2496597,-118.5356278
+1072,Shelter ,9859 Topanga Cyn Bl  SB Topanga FS Lassen,Yes,,34.249774,-118.6066827
+1073,Shelter ,SB Topanga Canyon Bl FS Plummer St,Yes,,34.2426967,-118.6065087
+1074,Shelter ,9110 Topanga Canyon Bl  NB Topanga Canyon Bl FS Nordhoff St.,Yes,,34.2357366,-118.604815
+1075,Shelter ,8713 Topanga Canyon Bl  SB Topanga Canyon Bl NS Parthenia St,Yes,,34.228811,-118.603833
+1076,Shelter ,11061 Balboa Bl  SB Balboa Bl FS San Fernando Mission,Yes ,Yes,34.2717135,-118.5026322
+1077,Shelter ,10691 Balboa Bl  SB Balboa Bl FS Chatsworth St,Yes ,Yes,34.2645579,-118.5022909
+1078,Shelter ,10201 Balboa Bl  SB Balboa Bl FS Devonshire,Yes,,34.2555926,-118.5023707
+1079,Shelter ,16801 Devonshire St  WB Devonshire St FS Petit Ave,Yes,,34.2577711,-118.4982027
+1080,Shelter ,17129 Devonshire St  WB Devonshire St NS Amestoy Ave,Yes,,34.2575696,-118.5069339
+1081,Shelter ,17710 Devonshire EB Devonshire NS White Oak,Yes,,34.256855,-118.521421
+1082,Shelter ,18101 Devonshire  WB Devonshire FS Lindley,Yes,,34.2572795,-118.527377
+1083,Shelter ,18501 Devonshire St. FS Reseda Bl,Yes ,Yes,34.2576213,-118.5364596
+1084,Shelter ,17656 Chatsworth St.  EB Chatsworth St. White Oak Ave,Yes ,Yes,34.2645735,-118.5194412
+1085,Shelter ,10324 Zelzah Ave  NB Zelzah Ave FS Devonshire St,Yes ,Yes,34.2579218,-118.5229482
+1086,Shelter ,10460 Zelzah Ave  NB Zelzah NS San Jose,Yes ,Yes,34.2610421,-118.5230592
+1087,Shelter ,10501 Zelzah Ave  SB Zelzah NS San Jose St,Yes,,34.2612974,-118.5233654
+1088,Shelter ,16899 Rinaldi St EB Rinaldi St NS Balboa Blvd,Yes,,34.2792914,-118.4998255
+1089,Shelter ,12901 Balboa  SB Balboa FS Lisette,Yes,,34.3035619,-118.5010229
+1090,Shelter ,12199 Balboa  Bl  SB Balboa NS Jolette Ave,Yes ,Yes,34.292295,-118.5042063
+1091,Shelter ,11900 Balboa Bl  NB Balboa Bl FS Lorillard St,Yes,,34.2863782,-118.5011936
+1092,Shelter ,19600 Rinaldi St.  EB Rinaldi St FS Corbin Ave,Yes ,Yes,34.2748059,-118.5616554
+1093,Shelter ,19900 Rinaldi St.  EB Rinaldi St. FS Porter Ranch Dr.,Yes,,34.2755107,-118.5686323
+1094,Shelter ,17200 Rinaldi St EB Rinaldi St FS Babbitt Ave,Yes,,34.279012,-118.507942
+1095,Shelter ,17189 Rinaldi  WB Rinaldi NS Babbitt,Yes,,34.279621,-118.507944
+1096,Shelter ,WB Rinaldi St  NS Balboa Bl,Yes ,Yes,34.2792814,-118.5021303
+1097,Shelter ,18200 Devonshire St.  EB Devonshire FS Etiwanda,Yes,,34.257254,-118.5306156
+1098,Shelter ,19300 Devonshire St  WB Devonshire St. FS Tampa Ave,Yes,,34.257263,-118.5537022
+1099,Shelter ,NB Tampa Ave NS Devonshire St,Yes ,Yes,34.2572791,-118.5535701
+1100,Shelter ,10301 Melvin Ave.  WB Devonshire St FS Melvin Ave,Yes,,34.257513,-118.560515
+1101,Shelter ,WB Devonshire St FS Oakdale Ave (19910 Blackhawk),Yes,,34.2572713,-118.5667187
+1102,Shelter ,19900 Devonshire St EB Devonshire St FS Oakdale Ave,Yes,,34.2572557,-118.5667279
+1103,Shelter ,20505 Devonshire St  WB Devonshire St FS Mason Ave,Yes ,Yes,34.2574969,-118.5801264
+1104,Shelter ,20516 Devonshire St EB Devonshire St. NS Mason Ave,Yes ,Yes,34.2567357,-118.5803028
+1105,Shelter ,20901 Devonshire St  WB Devonshire St FS DeSoto Ave,Yes ,Yes,34.2577381,-118.5892752
+1106,Shelter ,21417 Devonshire St  WB Devonshire St FS Canoga Ave,Yes ,Yes,34.2582095,-118.5977967
+1107,Shelter ,21924 Devonshire St  EB Devonshire St FS Topanga Cyn Bl,Yes,,34.2569493,-118.605486
+1108,Shelter ,19301 Parthenia St SB Tampa Ave NS Parthenia St,Yes,,34.2287348,-118.5541139
+1109,Shelter ,10800 Tampa Ave  NB Tampa Ave FS Chatsworth St,Yes,,34.2663503,-118.5550802
+1110,Shelter ,8400 Winnetka  SB Winnetka FS Chase,Yes,,34.2221674,-118.5709868
+1111,Shelter ,16900 Vanowen  WB Vanowen FS Balboa,Yes ,Yes,34.1938733,-118.5011596
+1112,Shelter ,20450 Lassen  NB Mason NS Lassen,Yes,,34.2496814,-118.5795587
+1113,Shelter ,WB Lassen NS Corbin,Yes,,34.2499979,-118.5623207
+1114,Shelter ,18000 Lassen  WB Lassen NS Lindley,Yes,,34.2499937,-118.5270507
+1115,Shelter ,17200 Lassen  EB Lassen FS Louise,Yes,,34.2502876,-118.5089785
+1116,Shelter ,9857 Balboa  EB Lassen NS Balboa,Yes ,Yes,34.2500374,-118.5027871
+1117,Shelter ,9800 Woodley  SB Woodley FS Lassen,Yes,,34.2483345,-118.4849231
+1118,Shelter ,16200 W. Lassen St  EB Lassen NS Woodley,Yes ,Yes,34.2497575,-118.4856972
+1119,Shelter ,16600 Plummer  EB Plummer NS Hayvenhure St,Yes,,34.2429384,-118.4939109
+1120,Shelter ,17000 Plummer  EB Plummer St NS Balboa,Yes,,34.2429915,-118.5024768
+1121,Shelter ,9300 Balboa Bl  Balboa Bl FS Plummer,Yes,,34.2575159,-118.5023254
+1122,Shelter ,SB Zelzah FS Plummer,Yes ,Yes,34.2431423,-118.5232653
+1123,Shelter ,20100 Plummer  EB Plummer NS Winnetka,Yes,,34.2421335,-118.5716349
+1124,Shelter ,20700 Plummer St  EB Plummer NS Lurline,Yes ,Yes,34.2422778,-118.5845264
+1125,Shelter ,20105 Nordhoff St  WB Nordhoff FS Winnetka,Yes,,34.2325045,-118.5714712
+1126,Shelter ,18300 Nordhoff  EB Nordhoff St  NS Etiwanda,Yes ,Yes,34.2353339,-118.5330578
+1127,Shelter ,17100 Nordhoff  WB Nordhoff FS Amestoy,Yes,,34.2357629,-118.5058765
+1128,Shelter ,8704 WoodleyNB Woodley FS Parthenia St,Yes,,34.2288041,-118.4849178
+1129,Shelter ,8676 N. Lindley  NB Lindley NS Parthenia,Yes,,34.2284669,-118.5269025
+1130,Shelter ,21621 Nordhoff  WB Nordhoff NS Owensmouth,Yes ,Yes,34.2359898,-118.6016274
+1131,Shelter ,16900 Burbank Bl  WB Burbank FS Balboa,Yes ,Yes,34.1719504,-118.5013874
+1132,Shelter ,17300 Victory  EB Victory NS Louise,Yes,,34.1866227,-118.5098762
+1133,Shelter ,WB Victory FS Balboa,Yes ,Yes,34.186638,-118.5011136
+1134,Shelter ,6500 Balboa Blvd SB Balboa Blvd FS Haynes St,Yes,,34.188873,-118.500748
+1135,Shelter ,6700 Balboa Blvd SB Balboa Blvd FS Vanowen St,Yes,,34.191996,-118.50075
+1136,Shelter ,17300 Vanowen  EB Vanowen NS Louise,Yes,,34.193599,-118.510299
+1137,Shelter ,17651 Vanowen  WB Vanowen NS White Oak,Yes ,Yes,34.1943016,-118.5183456
+1138,Shelter ,6754 White Oak Ave  NB White Oak NS Vanowen,Yes ,Yes,34.1936061,-118.5183058
+1139,Shelter ,17643 Sherman Way  NB White Oak FS Sherman Way,Yes ,Yes,34.201527,-118.518149
+1140,Shelter ,17700 Roscoe  EB Roscoe NS White Oak,Yes ,Yes,34.2206998,-118.5189786
+1141,Shelter ,18251 Roscoe Blvd WB Roscoe Blvd NS Etiwanda Ave,Yes,,34.2210718,-118.531404
+1142,Shelter ,18300 Roscoe EB Roscoe NS Etiwanda,Yes,,34.2200955,-118.5331136
+1143,Shelter ,18900 Roscoe  WB Roscoe FS Wilbur,Yes,,34.2205667,-118.5448678
+1144,Shelter ,20500 Roscoe WB Roscoe FS Mason,Yes,,34.2200428,-118.5798069
+1145,Shelter ,20915 Roscoe Bl  WB Roscoe FS De Soto,Yes ,Yes,34.2201604,-118.5890435
+1146,Shelter ,SB White Oak NS Hatteras St.,Yes ,Yes,34.1766838,-118.518517
+1147,Shelter ,NB White Oak NS Hatteras St.,Yes,,34.1766838,-118.518517
+1148,Shelter ,WB Sunset Blvd NS Gower St,Yes,,34.098033,-118.3222961
+1149,Shelter ,EB Sunset Bl NS Gower St,Yes,,34.098033,-118.3222961
+1150,Shelter ,6667 Sunset Bl  WB Sunset Bl NS Cherokee,Yes,,34.0980059,-118.3355321
+1151,Shelter ,6767 Sunset Bl NS Gower St.,Yes,,34.0984839,-118.3381023
+1152,Shelter ,WB Hollywood Bl NS Western,Yes ,Yes,34.101744,-118.3092724
+1153,Shelter ,NB Highland Ave NS Sunset,Yes,,34.097984,-118.3386873
+1154,Shelter ,EB Sunset Bl NS Highland Ave,Yes,,34.097984,-118.3386873
+1155,Shelter ,5500 Hollywood NS Western,Yes,,34.1014609,-118.3095706
+1156,Shelter ,WB Santa Monica Bl NS Gower,Yes,,34.0907439,-118.3222674
+1157,Shelter ,5858 W Sunset Bl NS Van Ness,Yes,,34.098035,-118.3176632
+1158,Shelter ,SB Argyle FS Hwd Bl,Yes,,34.0522342,-118.2436849
+1159,Shelter ,1230 Vine St. NS Fountain,Yes,,34.0935095,-118.3266175
+1160,Shelter ,EB Santa Monica Bl NS Gower,Yes,,34.0907439,-118.3222674
+1161,Shelter ,6239 Santa Monica FS Vine St,Yes ,Yes,34.0907607,-118.3259306
+1162,Shelter ,1522 N Van Ness Ave NS Sunset Bl,Yes,,34.098578,-118.315437
+1163,Shelter ,6300 Santa Monica  Blvd. @ Vine St,Yes,,34.0907513,-118.3266366
+1164,Shelter ,6301 Sta. Monica  Blvd.  WB Santa Monica FS Vine St,Yes,,34.0632454,-118.4152473
+1165,Shelter ,6363 Sunset WB Sunset Bl NS Ivar Ave,Yes,,34.098836,-118.3281962
+1166,Shelter ,1500 Vine NB Vine St. FS Sunset,Yes,,34.098332,-118.3262557
+1167,Shelter ,WB Santa Monica Bl FS Van Ness,Yes,,34.0907661,-118.3157347
+1168,Shelter ,1276 N. Western NB Western Ave NS Fountain Ave,Yes ,Yes,34.094609,-118.308832
+1169,Shelter ,1100 N. Western Ave  NB Western FS Santa Monica Bl,Yes,,34.0909283,-118.3089538
+1170,Shelter ,EB Santa Monica Bl NS Van Ness,Yes ,Yes,34.0907661,-118.3157347
+1171,Shelter ,5480 Santa Monica Bl  EB Santa Monica Bl  FS Western Ave,Yes,,34.0905758,-118.3089086
+1172,Shelter ,6211 Hollywood Bl  NB Argyle Ave FS Hollywood Bl,Yes ,Yes,34.1017937,-118.3249769
+1173,Shelter ,SB Highland Ave FS Franklin Ave,Yes,,34.1052035,-118.3374615
+1174,Shelter ,5454 Hollywood Bl  EB Hollywod Bl FS Western Ave,Yes,,34.1014115,-118.3087265
+1175,Shelter ,WB Sunset Bl NS Orange Dr,Yes,,34.0979908,-118.3414863
+1176,Shelter ,4432 W. Sunset Blvd NB Virgil NS Sunset,Yes ,Yes,34.0968992,-118.2853803
+1177,Shelter ,WB Melrose Ave NS Larchmont Bl,Yes,,34.083497,-118.3236672
+1178,Shelter ,WB Melrose Ave NS Windsor Bl,Yes ,Yes,34.0835082,-118.3195227
+1179,Shelter ,SB Western Ave FS Romaine St,Yes ,Yes,34.0884839,-118.3091686
+1180,Shelter ,1500 Vermont Ave  WB Sunset Bl NS Vermont Ave,Yes,,34.04557,-118.2910915
+1181,Shelter ,EB Sunset Bl FS Vermont Ave,Yes ,Yes,34.0981686,-118.2917667
+1182,Shelter ,20050 Vanowen  EB Vanowen FS Winnetka,Yes ,Yes,34.1934189,-118.5707781
+1183,Shelter ,WB San Fernando Rd.  FS Delay Dr,Yes,,34.1124235,-118.2434403
+1184,Shelter ,SB Glendale Bl NS Park Ave,Yes ,Yes,34.0763362,-118.2613162
+1185,Shelter ,EB Santa Monica Bl NS Tamarind Ave,Yes,,34.0907411,-118.3190251
+1186,Shelter ,NE cor of Riverside Dr. @ Elmgrove,Yes,,34.0863564,-118.2317902
+1187,Shelter ,WB Riverside Dr. NS Hardwood St,Yes,,34.0877628,-118.2343591
+1188,Shelter ,NE cor of Riverside Dr. @ Riverdale Ave,Yes,,34.0892383,-118.2368403
+1189,Shelter ,WB Riverside NS Dorris Place,Yes ,Yes,34.0903601,-118.2382055
+1190,Shelter ,2326 Birkdale St @ Riverside,Yes,,34.0918521,-118.2396266
+1191,Shelter ,SE cor of Riverside Dr. & Eads,Yes,,34.094226,-118.242859
+1192,Shelter ,WB Riverside Dr. NS Newell St.,Yes,,34.0984548,-118.2482539
+1193,Shelter ,WB Riverside Dr. WB Riverside Dr. FS Allesandro,Yes,,34.0996264,-118.2522146
+1194,Shelter ,EB Riverside Dr. EB Riverside NS Allesandro,Yes ,Yes,34.0996264,-118.2522146
+1195,Shelter ,WB Riverside Dr.  Across from Allesandro Elem. School,Yes,,34.1018272,-118.2541469
+1196,Shelter ,WB Riverside Dr. WB Riverside NS Gilroy,Yes ,Yes,34.104374,-118.257218
+1197,Shelter ,2400 Fletcher Dr WB Riverside Dr. NS Fletcher,Yes ,Yes,34.1059828,-118.2561879
+1198,Shelter ,2466 Riverside Dr EB Riverside FS Fletcher,Yes ,Yes,34.1056578,-118.2564878
+1199,Shelter ,2490 Fletcher Dr. NB Fletcher NS Ripple,Yes,,34.1073881,-118.2544188
+1200,Shelter ,2478 Fletcher Dr.  SB Fletcher FS Crystal St,Yes,,34.1071933,-118.2547325
+1201,Shelter ,1711 Temple St  WB Temple St FS Union,Yes,,34.0696967,-118.2635016
+1202,Shelter ,1712 Temple St.  EB Temple NS Union,Yes ,Yes,34.0686715,-118.2636486
+1203,Shelter ,400 N. Alvarado St.  WB Temple St. NS Alvarado,Yes,,34.0704364,-118.2675548
+1204,Shelter ,2328 Temple St EB Temple St NS Rosemont Ave,Yes,,34.0710587,-118.2712183
+1205,Shelter ,2520 W Temple St EB Temple St NS Carondelet St,Yes,,34.0720541,-118.2737287
+1206,Shelter ,2535 W. Temple St.  WB Temple NS Rampart,Yes,,34.0726669,-118.274626
+1207,Shelter ,2530 W. Temple St.EB Temple FS Rampart,Yes,,34.0721255,-118.2745732
+1208,Shelter ,2801 W Temple St WB Temple St FS Occidental Blvd,Yes,,34.074095,-118.277651
+1209,Shelter ,1350 Highland Ave.  NB Highland NS De Longpre,Yes,,34.095819,-118.338264
+1210,Shelter ,NB Vine St. FS De Longpre Ave,Yes ,Yes,34.0961818,-118.3266422
+1211,Shelter ,1500 N. St. Andrews Pl WB Sunset NS St. Andrews Pl,Yes,,34.0987425,-118.3136348
+1212,Shelter ,5500 W. Sunset Bl EB Sunset FS  St. Andrews Pl,Yes,,34.0980619,-118.3103934
+1213,Shelter ,3800 W. 1St St.  EB 1st St. NS Catalina St,Yes,,34.0727079,-118.2976752
+1214,Shelter ,2400 Sunset Bl  EB Sunset Bl FS Coronado St,Yes,,34.0794655,-118.2711047
+1215,Shelter ,2861 Sunset Bl  WB Sunset Bl NS Silver Lake Bl,Yes,,34.0829279,-118.2729907
+1216,Shelter ,2860 Sunset Bl  NB Parkman Ave NS Sunset Bl,Yes,,34.0826366,-118.2733242
+1217,Shelter ,3408 Sunset Bl  EB Sunset Bl NS Micheltorena St,Yes ,Yes,34.087699,-118.276322
+1218,Shelter ,3725 Sunset Bl  WB Sunset Bl NS Lucile Ave,Yes ,Yes,34.0909022,-118.2782585
+1219,Shelter ,4020 Sunset Bl EB Sunset Bl NS Santa Monica Bl,Yes ,Yes,34.0927951,-118.2810848
+1220,Shelter ,1600 Vermont Ave.  NB Vermont Ave NS Hwd Bl,Yes ,Yes,34.101246,-118.2926878
+1221,Shelter ,2707 Fletcher Dr.  SB Fletch Dr NS Larga Ave,Yes,,34.1106968,-118.2512756
+1222,Shelter ,2026 Glendale Bl  NB Glendale Bl FS Fargo St,Yes,,34.0923653,-118.2585004
+1223,Shelter ,1600 Glendale Bl  NB Glendale Bl NS Effie St,Yes ,Yes,34.0857561,-118.2620151
+1224,Shelter ,1340 N. Glendale Bl.  NB Glendale Bl NS Montana St,Yes,,34.0798306,-118.2624729
+1225,Shelter ,1300 N. Alvarado St  NB Alvarado St NS Montana,Yes,,34.080589,-118.2634703
+1226,Shelter ,800 N. Glendale Bl  NB Glendale Bl NS Santa Ynez St,Yes ,Yes,34.0743822,-118.2638808
+1227,Shelter ,1600 W. Bellevue Ave  EB Bellevue Ave FS Glendale Bl,Yes ,Yes,34.070598,-118.2636204
+1228,Shelter ,1100 Echo Park Ave  SB Echo Park Ave  NS Park Ave,Yes,,34.0749323,-118.2582313
+1229,Shelter ,100 S. Alvarado St.  NB Alvarado St NS Beverly Bl,Yes ,Yes,34.0666947,-118.2725081
+1230,Shelter ,2105 Beverly Bl  SB Alvarado NS Beverly Bl,Yes,,34.0672421,-118.2703991
+1231,Shelter ,400 N. Alvarado St.  NB Alvarado St. NS Temple St,Yes ,Yes,34.0704364,-118.2675548
+1232,Shelter ,2100 W. Temple St.  EB Temple St NS Alvarado St,Yes ,Yes,34.0702607,-118.27022
+1233,Shelter ,6767 Sunset Bl  NB Highland FS Sunset,Yes,,34.0984839,-118.3381023
+1234,Shelter ,4003 Beverly  WB Beverly Bl NS Kenmore,Yes ,Yes,34.0764907,-118.2962502
+1235,Shelter ,200 S. Normandie  NB Normandie FS 3rd St.,Yes ,Yes,34.0710229,-118.300005
+1236,Shelter ,3900 W. 3rdWB 3rd NS Normandie,Yes,,34.0688674,-118.2995491
+1237,Shelter ,NB Vermont Ave FS Clinton St,Yes,,34.081785,-118.291726
+1238,Shelter ,601 N Vermont Ave SB Vermont Ave NS Clinton St,Yes,,34.081926,-118.2920951
+1239,Shelter ,4166 Melrose Ave NB Vermont Ave NS Melrose Ave,Yes,,34.083354,-118.291326
+1240,Shelter ,EB Santa Monica Blvd NS Vermont Ave,Yes,,34.0908675,-118.291755
+1241,Shelter ,1015 N Vermont Ave SB Vermont Ave FS Santa Monica Blvd,Yes,,34.089937,-118.29207
+1242,Shelter ,1300 N Vermont Ave NB Vermont Ave FS Fountain Ave,Yes,,34.0962209,-118.2905784
+1243,Shelter ,5205 W Sunset Blvd WB Sunset Blvd FS Kingsley Dr,Yes,,34.0984344,-118.3037736
+1244,Shelter ,SB Western Ave FS Sunset Blvd,Yes,,34.0980896,-118.309245
+1245,Shelter ,6260 W Santa Monica Blvd EB Santa Monica Blvd FS Vine St,Yes,,34.090365,-118.3262271
+1246,Shelter ,WB Santa Monica Blvd NS Vine St,Yes,,34.0907513,-118.3266366
+1247,Shelter ,1218 N Vine St NB Vine St FS Lesington Ave,Yes ,Yes,34.093134,-118.326175
+1248,Shelter ,2815 W. San Fernando Rd.  WB San Fernando Rd. FS Edward Ave.,Yes,,34.1462681,-118.2720656
+1249,Shelter ,WB Huntington Dr. NS Poplar Bl.,Yes,,34.0905668,-118.1648673
+1250,Shelter ,1746 7th St.  WB 7th St. NS Decatur,Yes,,34.0347742,-118.235654
+1251,Shelter ,SB Via Marisol @ 4900,Yes,,34.1016236,-118.1792383
+1252,Shelter ,NB Monterey Rd NS Ave. 60,Yes ,Yes,34.1054878,-118.1840864
+1253,Shelter ,SB Monterey Rd. FS Ave 60,Yes ,Yes,34.1054878,-118.1840864
+1254,Shelter ,EB York Bl NS Ave 46,Yes ,Yes,34.1232067,-118.2160082
+1255,Shelter ,EB York Bl NS Ave 50,Yes ,Yes,34.1214592,-118.2068917
+1256,Shelter ,WB York Bl FS Ave 50,Yes,,34.1214592,-118.2068917
+1257,Shelter ,5132 W. York Bl.  EB York Bl. @5132 York Bl.,Yes,,34.1206385,-118.203657
+1258,Shelter ,EB York Bl NS Ave 54,Yes ,Yes,34.1200039,-118.1991944
+1259,Shelter ,EB York Bl NS Ave 56,Yes ,Yes,34.1194022,-118.1966994
+1260,Shelter ,SB Figueroa St @ Ave 61,Yes,,34.1116702,-118.1883881
+1261,Shelter ,4891 Eagle Rock Bl  SB Eagle Rock FS Yosemite,Yes ,Yes,34.1350186,-118.215815
+1262,Shelter ,SB Eagle Rock NS Westdale,Yes ,Yes,34.1295287,-118.2170167
+1263,Shelter ,4403 Eagle Rock Bl  SB Eagle Rock NS York Bl,Yes ,Yes,34.124569,-118.221077
+1264,Shelter ,4380 Eagle Rock Boulevard  NB Eagle Rock NS York Bl,Yes ,Yes,34.1238079,-118.2210455
+1265,Shelter ,4460 Eagle Rock Bl  NB Eagle Rock NS Ave 45,Yes ,Yes,34.1256178,-118.219293
+1266,Shelter ,4666 Eagle Rock Bl  NB Eagle Rock NS Westdale,Yes,,34.1291932,-118.2166806
+1267,Shelter ,2575 Colorado Bl  WB Colorado NS Sierra Villa,Yes ,Yes,34.1422851,-118.2226613
+1268,Shelter ,WB Broadway FS Sumner Ave.,Yes,,34.1430495,-118.2248945
+1269,Shelter ,5061 Eagle Rock Bl EB Colorado NS Eagle Rock,Yes,,34.1386375,-118.2143191
+1270,Shelter ,1700 Colorado Bl EB Colorado NS Mt. Royal,Yes ,Yes,34.139057,-118.203878
+1271,Shelter ,1180 Colorado Bl  WB Colorado NS Wiota,Yes,,34.137844,-118.192138
+1272,Shelter ,1860 Colorado Bl  WB Colorado NS Highland View Ave,Yes ,Yes,34.1390311,-118.2081767
+1273,Shelter ,WB Colorado NS Maywood,Yes ,Yes,34.1391235,-118.2115993
+1274,Shelter ,135 E. 9th St.  SB Los Angeles St. NS 9th St,Yes,,34.0409553,-118.2542961
+1275,Shelter ,110 East 9th St  SB Los Angeles St. NS Olympic Bl,Yes,,34.0404559,-118.2553945
+1276,Shelter ,950 S. Los Angeles St.  NS Los Angeles St. FS Olympic Bl,Yes,,34.0395494,-118.2553084
+1277,Shelter ,4954 Huntington Dr.  EB Huntington Dr. NS Pueblo,Yes,,34.0876902,-118.1771121
+1278,Shelter ,4975 Huntington Dr. WB Huntington Dr. NS Pueblo,Yes,,34.0878672,-118.1748224
+1279,Shelter ,5046 Huntington Dr EB Huntington NS Portola,Yes ,Yes,34.0892441,-118.173284
+1280,Shelter ,5041 Huntington Dr. WB Huntington Dr. NS Tampico Ave.,Yes,,34.0887175,-118.1724974
+1281,Shelter ,5101 Huntington Dr WB Huntington Dr NS Van Horne Ave,Yes ,Yes,34.0892441,-118.173284
+1282,Shelter ,5146 Huntington Dr EB Huntington Dr. FS Van Horne,Yes ,Yes,34.0892588,-118.1711015
+1283,Shelter ,5364 Huntington Dr EB Huntington Dr. NS Poplar Bl,Yes ,Yes,34.0892441,-118.173284
+1284,Shelter ,WB Huntington Dr. @ Lowell Ave.,Yes,,34.0922147,-118.1620558
+1285,Shelter ,5769 Huntington Dr.  WB Huntington Dr. FS Kendall Ave.,Yes,,34.0890773,-118.1737761
+1286,Shelter ,5551 Huntington Dr.  WB Huntington Dr. NS Alpha St.,Yes,,34.0890589,-118.1738256
+1287,Shelter ,EB Huntington Dr. FS Maycrest Ave.,Yes,,34.0932633,-118.1609886
+1288,Shelter ,4580 Huntington Dr (@ Edloft),Yes,,34.0852036,-118.1864446
+1289,Shelter ,5194 Ithica Ave SB Lombardy FS Ithaca Ave,Yes,,34.07389,-118.173026
+1290,Shelter ,4800 Valley Bl EB Valley FS Eastern,Yes,,34.0657806,-118.1797117
+1291,Shelter ,SB Eastern Ave. FS Huntington Dr.,Yes,,34.0862275,-118.1784389
+1292,Shelter ,240 S. Hill St.  NB Hill St. FS 3rd St.,Yes,,34.051813,-118.248431
+1293,Shelter ,WB 101 Fwy Offramp NS Alameda St (On Island),Yes,,34.0522342,-118.2436849
+1294,Shelter ,900 Aveila St.  WB Cesar Chavez FS Vignes St,Yes ,Yes,34.0572011,-118.2325854
+1295,Shelter ,NB Alameda St FS Temple St.,Yes,,34.0511017,-118.2380625
+1296,Shelter ,905 Maple - SB Maple FS 9th,Yes,,34.0394372,-118.2530992
+1297,Shelter ,900 S. Main - NB Main NS 9th,Yes ,Yes,34.0411725,-118.2550133
+1298,Shelter ,817 S. Spring St - SB Spring FS 8th,Yes,,34.042786,-118.2543147
+1299,Shelter ,800 S. Main - NB Main NS 8th,Yes,,34.042458,-118.2532462
+1300,Shelter ,715 S. Spring - SB Spring FS 7th,Yes,,34.0442053,-118.2528095
+1301,Shelter ,212 E. 7th - EB 7th FS Los Angeles,Yes ,Yes,34.0423224,-118.2499733
+1302,Shelter ,500 E. 7th St.  EB 7th St. NS San Pedro St,Yes,,34.0408571,-118.247391
+1303,Shelter ,2910 San Fernando Rd.  EB San Fernando Rd. NS Delay Dr,Yes ,Yes,34.1118664,-118.2447869
+1304,Shelter ,NE cor of Valley & Marianna Ave,Yes,,34.0672001,-118.1770516
+1305,Shelter ,5014 Valley Blvd @ Marianna Ave.,Yes ,Yes,34.0672001,-118.1770516
+1306,Shelter ,1716 7th St.  EB 7th St NS Decatur St.,Yes,,34.0347969,-118.2360038
+1307,Shelter ,NE cor of Valley & Beatle Place,Yes,,34.071605,-118.1726629
+1308,Shelter ,NW cor of Valley & Block Pl,Yes,,34.0733717,-118.1705215
+1309,Shelter ,1526 4th St.  EB 4th NS Gless St,Yes ,Yes,34.0429226,-118.2249275
+1310,Shelter ,1607 4th St.  WB 4th St. NS Gless St.,Yes ,Yes,34.0429226,-118.2249275
+1311,Shelter ,1801 E. 4th St.  WB 4th St. NS Boyle Ave,Yes ,Yes,34.043235,-118.2192515
+1312,Shelter ,209 W. 5th St.  WB 5th St NS Broadway,Yes,,34.047681,-118.2499047
+1313,Shelter ,590 Central NB Central Ave FS 6th St.,Yes ,Yes,34.039188,-118.239545
+1314,Shelter ,SB Central Ave NS 8th St.,Yes,,34.0335949,-118.2432798
+1315,Shelter ,1201 E. 1St St. WB 1st St. NS Mission Rd.,Yes,,34.0479865,-118.2274561
+1316,Shelter ,1690 S. Alameda St NB Alameda St. FS Washington,Yes,,34.0202473,-118.2390894
+1317,Shelter ,2065 Santa Fe Ave  WB Washington Bl FS Santa Fe Ave,Yes,,34.0191933,-118.2307208
+1318,Shelter ,1700 S. Soto St.  NB Soto St FS Washington Bl,Yes,,34.0186698,-118.2200985
+1319,Shelter ,3141 Olympic Bl  WB Olympic Bl FS Grande Vista Ave,Yes ,Yes,34.0201291,-118.2126798
+1320,Shelter ,1520 S. Santa Fe Ave  WB Olympic Bl NS Santa Fe Ave,Yes ,Yes,34.0259241,-118.2294596
+1321,Shelter ,1500 S. Santa Fe Ave  SB Santa Fe Ave NS Olympmic,Yes,,34.0266507,-118.2299066
+1322,Shelter ,2200 E. Olypmic Bl  EB Olympic Bl NS Mateo St,Yes,,34.026196,-118.2334585
+1323,Shelter ,1807 E. Olympic Bl  WB Olympic Bl NS Alameda,Yes ,Yes,34.0275402,-118.2379543
+1324,Shelter ,901 S. Alameda St.  SB Alameda St FS Olympic Bl,Yes,,34.027643,-118.239687
+1325,Shelter ,1700 E. Olympic Bl EB Olympic Bl NS Alameda,Yes ,Yes,34.0290511,-118.2408816
+1326,Shelter ,800 S. Central Ave SB Central Ave NS Olympic,Yes ,Yes,34.0335883,-118.2432628
+1327,Shelter ,600 E. 8th St.  WB 8th St NS San Julian,Yes,,34.03913,-118.249721
+1328,Shelter ,1500 E. Cesar Chavez  EB Cesar Chavez FS Warren St,Yes ,Yes,34.0524918,-118.2205141
+1329,Shelter ,2934 Cesar Chavez  EB Cesar Chavez NS Evergreen Ave,Yes ,Yes,34.0434785,-118.2006639
+1330,Shelter ,300 N. Lorena St  SB Lorena St FS Cesar Chavez,Yes,,34.038719,-118.193539
+1331,Shelter ,500 N. Mission Rd.  WB Cesar Chavez NS Mission,Yes ,Yes,34.054313,-118.2251181
+1332,Shelter ,505 N. Mission R.  SB Mission Rd NS Cesar Chavez Ave,Yes,,34.0548215,-118.2253007
+1333,Shelter ,300 S. Spring St.  SB Spring St NS 4th St,Yes ,Yes,34.049286,-118.2467175
+1334,Shelter ,700 S. Alameda St  SB Alameda St FS 7th St,Yes,,34.0349457,-118.2386089
+1335,Shelter ,1400 E. 7th St  WB 7th St NS alameda St,Yes,,34.0353261,-118.2391117
+1336,Shelter ,1508 S. Alameda St  NB Alameda St NS 15th St,Yes,,34.0232259,-118.2389095
+1337,Shelter ,2814 Whittier Bl  EB Whittier Bl FS Camulos St,Yes ,Yes,34.0308565,-118.2083795
+1338,Shelter ,3000 E. Whittier Bl  WB Whittier BL NS Euclid Ave,Yes,,34.0304112,-118.2073038
+1339,Shelter ,3500 E. Whittier Bl.  WB Whittier Bl. NS Spence St.,Yes,,34.0262774,-118.1984641
+1340,Shelter ,3476 E. Whittier Bl  EB Whittier Bl NS Spence St,Yes,,34.0264832,-118.1990403
+1341,Shelter ,800 S. Indiana St  SB Indiana St NS Whittier Bl,Yes,,34.025163,-118.192017
+1342,Shelter ,300 S. Indiana St  SB Indiana St FS 3rd Pl,Yes ,Yes,34.033247,-118.1923432
+1343,Shelter ,3484 E. 1St St  EB 1st St NS Indiana St,Yes,,34.0358547,-118.1926157
+1344,Shelter ,3200 E. 8th St.  WB 8th St NS Grande Vista Ave,Yes ,Yes,34.0229984,-118.2084296
+1345,Shelter ,3167 E. 8th St.  EB 8th St NS Grande Vista Ave,Yes ,Yes,34.0234992,-118.2089922
+1346,Shelter ,SB Alameda St. NS LA St.,Yes,,33.7873057,-118.2428264
+1347,Shelter ,SB Figueroa St. FS Colorado,Yes,,34.1381884,-118.1874034
+1348,Shelter ,EB Colorado SF Figueroa,Yes,,34.0522342,-118.2436849
+1349,Shelter ,WB Colorado FS Figueroa,Yes,,34.1381884,-118.1874034
+1350,Shelter ,1100 W. Colorado Bl.  WB Colorado Bl. @ Wiota St.,Yes,,34.1385231,-118.1952355
+1351,Shelter ,2200 W. Colorado Bl.  SB Eagle Rock Bl. FS Colorado Bl.,Yes,,34.139101,-118.2161765
+1352,Shelter ,4211 N. Eagle Rock Bl.  SB Eagle Rock Bl. FS El Paso Dr.,Yes,,34.1229662,-118.2251876
+1353,Shelter ,4005 N. Eagle Rock Bl.  NB Verdugo Rd. FS Eagle Rock Bl.,Yes,,34.1207264,-118.2288711
+1354,Shelter ,1431 Pacific Ave  SB Pacific Ave NS 15th St,Yes,,33.9885428,-118.4729573
+1355,Shelter ,1504 Pacific Ave  NB Pacific Ave NS 15th St.,Yes,,33.9882114,-118.4726524
+1356,Shelter ,2102 Pacific Ave  NB Pacific Ave NS 21st St,Yes,,33.9849422,-118.4700124
+1357,Shelter ,900 Pacific Ave  NB Pacific NS 9th St,Yes ,Yes,33.9916045,-118.475194
+1358,Shelter ,429 E. Imperial Hwy  WB Imperial FS Avalon,Yes ,Yes,33.9310767,-118.2656772
+1359,Shelter ,EB Imperial Hwy NS San Pedro St,Yes ,Yes,33.9312567,-118.269521
+1360,Shelter ,251 W. Imperial Hwy WB Imperial NS Broadway,Yes ,Yes,33.9313209,-118.277889
+1361,Shelter ,11401 Figueroa NB Fig NS Imperial,Yes ,Yes,33.9307061,-118.2830049
+1362,Shelter ,11400 S. Vermont EB Imperial FS Vermont,Yes ,Yes,33.9306697,-118.2911867
+1363,Shelter ,1306 Gaffey St.  NB Gaffey St NS 13th St,Yes ,Yes,33.7321469,-118.2920598
+1364,Shelter ,1105 Gaffey St  SB Gaffey St NS Channel St,Yes ,Yes,33.7340624,-118.2924277
+1365,Shelter ,1110 Gaffey St NB Gaffey St FS Channel St,Yes ,Yes,33.754447,-118.291946
+1366,Shelter ,2115 Gaffey St SB Gaffey St NS Westmont Dr,Yes ,Yes,33.724776,-118.292722
+1367,Shelter ,1949 N. Gaffey NB Gaffey St  FS Westmont Dr.,Yes,,33.7623977,-118.2940754
+1368,Shelter ,1591 N. Gaffey St  SB Gaffey St FS Capital,Yes ,Yes,33.7590521,-118.2925863
+1369,Shelter ,NB Avalone Bl. NS Anaheim St.,Yes,,33.7799868,-118.2624205
+1370,Shelter ,848 W. Rosecrans NB Vermont NS Rosecrans,Yes,,33.9015117,-118.2911539
+1371,Shelter ,NB Vermont Ave FS Redondo,Yes,,33.8924716,-118.2917016
+1372,Shelter ,NB Vermont Ave NS 182nd St,Yes,,33.8671696,-118.2905759
+1373,Shelter ,950 W 190th St  SB Vermont  Ave FS 190th,Yes ,Yes,33.8572375,-118.2918565
+1374,Shelter ,19000 Vermont Ave  NB Vermont Ave NS 190th St,Yes,,33.8588371,-118.2926359
+1375,Shelter ,20300 Vermont  NB Vermont FS Del Amo Bl.,Yes,,33.8467564,-118.2896108
+1376,Shelter ,SB Normandie Ave FS Torrance Bl,Yes,,33.8419564,-118.2992156
+1377,Shelter ,SB Normandie Ave NS Carson St,Yes,,33.8315518,-118.2992031
+1378,Shelter ,SB Normandie Ave NS 223rd St,Yes,,33.824503,-118.299524
+1379,Shelter ,1206 Lomita Bl  SB Normandie Ave FS Lomita Bl,Yes ,Yes,33.7974677,-118.2979017
+1380,Shelter ,25000 Normandie Ave  NB Normandie NS Lomita,Yes,,33.797261,-118.296924
+1381,Shelter ,1204 PCH  SB Normandie Ave FS PCH,Yes ,Yes,33.7895474,-118.2978015
+1382,Shelter ,NB Western Ave FS Sepulveda Bl,Yes,,33.8171283,-118.3089379
+1383,Shelter ,NB Western Ave NS 223rd St,Yes,,33.8244457,-118.308873
+1384,Shelter ,1699 W. Carson NB Western FS Carson,Yes,,33.8314907,-118.3089597
+1385,Shelter ,21100 S.Western Ave NB Western FS Torrance Blvd,Yes,,33.8395613,-118.3085123
+1386,Shelter ,1645 W. 190th St. NB Western FS 190th,Yes,,33.8586432,-118.3087024
+1387,Shelter ,18200 S.Western Ave @ 182nd St,Yes,,33.8656074,-118.3091561
+1388,Shelter ,NB Western Ave. NS 242nd Place,Yes,,33.8049245,-118.3075291
+1389,Shelter ,24615 Western Ave @ 247 St.,Yes,,33.8009465,-118.3075707
+1390,Shelter ,24911 Western Ave  SB Western NS Lomita Blvd.,Yes ,Yes,33.7984621,-118.3084516
+1391,Shelter ,1680 Lomita Blvd. NB Western Ave NS Lomita,Yes,,33.7975077,-118.3071265
+1392,Shelter ,25803 Western Ave  SB Western FS PCH,Yes ,Yes,33.7892716,-118.3078909
+1393,Shelter ,1686 PCH  NB Western NS PCH,Yes,,33.7892232,-118.3071133
+1394,Shelter ,25926 S. Western  NB Western NS 259th Pl,Yes,,33.7872676,-118.3071705
+1395,Shelter ,1330 W. PCH EB PCH FS Figueroa St.,Yes ,Yes,33.7900011,-118.2804503
+1396,Shelter ,980 W. PCH EB PCH FS Wilmington St.,Yes,,33.7902749,-118.2746179
+1397,Shelter ,939 W.PCH  WB PCH NS Wilmington Blvd.,Yes,,33.7909444,-118.2748822
+1398,Shelter ,1499 1st St  EB 1st St FS Western,Yes,,34.073431,-118.3096982
+1399,Shelter ,498 W. 117th St  EB 117th FS Fig,Yes,,33.9273413,-118.28261
+1400,Shelter ,300 W. Imperial Hwy EB Imperial NS Broadway,Yes,,33.9309905,-118.2784532
+1401,Shelter ,101 W. Imperial WB Imperial NS Main,Yes ,Yes,33.9310355,-118.4174496
+1402,Shelter ,107 E. Imperial EB Imperial FS Main,Yes ,Yes,33.9290319,-118.2321991
+1403,Shelter ,429 E. Imperial Hwy  WB Imperial FS Avalon,Yes,,33.9310767,-118.2656772
+1404,Shelter ,484 E. Imperial  EB Imperial NS Avalon,Yes,,33.930743,-118.265496
+1405,Shelter ,451 E. 120th St. SB Avalon Bl NS 120th St,Yes ,Yes,33.924028,-118.265553
+1406,Shelter ,11806 Avalon Bl NB Avalon Bl NS 118th St,Yes ,Yes,33.9262,-118.264854
+1407,Shelter ,EB 120th St. NS Central Ave,Yes,,33.9237304,-118.2543429
+1408,Shelter ,11328 Central Ave. NB Central FS 114th St.,Yes ,Yes,33.9312298,-118.2538549
+1409,Shelter ,11160 Central NB Central FS 112th St,Yes ,Yes,33.9331319,-118.2564348
+1410,Shelter ,11100 S. Central NB Central Ave NS Lanzit,Yes ,Yes,33.9346215,-118.2527364
+1411,Shelter ,NB Central Ave NS 105th St,Yes,,33.940986,-118.2541611
+1412,Shelter ,SB Central NS Lanzit,Yes,,33.935129,-118.2542144
+1413,Shelter ,11325 Central SB Central NS 114th St,Yes ,Yes,33.931148,-118.254602
+1414,Shelter ,1575 Imperial  WB Imperial  FS Compton,Yes,,33.929611,-118.2487627
+1415,Shelter ,1827 103rd St.  WB 103rd FS Willmington,Yes ,Yes,33.9434624,-118.2398249
+1416,Shelter ,10221 S. Compton WB 103rd St. FS Compton Ave,Yes,,33.9435115,-118.2466923
+1417,Shelter ,11400 Vermont Ave.  NB Vermont Ave NS Imperial Hwy,Yes ,Yes,33.9306697,-118.2911867
+1418,Shelter ,10900 San Pedro StSB San Pedro FS 109th Pl,Yes ,Yes,33.937403,-118.271715
+1419,Shelter ,11100 S. San Pedro St  NB San Pedro St FS 111th Pl,Yes ,Yes,33.9339283,-118.2717095
+1420,Shelter ,1000 W. Anaheim St  SB Wilmington Bl NS Anaheim St,Yes ,Yes,33.7793401,-118.2763628
+1421,Shelter ,25800 Western Ave  EB PCH FS Western,Yes,,33.7890857,-118.3072087
+1422,Shelter ,1400 PCH  EB PCH NS Belle Porte Ave,Yes,,33.7898655,-118.3033433
+1423,Shelter ,1345 PCH  WB PCH NS Belle Porte,Yes,,33.7898041,-118.3007994
+1424,Shelter ,25655 PCH  WB PCH FS 110 Fwy,Yes,,33.790608,-118.284102
+1425,Shelter ,1900 W. PCH  EB PCH FS Vermont Ave,Yes,,33.7910022,-118.2941766
+1426,Shelter ,350 PCH  EB PCH FS Island Ave,Yes,,33.7909951,-118.2663567
+1427,Shelter ,500 E. PCH  WB PCH FS Eubank Ave,Yes,,33.79149,-118.2585537
+1428,Shelter ,24200 S. Western Ave  SB Western Ave FS 242nd Pl,Yes ,Yes,33.804936,-118.3095892
+1429,Shelter ,23808 Western Ave  NB Western Ave NS 238th St,Yes,,33.8082021,-118.3077633
+1430,Shelter ,1302 Sepulveda Bl  EB Sepulveda Bl NS Normandie Ave,Yes,,33.8128209,-118.3008822
+1431,Shelter ,900 E. Imperial Hwy  WB Imperial NS Wadsworth Ave,Yes ,Yes,33.9309301,-118.2595225
+1432,Shelter ,10000 S. Compton Ave  NB Compton  Ave NS Century Bl,Yes ,Yes,33.945657,-118.2484272
+1433,Shelter ,10000 S. Compton Ave.SB Compton FS Century,Yes,,33.9456527,-118.2462144
+1434,Shelter ,1657 E. Century Bl  WB Century Bl FS Grandee Ave,Yes,,33.9464433,-118.2438842
+1435,Shelter ,SB Grandee Ave FS Century Bl,Yes,,33.9457443,-118.2434648
+1436,Shelter ,11300 S. Broadway  NB Broadway FS Imperial Hwy,Yes,,33.931778,-118.278129
+1437,Shelter ,11100 S. Figueroa St.  SB Fig FS 111th Pl,Yes,,33.9346358,-118.2823582
+1438,Shelter ,700 W. El Segundo Bl  EB El Segundo Bl NS Hoover St,Yes ,Yes,33.9164893,-118.2891889
+1439,Shelter ,400 E. Segundo Bl  EB El Segundo Bl  FS Fig,Yes ,Yes,33.9164276,-118.284937
+1440,Shelter ,850 W. Rosecrans Ave  EB Rosecrans Ave FS Vermont,Yes,,33.9015503,-118.2909312
+1441,Shelter ,506 W. Rosecrans Ave EB Rosecrans Ave NS Fig,Yes,,33.9015642,-118.2831018
+1442,Shelter ,15235 S. Fig  SB Fig NS Redondo Beach Bl,Yes ,Yes,33.8931732,-118.2834979
+1443,Shelter ,WB 92nd FS Bandera St.,Yes,,33.9532781,-118.2396334
+1444,Shelter ,498 W. 117th St  EB 117th FS Fig,Yes,,33.9273413,-118.28261
+1445,Shelter ,SB Figueroa St @ 105 Freeway,Yes,,34.0522342,-118.2436849
+1446,Shelter ,NB Figueroa St. @ 105 Freeway,Yes,,34.0522342,-118.2436849
+1447,Shelter ,1800 E. 92nd  EB 92nd St. NS Bandera St,Yes ,Yes,33.9529162,-118.240138
+1448,Shelter ,13432 S. Vermont Ave  NB Vermont Ave FS 135 th,Yes,,33.9094992,-118.2912098
+1449,Shelter ,NB Gaffey St. FS 7th St,Yes ,Yes,33.7378623,-118.2924068
+1450,Shelter ,SB Gaffey St. FS 7th St.,Yes,,33.7378623,-118.2924068
