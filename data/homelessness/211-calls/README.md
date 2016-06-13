@@ -6,9 +6,9 @@ The files were sent seperated out by year, and with color highlights to indicate
 ##What does the data show?
 * The 211 data shows more than half a million calls for housing and shelter-related services between 2012 and 2015 (545,031). That's more than a fifth of 2.7 million calls to the service in those four years (20.36%).
 * The percent of calls related to housing and shelter is on the rise. It went from 16.8 percent in 2012 to 22.7 percent in 2015, and rose each of the last three years.
-	* The volume of calls related to homeless services was 155,374 last year, 50,000 calls more than 211 received regarding housing and shelter in 2012.
-	* The highest raw number of calls was in 2014, with 159,247. That was a smaller share of calls than in 2015 (21.1% vs 22.7%)
-* Calls regarding the category of 'emergecy shelter' are the single most common type of call recieved by 211, out of more than 200 categories.
+	* The volume of these calls was 155,374 last year, 50,000 calls more than 211 received regarding housing and shelter in 2012.
+	* The highest raw number of calls was in 2014, with 159,247. Because there was a higher number of calls overall, that was a smaller *share* of calls than in 2015 (21.1% vs 22.7%)
+* Emergecy shelter calls are the single most common type of call recieved by 211, out of more than 200 categories.
 	* The organizaiton has received 195,788 calls about emergency shelter between 2012 and 2015. The hotline has received tens of thousands of housing-related calls in recent years, and calls about housing counseling and transitional shelter are also among the most common.
 
 Here's the growth in calls regarding housing/shelter over the last few years:
