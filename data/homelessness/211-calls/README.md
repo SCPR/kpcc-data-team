@@ -14,7 +14,7 @@ The files were sent seperated out by year, and with color highlights to indicate
 Here's the growth in calls regarding housing/shelter over the last few years:
 ![](calls_by_year.png)
 
-By 211's count they also receive tens of 'emergency food' calls each year.
+By 211's count they also receive tens of thousands of 'emergency food' calls each year.
 
-######Here the the cateogries included in the housing/shetler tag, and number of calls, 2012-2015
+#####Here the the cateogries included in the housing/shetler tag, and number of calls, 2012-2015
 * Emergency Shelter (195788)* Case Management (69727)* Housing Counseling/Search Assistance (69690)* Transitional Shelter/Housing (60272)* Housing Expense Assistance/Home Loans (36115)* Permanent Housing: Independent Settings (34314)* Housing Administrative Agencies (17954)* Housing Counseling/Search/Information (15287)* Homeless Support Services (13898)* Subsidized Housing (11471)* Housing Payment Assistance (9795)* Permanent Housing: Supportive Settings (4731)* Shelters (3240)* Other Housing (2749)
