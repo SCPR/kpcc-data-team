@@ -1,720 +1,720 @@
-"","request_type","ct","yr","homeless_related"
-"1","Emergency Shelter",61576,2012,TRUE
-"2","Information Services",48092,2012,FALSE
-"3","Income Maintenance (DPSS/SSI/WIC)",46555,2012,FALSE
-"4","Food",40061,2012,FALSE
-"5","Protective Services",35135,2012,FALSE
-"6","Utility Assistance",28291,2012,FALSE
-"7","Legal Assistance",20122,2012,FALSE
-"8","Counseling",16215,2012,FALSE
-"9","Housing Counseling/Search/Information",15286,2012,TRUE
-"10","Hospitals/Clinics",13312,2012,FALSE
-"11","Landlord/Tenant",12863,2012,FALSE
-"12","Subsidized Housing",11471,2012,TRUE
-"13","Law Enforcement",10598,2012,FALSE
-"14","Crisis Intervention",10502,2012,FALSE
-"15","Other Community Services",10375,2012,FALSE
-"16","Health Screening",10244,2012,FALSE
-"17","Housing Payment Assistance",9792,2012,TRUE
-"18","Substance Abuse",9495,2012,FALSE
-"19","Other Financial Assistance",8469,2012,FALSE
-"20","Employment",8289,2012,FALSE
-"21","Material Resources",7705,2012,FALSE
-"22","Early Childhood Education",7669,2012,FALSE
-"23","Transportation",6905,2012,FALSE
-"24","Sanitation/Recycling",6648,2012,FALSE
-"25","Tax Assistance",6568,2012,FALSE
-"26","Dental Care",6469,2012,FALSE
-"27","Parenting",6414,2012,FALSE
-"28","Public Health/Inspection",6350,2012,FALSE
-"29","Records/Licenses/Permits",6173,2012,FALSE
-"30","Animal Services",5868,2012,FALSE
-"31","Case Management",5458,2012,TRUE
-"32","Day Care",5374,2012,FALSE
-"33","Consumer Complaints",5073,2012,FALSE
-"34","Holiday Assistance",4928,2012,FALSE
-"35","Family Substitute Services",4643,2012,FALSE
-"36","Information about 211 LA County",4280,2012,FALSE
-"37","Psychiatric Support",4232,2012,FALSE
-"38","Mutual Support Groups",4188,2012,FALSE
-"39","Courts",3813,2012,FALSE
-"40","Social Insurance",3691,2012,FALSE
-"41","Building Code Enforcement",3610,2012,FALSE
-"42","Advocacy/Court Watching",3414,2012,FALSE
-"43","Health Supportive Services",3143,2012,FALSE
-"44","Criminal Corrections",3072,2012,FALSE
-"45","Immunizations",2941,2012,FALSE
-"46","Maternal and Infant Care",2750,2012,FALSE
-"47","Crime Prevention",2741,2012,FALSE
-"48","Community Groups",2514,2012,FALSE
-"49","Transportation Money",2445,2012,FALSE
-"50","Political Organization/Participation",2402,2012,FALSE
-"51","Leisure Activities",2268,2012,FALSE
-"52","Health Education",1990,2012,FALSE
-"53","Home Improvement",1933,2012,FALSE
-"54","Public/Private Education",1873,2012,FALSE
-"55","Street Maintenance",1659,2012,FALSE
-"56","Specialized Treatment",1554,2012,FALSE
-"57","Licensing/Certification/Accreditation",1518,2012,FALSE
-"58","Travelers Assistance",1454,2012,FALSE
-"59","Immigration/Naturalization",1431,2012,FALSE
-"60","Public Safety",1346,2012,FALSE
-"61","Emergency Medical Care",1332,2012,FALSE
-"62","Environmental Maintenance/Improvement",1312,2012,FALSE
-"63","Planning and Zoning",1310,2012,FALSE
-"64","Money Management",1302,2012,FALSE
-"65","Adult Education",1215,2012,FALSE
-"66","Inpatient Mental Health",1168,2012,FALSE
-"67","Facilities",1075,2012,FALSE
-"68","Rehabilitation",1075,2012,FALSE
-"69","Family Planning",976,2012,FALSE
-"70","Volunteer Opportunities",954,2012,FALSE
-"71","In-Home Assistance",938,2012,FALSE
-"72","Medical Expense Assistance",915,2012,FALSE
-"73","Judicial Services",910,2012,FALSE
-"74","Disaster Services",902,2012,FALSE
-"75","Eye Care",862,2012,FALSE
-"76","Victim/Witness",807,2012,FALSE
-"77","Weight Management",776,2012,FALSE
-"78","Assistive Technology",734,2012,FALSE
-"79","Statutes/Standards",719,2012,FALSE
-"80","Death Certification/Burial",682,2012,FALSE
-"81","Guardianship/Conservatorship",678,2012,FALSE
-"82","Consumer Education",597,2012,FALSE
-"83","Pediatrics",583,2012,FALSE
-"84","Interpretation/Translation",564,2012,FALSE
-"85","Other Education",528,2012,FALSE
-"86","Tourism/Business/Industry",522,2012,FALSE
-"87","Environmental Protection",516,2012,FALSE
-"88","Vocational Education",441,2012,FALSE
-"89","Social Development",437,2012,FALSE
-"90","Charities/Funding",430,2012,FALSE
-"91","Organizational Development",395,2012,FALSE
-"92","Medical Equipment/Supplies",381,2012,FALSE
-"93","Tutorial",344,2012,FALSE
-"94","Physician Referrals",325,2012,FALSE
-"95","Student Financial Aid",325,2012,FALSE
-"96","Home Health Care",320,2012,FALSE
-"97","Companionship",302,2012,FALSE
-"98","Other Family Support",288,2012,FALSE
-"99","Missing Persons",261,2012,FALSE
-"100","Occupational/Professional Associations",257,2012,FALSE
-"101","Communicable Disease Control",254,2012,FALSE
-"102","Volunteer Development",206,2012,FALSE
-"103","Nursing Facilities",174,2012,FALSE
-"104","Traffic Control",156,2012,FALSE
-"105","Personal Enrichment",155,2012,FALSE
-"106","Ex-Offender Services",142,2012,FALSE
-"107","STD Treatment",137,2012,FALSE
-"108","Alternative Education",127,2012,FALSE
-"109","Attendent Services",115,2012,FALSE
-"110","Special Education",108,2012,FALSE
-"111","APS Consultation - Resolved by 211 staff",104,2012,FALSE
-"112","Follow Up",104,2012,FALSE
-"113","Alternative Medicine",96,2012,FALSE
-"114","Guidance and Counseling",89,2012,FALSE
-"115","Anatomical Gifts",80,2012,FALSE
-"116","Respite Care",79,2012,FALSE
-"117","Hospice Care",52,2012,FALSE
-"118","Occupational Health and Safety",50,2012,FALSE
-"119","Emergency Alert",49,2012,FALSE
-"120","Educational Testing",42,2012,FALSE
-"121","Spiritual Enrichment",33,2012,FALSE
-"122","Gang Programs",32,2012,FALSE
-"123","Weed Abatement/Brush Control",30,2012,FALSE
-"124","Date/Time Requests",28,2012,FALSE
-"125","Dropout Programs",18,2012,FALSE
-"126","Technology Services",17,2012,FALSE
-"127","Employee Assistance",8,2012,FALSE
-"128","",NA,2012,FALSE
-"129","Emergency Shelter",43798,2013,TRUE
-"130","Groceries",33968,2013,FALSE
-"131","Adult Protective Services",33537,2013,FALSE
-"132","Utility Assistance",32637,2013,FALSE
-"133","Information Lines/Websites",27497,2013,FALSE
-"134","Food Expense Assistance",21327,2013,FALSE
-"135","Housing Counseling/Search Assistance",18218,2013,TRUE
-"136","Transitional Shelter/Housing",17941,2013,TRUE
-"137","Public Assistance",15918,2013,FALSE
-"138","Health Insurance",13876,2013,FALSE
-"139","Case Management",13580,2013,TRUE
-"140","Landlord/Tenant",12491,2013,FALSE
-"141","Housing Expense Assistance/Home Loans",12156,2013,TRUE
-"142","General Counseling",11037,2013,FALSE
-"143","Hospitals/Clinics",10643,2013,FALSE
-"144","Early Childhood Education",10498,2013,FALSE
-"145","General Legal Aid",10300,2013,FALSE
-"146","Permanent Housing: Independent Settings",9684,2013,TRUE
-"147","Crisis Intervention",8949,2013,FALSE
-"148","Employment",8252,2013,FALSE
-"149","Meals",8025,2013,FALSE
-"150","Law Enforcement",7935,2013,FALSE
-"151","Substance Abuse",7776,2013,FALSE
-"152","APS Consultation - Resolved by 211 staff",6978,2013,FALSE
-"153","Dental Care",6271,2013,FALSE
-"154","Family Law",6227,2013,FALSE
-"155","Pediatrics",6130,2013,FALSE
-"156","Government/Administrative Offices and Community Groups",6113,2013,FALSE
-"157","Waste Management",5933,2013,FALSE
-"158","Housing Administrative Agencies",5669,2013,TRUE
-"159","In-Home Assistance",5634,2013,FALSE
-"160","Information about 211 LA County",5531,2013,FALSE
-"161","Parenting",5468,2013,FALSE
-"162","Hazard Inspection and Mitigation",5463,2013,FALSE
-"163","Records/Licenses/Permits",5227,2013,FALSE
-"164","Specialized Counseling/Supportive Therapies",5210,2013,FALSE
-"165","Public Awareness/Outreach",4877,2013,FALSE
-"166","Child Care",4677,2013,FALSE
-"167","Holiday Programs",4673,2013,FALSE
-"168","Consumer Complaints",4390,2013,FALSE
-"169","Domestic Animal Services",4359,2013,FALSE
-"170","Clothing",4307,2013,FALSE
-"171","Utility Service Providers",3742,2013,FALSE
-"172","Support Groups",3517,2013,FALSE
-"173","Tax Organizations and Services",3515,2013,FALSE
-"174","Short Term Financial Assistance",3220,2013,FALSE
-"175","Immunizations",3033,2013,FALSE
-"176","Building and Safety",2997,2013,FALSE
-"177","Children's Protective Services",2978,2013,FALSE
-"178","Technology Services",2938,2013,FALSE
-"179","Courts",2936,2013,FALSE
-"180","Homeless Support Services",2912,2013,TRUE
-"181","Social Insurance",2912,2013,FALSE
-"182","Health Screening/Diagnostic Services",2906,2013,FALSE
-"183","Transportation Expense Assistance",2724,2013,FALSE
-"184","Public Infrastructure Maintenance",2715,2013,FALSE
-"185","Benefits Assistance",2710,2013,FALSE
-"186","Paratransit",2629,2013,FALSE
-"187","Household Goods",2417,2013,FALSE
-"188","Maternal and Infant Care",2314,2013,FALSE
-"189","Criminal Corrections",2258,2013,FALSE
-"190","Crime Prevention",2220,2013,FALSE
-"191","Volunteer/Donation Services",2196,2013,FALSE
-"192","Food Outlets",2104,2013,FALSE
-"193","Home Improvement/Accessibility",2088,2013,FALSE
-"194","Traveler's Assistance",2057,2013,FALSE
-"195","Local Transportation",2008,2013,FALSE
-"196","Leisure Activities/Recreation",1815,2013,FALSE
-"197","Community Action/Social Advocacy Groups",1628,2013,FALSE
-"198","Psychiatric Services",1602,2013,FALSE
-"199","Mental Health Evaluation",1568,2013,FALSE
-"200","General Medical Care",1553,2013,FALSE
-"201","Emergency Medical Care",1551,2013,FALSE
-"202","Health Education",1515,2013,FALSE
-"203","Planning and Zoning",1477,2013,FALSE
-"204","Eye Care",1469,2013,FALSE
-"205","Other Community Services",1468,2013,FALSE
-"206","Specialized Treatment",1443,2013,FALSE
-"207","Public/Private Education",1434,2013,FALSE
-"208","Elder Law",1419,2013,FALSE
-"209","Arts and Culture",1345,2013,FALSE
-"210","Health Supportive Services",1324,2013,FALSE
-"211","Permanent Housing: Supportive Settings",1297,2013,TRUE
-"212","Immigration/Naturalization",1291,2013,FALSE
-"213","Public Safety",1186,2013,FALSE
-"214","Licensing/Certification/Accreditation",1170,2013,FALSE
-"215","Money Management",1153,2013,FALSE
-"216","Developmental Support/Rehabilitation",1142,2013,FALSE
-"217","Shelters",1117,2013,TRUE
-"218","Adult and Continuing Education",1108,2013,FALSE
-"219","Inpatient/Residential Mental Health Facilities",1050,2013,FALSE
-"220","Certificates/Forms Assistance",1039,2013,FALSE
-"221","Other Material Goods",984,2013,FALSE
-"222","Public Parking",941,2013,FALSE
-"223","Prescriptions/Pharmacies",937,2013,FALSE
-"224","Community Facilities/Centers",900,2013,FALSE
-"225","Assistive Technology",883,2013,FALSE
-"226","Labor and Employment Law",790,2013,FALSE
-"227","Family Planning",781,2013,FALSE
-"228","Discrimination Assistance",771,2013,FALSE
-"229","Education Administration/Student Life",769,2013,FALSE
-"230","Other Specialized Legal Assistance",754,2013,FALSE
-"231","Educational Preparation and Testing",724,2013,FALSE
-"232","Judicial Services",689,2013,FALSE
-"233","Victim/Witness",660,2013,FALSE
-"234","Adoption/Foster Care",630,2013,FALSE
-"235","Guardianship/Conservatorship",628,2013,FALSE
-"236","Regulations/Standards",592,2013,FALSE
-"237","Environmental Protection",578,2013,FALSE
-"238","Library Services",561,2013,FALSE
-"239","Death Related Services",558,2013,FALSE
-"240","Follow Up",552,2013,FALSE
-"241","Mental Health Support",532,2013,FALSE
-"242","Ex-Offender/Reentry Services",494,2013,FALSE
-"243","Other Housing",451,2013,TRUE
-"244","Community Economic Development",444,2013,FALSE
-"245","Consumer Education",437,2013,FALSE
-"246","Long Distance Transportation",435,2013,FALSE
-"247","Social Enrichment",432,2013,FALSE
-"248","Information About 211 LA County",393,2013,FALSE
-"249","Medical Equipment/Supplies",393,2013,FALSE
-"250","Physician Referrals",358,2013,FALSE
-"251","Date/Time Requests",352,2013,FALSE
-"252","STD Services",346,2013,FALSE
-"253","Vocational Education",341,2013,FALSE
-"254","Organizational Development",333,2013,FALSE
-"255","Business Support Organizations/Services",323,2013,FALSE
-"256","Student Financial Aid",320,2013,FALSE
-"257","Food Collection/Storage",314,2013,FALSE
-"258","Companionship",286,2013,FALSE
-"259","Interpretation/Translation",286,2013,FALSE
-"260","Other Family Support",263,2013,FALSE
-"261","Charities/Grantmaking Organizations",259,2013,FALSE
-"262","Occupational/Professional Associations",220,2013,FALSE
-"263","Adult Day Care",209,2013,FALSE
-"264","Medical Expense Assistance",208,2013,FALSE
-"265","Nursing Facilities",194,2013,FALSE
-"266","Communicable Disease Control",193,2013,FALSE
-"267","Political Organization/Participation",190,2013,FALSE
-"268","Personal Enrichment",188,2013,FALSE
-"269","Counseling",174,2013,FALSE
-"270","Home Health Care",167,2013,FALSE
-"271","Attendant Services",139,2013,FALSE
-"272","Caregiver Support",128,2013,FALSE
-"273","HIV/AIDS Services",127,2013,FALSE
-"274","Emergency Management/Relief Organizations",119,2013,FALSE
-"275","Guidance and Counseling",110,2013,FALSE
-"276","Special Education",108,2013,FALSE
-"277","Traffic Related Services",100,2013,FALSE
-"278","Media/Communications",96,2013,FALSE
-"279","Alternative Medicine",95,2013,FALSE
-"280","Preparedness and Exercise",93,2013,FALSE
-"281","Anatomical Gifts",90,2013,FALSE
-"282","Financial Institutions/Services",69,2013,FALSE
-"283","Research/Statistics",67,2013,FALSE
-"284","Food/Water/Ice",61,2013,FALSE
-"285","Communications/Reporting",60,2013,FALSE
-"286","Emergency Alert",56,2013,FALSE
-"287","Animal Services",51,2013,FALSE
-"288","Repair Services",51,2013,FALSE
-"289","Targeted Education Programs",48,2013,FALSE
-"290","Occupational Health and Safety",47,2013,FALSE
-"291","Post Disaster Transportation Information",46,2013,FALSE
-"292","Hospice Care",45,2013,FALSE
-"293","Military Service",45,2013,FALSE
-"294","International Affairs",42,2013,FALSE
-"295","Weight Management",35,2013,FALSE
-"296","Alerts/Warnings",32,2013,FALSE
-"297","Food Production",27,2013,FALSE
-"298","Utility Outages/Reconnections",25,2013,FALSE
-"299","Closures/Other Critical Services Information",24,2013,FALSE
-"300","Volunteers/Donations",23,2013,FALSE
-"301","Mental Health/Crisis Counseling",22,2013,FALSE
-"302","Spiritual Enrichment",19,2013,FALSE
-"303","Utility Service Connection/Repair",18,2013,FALSE
-"304","Clothing/Supplies",17,2013,FALSE
-"305","Transportation Administration",17,2013,FALSE
-"306","Water Supply System",17,2013,FALSE
-"307","Medical Assistance",13,2013,FALSE
-"308","Missing Persons/Inquiries",12,2013,FALSE
-"309","Emergency Response/Fire/Rescue",11,2013,FALSE
-"310","Home Damage Repair/Storage",11,2013,FALSE
-"311","Post Disaster Cleanup",10,2013,FALSE
-"312","Post Disaster Inspections",7,2013,FALSE
-"313","Tools/Equipment",7,2013,FALSE
-"314","Long Term Care Support Services",5,2013,FALSE
-"315","Disaster Services",4,2013,FALSE
-"316","Mitigation Services",4,2013,FALSE
-"317","Post Disaster Service Centers",4,2013,FALSE
-"318","Food",3,2013,FALSE
-"319","Housing Payment Assistance",3,2013,TRUE
-"320","Holiday Assistance",2,2013,FALSE
-"321","Income Maintenance (DPSS/SSI/WIC)",2,2013,FALSE
-"322","Information Services",2,2013,FALSE
-"323","Other Financial Assistance",2,2013,FALSE
-"324","Disaster Equipment/Supplies",1,2013,FALSE
-"325","Health Screening",1,2013,FALSE
-"326","Housing Counseling/Search/Information",1,2013,TRUE
-"327","Legal Assistance",1,2013,FALSE
-"328","Mortality Management",1,2013,FALSE
-"329","Protective Services",1,2013,FALSE
-"330","Rumor Control",1,2013,FALSE
-"331","Sanitation/Recycling",1,2013,FALSE
-"332","Traffic Control",1,2013,FALSE
-"333","Transportation",1,2013,FALSE
-"334","",NA,2013,FALSE
-"335","Emergency Shelter",48624,2014,TRUE
-"336","Utility Assistance",46795,2014,FALSE
-"337","Adult Protective Services",39932,2014,FALSE
-"338","Groceries",39907,2014,FALSE
-"339","Information Lines/Websites",32952,2014,FALSE
-"340","Food Expense Assistance",26129,2014,FALSE
-"341","Housing Counseling/Search Assistance",25821,2014,TRUE
-"342","Case Management",23054,2014,TRUE
-"343","Transitional Shelter/Housing",21150,2014,TRUE
-"344","Health Insurance",21018,2014,FALSE
-"345","Public Assistance",18174,2014,FALSE
-"346","Early Childhood Education",14870,2014,FALSE
-"347","Landlord/Tenant",14380,2014,FALSE
-"348","Housing Expense Assistance/Home Loans",12969,2014,TRUE
-"349","Utility Service Providers",12743,2014,FALSE
-"350","Permanent Housing: Independent Settings",12386,2014,TRUE
-"351","Employment",12184,2014,FALSE
-"352","General Legal Aid",11913,2014,FALSE
-"353","General Counseling",11661,2014,FALSE
-"354","Hospitals/Clinics",11636,2014,FALSE
-"355","Meals",10566,2014,FALSE
-"356","Information about 211 LA County",10461,2014,FALSE
-"357","Crisis Intervention",9858,2014,FALSE
-"358","Substance Abuse",9069,2014,FALSE
-"359","Law Enforcement",8507,2014,FALSE
-"360","APS Consultation - Resolved by 211 staff",7854,2014,FALSE
-"361","Waste Management",7420,2014,FALSE
-"362","Housing Administrative Agencies",6848,2014,TRUE
-"363","Technology Services",6784,2014,FALSE
-"364","Specialized Counseling/Supportive Therapies",6726,2014,FALSE
-"365","Family Law",6659,2014,FALSE
-"366","Pediatrics",6546,2014,FALSE
-"367","Records/Licenses/Permits",6303,2014,FALSE
-"368","Parenting",5861,2014,FALSE
-"369","In-Home Assistance",5823,2014,FALSE
-"370","Government/Administrative Offices and Community Groups",5361,2014,FALSE
-"371","Clothing",5198,2014,FALSE
-"372","Child Care",5043,2014,FALSE
-"373","Consumer Complaints",4936,2014,FALSE
-"374","Dental Care",4872,2014,FALSE
-"375","Domestic Animal Services",4742,2014,FALSE
-"376","Holiday Programs",4451,2014,FALSE
-"377","Benefits Assistance",4366,2014,FALSE
-"378","Arts and Culture",4159,2014,FALSE
-"379","Support Groups",3969,2014,FALSE
-"380","Homeless Support Services",3950,2014,TRUE
-"381","Building and Safety",3692,2014,FALSE
-"382","Public Health Sanitation Services",3537,2014,FALSE
-"383","Transportation Expense Assistance",3495,2014,FALSE
-"384","Social Insurance",3436,2014,FALSE
-"385","Tax Organizations and Services",3405,2014,FALSE
-"386","Public Infrastructure Maintenance",3178,2014,FALSE
-"387","Courts",3101,2014,FALSE
-"388","Immunizations",3061,2014,FALSE
-"389","Maternal and Infant Care",3012,2014,FALSE
-"390","Paratransit",2994,2014,FALSE
-"391","Household Goods",2838,2014,FALSE
-"392","Hazard Inspection and Mitigation",2655,2014,FALSE
-"393","Short Term Financial Assistance",2651,2014,FALSE
-"394","Home Improvement/Accessibility",2650,2014,FALSE
-"395","Criminal Corrections",2625,2014,FALSE
-"396","Volunteer/Donation Services",2530,2014,FALSE
-"397","Local Transportation",2472,2014,FALSE
-"398","Crime Prevention",2209,2014,FALSE
-"399","Children's Protective Services",2082,2014,FALSE
-"400","Health Screening/Diagnostic Services",2041,2014,FALSE
-"401","Community Action/Social Advocacy Groups",2040,2014,FALSE
-"402","Planning and Zoning",1937,2014,FALSE
-"403","Leisure Activities/Recreation",1919,2014,FALSE
-"404","Psychiatric Services",1904,2014,FALSE
-"405","Mental Health Evaluation",1842,2014,FALSE
-"406","General Medical Care",1823,2014,FALSE
-"407","Emergency Medical Care",1774,2014,FALSE
-"408","Permanent Housing: Supportive Settings",1676,2014,TRUE
-"409","Elder Law",1572,2014,FALSE
-"410","Immigration/Naturalization",1563,2014,FALSE
-"411","Public Safety",1558,2014,FALSE
-"412","Specialized Treatment",1548,2014,FALSE
-"413","Traveler's Assistance",1530,2014,FALSE
-"414","Health Education",1465,2014,FALSE
-"415","Developmental Support/Rehabilitation",1458,2014,FALSE
-"416","Other Housing",1446,2014,TRUE
-"417","Public/Private Education",1424,2014,FALSE
-"418","Eye Care",1372,2014,FALSE
-"419","Food Outlets",1355,2014,FALSE
-"420","Shelters",1323,2014,TRUE
-"421","Adult and Continuing Education",1303,2014,FALSE
-"422","Public Parking",1292,2014,FALSE
-"423","Inpatient/Residential Mental Health Facilities",1263,2014,FALSE
-"424","Information About 211 LA County",1239,2014,FALSE
-"425","Licensing/Certification/Accreditation",1236,2014,FALSE
-"426","Money Management",1162,2014,FALSE
-"427","Other Material Goods",1162,2014,FALSE
-"428","Certificates/Forms Assistance",1152,2014,FALSE
-"429","Community Facilities/Centers",1083,2014,FALSE
-"430","Prescriptions/Pharmacies",1055,2014,FALSE
-"431","Labor and Employment Law",984,2014,FALSE
-"432","Other Specialized Legal Assistance",970,2014,FALSE
-"433","Discrimination Assistance",954,2014,FALSE
-"434","Assistive Technology",949,2014,FALSE
-"435","Victim/Witness",907,2014,FALSE
-"436","Judicial Services",828,2014,FALSE
-"437","Education Administration/Student Life",805,2014,FALSE
-"438","Environmental Protection",797,2014,FALSE
-"439","Guardianship/Conservatorship",775,2014,FALSE
-"440","Date/Time Requests",773,2014,FALSE
-"441","Public Awareness/Outreach",752,2014,FALSE
-"442","Family Planning",722,2014,FALSE
-"443","Other Community Services",699,2014,FALSE
-"444","Ex-Offender/Reentry Services",663,2014,FALSE
-"445","Educational Preparation and Testing",662,2014,FALSE
-"446","Regulations/Standards",654,2014,FALSE
-"447","Library Services",639,2014,FALSE
-"448","Adoption/Foster Care",634,2014,FALSE
-"449","Death Related Services",608,2014,FALSE
-"450","Physician Referrals",588,2014,FALSE
-"451","Long Distance Transportation",539,2014,FALSE
-"452","Community Economic Development",534,2014,FALSE
-"453","Consumer Education",529,2014,FALSE
-"454","Business Support Organizations/Services",500,2014,FALSE
-"455","Mental Health Support",497,2014,FALSE
-"456","Medical Equipment/Supplies",451,2014,FALSE
-"457","Food Collection/Storage",436,2014,FALSE
-"458","Vocational Education",403,2014,FALSE
-"459","Social Enrichment",386,2014,FALSE
-"460","Student Financial Aid",361,2014,FALSE
-"461","Political Organization/Participation",358,2014,FALSE
-"462","Health Supportive Services",351,2014,FALSE
-"463","Organizational Development",348,2014,FALSE
-"464","Interpretation/Translation",346,2014,FALSE
-"465","Other Family Support",338,2014,FALSE
-"466","Follow Up",302,2014,FALSE
-"467","STD Services",291,2014,FALSE
-"468","Companionship",262,2014,FALSE
-"469","Adult Day Care",259,2014,FALSE
-"470","Charities/Grantmaking Organizations",259,2014,FALSE
-"471","Communicable Disease Control",256,2014,FALSE
-"472","Medical Expense Assistance",230,2014,FALSE
-"473","Occupational/Professional Associations",226,2014,FALSE
-"474","Home Health Care",223,2014,FALSE
-"475","Media/Communications",222,2014,FALSE
-"476","Nursing Facilities",203,2014,FALSE
-"477","Personal Enrichment",195,2014,FALSE
-"478","Traffic Related Services",170,2014,FALSE
-"479","Preparedness and Exercise",151,2014,FALSE
-"480","HIV/AIDS Services",148,2014,FALSE
-"481","Attendant Services",146,2014,FALSE
-"482","Emergency Management/Relief Organizations",134,2014,FALSE
-"483","Caregiver Support",126,2014,FALSE
-"484","Financial Institutions/Services",115,2014,FALSE
-"485","Special Education",105,2014,FALSE
-"486","Communications/Reporting",101,2014,FALSE
-"487","Alternative Medicine",96,2014,FALSE
-"488","Animal Services",92,2014,FALSE
-"489","Research/Statistics",88,2014,FALSE
-"490","Anatomical Gifts",87,2014,FALSE
-"491","Closures/Other Critical Services Information",87,2014,FALSE
-"492","Guidance and Counseling",83,2014,FALSE
-"493","Post Disaster Transportation Information",79,2014,FALSE
-"494","Repair Services",77,2014,FALSE
-"495","Food/Water/Ice",68,2014,FALSE
-"496","Military Service",63,2014,FALSE
-"497","Utility Service Connection/Repair",62,2014,FALSE
-"498","Emergency Alert",61,2014,FALSE
-"499","Evacuations",60,2014,FALSE
-"500","Occupational Health and Safety",58,2014,FALSE
-"501","Targeted Education Programs",54,2014,FALSE
-"502","Hospice Care",53,2014,FALSE
-"503","Alerts/Warnings",52,2014,FALSE
-"504","International Affairs",39,2014,FALSE
-"505","Transportation Administration",37,2014,FALSE
-"506","Medical Assistance",36,2014,FALSE
-"507","Emergency Response/Fire/Rescue",31,2014,FALSE
-"508","Home Damage Repair/Storage",29,2014,FALSE
-"509","Mental Health/Crisis Counseling",29,2014,FALSE
-"510","Spiritual Enrichment",29,2014,FALSE
-"511","Clothing/Supplies",28,2014,FALSE
-"512","Tools/Equipment",28,2014,FALSE
-"513","Water Supply System",28,2014,FALSE
-"514","Weight Management",26,2014,FALSE
-"515","Food Production",22,2014,FALSE
-"516","Mitigation Services",20,2014,FALSE
-"517","Post Disaster Cleanup",20,2014,FALSE
-"518","Missing Persons/Inquiries",19,2014,FALSE
-"519","Disaster Equipment/Supplies",17,2014,FALSE
-"520","Volunteers/Donations",17,2014,FALSE
-"521","Utility Outages/Reconnections",14,2014,FALSE
-"522","Long Term Care Support Services",8,2014,FALSE
-"523","Post Disaster Inspections",8,2014,FALSE
-"524","Post Disaster Service Centers",5,2014,FALSE
-"525","Rumor Control",3,2014,FALSE
-"526","Disaster Services",1,2014,FALSE
-"527","Mortality Management",1,2014,FALSE
-"528","",NA,2014,FALSE
-"529","Adult Protective Services",43131,2015,FALSE
-"530","Emergency Shelter",41790,2015,TRUE
-"531","Utility Service Providers",38730,2015,FALSE
-"532","Utility Assistance",38585,2015,FALSE
-"533","Information Lines/Websites",32361,2015,FALSE
-"534","Groceries",29004,2015,FALSE
-"535","Case Management",27635,2015,TRUE
-"536","Housing Counseling/Search Assistance",25651,2015,TRUE
-"537","Transitional Shelter/Housing",21181,2015,TRUE
-"538","Early Childhood Education",14220,2015,FALSE
-"539","Landlord/Tenant",14135,2015,FALSE
-"540","Public Assistance",12986,2015,FALSE
-"541","Health Insurance",12915,2015,FALSE
-"542","Permanent Housing: Independent Settings",12244,2015,TRUE
-"543","General Legal Aid",11448,2015,FALSE
-"544","Food Expense Assistance",11244,2015,FALSE
-"545","Information about 211 LA County",11173,2015,FALSE
-"546","Housing Expense Assistance/Home Loans",10990,2015,TRUE
-"547","General Counseling",10595,2015,FALSE
-"548","Crisis Intervention",9648,2015,FALSE
-"549","Substance Abuse",9635,2015,FALSE
-"550","Meals",8577,2015,FALSE
-"551","Law Enforcement",8443,2015,FALSE
-"552","APS Consultation - Resolved by 211 staff",8384,2015,FALSE
-"553","Waste Management",8362,2015,FALSE
-"554","Employment",8032,2015,FALSE
-"555","Hospitals/Clinics",7596,2015,FALSE
-"556","Homeless Support Services",7036,2015,TRUE
-"557","Specialized Counseling/Supportive Therapies",6294,2015,FALSE
-"558","Family Law",6226,2015,FALSE
-"559","Public Health Sanitation Services",5895,2015,FALSE
-"560","Records/Licenses/Permits",5638,2015,FALSE
-"561","In-Home Assistance",5509,2015,FALSE
-"562","Housing Administrative Agencies",5437,2015,TRUE
-"563","Parenting",5166,2015,FALSE
-"564","Consumer Complaints",4891,2015,FALSE
-"565","Domestic Animal Services",4528,2015,FALSE
-"566","Child Care",4388,2015,FALSE
-"567","Technology Services",4190,2015,FALSE
-"568","Clothing",3994,2015,FALSE
-"569","Holiday Programs",3894,2015,FALSE
-"570","Government/Administrative Offices and Community Groups",3717,2015,FALSE
-"571","Dental Care",3593,2015,FALSE
-"572","Building and Safety",3555,2015,FALSE
-"573","Support Groups",3414,2015,FALSE
-"574","Tax Organizations and Services",3225,2015,FALSE
-"575","Courts",3203,2015,FALSE
-"576","Benefits Assistance",3153,2015,FALSE
-"577","Public Infrastructure Maintenance",2967,2015,FALSE
-"578","Paratransit",2891,2015,FALSE
-"579","Social Insurance",2833,2015,FALSE
-"580","Home Improvement/Accessibility",2717,2015,FALSE
-"581","Maternal and Infant Care",2567,2015,FALSE
-"582","Transportation Expense Assistance",2524,2015,FALSE
-"583","Household Goods",2499,2015,FALSE
-"584","Criminal Corrections",2405,2015,FALSE
-"585","Short Term Financial Assistance",2320,2015,FALSE
-"586","Local Transportation",2302,2015,FALSE
-"587","Pediatrics",2189,2015,FALSE
-"588","Immunizations",2171,2015,FALSE
-"589","Crime Prevention",1932,2015,FALSE
-"590","Permanent Housing: Supportive Settings",1758,2015,TRUE
-"591","Volunteer/Donation Services",1718,2015,FALSE
-"592","Elder Law",1690,2015,FALSE
-"593","Leisure Activities/Recreation",1670,2015,FALSE
-"594","Planning and Zoning",1616,2015,FALSE
-"595","Community Action/Social Advocacy Groups",1612,2015,FALSE
-"596","Psychiatric Services",1592,2015,FALSE
-"597","Children's Protective Services",1579,2015,FALSE
-"598","Public Parking",1576,2015,FALSE
-"599","Health Screening/Diagnostic Services",1502,2015,FALSE
-"600","Traveler's Assistance",1497,2015,FALSE
-"601","Mental Health Evaluation",1482,2015,FALSE
-"602","Health Education",1432,2015,FALSE
-"603","Public Safety",1427,2015,FALSE
-"604","Public/Private Education",1421,2015,FALSE
-"605","Emergency Medical Care",1338,2015,FALSE
-"606","Immigration/Naturalization",1327,2015,FALSE
-"607","Inpatient/Residential Mental Health Facilities",1306,2015,FALSE
-"608","Developmental Support/Rehabilitation",1216,2015,FALSE
-"609","Specialized Treatment",1140,2015,FALSE
-"610","Other Material Goods",1081,2015,FALSE
-"611","Eye Care",1051,2015,FALSE
-"612","Licensing/Certification/Accreditation",1049,2015,FALSE
-"613","Adult and Continuing Education",1018,2015,FALSE
-"614","Education Administration/Student Life",1013,2015,FALSE
-"615","General Medical Care",1008,2015,FALSE
-"616","Environmental Protection",1006,2015,FALSE
-"617","Certificates/Forms Assistance",998,2015,FALSE
-"618","Money Management",979,2015,FALSE
-"619","Community Facilities/Centers",947,2015,FALSE
-"620","Date/Time Requests",862,2015,FALSE
-"621","Victim/Witness",859,2015,FALSE
-"622","Other Housing",852,2015,TRUE
-"623","Other Specialized Legal Assistance",849,2015,FALSE
-"624","Discrimination Assistance",837,2015,FALSE
-"625","Information About 211 LA County",827,2015,FALSE
-"626","Labor and Employment Law",813,2015,FALSE
-"627","Shelters",800,2015,TRUE
-"628","Assistive Technology",782,2015,FALSE
-"629","Judicial Services",764,2015,FALSE
-"630","Other Community Services",761,2015,FALSE
-"631","Guardianship/Conservatorship",693,2015,FALSE
-"632","Regulations/Standards",680,2015,FALSE
-"633","Prescriptions/Pharmacies",611,2015,FALSE
-"634","Ex-Offender/Reentry Services",600,2015,FALSE
-"635","Death Related Services",594,2015,FALSE
-"636","Family Planning",593,2015,FALSE
-"637","Business Support Organizations/Services",586,2015,FALSE
-"638","Library Services",572,2015,FALSE
-"639","Educational Preparation and Testing",567,2015,FALSE
-"640","Long Distance Transportation",562,2015,FALSE
-"641","Public Awareness/Outreach",549,2015,FALSE
-"642","Adoption/Foster Care",509,2015,FALSE
-"643","Consumer Education",509,2015,FALSE
-"644","Community Economic Development",471,2015,FALSE
-"645","Physician Referrals",446,2015,FALSE
-"646","Mental Health Support",420,2015,FALSE
-"647","Medical Equipment/Supplies",355,2015,FALSE
-"648","Vocational Education",343,2015,FALSE
-"649","Food Outlets",341,2015,FALSE
-"650","Social Enrichment",320,2015,FALSE
-"651","Media/Communications",311,2015,FALSE
-"652","Health Supportive Services",304,2015,FALSE
-"653","Interpretation/Translation",298,2015,FALSE
-"654","Other Family Support",282,2015,FALSE
-"655","Charities/Grantmaking Organizations",272,2015,FALSE
-"656","Organizational Development",270,2015,FALSE
-"657","Student Financial Aid",269,2015,FALSE
-"658","Arts and Culture",263,2015,FALSE
-"659","Companionship",254,2015,FALSE
-"660","STD Services",254,2015,FALSE
-"661","Food Collection/Storage",250,2015,FALSE
-"662","Adult Day Care",242,2015,FALSE
-"663","Follow Up",217,2015,FALSE
-"664","Home Health Care",202,2015,FALSE
-"665","Occupational/Professional Associations",191,2015,FALSE
-"666","Political Organization/Participation",188,2015,FALSE
-"667","Communicable Disease Control",170,2015,FALSE
-"668","Nursing Facilities",163,2015,FALSE
-"669","Preparedness and Exercise",156,2015,FALSE
-"670","Personal Enrichment",154,2015,FALSE
-"671","Traffic Related Services",137,2015,FALSE
-"672","Disaster Services",131,2015,FALSE
-"673","Medical Expense Assistance",131,2015,FALSE
-"674","Special Education",129,2015,FALSE
-"675","Emergency Management/Relief Organizations",127,2015,FALSE
-"676","Repair Services",121,2015,FALSE
-"677","Caregiver Support",113,2015,FALSE
-"678","Financial Institutions/Services",112,2015,FALSE
-"679","Attendant Services",109,2015,FALSE
-"680","HIV/AIDS Services",109,2015,FALSE
-"681","Guidance and Counseling",93,2015,FALSE
-"682","Emergency Alert",92,2015,FALSE
-"683","Anatomical Gifts",87,2015,FALSE
-"684","Utility Service Connection/Repair",82,2015,FALSE
-"685","Alternative Medicine",76,2015,FALSE
-"686","Animal Services",73,2015,FALSE
-"687","Communications/Reporting",61,2015,FALSE
-"688","Alerts/Warnings",60,2015,FALSE
-"689","Military Service",56,2015,FALSE
-"690","Occupational Health and Safety",55,2015,FALSE
-"691","Hospice Care",51,2015,FALSE
-"692","Research/Statistics",49,2015,FALSE
-"693","Tools/Equipment",43,2015,FALSE
-"694","International Affairs",41,2015,FALSE
-"695","Targeted Education Programs",41,2015,FALSE
-"696","Mental Health/Crisis Counseling",35,2015,FALSE
-"697","Hazard Inspection and Mitigation",34,2015,FALSE
-"698","Post Disaster Transportation Information",33,2015,FALSE
-"699","Volunteers/Donations",32,2015,FALSE
-"700","Water Supply System",27,2015,FALSE
-"701","Spiritual Enrichment",26,2015,FALSE
-"702","Food/Water/Ice",25,2015,FALSE
-"703","Weight Management",24,2015,FALSE
-"704","Food Production",23,2015,FALSE
-"705","Transportation Administration",23,2015,FALSE
-"706","Utility Outages/Reconnections",23,2015,FALSE
-"707","Mitigation Services",21,2015,FALSE
-"708","Post Disaster Cleanup",20,2015,FALSE
-"709","Medical Assistance",18,2015,FALSE
-"710","Closures/Other Critical Services Information",17,2015,FALSE
-"711","Emergency Response/Fire/Rescue",17,2015,FALSE
-"712","Post Disaster Service Centers",16,2015,FALSE
-"713","Clothing/Supplies",12,2015,FALSE
-"714","Home Damage Repair/Storage",11,2015,FALSE
-"715","Long Term Care Support Services",11,2015,FALSE
-"716","Missing Persons/Inquiries",9,2015,FALSE
-"717","Disaster Equipment/Supplies",7,2015,FALSE
-"718","Evacuations",3,2015,FALSE
-"719","Post Disaster Inspections",3,2015,FALSE
+request_type,ct,yr,homeless_related
+Emergency Shelter,61576,2012,TRUE
+Information Services,48092,2012,FALSE
+Income Maintenance (DPSS/SSI/WIC),46555,2012,FALSE
+Food,40061,2012,FALSE
+Protective Services,35135,2012,FALSE
+Utility Assistance,28291,2012,FALSE
+Legal Assistance,20122,2012,FALSE
+Counseling,16215,2012,FALSE
+Housing Counseling/Search/Information,15286,2012,TRUE
+Hospitals/Clinics,13312,2012,FALSE
+Landlord/Tenant,12863,2012,FALSE
+Subsidized Housing,11471,2012,TRUE
+Law Enforcement,10598,2012,FALSE
+Crisis Intervention,10502,2012,FALSE
+Other Community Services,10375,2012,FALSE
+Health Screening,10244,2012,FALSE
+Housing Payment Assistance,9792,2012,TRUE
+Substance Abuse,9495,2012,FALSE
+Other Financial Assistance,8469,2012,FALSE
+Employment,8289,2012,FALSE
+Material Resources,7705,2012,FALSE
+Early Childhood Education,7669,2012,FALSE
+Transportation,6905,2012,FALSE
+Sanitation/Recycling,6648,2012,FALSE
+Tax Assistance,6568,2012,FALSE
+Dental Care,6469,2012,FALSE
+Parenting,6414,2012,FALSE
+Public Health/Inspection,6350,2012,FALSE
+Records/Licenses/Permits,6173,2012,FALSE
+Animal Services,5868,2012,FALSE
+Case Management,5458,2012,TRUE
+Day Care,5374,2012,FALSE
+Consumer Complaints,5073,2012,FALSE
+Holiday Assistance,4928,2012,FALSE
+Family Substitute Services,4643,2012,FALSE
+Information about 211 LA County,4280,2012,FALSE
+Psychiatric Support,4232,2012,FALSE
+Mutual Support Groups,4188,2012,FALSE
+Courts,3813,2012,FALSE
+Social Insurance,3691,2012,FALSE
+Building Code Enforcement,3610,2012,FALSE
+Advocacy/Court Watching,3414,2012,FALSE
+Health Supportive Services,3143,2012,FALSE
+Criminal Corrections,3072,2012,FALSE
+Immunizations,2941,2012,FALSE
+Maternal and Infant Care,2750,2012,FALSE
+Crime Prevention,2741,2012,FALSE
+Community Groups,2514,2012,FALSE
+Transportation Money,2445,2012,FALSE
+Political Organization/Participation,2402,2012,FALSE
+Leisure Activities,2268,2012,FALSE
+Health Education,1990,2012,FALSE
+Home Improvement,1933,2012,FALSE
+Public/Private Education,1873,2012,FALSE
+Street Maintenance,1659,2012,FALSE
+Specialized Treatment,1554,2012,FALSE
+Licensing/Certification/Accreditation,1518,2012,FALSE
+Travelers Assistance,1454,2012,FALSE
+Immigration/Naturalization,1431,2012,FALSE
+Public Safety,1346,2012,FALSE
+Emergency Medical Care,1332,2012,FALSE
+Environmental Maintenance/Improvement,1312,2012,FALSE
+Planning and Zoning,1310,2012,FALSE
+Money Management,1302,2012,FALSE
+Adult Education,1215,2012,FALSE
+Inpatient Mental Health,1168,2012,FALSE
+Facilities,1075,2012,FALSE
+Rehabilitation,1075,2012,FALSE
+Family Planning,976,2012,FALSE
+Volunteer Opportunities,954,2012,FALSE
+In-Home Assistance,938,2012,FALSE
+Medical Expense Assistance,915,2012,FALSE
+Judicial Services,910,2012,FALSE
+Disaster Services,902,2012,FALSE
+Eye Care,862,2012,FALSE
+Victim/Witness,807,2012,FALSE
+Weight Management,776,2012,FALSE
+Assistive Technology,734,2012,FALSE
+Statutes/Standards,719,2012,FALSE
+Death Certification/Burial,682,2012,FALSE
+Guardianship/Conservatorship,678,2012,FALSE
+Consumer Education,597,2012,FALSE
+Pediatrics,583,2012,FALSE
+Interpretation/Translation,564,2012,FALSE
+Other Education,528,2012,FALSE
+Tourism/Business/Industry,522,2012,FALSE
+Environmental Protection,516,2012,FALSE
+Vocational Education,441,2012,FALSE
+Social Development,437,2012,FALSE
+Charities/Funding,430,2012,FALSE
+Organizational Development,395,2012,FALSE
+Medical Equipment/Supplies,381,2012,FALSE
+Tutorial,344,2012,FALSE
+Physician Referrals,325,2012,FALSE
+Student Financial Aid,325,2012,FALSE
+Home Health Care,320,2012,FALSE
+Companionship,302,2012,FALSE
+Other Family Support,288,2012,FALSE
+Missing Persons,261,2012,FALSE
+Occupational/Professional Associations,257,2012,FALSE
+Communicable Disease Control,254,2012,FALSE
+Volunteer Development,206,2012,FALSE
+Nursing Facilities,174,2012,FALSE
+Traffic Control,156,2012,FALSE
+Personal Enrichment,155,2012,FALSE
+Ex-Offender Services,142,2012,FALSE
+STD Treatment,137,2012,FALSE
+Alternative Education,127,2012,FALSE
+Attendent Services,115,2012,FALSE
+Special Education,108,2012,FALSE
+APS Consultation - Resolved by 211 staff,104,2012,FALSE
+Follow Up,104,2012,FALSE
+Alternative Medicine,96,2012,FALSE
+Guidance and Counseling,89,2012,FALSE
+Anatomical Gifts,80,2012,FALSE
+Respite Care,79,2012,FALSE
+Hospice Care,52,2012,FALSE
+Occupational Health and Safety,50,2012,FALSE
+Emergency Alert,49,2012,FALSE
+Educational Testing,42,2012,FALSE
+Spiritual Enrichment,33,2012,FALSE
+Gang Programs,32,2012,FALSE
+Weed Abatement/Brush Control,30,2012,FALSE
+Date/Time Requests,28,2012,FALSE
+Dropout Programs,18,2012,FALSE
+Technology Services,17,2012,FALSE
+Employee Assistance,8,2012,FALSE
+,NA,2012,FALSE
+Emergency Shelter,43798,2013,TRUE
+Groceries,33968,2013,FALSE
+Adult Protective Services,33537,2013,FALSE
+Utility Assistance,32637,2013,FALSE
+Information Lines/Websites,27497,2013,FALSE
+Food Expense Assistance,21327,2013,FALSE
+Housing Counseling/Search Assistance,18218,2013,TRUE
+Transitional Shelter/Housing,17941,2013,TRUE
+Public Assistance,15918,2013,FALSE
+Health Insurance,13876,2013,FALSE
+Case Management,13580,2013,TRUE
+Landlord/Tenant,12491,2013,FALSE
+Housing Expense Assistance/Home Loans,12156,2013,TRUE
+General Counseling,11037,2013,FALSE
+Hospitals/Clinics,10643,2013,FALSE
+Early Childhood Education,10498,2013,FALSE
+General Legal Aid,10300,2013,FALSE
+Permanent Housing: Independent Settings,9684,2013,TRUE
+Crisis Intervention,8949,2013,FALSE
+Employment,8252,2013,FALSE
+Meals,8025,2013,FALSE
+Law Enforcement,7935,2013,FALSE
+Substance Abuse,7776,2013,FALSE
+APS Consultation - Resolved by 211 staff,6978,2013,FALSE
+Dental Care,6271,2013,FALSE
+Family Law,6227,2013,FALSE
+Pediatrics,6130,2013,FALSE
+Government/Administrative Offices and Community Groups,6113,2013,FALSE
+Waste Management,5933,2013,FALSE
+Housing Administrative Agencies,5669,2013,TRUE
+In-Home Assistance,5634,2013,FALSE
+Information about 211 LA County,5531,2013,FALSE
+Parenting,5468,2013,FALSE
+Hazard Inspection and Mitigation,5463,2013,FALSE
+Records/Licenses/Permits,5227,2013,FALSE
+Specialized Counseling/Supportive Therapies,5210,2013,FALSE
+Public Awareness/Outreach,4877,2013,FALSE
+Child Care,4677,2013,FALSE
+Holiday Programs,4673,2013,FALSE
+Consumer Complaints,4390,2013,FALSE
+Domestic Animal Services,4359,2013,FALSE
+Clothing,4307,2013,FALSE
+Utility Service Providers,3742,2013,FALSE
+Support Groups,3517,2013,FALSE
+Tax Organizations and Services,3515,2013,FALSE
+Short Term Financial Assistance,3220,2013,FALSE
+Immunizations,3033,2013,FALSE
+Building and Safety,2997,2013,FALSE
+Children's Protective Services,2978,2013,FALSE
+Technology Services,2938,2013,FALSE
+Courts,2936,2013,FALSE
+Homeless Support Services,2912,2013,TRUE
+Social Insurance,2912,2013,FALSE
+Health Screening/Diagnostic Services,2906,2013,FALSE
+Transportation Expense Assistance,2724,2013,FALSE
+Public Infrastructure Maintenance,2715,2013,FALSE
+Benefits Assistance,2710,2013,FALSE
+Paratransit,2629,2013,FALSE
+Household Goods,2417,2013,FALSE
+Maternal and Infant Care,2314,2013,FALSE
+Criminal Corrections,2258,2013,FALSE
+Crime Prevention,2220,2013,FALSE
+Volunteer/Donation Services,2196,2013,FALSE
+Food Outlets,2104,2013,FALSE
+Home Improvement/Accessibility,2088,2013,FALSE
+Traveler's Assistance,2057,2013,FALSE
+Local Transportation,2008,2013,FALSE
+Leisure Activities/Recreation,1815,2013,FALSE
+Community Action/Social Advocacy Groups,1628,2013,FALSE
+Psychiatric Services,1602,2013,FALSE
+Mental Health Evaluation,1568,2013,FALSE
+General Medical Care,1553,2013,FALSE
+Emergency Medical Care,1551,2013,FALSE
+Health Education,1515,2013,FALSE
+Planning and Zoning,1477,2013,FALSE
+Eye Care,1469,2013,FALSE
+Other Community Services,1468,2013,FALSE
+Specialized Treatment,1443,2013,FALSE
+Public/Private Education,1434,2013,FALSE
+Elder Law,1419,2013,FALSE
+Arts and Culture,1345,2013,FALSE
+Health Supportive Services,1324,2013,FALSE
+Permanent Housing: Supportive Settings,1297,2013,TRUE
+Immigration/Naturalization,1291,2013,FALSE
+Public Safety,1186,2013,FALSE
+Licensing/Certification/Accreditation,1170,2013,FALSE
+Money Management,1153,2013,FALSE
+Developmental Support/Rehabilitation,1142,2013,FALSE
+Shelters,1117,2013,TRUE
+Adult and Continuing Education,1108,2013,FALSE
+Inpatient/Residential Mental Health Facilities,1050,2013,FALSE
+Certificates/Forms Assistance,1039,2013,FALSE
+Other Material Goods,984,2013,FALSE
+Public Parking,941,2013,FALSE
+Prescriptions/Pharmacies,937,2013,FALSE
+Community Facilities/Centers,900,2013,FALSE
+Assistive Technology,883,2013,FALSE
+Labor and Employment Law,790,2013,FALSE
+Family Planning,781,2013,FALSE
+Discrimination Assistance,771,2013,FALSE
+Education Administration/Student Life,769,2013,FALSE
+Other Specialized Legal Assistance,754,2013,FALSE
+Educational Preparation and Testing,724,2013,FALSE
+Judicial Services,689,2013,FALSE
+Victim/Witness,660,2013,FALSE
+Adoption/Foster Care,630,2013,FALSE
+Guardianship/Conservatorship,628,2013,FALSE
+Regulations/Standards,592,2013,FALSE
+Environmental Protection,578,2013,FALSE
+Library Services,561,2013,FALSE
+Death Related Services,558,2013,FALSE
+Follow Up,552,2013,FALSE
+Mental Health Support,532,2013,FALSE
+Ex-Offender/Reentry Services,494,2013,FALSE
+Other Housing,451,2013,TRUE
+Community Economic Development,444,2013,FALSE
+Consumer Education,437,2013,FALSE
+Long Distance Transportation,435,2013,FALSE
+Social Enrichment,432,2013,FALSE
+Information About 211 LA County,393,2013,FALSE
+Medical Equipment/Supplies,393,2013,FALSE
+Physician Referrals,358,2013,FALSE
+Date/Time Requests,352,2013,FALSE
+STD Services,346,2013,FALSE
+Vocational Education,341,2013,FALSE
+Organizational Development,333,2013,FALSE
+Business Support Organizations/Services,323,2013,FALSE
+Student Financial Aid,320,2013,FALSE
+Food Collection/Storage,314,2013,FALSE
+Companionship,286,2013,FALSE
+Interpretation/Translation,286,2013,FALSE
+Other Family Support,263,2013,FALSE
+Charities/Grantmaking Organizations,259,2013,FALSE
+Occupational/Professional Associations,220,2013,FALSE
+Adult Day Care,209,2013,FALSE
+Medical Expense Assistance,208,2013,FALSE
+Nursing Facilities,194,2013,FALSE
+Communicable Disease Control,193,2013,FALSE
+Political Organization/Participation,190,2013,FALSE
+Personal Enrichment,188,2013,FALSE
+Counseling,174,2013,FALSE
+Home Health Care,167,2013,FALSE
+Attendant Services,139,2013,FALSE
+Caregiver Support,128,2013,FALSE
+HIV/AIDS Services,127,2013,FALSE
+Emergency Management/Relief Organizations,119,2013,FALSE
+Guidance and Counseling,110,2013,FALSE
+Special Education,108,2013,FALSE
+Traffic Related Services,100,2013,FALSE
+Media/Communications,96,2013,FALSE
+Alternative Medicine,95,2013,FALSE
+Preparedness and Exercise,93,2013,FALSE
+Anatomical Gifts,90,2013,FALSE
+Financial Institutions/Services,69,2013,FALSE
+Research/Statistics,67,2013,FALSE
+Food/Water/Ice,61,2013,FALSE
+Communications/Reporting,60,2013,FALSE
+Emergency Alert,56,2013,FALSE
+Animal Services,51,2013,FALSE
+Repair Services,51,2013,FALSE
+Targeted Education Programs,48,2013,FALSE
+Occupational Health and Safety,47,2013,FALSE
+Post Disaster Transportation Information,46,2013,FALSE
+Hospice Care,45,2013,FALSE
+Military Service,45,2013,FALSE
+International Affairs,42,2013,FALSE
+Weight Management,35,2013,FALSE
+Alerts/Warnings,32,2013,FALSE
+Food Production,27,2013,FALSE
+Utility Outages/Reconnections,25,2013,FALSE
+Closures/Other Critical Services Information,24,2013,FALSE
+Volunteers/Donations,23,2013,FALSE
+Mental Health/Crisis Counseling,22,2013,FALSE
+Spiritual Enrichment,19,2013,FALSE
+Utility Service Connection/Repair,18,2013,FALSE
+Clothing/Supplies,17,2013,FALSE
+Transportation Administration,17,2013,FALSE
+Water Supply System,17,2013,FALSE
+Medical Assistance,13,2013,FALSE
+Missing Persons/Inquiries,12,2013,FALSE
+Emergency Response/Fire/Rescue,11,2013,FALSE
+Home Damage Repair/Storage,11,2013,FALSE
+Post Disaster Cleanup,10,2013,FALSE
+Post Disaster Inspections,7,2013,FALSE
+Tools/Equipment,7,2013,FALSE
+Long Term Care Support Services,5,2013,FALSE
+Disaster Services,4,2013,FALSE
+Mitigation Services,4,2013,FALSE
+Post Disaster Service Centers,4,2013,FALSE
+Food,3,2013,FALSE
+Housing Payment Assistance,3,2013,TRUE
+Holiday Assistance,2,2013,FALSE
+Income Maintenance (DPSS/SSI/WIC),2,2013,FALSE
+Information Services,2,2013,FALSE
+Other Financial Assistance,2,2013,FALSE
+Disaster Equipment/Supplies,1,2013,FALSE
+Health Screening,1,2013,FALSE
+Housing Counseling/Search/Information,1,2013,TRUE
+Legal Assistance,1,2013,FALSE
+Mortality Management,1,2013,FALSE
+Protective Services,1,2013,FALSE
+Rumor Control,1,2013,FALSE
+Sanitation/Recycling,1,2013,FALSE
+Traffic Control,1,2013,FALSE
+Transportation,1,2013,FALSE
+,NA,2013,FALSE
+Emergency Shelter,48624,2014,TRUE
+Utility Assistance,46795,2014,FALSE
+Adult Protective Services,39932,2014,FALSE
+Groceries,39907,2014,FALSE
+Information Lines/Websites,32952,2014,FALSE
+Food Expense Assistance,26129,2014,FALSE
+Housing Counseling/Search Assistance,25821,2014,TRUE
+Case Management,23054,2014,TRUE
+Transitional Shelter/Housing,21150,2014,TRUE
+Health Insurance,21018,2014,FALSE
+Public Assistance,18174,2014,FALSE
+Early Childhood Education,14870,2014,FALSE
+Landlord/Tenant,14380,2014,FALSE
+Housing Expense Assistance/Home Loans,12969,2014,TRUE
+Utility Service Providers,12743,2014,FALSE
+Permanent Housing: Independent Settings,12386,2014,TRUE
+Employment,12184,2014,FALSE
+General Legal Aid,11913,2014,FALSE
+General Counseling,11661,2014,FALSE
+Hospitals/Clinics,11636,2014,FALSE
+Meals,10566,2014,FALSE
+Information about 211 LA County,10461,2014,FALSE
+Crisis Intervention,9858,2014,FALSE
+Substance Abuse,9069,2014,FALSE
+Law Enforcement,8507,2014,FALSE
+APS Consultation - Resolved by 211 staff,7854,2014,FALSE
+Waste Management,7420,2014,FALSE
+Housing Administrative Agencies,6848,2014,TRUE
+Technology Services,6784,2014,FALSE
+Specialized Counseling/Supportive Therapies,6726,2014,FALSE
+Family Law,6659,2014,FALSE
+Pediatrics,6546,2014,FALSE
+Records/Licenses/Permits,6303,2014,FALSE
+Parenting,5861,2014,FALSE
+In-Home Assistance,5823,2014,FALSE
+Government/Administrative Offices and Community Groups,5361,2014,FALSE
+Clothing,5198,2014,FALSE
+Child Care,5043,2014,FALSE
+Consumer Complaints,4936,2014,FALSE
+Dental Care,4872,2014,FALSE
+Domestic Animal Services,4742,2014,FALSE
+Holiday Programs,4451,2014,FALSE
+Benefits Assistance,4366,2014,FALSE
+Arts and Culture,4159,2014,FALSE
+Support Groups,3969,2014,FALSE
+Homeless Support Services,3950,2014,TRUE
+Building and Safety,3692,2014,FALSE
+Public Health Sanitation Services,3537,2014,FALSE
+Transportation Expense Assistance,3495,2014,FALSE
+Social Insurance,3436,2014,FALSE
+Tax Organizations and Services,3405,2014,FALSE
+Public Infrastructure Maintenance,3178,2014,FALSE
+Courts,3101,2014,FALSE
+Immunizations,3061,2014,FALSE
+Maternal and Infant Care,3012,2014,FALSE
+Paratransit,2994,2014,FALSE
+Household Goods,2838,2014,FALSE
+Hazard Inspection and Mitigation,2655,2014,FALSE
+Short Term Financial Assistance,2651,2014,FALSE
+Home Improvement/Accessibility,2650,2014,FALSE
+Criminal Corrections,2625,2014,FALSE
+Volunteer/Donation Services,2530,2014,FALSE
+Local Transportation,2472,2014,FALSE
+Crime Prevention,2209,2014,FALSE
+Children's Protective Services,2082,2014,FALSE
+Health Screening/Diagnostic Services,2041,2014,FALSE
+Community Action/Social Advocacy Groups,2040,2014,FALSE
+Planning and Zoning,1937,2014,FALSE
+Leisure Activities/Recreation,1919,2014,FALSE
+Psychiatric Services,1904,2014,FALSE
+Mental Health Evaluation,1842,2014,FALSE
+General Medical Care,1823,2014,FALSE
+Emergency Medical Care,1774,2014,FALSE
+Permanent Housing: Supportive Settings,1676,2014,TRUE
+Elder Law,1572,2014,FALSE
+Immigration/Naturalization,1563,2014,FALSE
+Public Safety,1558,2014,FALSE
+Specialized Treatment,1548,2014,FALSE
+Traveler's Assistance,1530,2014,FALSE
+Health Education,1465,2014,FALSE
+Developmental Support/Rehabilitation,1458,2014,FALSE
+Other Housing,1446,2014,TRUE
+Public/Private Education,1424,2014,FALSE
+Eye Care,1372,2014,FALSE
+Food Outlets,1355,2014,FALSE
+Shelters,1323,2014,TRUE
+Adult and Continuing Education,1303,2014,FALSE
+Public Parking,1292,2014,FALSE
+Inpatient/Residential Mental Health Facilities,1263,2014,FALSE
+Information About 211 LA County,1239,2014,FALSE
+Licensing/Certification/Accreditation,1236,2014,FALSE
+Money Management,1162,2014,FALSE
+Other Material Goods,1162,2014,FALSE
+Certificates/Forms Assistance,1152,2014,FALSE
+Community Facilities/Centers,1083,2014,FALSE
+Prescriptions/Pharmacies,1055,2014,FALSE
+Labor and Employment Law,984,2014,FALSE
+Other Specialized Legal Assistance,970,2014,FALSE
+Discrimination Assistance,954,2014,FALSE
+Assistive Technology,949,2014,FALSE
+Victim/Witness,907,2014,FALSE
+Judicial Services,828,2014,FALSE
+Education Administration/Student Life,805,2014,FALSE
+Environmental Protection,797,2014,FALSE
+Guardianship/Conservatorship,775,2014,FALSE
+Date/Time Requests,773,2014,FALSE
+Public Awareness/Outreach,752,2014,FALSE
+Family Planning,722,2014,FALSE
+Other Community Services,699,2014,FALSE
+Ex-Offender/Reentry Services,663,2014,FALSE
+Educational Preparation and Testing,662,2014,FALSE
+Regulations/Standards,654,2014,FALSE
+Library Services,639,2014,FALSE
+Adoption/Foster Care,634,2014,FALSE
+Death Related Services,608,2014,FALSE
+Physician Referrals,588,2014,FALSE
+Long Distance Transportation,539,2014,FALSE
+Community Economic Development,534,2014,FALSE
+Consumer Education,529,2014,FALSE
+Business Support Organizations/Services,500,2014,FALSE
+Mental Health Support,497,2014,FALSE
+Medical Equipment/Supplies,451,2014,FALSE
+Food Collection/Storage,436,2014,FALSE
+Vocational Education,403,2014,FALSE
+Social Enrichment,386,2014,FALSE
+Student Financial Aid,361,2014,FALSE
+Political Organization/Participation,358,2014,FALSE
+Health Supportive Services,351,2014,FALSE
+Organizational Development,348,2014,FALSE
+Interpretation/Translation,346,2014,FALSE
+Other Family Support,338,2014,FALSE
+Follow Up,302,2014,FALSE
+STD Services,291,2014,FALSE
+Companionship,262,2014,FALSE
+Adult Day Care,259,2014,FALSE
+Charities/Grantmaking Organizations,259,2014,FALSE
+Communicable Disease Control,256,2014,FALSE
+Medical Expense Assistance,230,2014,FALSE
+Occupational/Professional Associations,226,2014,FALSE
+Home Health Care,223,2014,FALSE
+Media/Communications,222,2014,FALSE
+Nursing Facilities,203,2014,FALSE
+Personal Enrichment,195,2014,FALSE
+Traffic Related Services,170,2014,FALSE
+Preparedness and Exercise,151,2014,FALSE
+HIV/AIDS Services,148,2014,FALSE
+Attendant Services,146,2014,FALSE
+Emergency Management/Relief Organizations,134,2014,FALSE
+Caregiver Support,126,2014,FALSE
+Financial Institutions/Services,115,2014,FALSE
+Special Education,105,2014,FALSE
+Communications/Reporting,101,2014,FALSE
+Alternative Medicine,96,2014,FALSE
+Animal Services,92,2014,FALSE
+Research/Statistics,88,2014,FALSE
+Anatomical Gifts,87,2014,FALSE
+Closures/Other Critical Services Information,87,2014,FALSE
+Guidance and Counseling,83,2014,FALSE
+Post Disaster Transportation Information,79,2014,FALSE
+Repair Services,77,2014,FALSE
+Food/Water/Ice,68,2014,FALSE
+Military Service,63,2014,FALSE
+Utility Service Connection/Repair,62,2014,FALSE
+Emergency Alert,61,2014,FALSE
+Evacuations,60,2014,FALSE
+Occupational Health and Safety,58,2014,FALSE
+Targeted Education Programs,54,2014,FALSE
+Hospice Care,53,2014,FALSE
+Alerts/Warnings,52,2014,FALSE
+International Affairs,39,2014,FALSE
+Transportation Administration,37,2014,FALSE
+Medical Assistance,36,2014,FALSE
+Emergency Response/Fire/Rescue,31,2014,FALSE
+Home Damage Repair/Storage,29,2014,FALSE
+Mental Health/Crisis Counseling,29,2014,FALSE
+Spiritual Enrichment,29,2014,FALSE
+Clothing/Supplies,28,2014,FALSE
+Tools/Equipment,28,2014,FALSE
+Water Supply System,28,2014,FALSE
+Weight Management,26,2014,FALSE
+Food Production,22,2014,FALSE
+Mitigation Services,20,2014,FALSE
+Post Disaster Cleanup,20,2014,FALSE
+Missing Persons/Inquiries,19,2014,FALSE
+Disaster Equipment/Supplies,17,2014,FALSE
+Volunteers/Donations,17,2014,FALSE
+Utility Outages/Reconnections,14,2014,FALSE
+Long Term Care Support Services,8,2014,FALSE
+Post Disaster Inspections,8,2014,FALSE
+Post Disaster Service Centers,5,2014,FALSE
+Rumor Control,3,2014,FALSE
+Disaster Services,1,2014,FALSE
+Mortality Management,1,2014,FALSE
+,NA,2014,FALSE
+Adult Protective Services,43131,2015,FALSE
+Emergency Shelter,41790,2015,TRUE
+Utility Service Providers,38730,2015,FALSE
+Utility Assistance,38585,2015,FALSE
+Information Lines/Websites,32361,2015,FALSE
+Groceries,29004,2015,FALSE
+Case Management,27635,2015,TRUE
+Housing Counseling/Search Assistance,25651,2015,TRUE
+Transitional Shelter/Housing,21181,2015,TRUE
+Early Childhood Education,14220,2015,FALSE
+Landlord/Tenant,14135,2015,FALSE
+Public Assistance,12986,2015,FALSE
+Health Insurance,12915,2015,FALSE
+Permanent Housing: Independent Settings,12244,2015,TRUE
+General Legal Aid,11448,2015,FALSE
+Food Expense Assistance,11244,2015,FALSE
+Information about 211 LA County,11173,2015,FALSE
+Housing Expense Assistance/Home Loans,10990,2015,TRUE
+General Counseling,10595,2015,FALSE
+Crisis Intervention,9648,2015,FALSE
+Substance Abuse,9635,2015,FALSE
+Meals,8577,2015,FALSE
+Law Enforcement,8443,2015,FALSE
+APS Consultation - Resolved by 211 staff,8384,2015,FALSE
+Waste Management,8362,2015,FALSE
+Employment,8032,2015,FALSE
+Hospitals/Clinics,7596,2015,FALSE
+Homeless Support Services,7036,2015,TRUE
+Specialized Counseling/Supportive Therapies,6294,2015,FALSE
+Family Law,6226,2015,FALSE
+Public Health Sanitation Services,5895,2015,FALSE
+Records/Licenses/Permits,5638,2015,FALSE
+In-Home Assistance,5509,2015,FALSE
+Housing Administrative Agencies,5437,2015,TRUE
+Parenting,5166,2015,FALSE
+Consumer Complaints,4891,2015,FALSE
+Domestic Animal Services,4528,2015,FALSE
+Child Care,4388,2015,FALSE
+Technology Services,4190,2015,FALSE
+Clothing,3994,2015,FALSE
+Holiday Programs,3894,2015,FALSE
+Government/Administrative Offices and Community Groups,3717,2015,FALSE
+Dental Care,3593,2015,FALSE
+Building and Safety,3555,2015,FALSE
+Support Groups,3414,2015,FALSE
+Tax Organizations and Services,3225,2015,FALSE
+Courts,3203,2015,FALSE
+Benefits Assistance,3153,2015,FALSE
+Public Infrastructure Maintenance,2967,2015,FALSE
+Paratransit,2891,2015,FALSE
+Social Insurance,2833,2015,FALSE
+Home Improvement/Accessibility,2717,2015,FALSE
+Maternal and Infant Care,2567,2015,FALSE
+Transportation Expense Assistance,2524,2015,FALSE
+Household Goods,2499,2015,FALSE
+Criminal Corrections,2405,2015,FALSE
+Short Term Financial Assistance,2320,2015,FALSE
+Local Transportation,2302,2015,FALSE
+Pediatrics,2189,2015,FALSE
+Immunizations,2171,2015,FALSE
+Crime Prevention,1932,2015,FALSE
+Permanent Housing: Supportive Settings,1758,2015,TRUE
+Volunteer/Donation Services,1718,2015,FALSE
+Elder Law,1690,2015,FALSE
+Leisure Activities/Recreation,1670,2015,FALSE
+Planning and Zoning,1616,2015,FALSE
+Community Action/Social Advocacy Groups,1612,2015,FALSE
+Psychiatric Services,1592,2015,FALSE
+Children's Protective Services,1579,2015,FALSE
+Public Parking,1576,2015,FALSE
+Health Screening/Diagnostic Services,1502,2015,FALSE
+Traveler's Assistance,1497,2015,FALSE
+Mental Health Evaluation,1482,2015,FALSE
+Health Education,1432,2015,FALSE
+Public Safety,1427,2015,FALSE
+Public/Private Education,1421,2015,FALSE
+Emergency Medical Care,1338,2015,FALSE
+Immigration/Naturalization,1327,2015,FALSE
+Inpatient/Residential Mental Health Facilities,1306,2015,FALSE
+Developmental Support/Rehabilitation,1216,2015,FALSE
+Specialized Treatment,1140,2015,FALSE
+Other Material Goods,1081,2015,FALSE
+Eye Care,1051,2015,FALSE
+Licensing/Certification/Accreditation,1049,2015,FALSE
+Adult and Continuing Education,1018,2015,FALSE
+Education Administration/Student Life,1013,2015,FALSE
+General Medical Care,1008,2015,FALSE
+Environmental Protection,1006,2015,FALSE
+Certificates/Forms Assistance,998,2015,FALSE
+Money Management,979,2015,FALSE
+Community Facilities/Centers,947,2015,FALSE
+Date/Time Requests,862,2015,FALSE
+Victim/Witness,859,2015,FALSE
+Other Housing,852,2015,TRUE
+Other Specialized Legal Assistance,849,2015,FALSE
+Discrimination Assistance,837,2015,FALSE
+Information About 211 LA County,827,2015,FALSE
+Labor and Employment Law,813,2015,FALSE
+Shelters,800,2015,TRUE
+Assistive Technology,782,2015,FALSE
+Judicial Services,764,2015,FALSE
+Other Community Services,761,2015,FALSE
+Guardianship/Conservatorship,693,2015,FALSE
+Regulations/Standards,680,2015,FALSE
+Prescriptions/Pharmacies,611,2015,FALSE
+Ex-Offender/Reentry Services,600,2015,FALSE
+Death Related Services,594,2015,FALSE
+Family Planning,593,2015,FALSE
+Business Support Organizations/Services,586,2015,FALSE
+Library Services,572,2015,FALSE
+Educational Preparation and Testing,567,2015,FALSE
+Long Distance Transportation,562,2015,FALSE
+Public Awareness/Outreach,549,2015,FALSE
+Adoption/Foster Care,509,2015,FALSE
+Consumer Education,509,2015,FALSE
+Community Economic Development,471,2015,FALSE
+Physician Referrals,446,2015,FALSE
+Mental Health Support,420,2015,FALSE
+Medical Equipment/Supplies,355,2015,FALSE
+Vocational Education,343,2015,FALSE
+Food Outlets,341,2015,FALSE
+Social Enrichment,320,2015,FALSE
+Media/Communications,311,2015,FALSE
+Health Supportive Services,304,2015,FALSE
+Interpretation/Translation,298,2015,FALSE
+Other Family Support,282,2015,FALSE
+Charities/Grantmaking Organizations,272,2015,FALSE
+Organizational Development,270,2015,FALSE
+Student Financial Aid,269,2015,FALSE
+Arts and Culture,263,2015,FALSE
+Companionship,254,2015,FALSE
+STD Services,254,2015,FALSE
+Food Collection/Storage,250,2015,FALSE
+Adult Day Care,242,2015,FALSE
+Follow Up,217,2015,FALSE
+Home Health Care,202,2015,FALSE
+Occupational/Professional Associations,191,2015,FALSE
+Political Organization/Participation,188,2015,FALSE
+Communicable Disease Control,170,2015,FALSE
+Nursing Facilities,163,2015,FALSE
+Preparedness and Exercise,156,2015,FALSE
+Personal Enrichment,154,2015,FALSE
+Traffic Related Services,137,2015,FALSE
+Disaster Services,131,2015,FALSE
+Medical Expense Assistance,131,2015,FALSE
+Special Education,129,2015,FALSE
+Emergency Management/Relief Organizations,127,2015,FALSE
+Repair Services,121,2015,FALSE
+Caregiver Support,113,2015,FALSE
+Financial Institutions/Services,112,2015,FALSE
+Attendant Services,109,2015,FALSE
+HIV/AIDS Services,109,2015,FALSE
+Guidance and Counseling,93,2015,FALSE
+Emergency Alert,92,2015,FALSE
+Anatomical Gifts,87,2015,FALSE
+Utility Service Connection/Repair,82,2015,FALSE
+Alternative Medicine,76,2015,FALSE
+Animal Services,73,2015,FALSE
+Communications/Reporting,61,2015,FALSE
+Alerts/Warnings,60,2015,FALSE
+Military Service,56,2015,FALSE
+Occupational Health and Safety,55,2015,FALSE
+Hospice Care,51,2015,FALSE
+Research/Statistics,49,2015,FALSE
+Tools/Equipment,43,2015,FALSE
+International Affairs,41,2015,FALSE
+Targeted Education Programs,41,2015,FALSE
+Mental Health/Crisis Counseling,35,2015,FALSE
+Hazard Inspection and Mitigation,34,2015,FALSE
+Post Disaster Transportation Information,33,2015,FALSE
+Volunteers/Donations,32,2015,FALSE
+Water Supply System,27,2015,FALSE
+Spiritual Enrichment,26,2015,FALSE
+Food/Water/Ice,25,2015,FALSE
+Weight Management,24,2015,FALSE
+Food Production,23,2015,FALSE
+Transportation Administration,23,2015,FALSE
+Utility Outages/Reconnections,23,2015,FALSE
+Mitigation Services,21,2015,FALSE
+Post Disaster Cleanup,20,2015,FALSE
+Medical Assistance,18,2015,FALSE
+Closures/Other Critical Services Information,17,2015,FALSE
+Emergency Response/Fire/Rescue,17,2015,FALSE
+Post Disaster Service Centers,16,2015,FALSE
+Clothing/Supplies,12,2015,FALSE
+Home Damage Repair/Storage,11,2015,FALSE
+Long Term Care Support Services,11,2015,FALSE
+Missing Persons/Inquiries,9,2015,FALSE
+Disaster Equipment/Supplies,7,2015,FALSE
+Evacuations,3,2015,FALSE
+Post Disaster Inspections,3,2015,FALSE
