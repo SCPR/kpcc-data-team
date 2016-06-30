@@ -13,3 +13,7 @@ Before:
 ![](lasd_before.png)
 [After](http://www.la-sheriff.org/s2/page_render.aspx?pagename=info_detail_03):
 ![](lasd_after.png) 
+
+Get in touch at amendelsonATscprDOTorg
+
+Data from our Officer Involved investiagtion into police shootings [is available here](https://github.com/SCPR/kpcc-data-team/tree/master/data/kpcc-officer-involved).
