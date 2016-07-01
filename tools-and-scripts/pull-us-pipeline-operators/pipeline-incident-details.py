@@ -16,7 +16,7 @@ config = {
 
     "csv_filename": "pipeline-incident-details.csv",
 
-    "operator_ids": [],
+    "operator_ids": [32103],
 
     "request_headers": {
         "From": "ckeller@scpr.org",
