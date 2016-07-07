@@ -11,7 +11,7 @@ KPCC pulled down all the PDFs linked to on the page in early June, when they wer
 KPCC's Chris Keller had previously converted some of the PDFs to csv files, which are available in the [csv folder](./csv/). Those are available for for the hit shootings data on deputies, suspects and incidents. Much of the other data is available (and more recent) on the County data portal.
 
 #Before and after
-Before:
+[Before](https://webcache.googleusercontent.com/search?q=cache:http://www.la-sheriff.org/s2/page_render.aspx?pagename=info_detail_03): as of May 13, 2016 10:51:49 GMT.
 ![](lasd_before.png)
 [After](http://www.la-sheriff.org/s2/page_render.aspx?pagename=info_detail_03):
 ![](lasd_after.png) 
