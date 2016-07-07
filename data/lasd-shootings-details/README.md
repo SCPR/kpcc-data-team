@@ -1,6 +1,6 @@
 # LASD shootings data
 
-After a KPCC California Public Records Act request seeking an updated version of Los Angeles Sheriff's Department data on deputy-involved shootings, a page featuring that data in PDF form was removed from the department's website.
+After a KPCC California Public Records Act request seeking an updated version of Los Angeles Sheriff's Department data on deputy-involved shootings, [a page featuring that data in PDF form was removed from the department's website](http://www.scpr.org/news/2016/07/07/62152/la-sheriff-stops-sharing-data-on-shooting-evaluati/).
 
 In a statement, the LASD said that decision was made in response to [concerns raised by Association for Los Angeles Deputy Sheriff's](http://projects.scpr.org/documents/#document=2941429-ALADS-Letter-to-LASD/), the union representing the rank and file deputies.
 
