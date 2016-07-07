@@ -16,7 +16,7 @@ Before:
 [After](http://www.la-sheriff.org/s2/page_render.aspx?pagename=info_detail_03):
 ![](lasd_after.png) 
 
-LASD Captain Christopher Reed said that the data was removed from that page on June 21, 2016. The three fields had been removed from the page on January 5, 2016.
+LASD Captain Christopher Reed said that the data was removed from that page on June 21, 2016. The three fields had been removed from the county data site on January 5, 2016.
 
 Get in touch at amendelsonATscprDOTorg
 
