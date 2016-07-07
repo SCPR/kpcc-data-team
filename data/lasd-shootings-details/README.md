@@ -12,6 +12,8 @@ KPCC pulled down all the PDFs linked to on the page in early June, when they wer
 
 We've also downloaded [csv versions](./csvs/open-data-versions) of deputy involved shooting data that is made available through the Los Angeles County Sheriff Department's ["Public Data Sharing" website](http://www.la-sheriff.org/s2/page_render.aspx?pagename=info_main).
 
+For context, LASD's DIS review process is covered [in this document](DIS_Flowchart.pdf).
+
 
 # Before and after
 [Before](https://webcache.googleusercontent.com/search?q=cache:http://www.la-sheriff.org/s2/page_render.aspx?pagename=info_detail_03): as of May 13, 2016 10:51:49 GMT.
