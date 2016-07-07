@@ -8,17 +8,17 @@ While [some of the data is posted to LA County's portal](https://data.lacounty.g
 
 # What's here
 
-KPCC pulled down all the PDFs linked to on the page in early June, when they were still available. Those are in the [lasd_public_data_page_pdfs](./lasd_public_data_page_pdfs) folder. It includes PDFs posted by the department on hit, non-hit, animal, warning shot and unintentional discharge incidents.
+KPCC pulled down all the PDFs linked to on the page in early June, when they were still available. Those are in the [lasd_public_data_page_pdfs](./lasd_public_data_page_pdfs) folder. It includes PDFs posted by the department on hit, non-hit, animal, warning shot and unintentional discharge incidents. We've converted the hit incidents to [csv files](./csvs/converted-pdfs).
 
-We've also downloaded [csv versions](./csv/) of deputy involved shooting data that is made available through the Los Angeles County Sheriff Department's ["Public Data Sharing" website](http://www.la-sheriff.org/s2/page_render.aspx?pagename=info_main).
+We've also downloaded [csv versions](./csvs/open-data-versions) of deputy involved shooting data that is made available through the Los Angeles County Sheriff Department's ["Public Data Sharing" website](http://www.la-sheriff.org/s2/page_render.aspx?pagename=info_main).
 
 
 # Before and after
 [Before](https://webcache.googleusercontent.com/search?q=cache:http://www.la-sheriff.org/s2/page_render.aspx?pagename=info_detail_03): as of May 13, 2016 10:51:49 GMT.
-![](lasd_before.png)
+![](images/lasd_before.png)
 
 [After](http://www.la-sheriff.org/s2/page_render.aspx?pagename=info_detail_03):
-![](lasd_after.png)
+![](images/lasd_after.png)
 
 LASD Captain Christopher Reed said that the data was removed from that page on June 21, 2016. The three fields had been removed from the county data site on January 5, 2016.
 
