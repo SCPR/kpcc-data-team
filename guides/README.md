@@ -1,6 +1,8 @@
 What we've learned about particular datasets, gathering data or the presentation of data
 ========================================================================================
 
+* [Campaign Finance in California](/guides/campaign-finance-in-california.md)
+
 * [Finding Stories In Budget Documents](/guides/finding-stories-in-budget-documents.md)
 
 * [Gathering details on use of force court cases in Los Angeles County](/guides/gathering-details-on-use-of-force-court-cases.md)
