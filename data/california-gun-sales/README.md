@@ -11,9 +11,9 @@ Some historical context is also [available here](http://oag.ca.gov/sites/all/fil
 Data from a handful of requests to the state DOJ. Be alert to differences between DROS and CRIS; handguns and long guns; and approved, pending and denied sales.
 
 * [ca_guns_daily_county_aug_2016](./data/ca_guns_daily_county_aug_2016.csv): Daily 2016 DROS and CRIS data, broken down by County.
-* [nov_dec_daily_comparison_2014_2015](./data/nov_dec_daily_comparison_2014_2015): A comparison of gun sales on the same calendar dates in November and December of 2014 and 2015. The San Bernardino mass shooting happened on December 2, 2015.
+* [nov_dec_daily_comparison_2014_2015](./data/nov_dec_daily_comparison_2014_2015.csv): A comparison of gun sales on the same calendar dates in November and December of 2014 and 2015. The San Bernardino mass shooting happened on December 2, 2015.
 * [ca_guns_county_yearly_jan_2016](./data/ca_guns_county_yearly_jan_2016.csv): Yearly totals broken down by county, 2010 to 2015.
-* [cnty_codes](./data/cnty_codes): County codes that can be joined to the sales to make them more human-readable.
+* [cnty_codes](./data/cnty_codes.csv): County codes that can be joined to the sales to make them more human-readable.
 
 
 #KPCC coverage California gun sales
