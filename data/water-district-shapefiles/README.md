@@ -9,11 +9,11 @@ These are surprisingly difficult questions to answer. **There is no central repo
 
 The GIS data in this repo was initally compiled by the Department of Water Resources, and then joined to SWRCB data by KPCC.
 
-DWR spokeswoman Lauren Bisnett said that the data "comes from a wide range of sources of a wide range of qualities. There isn’t a better water agency dataset in existence to our knowledge, but ours should be considered a rough." 
+DWR spokeswoman Lauren Bisnett said that the data "comes from a wide range of sources of a wide range of qualities. There isn’t a better water agency dataset in existence to our knowledge, but ours should be considered a rough."
 
 It is indeed rough, with many overlapping service areas (there should be none, since service areas don't overlap), and adjoining districts that fit together like jagged puzzle pieces (see Los Angeles and San Fernando).
 
-The DWR's Hong Lin said that some of the overlaps may be jurisdiction boundaries overlapping with a service area. Additionally, where wholesalers also provide water directly in some areas, there may be overlaps. This is the case with the Santa Clarita Water Division, which is operated by the Castaic Lake Water Agency (the wholesaler to other agencies).
+The DWR's Hong Lin said that some overlaps may be jurisdiction boundaries overlapping with a service area. Additionally, where wholesalers also provide water directly, there may be overlaps. This is the case with the Santa Clarita Water Division, which is operated by the Castaic Lake Water Agency (the wholesaler to other area agencies).
 
 One other grain of salt: water district service areas frequently change.
 
