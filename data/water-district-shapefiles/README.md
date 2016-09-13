@@ -13,8 +13,6 @@ DWR spokeswoman Lauren Bisnett said that the data "comes from a wide range of so
 
 It is indeed rough, with many overlapping service areas (there should be none, since service areas don't overlap), and adjoining districts that fit together like jagged puzzle pieces (see Los Angeles and San Fernando).
 
-The DWR's Hong Lin said that some overlaps may be jurisdiction boundaries overlapping with a service area. Additionally, where wholesalers also provide water directly, there may be overlaps. This is the case with the Santa Clarita Water Division, which is operated by the Castaic Lake Water Agency (the wholesaler to other area agencies).
-
 One other grain of salt: water district service areas frequently change.
 
 #What's here
