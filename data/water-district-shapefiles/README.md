@@ -14,7 +14,7 @@ It is indeed rough, with many overlapping service areas (there should be none si
 #What's here
 KPCC was able to match more than 380 of the districts in the monthly urban water use reports to the DWR data.
 
-The [urban_water_districts.geojson file](/urban_water_districts.geojson) is those districts, along with their name as represented each month in the SWRCB. This allows a user to join the shapefiles to the water use data.
+The [urban_water_districts.geojson file](urban_water_districts.geojson) is those districts, along with their name as represented each month in the SWRCB. This allows a user to join the shapefiles to the water use data.
 
 The attribute table also includes all the fields provided by the DWR.
 
