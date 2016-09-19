@@ -5,9 +5,9 @@ Nevertheless, the State Water Resources Control Board [continues to report urban
 
 Exactly *where* are those urban districts, and what are their service areas? What geographic patterns can we find in water use?
 
-These are surprisingly difficult questions to answer. **There is no central repository of water district shapefiles** in the state.
+These are surprisingly difficult questions to answer. **There is no central repository of water district shapefiles** in the state, according to the Department of Water Resources.
 
-The GIS data in this repo was initally compiled by the Department of Water Resources, and then joined to SWRCB data by KPCC.
+The GIS data in this repo was initally compiled by the DWR, and then joined to SWRCB data by KPCC.
 
 DWR spokeswoman Lauren Bisnett said that the data "comes from a wide range of sources of a wide range of qualities. There isn’t a better water agency dataset in existence to our knowledge, but ours should be considered a rough."
 
