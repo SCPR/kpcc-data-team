@@ -22,6 +22,8 @@ The [urban_water_districts.geojson file](urban_water_districts.geojson) is those
 
 The attribute table also includes all the fields provided by the DWR.
 
+We are also attaching a [csv of the 'key' to joining the SWRCB data to the DWR's GIS data](swrcb_water_district_name_key.csv). By itself this will not produce the geojson in this repo; there will be several agencies that have multiple joins (which have been cleaned up in the geojson). However, it may come in handy as the DWR futher refines their data, as they indicated to KPCC that they would.
+
 You can see the full extent of the DWR water district boundaries [on their website](https://gis.water.ca.gov/app/boundaries/).
 
 Please let us know if you use these files: amendelsonATscprDOTorg
