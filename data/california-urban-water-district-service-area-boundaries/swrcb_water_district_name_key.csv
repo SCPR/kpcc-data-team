@@ -1,0 +1,412 @@
+agency_unique,swcrb_name,supplier_name_proper,supplier_name_slug,hydrologic_region,hydrologic_region_slug,june_5_reduction_target,march_1_reduction_target,cumulative_reduction_percent,missed_reduction_percent_by,reached_reduction_target,stress_test_reduction_target
+23,Alameda County Water District,alameda county water district,alameda-county-water-district,San Francisco Bay,san-francisco-bay,0.16,0.16,0.277,-0.117,TRUE,0
+25,Alco Water Service,alco water service,alco-water-service,Central Coast,central-coast,0.24,0.24,0.236,0.004,FALSE,0
+55,Amador Water Agency,amador water agency,amador-water-agency,San Joaquin River,san-joaquin-river,0.16,0.21,0.275,-0.035,TRUE,0
+87,Apple Valley Ranchos Water Company,apple valley ranchos water company,apple-valley-ranchos-water-company,South Lahontan,south-lahontan,0.28,0.24,0.265,0.015,FALSE,0
+102,Arvin Community Services District,arvin community services district,arvin-community-services-district,Tulare Lake,tulare-lake,0.28,0.21,0.317,-0.037,TRUE,0
+107,Atascadero Mutual Water Company,atascadero mutual water company,atascadero-mutual-water-company,Central Coast,central-coast,0.28,0.28,0.282,-0.002,TRUE,0
+124,Bakman Water Company,bakman water company,bakman-water-company,Tulare Lake,tulare-lake,0.36,0.34,0.271,0.089,FALSE,NULL
+159,Beaumont-Cherry Valley Water District,beaumont-cherry valley water district,beaumont-cherry-valley-water-district,South Coast,south-coast,0.36,0.32,0.222,0.138,FALSE,0
+167,Bella Vista Water District,bella vista water district,bella-vista-water-district,Sacramento River,sacramento-river,0.36,0.33,0.526,-0.166,TRUE,NULL
+170,Bellflower-Somerset Mutual Water Company,bellflower-somerset mutual water company,bellflower-somerset-mutual-water-company,South Coast,south-coast,0.2,0.2,0.18,0.02,FALSE,0.2
+197,Big Bear City Community Services District,big bear city community services district,big-bear-city-community-services-district,South Coast,south-coast,0.16,0.13,0.133,0.027,FALSE,0
+351,Calaveras County Water District,calaveras county water district,calaveras-county-water-district,San Joaquin River,san-joaquin-river,0.16,0.13,0.282,-0.122,TRUE,0
+357,California Water Service Company Antelope Valley,california water service company antelope valley,california-water-service-company-antelope-valley,South Lahontan,south-lahontan,0.36,0.32,0.478,-0.118,TRUE,0
+386,California Water Service Company Bakersfield,california water service company bakersfield,california-water-service-company-bakersfield,Tulare Lake,tulare-lake,0.32,0.29,0.304,0.016,FALSE,0
+387,California Water Service Company Bear Gulch,california water service company bear gulch,california-water-service-company-bear-gulch,San Francisco Bay,san-francisco-bay,0.36,0.36,0.347,0.013,FALSE,0.02
+388,California Water Service Company Chico District,california water service company chico district,california-water-service-company-chico-district,Sacramento River,sacramento-river,0.32,0.29,0.376,-0.056,TRUE,0
+391,California Water Service Company Dominguez,california water service company dominguez,california-water-service-company-dominguez,South Coast,south-coast,0.16,0.15,0.155,0.005,FALSE,0
+392,California Water Service Company East Los Angeles,california water service company east los angeles,california-water-service-company-east-los-angeles,South Coast,south-coast,0.08,0.08,0.148,-0.068,TRUE,0
+396,California Water Service Company Hermosa/Redondo,california water service company hermosa redondo,california-water-service-company-hermosa-redondo,South Coast,south-coast,0.2,0.19,0.178,0.022,FALSE,0
+,California Water Service Company Kern River Valley,california water service company kern river valley,california-water-service-company-kern-river-valley,Tulare Lake,tulare-lake,0.28,0.25,0.189,0.091,FALSE,0
+398,California Water Service Company King City,california water service company king city,california-water-service-company-king-city,Central Coast,central-coast,0.12,0.09,0.211,-0.091,TRUE,0
+401,California Water Service Company Livermore,california water service company livermore,california-water-service-company-livermore,San Francisco Bay,san-francisco-bay,0.24,0.21,0.389,-0.149,TRUE,0
+402,California Water Service Company Los Altos/Suburban,california water service company los altos suburban,california-water-service-company-los-altos-suburban,San Francisco Bay,san-francisco-bay,0.32,0.32,0.378,-0.058,TRUE,0
+405,California Water Service Company Marysville,california water service company marysville,california-water-service-company-marysville,Sacramento River,sacramento-river,0.24,0.21,0.252,-0.012,TRUE,0
+,California Water Service Company Mid Peninsula,california water service company mid peninsula,california-water-service-company-mid-peninsula,San Francisco Bay,san-francisco-bay,0.16,0.16,0.258,-0.098,TRUE,0
+412,California Water Service Company Oroville,california water service company oroville,california-water-service-company-oroville,Sacramento River,sacramento-river,0.28,0.25,0.282,-0.002,TRUE,0
+413,California Water Service Company Palos Verdes,california water service company palos verdes,california-water-service-company-palos-verdes,South Coast,south-coast,0.36,0.36,0.278,0.082,FALSE,0
+,California Water Service Company Redwood Valley,california water service company redwood valley,california-water-service-company-redwood-valley,North Coast,north-coast,0.16,0.16,0.312,-0.152,TRUE,0
+,California Water Service Company Salinas District,california water service company salinas district,california-water-service-company-salinas-district,Central Coast,central-coast,0.16,0.16,0.251,-0.091,TRUE,0
+421,California Water Service Company Selma,california water service company selma,california-water-service-company-selma,Tulare Lake,tulare-lake,0.32,0.3,0.384,-0.064,TRUE,0
+422,California Water Service Company South San Francisco,california water service company south san francisco,california-water-service-company-south-san-francisco,San Francisco Bay,san-francisco-bay,0.08,0.08,0.204,-0.124,TRUE,0
+424,California Water Service Company Stockton,california water service company stockton,california-water-service-company-stockton,San Joaquin River,san-joaquin-river,0.2,0.18,0.218,-0.018,TRUE,0
+427,California Water Service Company Visalia,california water service company visalia,california-water-service-company-visalia,Tulare Lake,tulare-lake,0.32,0.29,0.254,0.066,FALSE,0
+,California Water Service Company Westlake,california water service company westlake,california-water-service-company-westlake,South Coast,south-coast,0.36,0.34,0.327,0.033,FALSE,0
+429,California Water Service Company Willows,california water service company willows,california-water-service-company-willows,Sacramento River,sacramento-river,0.28,0.26,0.301,-0.021,TRUE,0
+,California-American Water Company Los Angeles District,california-american water company los angeles district,california-american-water-company-los-angeles-district,South Coast,south-coast,0.28,0.26,0.272,0.008,FALSE,0
+,California-American Water Company Monterey District,california-american water company monterey district,california-american-water-company-monterey-district,Central Coast,central-coast,0.08,0.08,0.18,-0.1,TRUE,0
+,California-American Water Company Sacramento District,california-american water company sacramento district,california-american-water-company-sacramento-district,Sacramento River,sacramento-river,0.2,0.17,0.343,-0.143,TRUE,0
+,California-American Water Company San Diego District,california-american water company san diego district,california-american-water-company-san-diego-district,South Coast,south-coast,0.08,0.08,0.258,-0.178,TRUE,0
+,California-American Water Ventura District,california-american water ventura district,california-american-water-ventura-district,South Coast,south-coast,0.32,0.3,0.258,0.062,FALSE,0
+445,Cambria Community Services District,cambria community services district,cambria-community-services-district,Central Coast,central-coast,0.08,0.08,0.35,-0.27,TRUE,NULL
+467,Camrosa Water District,camrosa water district,camrosa-water-district,South Coast,south-coast,0.32,0.24,0.233,0.087,FALSE,0
+478,Carlsbad Municipal Water District,carlsbad municipal water district,carlsbad-municipal-water-district,South Coast,south-coast,0.28,0.2,0.222,0.058,FALSE,0
+481,Carmichael Water District,carmichael water district,carmichael-water-district,Sacramento River,sacramento-river,0.36,0.33,0.334,0.026,FALSE,0
+485,Carpinteria Valley Water District,carpinteria valley water district,carpinteria-valley-water-district,Central Coast,central-coast,0.2,0.2,0.268,-0.068,TRUE,0
+495,Casitas Municipal Water District,casitas municipal water district,casitas-municipal-water-district,South Coast,south-coast,0.32,0.32,0.219,0.101,FALSE,0
+496,Castaic Lake Water Agency Santa Clarita Water Division,castaic lake water agency santa clarita water division,castaic-lake-water-agency-santa-clarita-water-division,South Coast,south-coast,0.32,0.28,0.281,0.039,FALSE,0
+2832,Citrus Heights Water District,citrus heights water district,citrus-heights-water-district,Sacramento River,sacramento-river,0.32,0.29,0.343,-0.023,TRUE,0
+13,Adelanto City of,city of adelanto,city-of-adelanto,South Lahontan,south-lahontan,0.2,0.16,0.159,0.041,FALSE,NULL
+30,Alhambra City of,city of alhambra,city-of-alhambra,South Coast,south-coast,0.24,0.22,0.23,0.01,FALSE,0
+57,American Canyon City of,city of american canyon,city-of-american-canyon,San Francisco Bay,san-francisco-bay,0.2,0.16,0.258,-0.058,TRUE,0
+64,Anaheim City of,city of anaheim,city-of-anaheim,South Coast,south-coast,0.2,0.13,0.22,-0.02,TRUE,0
+66,Anderson City of,city of anderson,city-of-anderson,Sacramento River,sacramento-river,0.36,0.33,0.201,0.159,FALSE,0
+82,Antioch City of,city of antioch,city-of-antioch,San Joaquin River,san-joaquin-river,0.28,0.27,0.3,-0.02,TRUE,0
+93,Arcadia City of,city of arcadia,city-of-arcadia,South Coast,south-coast,0.36,0.34,0.265,0.095,FALSE,0
+94,Arcata City of,city of arcata,city-of-arcata,North Coast,north-coast,0.08,0.04,0.044,-0.004,TRUE,0
+99,Arroyo Grande City of,city of arroyo grande,city-of-arroyo-grande,Central Coast,central-coast,0.28,0.28,0.357,-0.077,TRUE,NULL
+110,Atwater City of,city of atwater,city-of-atwater,San Joaquin River,san-joaquin-river,0.36,0.33,NULL,NULL,NULL,NULL
+117,Azusa City of,city of azusa,city-of-azusa,South Coast,south-coast,0.2,0.18,0.2,0,FALSE,0.03
+123,Bakersfield City of,city of bakersfield,city-of-bakersfield,Tulare Lake,tulare-lake,0.36,0.31,0.274,0.086,FALSE,0.09
+,Banning City of,city of banning,city-of-banning,Colorado River,colorado-river,0.32,0.28,0.27,0.05,FALSE,0
+178,Benicia City of,city of benicia,city-of-benicia,San Francisco Bay,san-francisco-bay,0.2,0.2,0.381,-0.181,TRUE,0
+193,Beverly Hills City of,city of beverly hills,city-of-beverly-hills,South Coast,south-coast,0.32,0.32,0.188,0.132,FALSE,0
+198,"City of Big Bear Lake, Dept of Water & Power",city of big bear lake dept of water power,city-of-big-bear-lake-dept-of-water-power,South Coast,south-coast,0.16,0.13,0.109,0.051,FALSE,0
+241,Blythe City of,city of blythe,city-of-blythe,Colorado River,colorado-river,0.32,0.28,0.133,0.187,FALSE,0
+262,Brawley City of,city of brawley,city-of-brawley,Colorado River,colorado-river,0.32,0.24,0.421,-0.101,TRUE,0
+263,Brea City of,city of brea,city-of-brea,South Coast,south-coast,0.24,0.24,0.202,0.038,FALSE,0.15
+264,Brentwood City of,city of brentwood,city-of-brentwood,San Joaquin River,san-joaquin-river,0.32,0.28,0.391,-0.071,TRUE,0
+283,Buena Park City of,city of buena park,city-of-buena-park,South Coast,south-coast,0.2,0.13,0.221,-0.021,TRUE,0
+285,Burbank City of,city of burbank,city-of-burbank,South Coast,south-coast,0.24,0.22,0.253,-0.013,TRUE,0
+286,Burlingame City of,city of burlingame,city-of-burlingame,San Francisco Bay,san-francisco-bay,0.16,0.16,0.291,-0.131,TRUE,0
+353,Calexico City of,city of calexico,city-of-calexico,Colorado River,colorado-river,0.2,0.16,NULL,NULL,NULL,NULL
+,California City City of,city of california city,city-of-california-city,South Lahontan,south-lahontan,0.36,0.28,0.067,0.293,FALSE,NULL
+,,city of california water service company dixon,city-of-california-water-service-company-dixon,Sacramento River,sacramento-river,0.28,0.24,0.29,-0.01,TRUE,0
+443,Camarillo City of,city of camarillo,city-of-camarillo,South Coast,south-coast,0.2,0.2,0.21,-0.01,TRUE,0.03
+522,Ceres City of,city of ceres,city-of-ceres,San Joaquin River,san-joaquin-river,0.28,0.26,0.24,0.04,FALSE,0.13
+524,Cerritos City of,city of cerritos,city-of-cerritos,South Coast,south-coast,0.28,0.21,0.213,0.067,FALSE,0
+545,Chino City of,city of chino,city-of-chino,South Coast,south-coast,0.24,0.21,0.189,0.051,FALSE,0
+547,Chino Hills City of,city of chino hills,city-of-chino-hills,South Coast,south-coast,0.28,0.28,0.254,0.026,FALSE,0
+574,Clovis City of,city of clovis,city-of-clovis,Tulare Lake,tulare-lake,0.36,0.33,0.297,0.063,FALSE,0
+575,Coachella City of,city of coachella,city-of-coachella,Colorado River,colorado-river,0.24,0.2,0.242,-0.002,TRUE,0
+596,Colton City of,city of colton,city-of-colton,South Coast,south-coast,0.2,0.18,0.148,0.052,FALSE,0
+607,Compton City of,city of compton,city-of-compton,South Coast,south-coast,0.08,0.08,0.122,-0.042,TRUE,NULL
+618,Corcoran City of,city of corcoran,city-of-corcoran,Tulare Lake,tulare-lake,0.36,0.32,0.299,0.061,FALSE,0
+624,Corona City of,city of corona,city-of-corona,South Coast,south-coast,0.28,0.28,0.19,0.09,FALSE,0
+644,Covina City of ,city of covina,city-of-covina,South Coast,south-coast,0.28,0.26,0.219,0.061,FALSE,0.12
+649,Crescent City City of,city of crescent city,city-of-crescent-city,North Coast,north-coast,0.16,0.16,0.163,-0.003,TRUE,0
+673,Daly City City of,city of daly city,city-of-daly-city,San Francisco Bay,san-francisco-bay,0.08,0.08,0.122,-0.042,TRUE,0.04
+678,Davis City of,city of davis,city-of-davis,Sacramento River,sacramento-river,0.28,0.25,0.263,0.017,FALSE,0
+711,Delano City of,city of delano,city-of-delano,Tulare Lake,tulare-lake,0.24,0.21,0.198,0.042,FALSE,0
+737,Dinuba City of,city of dinuba,city-of-dinuba,Tulare Lake,tulare-lake,0.32,0.29,NULL,NULL,NULL,0
+748,Downey City of,city of downey,city-of-downey,South Coast,south-coast,0.2,0.14,0.202,-0.002,TRUE,0
+4696,East Palo Alto City of,city of east palo alto,city-of-east-palo-alto,San Francisco Bay,san-francisco-bay,0.08,0.08,0.241,-0.161,TRUE,NULL
+814,El Centro City of,city of el centro,city-of-el-centro,Colorado River,colorado-river,0.24,0.2,0.129,0.111,FALSE,0
+821,El Monte City of,city of el monte,city-of-el-monte,South Coast,south-coast,0.08,0.08,0.124,-0.044,TRUE,0
+827,El Segundo City of,city of el segundo,city-of-el-segundo,South Coast,south-coast,0.2,0.2,0.033,0.167,FALSE,0.02
+851,Escondido City of,city of escondido,city-of-escondido,South Coast,south-coast,0.2,0.12,0.267,-0.067,TRUE,0.06
+859,Eureka City of,city of eureka,city-of-eureka,North Coast,north-coast,0.12,0.04,0.128,-0.088,TRUE,0
+863,Exeter City of,city of exeter,city-of-exeter,Tulare Lake,tulare-lake,0.36,0.34,0.26,0.1,FALSE,0.21
+867,Fairfield City of,city of fairfield,city-of-fairfield,Sacramento River,sacramento-river,0.2,0.19,0.212,-0.012,TRUE,0
+890,Fillmore City of,city of fillmore,city-of-fillmore,South Coast,south-coast,0.28,0.26,0.225,0.055,FALSE,NULL
+904,Folsom City of,city of folsom,city-of-folsom,Sacramento River,sacramento-river,0.32,0.28,0.257,0.063,FALSE,0
+920,Fortuna City of,city of fortuna,city-of-fortuna,North Coast,north-coast,0.24,0.2,0.124,0.116,FALSE,0
+924,Fountain Valley City of,city of fountain valley,city-of-fountain-valley,South Coast,south-coast,0.2,0.13,0.216,-0.016,TRUE,0
+934,Fresno City of,city of fresno,city-of-fresno,Tulare Lake,tulare-lake,0.28,0.25,0.258,0.022,FALSE,0
+967,Fullerton City of,city of fullerton,city-of-fullerton,South Coast,south-coast,0.28,0.21,0.199,0.081,FALSE,0
+972,Galt City of,city of galt,city-of-galt,Sacramento River,sacramento-river,0.32,0.29,0.319,0.001,FALSE,0
+977,Garden Grove City of,city of garden grove,city-of-garden-grove,South Coast,south-coast,0.2,0.2,0.209,-0.009,TRUE,0
+995,Gilroy City of,city of gilroy,city-of-gilroy,Central Coast,central-coast,0.24,0.24,0.283,-0.043,TRUE,0
+1004,Glendale City of,city of glendale,city-of-glendale,South Coast,south-coast,0.2,0.18,0.213,-0.013,TRUE,0
+1005,Glendora City of,city of glendora,city-of-glendora,South Coast,south-coast,0.36,0.34,0.305,0.055,FALSE,0.2
+1093,Greenfield City of,city of greenfield,city-of-greenfield,Central Coast,central-coast,0.16,0.14,0.256,-0.096,TRUE,0.05
+1110,Grover Beach City of,city of grover beach,city-of-grover-beach,Central Coast,central-coast,0.08,0.08,NULL,NULL,NULL,NULL
+1125,Hanford City of,city of hanford,city-of-hanford,Tulare Lake,tulare-lake,0.28,0.23,0.137,0.143,FALSE,0
+1142,Hawthorne City of,city of hawthorne,city-of-hawthorne,South Coast,south-coast,0.16,0.16,0.085,0.075,FALSE,0
+1143,Hayward City of,city of hayward,city-of-hayward,San Francisco Bay,san-francisco-bay,0.08,0.08,0.227,-0.147,TRUE,0
+1144,Healdsburg City of,city of healdsburg,city-of-healdsburg,North Coast,north-coast,0.24,0.24,0.256,-0.016,TRUE,0
+1157,Hemet City of,city of hemet,city-of-hemet,South Coast,south-coast,0.32,0.14,0.196,0.124,FALSE,0
+1165,Hesperia Water District City of,city of hesperia water district,city-of-hesperia-water-district,South Lahontan,south-lahontan,0.32,0.28,0.181,0.139,FALSE,0
+1188,Hollister City of,city of hollister,city-of-hollister,Central Coast,central-coast,0.2,0.2,0.207,-0.007,TRUE,0
+1215,Huntington Beach City of,city of huntington beach,city-of-huntington-beach,South Coast,south-coast,0.2,0.13,0.21,-0.01,TRUE,0
+1217,Huntington Park City of,city of huntington park,city-of-huntington-park,South Coast,south-coast,0.08,0.08,0.126,-0.046,TRUE,0
+1225,Imperial City of,city of imperial,city-of-imperial,Colorado River,colorado-river,0.24,0.2,0.112,0.128,FALSE,0
+1236,Indio City of,city of indio,city-of-indio,Colorado River,colorado-river,0.32,0.27,0.213,0.107,FALSE,0
+1238,Inglewood City of,city of inglewood,city-of-inglewood,South Coast,south-coast,0.12,0.11,0.152,-0.032,TRUE,0.05
+1286,Kerman City of,city of kerman,city-of-kerman,Tulare Lake,tulare-lake,0.32,0.29,0.259,0.061,FALSE,0
+1304,Kingsburg City of,city of kingsburg,city-of-kingsburg,Tulare Lake,tulare-lake,0.36,0.34,0.394,-0.034,TRUE,0
+1324,La Habra City of Public Works,city of la habra,city-of-la-habra,South Coast,south-coast,0.28,0.28,0.206,0.074,FALSE,0
+1327,La Palma City of,city of la palma,city-of-la-palma,South Coast,south-coast,0.2,0.13,0.228,-0.028,TRUE,0
+1333,La Verne City of,city of la verne,city-of-la-verne,South Coast,south-coast,0.32,0.3,0.26,0.06,FALSE,0
+1370,Lakewood City of,city of lakewood,city-of-lakewood,South Coast,south-coast,0.2,0.12,0.242,-0.042,TRUE,0
+1388,Lathrop City of ,city of lathrop,city-of-lathrop,San Joaquin River,san-joaquin-river,0.2,0.18,0.283,-0.083,TRUE,NULL
+1415,Lemoore City of,city of lemoore,city-of-lemoore,Tulare Lake,tulare-lake,0.32,0.28,0.21,0.11,FALSE,0
+1424,Lincoln City of,city of lincoln,city-of-lincoln,Sacramento River,sacramento-river,0.32,0.28,0.319,0.001,FALSE,0
+1443,Livermore City of Division of Water Resources,city of livermore,city-of-livermore,San Francisco Bay,san-francisco-bay,0.2,0.17,0.328,-0.128,TRUE,0
+1444,Livingston City of,city of livingston,city-of-livingston,San Joaquin River,san-joaquin-river,0.32,0.29,0.168,0.152,FALSE,NULL
+1450,Lodi City of Public Works Department,city of lodi,city-of-lodi,San Joaquin River,san-joaquin-river,0.32,0.3,0.265,0.055,FALSE,0.06
+1452,Loma Linda City of,city of loma linda,city-of-loma-linda,South Coast,south-coast,0.32,0.3,0.199,0.121,FALSE,0
+,Lomita City of,city of lomita,city-of-lomita,South Coast,south-coast,0.2,0.2,0.166,0.034,FALSE,0
+1459,Lompoc City of,city of lompoc,city-of-lompoc,Central Coast,central-coast,0.12,0.12,0.221,-0.101,TRUE,NULL
+1464,Long Beach City of,city of long beach,city-of-long-beach,South Coast,south-coast,0.16,0.09,0.152,0.008,FALSE,0
+1487,Los Banos City of,city of los banos,city-of-los-banos,San Joaquin River,san-joaquin-river,0.28,0.24,0.224,0.056,FALSE,NULL
+1506,Lynwood City of,city of lynwood,city-of-lynwood,South Coast,south-coast,0.16,0.1,0.112,0.048,FALSE,0
+1510,Madera City of,city of madera,city-of-madera,San Joaquin River,san-joaquin-river,0.28,0.26,0.253,0.027,FALSE,0
+1536,Manhattan Beach City of,city of manhattan beach,city-of-manhattan-beach,South Coast,south-coast,0.2,0.18,0.188,0.012,FALSE,0
+1539,Manteca City of,city of manteca,city-of-manteca,San Joaquin River,san-joaquin-river,0.32,0.27,0.296,0.024,FALSE,0
+1554,Martinez City of,city of martinez,city-of-martinez,San Francisco Bay,san-francisco-bay,0.2,0.2,0.309,-0.109,TRUE,0
+1588,Menlo Park City of,city of menlo park,city-of-menlo-park,San Francisco Bay,san-francisco-bay,0.16,0.16,0.416,-0.256,TRUE,0
+1589,Merced City of,city of merced,city-of-merced,San Joaquin River,san-joaquin-river,0.36,0.34,0.371,-0.011,TRUE,0
+1613,Millbrae City of,city of millbrae,city-of-millbrae,San Francisco Bay,san-francisco-bay,0.16,0.16,0.234,-0.074,TRUE,0
+1619,Milpitas City of,city of milpitas,city-of-milpitas,San Francisco Bay,san-francisco-bay,0.12,0.12,NULL,NULL,NULL,0
+1631,Modesto City of,city of modesto,city-of-modesto,San Joaquin River,san-joaquin-river,0.36,0.33,0.278,0.082,FALSE,0.2
+1639,Monrovia City of,city of monrovia,city-of-monrovia,South Coast,south-coast,0.28,0.26,0.219,0.061,FALSE,0.12
+1650,Monterey Park City of,city of monterey park,city-of-monterey-park,South Coast,south-coast,0.2,0.2,0.168,0.032,FALSE,0.14
+1656,Morgan Hill City of,city of morgan hill,city-of-morgan-hill,Central Coast,central-coast,0.28,0.27,0.33,-0.05,TRUE,0
+1660,Morro Bay City of,city of morro bay,city-of-morro-bay,Central Coast,central-coast,0.12,0.12,0.187,-0.067,TRUE,0
+1671,Mountain View City of,city of mountain view,city-of-mountain-view,San Francisco Bay,san-francisco-bay,0.16,0.16,0.314,-0.154,TRUE,0
+1701,Napa City of,city of napa,city-of-napa,San Francisco Bay,san-francisco-bay,0.2,0.2,0.229,-0.029,TRUE,0
+1729,City of Newman Water Department,city of newman water department,city-of-newman-water-department,San Joaquin River,san-joaquin-river,0.24,0.21,0.243,-0.003,TRUE,NULL
+1730,Newport Beach City of,city of newport beach,city-of-newport-beach,South Coast,south-coast,0.28,0.21,0.202,0.078,FALSE,0
+,Norco City of,city of norco,city-of-norco,South Coast,south-coast,0.36,0.36,0.232,0.128,FALSE,0
+1756,Norwalk City of,city of norwalk,city-of-norwalk,South Coast,south-coast,0.2,0.17,0.14,0.06,FALSE,0
+1765,Oakdale City of,city of oakdale,city-of-oakdale,San Joaquin River,san-joaquin-river,0.32,0.3,0.39,-0.07,TRUE,0
+1777,Oceanside City of,city of oceanside,city-of-oceanside,South Coast,south-coast,0.2,0.12,0.197,0.003,FALSE,0
+1795,Ontario City of,city of ontario,city-of-ontario,South Coast,south-coast,0.24,0.2,0.202,0.038,FALSE,0
+1797,Orange City of,city of orange,city-of-orange,South Coast,south-coast,0.28,0.21,0.262,0.018,FALSE,0
+1827,Oxnard City of,city of oxnard,city-of-oxnard,South Coast,south-coast,0.12,0.12,0.166,-0.046,TRUE,0
+1851,Palo Alto City of,city of palo alto,city-of-palo-alto,San Francisco Bay,san-francisco-bay,0.24,0.24,0.312,-0.072,TRUE,0
+1866,Paramount City of,city of paramount,city-of-paramount,South Coast,south-coast,0.12,0.08,0.135,-0.015,TRUE,0
+1873,Pasadena City of,city of pasadena,city-of-pasadena,South Coast,south-coast,0.28,0.26,0.213,0.067,FALSE,0
+1875,Paso Robles City of,city of paso robles,city-of-paso-robles,Central Coast,central-coast,0.28,0.24,0.295,-0.015,TRUE,0
+1877,Patterson City of,city of patterson,city-of-patterson,San Joaquin River,san-joaquin-river,0.28,0.25,0.297,-0.017,TRUE,0
+1888,Perris City of,city of perris,city-of-perris,South Coast,south-coast,0.24,0.24,0.108,0.132,FALSE,0.04
+1894,Petaluma City of,city of petaluma,city-of-petaluma,San Francisco Bay,san-francisco-bay,0.16,0.16,0.229,-0.069,TRUE,0
+1899,Pico Rivera City of,city of pico rivera,city-of-pico-rivera,South Coast,south-coast,0.16,0.16,NULL,NULL,NULL,NULL
+1923,Pismo Beach City of,city of pismo beach,city-of-pismo-beach,Central Coast,central-coast,0.24,0.22,NULL,NULL,NULL,0
+1925,Pittsburg City of,city of pittsburg,city-of-pittsburg,San Francisco Bay,san-francisco-bay,0.2,0.19,0.191,0.009,FALSE,0
+1940,Pleasanton City of,city of pleasanton,city-of-pleasanton,San Francisco Bay,san-francisco-bay,0.24,0.24,0.387,-0.147,TRUE,0
+1945,Pomona City of,city of pomona,city-of-pomona,South Coast,south-coast,0.2,0.18,0.229,-0.029,TRUE,0
+1953,Port Hueneme City of,city of port hueneme,city-of-port-hueneme,South Coast,south-coast,0.08,0.08,0.164,-0.084,TRUE,0
+1956,Porterville City of,city of porterville,city-of-porterville,Tulare Lake,tulare-lake,0.32,0.26,0.294,0.026,FALSE,NULL
+1964,Poway City of,city of poway,city-of-poway,South Coast,south-coast,0.32,0.24,0.311,0.009,FALSE,0
+2031,Red Bluff City of,city of red bluff,city-of-red-bluff,Sacramento River,sacramento-river,0.36,0.33,0.284,0.076,FALSE,NULL
+2033,Redding City of,city of redding,city-of-redding,Sacramento River,sacramento-river,0.36,0.33,0.269,0.091,FALSE,0
+2035,Redlands City of,city of redlands,city-of-redlands,South Coast,south-coast,0.36,0.33,0.219,0.141,FALSE,0
+2037,Redwood City City of,city of redwood city,city-of-redwood-city,San Francisco Bay,san-francisco-bay,0.08,0.08,0.238,-0.158,TRUE,0
+2042,Reedley City of,city of reedley,city-of-reedley,Tulare Lake,tulare-lake,0.24,0.22,0.208,0.032,FALSE,0
+2049,Rialto City of,city of rialto,city-of-rialto,South Coast,south-coast,0.28,0.26,0.193,0.087,FALSE,0
+2063,Rio Vista City of,city of rio vista,city-of-rio-vista,Sacramento River,sacramento-river,0.36,0.33,0.269,0.091,FALSE,0
+2065,Ripon City of,city of ripon,city-of-ripon,San Joaquin River,san-joaquin-river,0.36,0.33,0.274,0.086,FALSE,0
+2074,Riverbank City of,city of riverbank,city-of-riverbank,San Joaquin River,san-joaquin-river,0.32,0.3,0.079,0.241,FALSE,0
+2083,Riverside City of,city of riverside,city-of-riverside,South Coast,south-coast,0.28,0.25,0.208,0.072,FALSE,0
+2103,Rohnert Park City of,city of rohnert park,city-of-rohnert-park,North Coast,north-coast,0.16,0.16,0.174,-0.014,TRUE,0
+2111,Roseville City of,city of roseville,city-of-roseville,Sacramento River,sacramento-river,0.28,0.25,0.343,-0.063,TRUE,0
+2130,Sacramento City of,city of sacramento,city-of-sacramento,Sacramento River,sacramento-river,0.28,0.25,0.286,-0.006,TRUE,0
+2150,San Bernardino City of,city of san bernardino,city-of-san-bernardino,South Coast,south-coast,0.28,0.24,0.253,0.027,FALSE,0
+2157,San Bruno City of,city of san bruno,city-of-san-bruno,San Francisco Bay,san-francisco-bay,0.08,0.08,0.243,-0.163,TRUE,0
+2158,San Buenaventura City of,city of san buenaventura,city-of-san-buenaventura,South Coast,south-coast,0.16,0.16,0.213,-0.053,TRUE,NULL
+2159,San Clemente City of,city of san clemente,city-of-san-clemente,South Coast,south-coast,0.24,0.24,0.251,-0.011,TRUE,0
+2160,San Diego City of,city of san diego,city-of-san-diego,South Coast,south-coast,0.16,0.08,0.186,-0.026,TRUE,0
+2163,San Fernando City of,city of san fernando,city-of-san-fernando,South Coast,south-coast,0.24,0.22,0.202,0.038,FALSE,0
+2169,San Jacinto City of,city of san jacinto,city-of-san-jacinto,South Coast,south-coast,0.32,0.3,0.292,0.028,FALSE,0
+,San Jose City of,city of san jose,city-of-san-jose,San Francisco Bay,san-francisco-bay,0.2,0.2,0.283,-0.083,TRUE,0
+2177,San Juan Capistrano City of,city of san juan capistrano,city-of-san-juan-capistrano,South Coast,south-coast,0.28,0.27,0.206,0.074,FALSE,0
+2182,San Luis Obispo City of,city of san luis obispo,city-of-san-luis-obispo,Central Coast,central-coast,0.12,0.12,0.204,-0.084,TRUE,NULL
+2205,Sanger City of,city of sanger,city-of-sanger,Tulare Lake,tulare-lake,0.28,0.26,0.193,0.087,FALSE,NULL
+2207,Santa Ana City of,city of santa ana,city-of-santa-ana,South Coast,south-coast,0.12,0.08,0.165,-0.045,TRUE,0
+2209,Santa Barbara City of,city of santa barbara,city-of-santa-barbara,Central Coast,central-coast,0.12,0.12,0.334,-0.214,TRUE,NULL
+2210,Santa Clara City of,city of santa clara,city-of-santa-clara,San Francisco Bay,san-francisco-bay,0.16,0.16,0.218,-0.058,TRUE,0
+2213,Santa Cruz City of,city of santa cruz,city-of-santa-cruz,Central Coast,central-coast,0.08,0.08,0.273,-0.193,TRUE,NULL
+2215,Santa Fe Springs City of,city of santa fe springs,city-of-santa-fe-springs,South Coast,south-coast,0.16,0.16,0.214,-0.054,TRUE,0
+2218,Santa Maria City of,city of santa maria,city-of-santa-maria,Central Coast,central-coast,0.16,0.16,0.17,-0.01,TRUE,0
+2220,Santa Monica City of,city of santa monica,city-of-santa-monica,South Coast,south-coast,0.2,0.2,0.207,-0.007,TRUE,0
+2222,Santa Paula City of,city of santa paula,city-of-santa-paula,South Coast,south-coast,0.28,0.26,0.238,0.042,FALSE,0
+2224,Santa Rosa City of,city of santa rosa,city-of-santa-rosa,North Coast,north-coast,0.16,0.16,0.254,-0.094,TRUE,0
+2241,Seal Beach City of,city of seal beach,city-of-seal-beach,South Coast,south-coast,0.08,0.12,0.16,-0.08,TRUE,0
+2260,Shafter City of,city of shafter,city-of-shafter,Tulare Lake,tulare-lake,0.36,0.32,0.244,0.116,FALSE,0
+,Shasta Lake City of,city of shasta lake,city-of-shasta-lake,Sacramento River,sacramento-river,0.28,0.25,0.357,-0.077,TRUE,0.1
+2290,Sierra Madre City of,city of sierra madre,city-of-sierra-madre,South Coast,south-coast,0.32,0.3,0.168,0.152,FALSE,0
+2323,Soledad City of,city of soledad,city-of-soledad,Central Coast,central-coast,0.24,0.24,0.209,0.031,FALSE,0
+2326,Sonoma City of,city of sonoma,city-of-sonoma,San Francisco Bay,san-francisco-bay,0.28,0.28,0.269,0.011,FALSE,0
+2341,South Gate City of,city of south gate,city-of-south-gate,South Coast,south-coast,0.12,0.08,0.111,0.009,FALSE,0
+2345,South Pasadena City of,city of south pasadena,city-of-south-pasadena,South Coast,south-coast,0.28,0.26,0.277,0.003,FALSE,0
+2381,Stockton City of,city of stockton,city-of-stockton,San Joaquin River,san-joaquin-river,0.28,0.26,0.267,0.013,FALSE,0
+2425,Sunnyvale City of,city of sunnyvale,city-of-sunnyvale,San Francisco Bay,san-francisco-bay,0.16,0.16,0.281,-0.121,TRUE,0.05
+2432,Susanville City of,city of susanville,city-of-susanville,North Lahontan,north-lahontan,0.36,0.33,0.277,0.083,FALSE,0
+2451,Tehachapi City of,city of tehachapi,city-of-tehachapi,Tulare Lake,tulare-lake,0.28,0.25,0.252,0.028,FALSE,NULL
+2469,Thousand Oaks City of,city of thousand oaks,city-of-thousand-oaks,South Coast,south-coast,0.28,0.26,0.287,-0.007,TRUE,0
+2487,Torrance City of,city of torrance,city-of-torrance,South Coast,south-coast,0.2,0.19,NULL,NULL,NULL,0
+4699,Tracy City of,city of tracy,city-of-tracy,San Joaquin River,san-joaquin-river,0.28,0.25,0.269,0.011,FALSE,0
+2516,Tulare City of,city of tulare,city-of-tulare,Tulare Lake,tulare-lake,0.32,0.3,0.215,0.105,FALSE,0
+2524,Turlock City of,city of turlock,city-of-turlock,San Joaquin River,san-joaquin-river,0.32,0.29,0.257,0.063,FALSE,0.16
+2528,Tustin City of,city of tustin,city-of-tustin,South Coast,south-coast,0.28,0.21,0.255,0.025,FALSE,0
+2536,Ukiah City of,city of ukiah,city-of-ukiah,North Coast,north-coast,0.2,0.2,NULL,NULL,NULL,0
+2541,Upland City of,city of upland,city-of-upland,South Coast,south-coast,0.36,0.34,0.269,0.091,FALSE,0
+2597,Vacaville City of,city of vacaville,city-of-vacaville,Sacramento River,sacramento-river,0.32,0.25,0.191,0.129,FALSE,0
+2603,Vallejo City of,city of vallejo,city-of-vallejo,San Francisco Bay,san-francisco-bay,0.16,0.16,0.187,-0.027,TRUE,0
+2633,Vernon City of,city of vernon,city-of-vernon,South Coast,south-coast,0.08,0.08,0.096,-0.016,TRUE,0
+2662,Wasco City of,city of wasco,city-of-wasco,Tulare Lake,tulare-lake,0.36,0.32,0.215,0.145,FALSE,0.17
+2669,Watsonville City of,city of watsonville,city-of-watsonville,Central Coast,central-coast,0.2,0.2,0.21,-0.01,TRUE,0
+2683,West Sacramento City of,city of west sacramento,city-of-west-sacramento,Sacramento River,sacramento-river,0.28,0.25,0.314,-0.034,TRUE,0
+2704,Westminster City of,city of westminster,city-of-westminster,South Coast,south-coast,0.2,0.13,0.181,0.019,FALSE,0
+2723,Whittier City of,city of whittier,city-of-whittier,South Coast,south-coast,0.2,0.17,0.196,0.004,FALSE,0
+2766,Woodland City of,city of woodland,city-of-woodland,Sacramento River,sacramento-river,0.24,0.2,0.299,-0.059,TRUE,0
+2789,Yreka City of,city of yreka,city-of-yreka,North Coast,north-coast,0.32,0.3,0.161,0.159,FALSE,0
+2790,Yuba City City of,city of yuba city,city-of-yuba-city,Sacramento River,sacramento-river,0.32,0.28,0.265,0.055,FALSE,0.15
+577,Coachella Valley Water District,coachella valley water district,coachella-valley-water-district,Colorado River,colorado-river,0.36,0.32,0.248,0.112,FALSE,0
+583,Coastside County Water District,coastside county water district,coastside-county-water-district,San Francisco Bay,san-francisco-bay,0.08,0.08,0.207,-0.127,TRUE,0
+613,Contra Costa Water District,contra costa water district,contra-costa-water-district,San Francisco Bay,san-francisco-bay,0.28,0.25,0.346,-0.066,TRUE,0
+652,Crescenta Valley Water District,crescenta valley water district,crescenta-valley-water-district,South Coast,south-coast,0.2,0.18,0.263,-0.063,TRUE,0
+654,Crestline Village Water District,crestline village water district,crestline-village-water-district,South Lahontan,south-lahontan,0.08,0.08,0.221,-0.141,TRUE,0
+664,Cucamonga Valley Water District,cucamonga valley water district,cucamonga-valley-water-district,South Coast,south-coast,0.32,0.3,0.255,0.065,FALSE,0
+,Del Oro Water Company,del oro water company,del-oro-water-company,Sacramento River,sacramento-river,0.24,0.21,0.385,-0.145,TRUE,0
+727,Desert Water Agency,desert water agency,desert-water-agency,Colorado River,colorado-river,0.36,0.32,0.259,0.101,FALSE,0
+731,Diablo Water District,diablo water district,diablo-water-district,San Joaquin River,san-joaquin-river,0.28,0.23,0.309,-0.029,TRUE,0
+,Discovery Bay Community Services District,discovery bay community services district,discovery-bay-community-services-district,San Joaquin River,san-joaquin-river,0.32,0.29,0.362,-0.042,TRUE,0
+759,Dublin San Ramon Services District,dublin san ramon services district,dublin-san-ramon-services-district,San Francisco Bay,san-francisco-bay,0.12,0.12,0.357,-0.237,TRUE,0
+775,East Bay Municipal Utilities District,east bay municipal utilities district,east-bay-municipal-utilities-district,San Francisco Bay,san-francisco-bay,0.16,0.16,0.236,-0.076,TRUE,0
+784,East Niles Community Service District,east niles community service district,east-niles-community-service-district,Tulare Lake,tulare-lake,0.36,0.33,0.29,0.07,FALSE,0
+785,East Orange County Water District,east orange county water district,east-orange-county-water-district,South Coast,south-coast,0.36,0.29,0.364,-0.004,TRUE,0
+793,East Valley Water District,east valley water district,east-valley-water-district,South Coast,south-coast,0.28,0.22,0.242,0.038,FALSE,0
+794,Eastern Municipal Water District,eastern municipal water district,eastern-municipal-water-district,South Coast,south-coast,0.28,0.2,0.18,0.1,FALSE,0
+4178,El Dorado Irrigation District,el dorado irrigation district,el-dorado-irrigation-district,Sacramento River,sacramento-river,0.28,0.24,0.297,-0.017,TRUE,0
+830,El Toro Water District,el toro water district,el-toro-water-district,South Coast,south-coast,0.24,0.24,0.248,-0.008,TRUE,0
+,Elk Grove Water Service,elk grove water service,elk-grove-water-service,Sacramento River,sacramento-river,0.28,0.25,0.35,-0.07,TRUE,0
+,Elsinore Valley Municipal Water District,elsinore valley municipal water district,elsinore-valley-municipal-water-district,South Coast,south-coast,0.28,0.27,0.225,0.055,FALSE,0
+856,Estero Municipal Improvement District,estero municipal improvement district,estero-municipal-improvement-district,San Francisco Bay,san-francisco-bay,0.12,0.12,0.146,-0.026,TRUE,0
+866,Fair Oaks Water District,fair oaks water district,fair-oaks-water-district,Sacramento River,sacramento-river,0.36,0.33,0.351,0.009,FALSE,0.1
+873,Fallbrook Public Utility District,fallbrook public utility district,fallbrook-public-utility-district,South Coast,south-coast,0.36,0.28,0.239,0.121,FALSE,0
+966,Fruitridge Vista Water Company,fruitridge vista water company,fruitridge-vista-water-company,Sacramento River,sacramento-river,0.36,0.28,0.302,0.058,FALSE,0
+990,Georgetown Divide Public Utilities District,georgetown divide public utilities district,georgetown-divide-public-utilities-district,Sacramento River,sacramento-river,0.32,0.29,0.267,0.053,FALSE,0
+1029,Golden State Water Company Artesia,golden state water company artesia,golden-state-water-company-artesia,South Coast,south-coast,0.16,0.09,0.154,0.006,FALSE,0
+1030,Golden State Water Company Barstow,golden state water company barstow,golden-state-water-company-barstow,South Lahontan,south-lahontan,0.24,0.2,0.213,0.027,FALSE,0
+1031,Golden State Water Company Bay Point,golden state water company bay point,golden-state-water-company-bay-point,San Francisco Bay,san-francisco-bay,0.12,0.12,0.234,-0.114,TRUE,0
+1032,Golden State Water Company Bell-Bell Gardens,golden state water company bell-bell gardens,golden-state-water-company-bell-bell-gardens,South Coast,south-coast,0.08,0.08,0.133,-0.053,TRUE,0
+1034,Golden State Water Company Claremont,golden state water company claremont,golden-state-water-company-claremont,South Coast,south-coast,0.32,0.3,0.358,-0.038,TRUE,0
+1036,Golden State Water Company Cordova,golden state water company cordova,golden-state-water-company-cordova,Sacramento River,sacramento-river,0.36,0.32,0.297,0.063,FALSE,0
+1037,Golden State Water Company Cowan Heights,golden state water company cowan heights,golden-state-water-company-cowan-heights,South Coast,south-coast,0.36,0.29,0.321,0.039,FALSE,0
+1038,Golden State Water Company Culver City,golden state water company culver city,golden-state-water-company-culver-city,South Coast,south-coast,0.16,0.16,0.166,-0.006,TRUE,0
+1041,Golden State Water Company Florence Graham,golden state water company florence graham,golden-state-water-company-florence-graham,South Coast,south-coast,0.08,0.08,0.089,-0.009,TRUE,0
+1049,Golden State Water Company Norwalk,golden state water company norwalk,golden-state-water-company-norwalk,South Coast,south-coast,0.12,0.08,0.157,-0.037,TRUE,0
+1052,Golden State Water Company Orcutt,golden state water company orcutt,golden-state-water-company-orcutt,Central Coast,central-coast,0.32,0.31,0.37,-0.05,TRUE,0
+1053,Golden State Water Company Placentia,golden state water company placentia,golden-state-water-company-placentia,South Coast,south-coast,0.24,0.17,0.246,-0.006,TRUE,0
+1058,Golden State Water Company S Arcadia,golden state water company s arcadia,golden-state-water-company-s-arcadia,South Coast,south-coast,0.24,0.22,0.245,-0.005,TRUE,0
+1058,Golden State Water Company S San Gabriel,golden state water company s san gabriel,golden-state-water-company-s-san-gabriel,South Coast,south-coast,0.12,0.1,0.13,-0.01,TRUE,0
+1054,Golden State Water Company San Dimas,golden state water company san dimas,golden-state-water-company-san-dimas,South Coast,south-coast,0.28,0.26,0.278,0.002,FALSE,0
+1057,Golden State Water Company Simi Valley,golden state water company simi valley,golden-state-water-company-simi-valley,South Coast,south-coast,0.24,0.22,0.33,-0.09,TRUE,0
+1060,Golden State Water Company Southwest,golden state water company southwest,golden-state-water-company-southwest,South Coast,south-coast,0.12,0.09,0.112,0.008,FALSE,0
+1062,Golden State Water Company West Orange,golden state water company west orange,golden-state-water-company-west-orange,South Coast,south-coast,0.16,0.09,0.208,-0.048,TRUE,0
+1067,Goleta Water District,goleta water district,goleta-water-district,Central Coast,central-coast,0.12,0.12,0.241,-0.121,TRUE,NULL
+1083,Great Oaks Water Company Incorporated,great oaks water company incorporated,great-oaks-water-company-incorporated,San Francisco Bay,san-francisco-bay,0.2,0.2,0.319,-0.119,TRUE,0
+1109,Groveland Community Services District,groveland community services district,groveland-community-services-district,San Joaquin River,san-joaquin-river,0.24,0.21,0.278,-0.038,TRUE,0
+1154,Helix Water District,helix water district,helix-water-district,South Coast,south-coast,0.2,0.12,0.215,-0.015,TRUE,0
+1167,Hi-Desert Water District,hi-desert water district,hi-desert-water-district,Colorado River,colorado-river,0.16,0.13,0.072,0.088,FALSE,0
+1209,Humboldt Bay Municipal Water District,humboldt bay municipal water district,humboldt-bay-municipal-water-district,North Coast,north-coast,0.28,0.04,0.02,0.02,FALSE,0
+1210,Humboldt Community Service District,humboldt community service district,humboldt-community-service-district,North Coast,north-coast,0.24,0.12,0.097,0.143,FALSE,0
+1233,Indian Wells Valley Water District,indian wells valley water district,indian-wells-valley-water-district,South Lahontan,south-lahontan,0.36,0.32,0.244,0.116,FALSE,0
+1245,Irvine Ranch Water District,irvine ranch water district,irvine-ranch-water-district,South Coast,south-coast,0.16,0.08,0.15,0.01,FALSE,0
+1279,Joshua Basin Water District,joshua basin water district,joshua-basin-water-district,Colorado River,colorado-river,0.28,0.2,0.232,0.048,FALSE,0
+1273,Jurupa Community Service District,jurupa community service district,jurupa-community-service-district,South Coast,south-coast,0.28,0.23,0.201,0.079,FALSE,0
+1335,Laguna Beach County Water District,laguna beach county water district,laguna-beach-county-water-district,South Coast,south-coast,0.24,0.24,0.201,0.039,FALSE,0
+1343,Lake Arrowhead Community Services District,lake arrowhead community services district,lake-arrowhead-community-services-district,South Lahontan,south-lahontan,0.16,0.13,0.285,-0.125,TRUE,0
+1352,Lake Hemet Municipal Water District,lake hemet municipal water district,lake-hemet-municipal-water-district,South Coast,south-coast,0.28,0.26,0.378,-0.098,TRUE,0.15
+1368,Lakeside Water District,lakeside water district,lakeside-water-district,South Coast,south-coast,0.2,0.12,0.252,-0.052,TRUE,0
+1371,Lamont Public Utility District,lamont public utility district,lamont-public-utility-district,Tulare Lake,tulare-lake,0.28,0.25,0.232,0.048,FALSE,0
+1384,Las Virgenes Municipal Water District,las virgenes municipal water district,las-virgenes-municipal-water-district,South Coast,south-coast,0.36,0.35,0.286,0.074,FALSE,0
+1408,Lee Lake Water District,lee lake water district,lee-lake-water-district,South Coast,south-coast,0.32,0.31,0.259,0.061,FALSE,0
+1425,Lincoln Avenue Water Company,lincoln avenue water company,lincoln-avenue-water-company,South Coast,south-coast,0.28,0.26,0.284,-0.004,TRUE,0
+1427,Linda County Water District,linda county water district,linda-county-water-district,Sacramento River,sacramento-river,0.32,0.29,0.303,0.017,FALSE,0
+1481,Los Angeles County Public Works Waterworks District 29,los angeles county public works waterworks district 29,los-angeles-county-public-works-waterworks-district-29,South Coast,south-coast,0.36,0.36,0.2,0.16,FALSE,0
+1484,Los Angeles County Public Works Waterworks District 40,los angeles county public works waterworks district 40,los-angeles-county-public-works-waterworks-district-40,South Lahontan,south-lahontan,0.32,0.28,0.295,0.025,FALSE,0
+1473,Los Angeles Department of Water and Power,los angeles department of water and power,los-angeles-department-of-water-and-power,South Coast,south-coast,0.16,0.14,0.157,0.003,FALSE,0
+1533,Mammoth Community Water District,mammoth community water district,mammoth-community-water-district,South Lahontan,south-lahontan,0.2,0.17,0.289,-0.089,TRUE,NULL
+1546,Marin Municipal Water District,marin municipal water district,marin-municipal-water-district,San Francisco Bay,san-francisco-bay,0.2,0.2,0.204,-0.004,TRUE,0
+1547,Marina Coast Water District,marina coast water district,marina-coast-water-district,Central Coast,central-coast,0.12,0.11,0.302,-0.182,TRUE,NULL
+1570,McKinleyville Community Service District,mckinleyville community service district,mckinleyville-community-service-district,North Coast,north-coast,0.12,0.04,0.153,-0.113,TRUE,0
+1596,Mesa Water District,mesa water district,mesa-water-district,South Coast,south-coast,0.2,0.13,0.215,-0.015,TRUE,0
+1605,Mid-Peninsula Water District,mid-peninsula water district,mid-peninsula-water-district,San Francisco Bay,san-francisco-bay,0.2,0.2,0.267,-0.067,TRUE,0
+1626,Mission Springs Water District,mission springs water district,mission-springs-water-district,Colorado River,colorado-river,0.32,0.24,0.18,0.1,FALSE,0
+1642,Monte Vista Water District,monte vista water district,monte-vista-water-district,South Coast,south-coast,0.24,0.22,0.222,0.018,FALSE,0
+1644,Montebello Land and Water Company,montebello land and water company,montebello-land-and-water-company,South Coast,south-coast,0.16,0.09,0.159,0.001,FALSE,0
+1645,Montecito Water District,montecito water district,montecito-water-district,Central Coast,central-coast,0.32,0.32,0.441,-0.121,TRUE,0.31
+1663,Moulton Niguel Water District,moulton niguel water district,moulton-niguel-water-district,South Coast,south-coast,0.2,0.2,0.194,0.006,FALSE,0
+1697,Myoma Dunes Mutual Water Company,myoma dunes mutual water company,myoma-dunes-mutual-water-company,Colorado River,colorado-river,0.36,0.32,NULL,NULL,NULL,0
+1718,Nevada Irrigation District,nevada irrigation district,nevada-irrigation-district,Sacramento River,sacramento-river,0.36,0.33,0.294,0.066,FALSE,0
+1727,Newhall County Water District,newhall county water district,newhall-county-water-district,South Coast,south-coast,0.28,0.25,0.266,0.014,FALSE,0
+1731,Nipomo Community Services District,nipomo community services district,nipomo-community-services-district,Central Coast,central-coast,0.28,0.28,0.317,-0.037,TRUE,0.23
+1739,North Coast County Water District,north coast county water district,north-coast-county-water-district,San Francisco Bay,san-francisco-bay,0.08,0.08,0.243,-0.163,TRUE,0
+1748,North Marin Water District,north marin water district,north-marin-water-district,San Francisco Bay,san-francisco-bay,0.24,0.24,0.333,-0.093,TRUE,0
+1752,North Tahoe Public Utility District,north tahoe public utility district,north-tahoe-public-utility-district,North Lahontan,north-lahontan,0.28,0.25,0.239,0.041,FALSE,0
+245,Oildale Mutual Water Company,oildale mutual water company,oildale-mutual-water-company,Tulare Lake,tulare-lake,0.36,0.31,0.287,0.073,FALSE,0
+1792,Olivehurst Public Utility District,olivehurst public utility district,olivehurst-public-utility-district,Sacramento River,sacramento-river,0.36,0.33,0.421,-0.061,TRUE,0.1
+1793,Olivenhain Municipal Water District,olivenhain municipal water district,olivenhain-municipal-water-district,South Coast,south-coast,0.32,0.24,0.258,0.062,FALSE,0
+1803,Orange Vale Water Company,orange vale water company,orange-vale-water-company,Sacramento River,sacramento-river,0.36,0.33,0.373,-0.013,TRUE,0
+1804,Orchard Dale Water District,orchard dale water district,orchard-dale-water-district,South Coast,south-coast,0.12,0.08,0.188,-0.068,TRUE,0
+1821,Otay Water District,otay water district,otay-water-district,South Coast,south-coast,0.2,0.12,0.216,-0.016,TRUE,0
+1838,Padre Dam Municipal Water District,padre dam municipal water district,padre-dam-municipal-water-district,South Coast,south-coast,0.2,0.12,0.261,-0.061,TRUE,0
+1849,Palmdale Water District,palmdale water district,palmdale-water-district,South Lahontan,south-lahontan,0.32,0.28,0.249,0.071,FALSE,0.1
+1859,Paradise Irrigation District,paradise irrigation district,paradise-irrigation-district,Sacramento River,sacramento-river,0.36,0.33,0.341,0.019,FALSE,0
+1869,Park Water Company,park water company,park-water-company,South Coast,south-coast,0.08,0.08,0.218,-0.138,TRUE,0
+1896,Phelan Pinon Hills Community Services District,phelan pinon hills community services district,phelan-pinon-hills-community-services-district,South Lahontan,south-lahontan,0.32,0.24,0.177,0.143,FALSE,0
+1900,Pico Water District,pico water district,pico-water-district,South Coast,south-coast,0.24,0.18,0.204,0.036,FALSE,0
+1914,Pinedale County Water District,pinedale county water district,pinedale-county-water-district,Tulare Lake,tulare-lake,0.08,0.14,0.271,0.089,FALSE,NULL
+1927,Placer County Water Agency,placer county water agency,placer-county-water-agency,Sacramento River,sacramento-river,0.32,0.28,0.297,0.023,FALSE,0
+1983,Quartz Hill Water District,quartz hill water district,quartz-hill-water-district,South Lahontan,south-lahontan,0.36,0.32,0.341,0.019,FALSE,0
+1990,Rainbow Municipal Water District,rainbow municipal water district,rainbow-municipal-water-district,South Coast,south-coast,0.36,0.28,0.419,-0.059,TRUE,0
+1996,Ramona Municipal Water District,ramona municipal water district,ramona-municipal-water-district,South Coast,south-coast,0.28,0.2,0.281,-0.001,TRUE,0
+2000,Rancho California Water District,rancho california water district,rancho-california-water-district,South Coast,south-coast,0.36,0.32,0.284,0.076,FALSE,0
+2057,Rincon Del Diablo Municipal Water District,rincon del diablo municipal water district,rincon-del-diablo-municipal-water-district,South Coast,south-coast,0.32,0.24,0.285,0.035,FALSE,0
+2061,Rio Linda - Elverta Community Water District,rio linda - elverta community water district,rio-linda-elverta-community-water-district,Sacramento River,sacramento-river,0.36,0.33,0.324,0.036,FALSE,0
+2087,Riverside Highland Water Company,riverside highland water company,riverside-highland-water-company,South Coast,south-coast,0.36,0.33,0.298,0.062,FALSE,0
+2107,Rosamond Community Service District,rosamond community service district,rosamond-community-service-district,South Lahontan,south-lahontan,0.28,0.24,0.264,0.016,FALSE,0
+2115,Rowland Water District,rowland water district,rowland-water-district,South Coast,south-coast,0.2,0.2,0.108,0.092,FALSE,0
+2118,Rubidoux Community Service District,rubidoux community service district,rubidoux-community-service-district,South Coast,south-coast,0.28,0.2,0.208,0.072,FALSE,0
+2119,Rubio Canyon Land and Water Association,rubio canyon land and water association,rubio-canyon-land-and-water-association,South Coast,south-coast,0.36,0.34,0.29,0.07,FALSE,0
+2132,Sacramento County Water Agency,sacramento county water agency,sacramento-county-water-agency,Sacramento River,sacramento-river,0.32,0.24,0.345,-0.025,TRUE,0
+2140,Sacramento Suburban Water District,sacramento suburban water district,sacramento-suburban-water-district,Sacramento River,sacramento-river,0.32,0.29,0.298,0.022,FALSE,0
+2154,San Bernardino County Service Area 64,san bernardino county service area 64,san-bernardino-county-service-area-64,South Lahontan,south-lahontan,0.32,0.28,0.278,0.042,FALSE,0
+2891,San Bernardino County Service Area 70,san bernardino county service area 70,san-bernardino-county-service-area-70,South Coast,south-coast,0.28,0.24,0.253,0.027,FALSE,0
+2162,San Dieguito Water District,san dieguito water district,san-dieguito-water-district,South Coast,south-coast,0.28,0.2,0.184,0.096,FALSE,0
+2164,San Francisco Public Utilities Commission,san francisco public utilities commission,san-francisco-public-utilities-commission,San Francisco Bay,san-francisco-bay,0.08,0.08,0.149,-0.069,TRUE,0
+,San Gabriel County Water District,san gabriel county water district,san-gabriel-county-water-district,South Coast,south-coast,0.2,0.18,0.207,-0.007,TRUE,0
+,San Gabriel Valley Fontana Water Company,san gabriel valley fontana water company,san-gabriel-valley-fontana-water-company,South Coast,south-coast,0.28,0.26,0.271,0.009,FALSE,0
+2167,San Gabriel Valley Water Company,san gabriel valley water company,san-gabriel-valley-water-company,South Coast,south-coast,0.16,0.14,0.252,-0.092,TRUE,0
+2175,San Jose Water Company,san jose water company,san-jose-water-company,San Francisco Bay,san-francisco-bay,0.2,0.2,0.314,-0.114,TRUE,0.02
+2179,San Juan Water District,san juan water district,san-juan-water-district,Sacramento River,sacramento-river,0.36,0.33,0.351,0.009,FALSE,0
+2180,San Lorenzo Valley Water District,san lorenzo valley water district,san-lorenzo-valley-water-district,Central Coast,central-coast,0.12,0.12,0.249,-0.129,TRUE,0.18
+2214,Santa Fe Irrigation District,santa fe irrigation district,santa-fe-irrigation-district,South Coast,south-coast,0.36,0.28,0.327,0.033,FALSE,0
+2217,Santa Margarita Water District,santa margarita water district,santa-margarita-water-district,South Coast,south-coast,0.24,0.23,0.237,0.003,FALSE,0
+2237,Scotts Valley Water District,scotts valley water district,scotts-valley-water-district,Central Coast,central-coast,0.16,0.16,0.263,-0.103,TRUE,0
+2330,Soquel Creek Water District,soquel creek water district,soquel-creek-water-district,Central Coast,central-coast,0.08,0.08,0.294,-0.214,TRUE,NULL
+2334,South Coast Water District,south coast water district,south-coast-water-district,South Coast,south-coast,0.24,0.24,0.268,-0.028,TRUE,0
+2337,South Feather Water and Power Agency,south feather water and power agency,south-feather-water-and-power-agency,Sacramento River,sacramento-river,0.36,0.33,NULL,NULL,NULL,0
+2348,South Tahoe Public Utilities District,south tahoe public utilities district,south-tahoe-public-utilities-district,North Lahontan,north-lahontan,0.2,0.17,0.188,0.012,FALSE,0
+2401,Suburban Water Systems San Jose Hills,suburban water systems san jose hills,suburban-water-systems-san-jose-hills,South Coast,south-coast,0.24,0.22,0.227,0.013,FALSE,0
+2402,Suburban Water Systems Whittier/La Mirada,suburban water systems whittier la mirada,suburban-water-systems-whittier-la-mirada,South Coast,south-coast,0.28,0.28,0.225,0.055,FALSE,0
+,Suisun-Solano Water Authority,suisun-solano water authority,suisun-solano-water-authority,San Francisco Bay,san-francisco-bay,0.28,0.2,0.256,0.024,FALSE,0
+2419,Sunny Slope Water Company,sunny slope water company,sunny-slope-water-company,South Coast,south-coast,0.24,0.22,0.262,-0.022,TRUE,0
+2424,Sunnyslope County Water District,sunnyslope county water district,sunnyslope-county-water-district,Central Coast,central-coast,0.28,0.26,0.324,-0.044,TRUE,0
+2437,Sweetwater Authority,sweetwater authority,sweetwater-authority,South Coast,south-coast,0.12,0.08,0.195,-0.075,TRUE,0
+,Sweetwater Springs Water District,sweetwater springs water district,sweetwater-springs-water-district,North Coast,north-coast,0.16,0.16,0.222,-0.062,TRUE,0
+,Tahoe City Public Utilities District,tahoe city public utilities district,tahoe-city-public-utilities-district,North Lahontan,north-lahontan,0.2,0.17,0.313,-0.113,TRUE,0
+1181,Hillsborough Town of,town of hillsborough,town-of-hillsborough,San Francisco Bay,san-francisco-bay,0.36,0.36,0.42,-0.06,TRUE,0
+2751,"Windsor, Town of",town of windsor,town-of-windsor,North Coast,north-coast,0.16,0.16,0.228,-0.068,TRUE,0
+2490,Trabuco Canyon Water District,trabuco canyon water district,trabuco-canyon-water-district,South Coast,south-coast,0.28,0.28,0.277,0.003,FALSE,0
+2510,Triunfo Sanitation District / Oak Park Water Service,triunfo sanitation district oak park water service,triunfo-sanitation-district-oak-park-water-service,South Coast,south-coast,0.32,0.3,0.349,-0.029,TRUE,0
+2512,Truckee-Donner Public Utilities District,truckee-donner public utilities district,truckee-donner-public-utilities-district,North Lahontan,north-lahontan,0.28,0.25,0.245,0.035,FALSE,0
+2523,Tuolumne Utilities District,tuolumne utilities district,tuolumne-utilities-district,San Joaquin River,san-joaquin-river,0.24,0.21,0.317,-0.077,TRUE,0
+2530,Twentynine Palms Water District,twentynine palms water district,twentynine-palms-water-district,Colorado River,colorado-river,0.28,0.24,0.143,0.137,FALSE,0
+2601,Valencia Water Company,valencia water company,valencia-water-company,South Coast,south-coast,0.24,0.21,0.298,-0.058,TRUE,0
+2602,Vallecitos Water District,vallecitos water district,vallecitos-water-district,South Coast,south-coast,0.24,0.16,0.256,-0.016,TRUE,0
+2604,Valley Center Municipal Water District,valley center municipal water district,valley-center-municipal-water-district,South Coast,south-coast,0.36,0.28,0.352,0.008,FALSE,0
+2605,Valley County Water District,valley county water district,valley-county-water-district,South Coast,south-coast,0.16,0.14,0.215,-0.055,TRUE,0.1
+2610,Valley of the Moon Water District,valley of the moon water district,valley-of-the-moon-water-district,San Francisco Bay,san-francisco-bay,0.2,0.2,0.282,-0.082,TRUE,0
+2618,Valley Water Company,valley water company,valley-water-company,South Coast,south-coast,0.36,0.34,0.253,0.107,FALSE,0
+2626,Vaughn Water Company,vaughn water company,vaughn-water-company,Tulare Lake,tulare-lake,0.36,0.3,0.262,0.098,FALSE,0
+2629,Ventura County Waterworks District No 1,ventura county waterworks district no 1,ventura-county-waterworks-district-no-1,South Coast,south-coast,0.32,0.3,0.254,0.066,FALSE,0
+2631,Ventura County Waterworks District No. 8,ventura county waterworks district no 8,ventura-county-waterworks-district-no-8,South Coast,south-coast,0.28,0.26,0.275,0.005,FALSE,0
+2635,Victorville Water District,victorville water district,victorville-water-district,South Lahontan,south-lahontan,0.28,0.24,0.238,0.042,FALSE,0
+2649,Vista Irrigation District,vista irrigation district,vista-irrigation-district,South Coast,south-coast,0.2,0.12,0.205,-0.005,TRUE,0
+2661,Walnut Valley Water District,walnut valley water district,walnut-valley-water-district,South Coast,south-coast,0.28,0.26,0.238,0.042,FALSE,0
+2679,West Kern Water District,west kern water district,west-kern-water-district,Tulare Lake,tulare-lake,0.28,0.25,0.127,0.153,FALSE,0
+2690,West Valley Water District,west valley water district,west-valley-water-district,South Coast,south-coast,0.32,0.28,0.203,0.117,FALSE,0
+2691,Westborough Water District,westborough water district,westborough-water-district,San Francisco Bay,san-francisco-bay,0.08,0.08,0.259,-0.179,TRUE,0
+2697,Western Municipal Water District of Riverside,western municipal water district of riverside,western-municipal-water-district-of-riverside,South Coast,south-coast,0.32,0.28,0.227,0.093,FALSE,0
+2757,Winton Water & Sanitary District,winton water sanitary district,winton-water-sanitary-district,San Joaquin River,san-joaquin-river,0.36,0.33,0.217,0.143,FALSE,NULL
+2782,Yorba Linda Water District,yorba linda water district,yorba-linda-water-district,South Coast,south-coast,0.36,0.28,0.364,-0.004,TRUE,0
+2793,Yucaipa Valley Water District,yucaipa valley water district,yucaipa-valley-water-district,South Coast,south-coast,0.36,0.34,0.208,0.152,FALSE,0.2
+390,California Water Service Company Dixon City of,,,,,,,,,,
+578,Coalinga City of,,,,,,,,,,
+4231,Mountain House Community Services District,,,,,,,,,,
