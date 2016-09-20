@@ -1,4 +1,4 @@
-# Water district shapefiles in California
+# California Urban Water District Service Area Boundaries
 
 In 2015, its fourth year of drought, California began imposing mandatory cutbacks on hundreds of urban water suppliers across the state. In 2016, the state allowed suppliers to set their own reduction targets. Many set those targets at zero.
 
