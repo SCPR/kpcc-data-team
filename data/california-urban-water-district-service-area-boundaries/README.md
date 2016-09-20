@@ -24,7 +24,21 @@ The attribute table also includes all the fields provided by the Department of W
 
 We are also attaching a [swrcb_water_district_name_key.csv](swrcb_water_district_name_key.csv) which was the "key" used to join the SWRCB data to the DWR's GIS data.
 
-By itself this will not produce the geojson in this repo; there are several agencies that have multiple joins which have been cleaned up in the geojson. However, it may come in handy as the DWR futher refines their data, as they indicated to KPCC that they would.
+This csv file contains the following fields:
+
+* *agency_unique*:
+* *swcrb_name*:
+* *supplier_name_proper*: Water agency name as human-readable string
+* *supplier_name_slug*: Water agency name as human-readable slug
+* *hydrologic_region*: Water agency's hydrologic region as human-readable string
+* *hydrologic_region_slug*: Water agency's hydrologic region as human-readable string
+* *june_5_reduction_target*: Water agency's expected savings set by SWRCB on June 5, 2015 and in effect between June 2015 and Feb. 2016.
+* *march_1_reduction_target*: Water agency's revised expected savings set by SWRCB in March 2016 and in effect between June 2015 and June 2016.
+* *cumulative_reduction_percent*: Water agency's cumulative reduction as a percent.
+* *reached_reduction_target*: Boolean as to whether a water agency reached its March 1 expected savings target.
+* *stress_test_reduction_target*: Results of water agency's documentation to expected savings set by SWRCB with a locally-determined savings figure.
+
+This csv file by itself this will not produce the geojson in this repo; there are several agencies that have multiple joins which have been cleaned up in the geojson. However, it may come in handy as the DWR futher refines their data, as they indicated to KPCC that they would.
 
 Please let us know if you use these files: amendelsonATscprDOTorg
 
