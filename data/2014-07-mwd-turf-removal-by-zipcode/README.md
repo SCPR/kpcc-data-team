@@ -9,7 +9,7 @@ What
 About
 =====
 
-Since 2008, local water agencies have been trying to get homeowners to rip out their lawns by offering cash incentives for grass removal. According to KPCC estimates and an analysis of state property records, there is roughly 5.5 billion square feet of irrigated residential yards in the cities that get water from the Metropolitan Water District, Southern California’s main water wholesaler. Outdoor watering accounts for more than half of residential water use.
+Since 2008, local water agencies have been trying to get homeowners to rip out their lawns by offering cash incentives for grass removal. According to KPCC estimates and an analysis of state property records, there is roughly 5.5 billion square feet of irrigated residential yards in the cities that get water from the [Metropolitan Water District](https://mwdturf.conservationrebates.com/), Southern California’s main water wholesaler. Outdoor watering accounts for more than half of residential water use.
 
 After some pilot and local programs, Metropolitan began offering $1 for each square foot of ditched grass through a region wide "SoCal WaterSmart" program beginning in 2011; this year, when Metropolitan’s board doubled its overall conservation budget, it raised the incentive to $2. Some cities offer additional amounts: Anaheim and Los Angeles pay an extra $1, and Long Beach chips in an extra $1.50.
 
