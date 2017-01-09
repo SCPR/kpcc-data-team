@@ -1,13 +1,13 @@
 Defense Logistics Agency's 1033 program data
 ============================================
 
-Commonly known as the [1033 program](http://www.dispositionservices.dla.mil/leso/Pages/1033ProgramFAQs.aspx#q2), the Department of Defense surplus disposal program administered through the Defense Logistics Agency has its roots in the [1990 National Defense Authorization Act](https://www.govtrack.us/congress/bills/101/hr2461/text), which sets the federal budget for the Department of Defense every two years.
+Commonly known as the [1033 program](http://www.dla.mil/DispositionServices/Offers/Reutilization/LawEnforcement/ProgramFAQs.aspx), the Department of Defense surplus disposal program administered through the Defense Logistics Agency has its roots in the [1990 National Defense Authorization Act](https://www.govtrack.us/congress/bills/101/hr2461/text), which sets the federal budget for the Department of Defense every two years.
 
-In the 1996 version of that budget, Congress created Section 1033 that allowed ["all law enforcement agencies to acquire property for bona fide law enforcement purposes that assist in their arrest and apprehension mission."](http://www.dispositionservices.dla.mil/leso/Pages/1033ProgramFAQs.aspx#q1)
+In the 1996 version of that budget, Congress created Section 1033 that allowed ["all law enforcement agencies to acquire property for bona fide law enforcement purposes that assist in their arrest and apprehension mission."](http://www.dla.mil/DispositionServices/Offers/Reutilization/LawEnforcement/ProgramFAQs.aspx)
 
 The 24-year-old program received increased scrutiny in 2014 after several media reports in [The New York Times](http://www.nytimes.com/interactive/2014/08/15/us/surplus-military-equipment-map.html?_r=0) and The Washington Post, a [report by the American Civil Liberties Union](https://www.aclu.org/sites/default/files/assets/jus14-warcomeshome-report-web-rel1.pdf) and protests following the shooting death of Michael Brown in Ferguson, Missouri that included confrontations between protestors and police armed with automatic weapons and military vehicles.
 
-On or about Nov. 21, 2014, the Defense Logistics Agency [released data](http://www.dispositionservices.dla.mil/EFOIA-Privacy/Pages/ereadingroom.aspx) that provides a deeper look into which law enforcement agencies have received surplus military items distributed through the 1033 program. Previous releases only detailed to the county level what are now being called controlled items. Updates have been released quarterly since November 21.
+On or about Nov. 21, 2014, the Defense Logistics Agency [released data](http://www.dla.mil/Portals/104/Documents/DispositionServices/LESO/DISP_AllStatesAndTerritories_12312016.xlsx) that provides a deeper look into which law enforcement agencies have received surplus military items distributed through the 1033 program. Previous releases only detailed to the county level what are now being called controlled items. Updates have been released quarterly since November 21.
 
 On May 19, 2015 President Obama's Law Enforcement Equipment Working Group issued a report including recommendations on equipment transfers and oversight. That day Obama issued an executive order that prohibited certain items from transfer through federal programs, and placed new restrictions on others. The order attracted positive press coverage, but a subsequent NPR story revealed [it would have little practicial impact](http://www.npr.org/sections/thetwo-way/2015/05/21/407958035/white-house-ban-on-militarized-gear-for-police-may-mean-little).
 
@@ -201,7 +201,7 @@ To participate in the 1033 program each state must sign a Memorandum of Agreemen
 
 A state coordinator is required to maintain property records, investigate allegations of misuse of property and report violations of the Memorandum of Agreement.
 
-As of Dec. 11, 2014 the state coordinators are [according to the Defense Logistics Agency](http://www.dispositionservices.dla.mil/leso/Pages/statecoordinatorlist.aspx).
+As of Dec. 11, 2014 the state coordinators are [according to the Defense Logistics Agency](http://www.dla.mil/DispositionServices/Offers/Reutilization/LawEnforcement/SCLocatorMap.aspx).
 
 * **Alabama**: Alabama Department Of Economic And Community Affairs Surplus Property Division
 * **Alaska**: Alaska Department Of Public Safety Division Of Alaska State Troopers
@@ -268,7 +268,7 @@ Authors and Contributors
 
 Sources and Coverage
 ===================
-* [Defense Logistics Agency homepage](http://www.dispositionservices.dla.mil/Pages/default.aspx)
+* [Defense Logistics Agency homepage](http://www.dla.mil/)
 * KPCC, 5/23/2015: [Obama's new restrictions on military equipment for cops will have little effect in SoCal](http://www.scpr.org/news/2015/05/23/51865/obama-s-new-restrictions-on-military-equipment-for/)
 * NPR, 5/21/2015: [White House Ban On Militarized Gear For Police May Mean Little](http://www.npr.org/sections/thetwo-way/2015/05/21/407958035/white-house-ban-on-militarized-gear-for-police-may-mean-little)
 * MuckRock, 9/4/2014: [We have over half the country's agency-by-agency 1033 data](https://www.muckrock.com/news/archives/2014/sep/04/we-have-over-half-countrys-agency-agency-1033-data/)
