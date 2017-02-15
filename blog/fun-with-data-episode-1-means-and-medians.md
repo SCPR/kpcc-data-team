@@ -35,18 +35,19 @@ Here are the annual average settlement amounts approved by the LA City Council o
 
 Now let's consider the median…
 
-year    median
-2005-2006    $200,000.00
-2006-2007    $450,000.00
-2007-2008    $192,410.00
-2008-2009    $259,982.00
-2009-2010    $250,000.00
-2010-2011    $362,500.00
-2011-2012    $450,000.00
-2012-2013    $484,416.00
-2013-2014    $500,000.00
-2014-2015    $843,780.00
-2015-2016    $786,000.00
+|year | median|
+|---------|:-------------:|
+|2005-2006 | $200,000.00|
+|2005-2006 | $450,000.00|
+|2005-2006 | $192,410.00|
+|2005-2006 | $259,982.00|
+|2005-2006 | $250,000.00|
+|2005-2006 | $362,500.00|
+|2005-2006 | $450,000.00|
+|2005-2006 | $484,416.00|
+|2005-2006 | $500,000.00|
+|2005-2006 | $843,780.00|
+|2005-2006 | $786,000.00|
 
 **WHOA**: That huge increase we saw between FY 11-12 and FY 12-13 isn't quite so large? And the data between FY 14-15 and FY 15-16 now actually shows a decrease. But now there's a super large increase between FY 13-14 and FY 14-15. What is going on?
 
