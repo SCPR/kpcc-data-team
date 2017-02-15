@@ -20,7 +20,7 @@ If you use our Slack account – which you should be doing by the way, especiall
 
 It's a computer program – written before USA Today dropped today's news about the differences between executive orders posted to whitehouse.gov and those posted to the federal register – that scans a webpage every couple of hours for new information. When it finds something new it posts a message to slack. Below is what it looked like the first time it ran.
 
-![slackbot](images/trump_exec_order_slack_bot.png)
+![slackbot](../images/trump_exec_order_slack_bot.png)
 
 We can also structure the public speeches or announcements that our officials make right? If I was covering a public official or someone making public statements about an issue I might want to track change over time – one of the three stories we can find in data.
 
