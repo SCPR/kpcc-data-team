@@ -1,8 +1,8 @@
 On last week's episode we talked about data for settlements approved by the L.A. City Council. As a result we received one fantastic question from one of our esteemed colleagues:
 
-**EC**: Why do you think median payouts are trending upwards?
-**ME**: Good point: should have included. Higher settlement amounts overall…
-**EC**: Yeah, but why? One could conclude that the police are more brutal. Or that they are simply facing more litigation. Or that a law change is bolstering plaintiff cases. What does it tell us about law or law enforcement?
+**EC**: Why do you think median payouts are trending upwards?    
+**ME**: Good point: should have included. Higher settlement amounts overall…    
+**EC**: Yeah, but why? One could conclude that the police are more brutal. Or that they are simply facing more litigation. Or that a law change is bolstering plaintiff cases. What does it tell us about law or law enforcement?    
 
 The question is a good one. It's pointing out the core requirement of any story – whether it's based on data or not and that's the why. Or to borrow another's phrase: "So What?"
 
@@ -19,6 +19,8 @@ How can narrative text be turned into structured data? How can public speeches o
 If you use our Slack account – which you should be doing by the way, especially if you have ever complained about "conversational email" – in the data team channel you can now find "Trump's Executive Orders Bot"
 
 It's a computer program – written before USA Today dropped today's news about the differences between executive orders posted to whitehouse.gov and those posted to the federal register – that scans a webpage every couple of hours for new information. When it finds something new it posts a message to slack. Below is what it looked like the first time it ran.
+
+
 
 We can also structure the public speeches or announcements that our officials make right? If I was covering a public official or someone making public statements about an issue I might want to track change over time – one of the three stories we can find in data.
 
