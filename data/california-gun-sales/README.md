@@ -10,6 +10,7 @@ Some historical context is also [available here](http://oag.ca.gov/sites/all/fil
 #What's here
 Data from a handful of requests to the state DOJ. Be alert to differences between DROS and CRIS; handguns and long guns; and approved, pending and denied sales.
 
+* [dros2016.csv](./data/dros2016.csv): Sale-by-sale DROS transactions for 2016, including city and county. Originally provided as 34,308 pages of PDFs in January 2017, converted by @amendelson
 * [ca_guns_daily_county_aug_2016](./data/ca_guns_daily_county_aug_2016.csv): Daily 2016 DROS and CRIS data, broken down by county.
 * [nov_dec_daily_comparison_2014_2015](./data/nov_dec_daily_comparison_2014_2015.csv): A comparison of statewide gun sales on the same calendar dates in November and December of 2014 and 2015. The San Bernardino mass shooting happened on December 2, 2015.
 * [ca_guns_county_yearly_jan_2016](./data/ca_guns_county_yearly_jan_2016.csv): Yearly totals broken down by county, 2010 to 2015.
@@ -17,6 +18,8 @@ Data from a handful of requests to the state DOJ. Be alert to differences betwee
 
 
 #KPCC coverage California gun sales
+* [Politics, gun-control anxiety cited for California's record 2016 gun sales
+](http://www.scpr.org/news/2017/03/15/69644/california-gun-sales-shattered-records-last-year-w/)
 * [Calif. gun transactions at highest level since '91, still rising](http://projects.scpr.org/charts/calif-dros-transactions/), 2012
 * [Californians on pace to buy 1 million guns in 2016](http://www.scpr.org/news/2016/08/15/63411/californians-on-pace-to-buy-1-million-guns-in-2016/), August 2016
 * [California gun sales spiking in 2016](http://www.scpr.org/news/2016/04/27/59895/california-seeing-records-numbers-of-people-wantin/), April 2016
