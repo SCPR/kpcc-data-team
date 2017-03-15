@@ -1,4 +1,5 @@
 #California gun sales
+
 The California Department of Justice tracks gun sales and transfers in the state. This is more detailed than the federal data on background checks ([which Buzzfeed has helpfully posted here](https://github.com/BuzzFeedNews/nics-firearm-background-checks)) because it shows actual sales. The background checks are often used as an imperfect barometer of sales.
 
 However, just because the state stores the information doesn't mean that it's easy to come by. Good luck finding it on the DOJ's data site. We're sharing the data here in case it's of interest to others.
@@ -8,6 +9,7 @@ Read up on [firearms in California from the DOJ's Bureau Of Firearms](https://oa
 Some historical context is also [available here](http://oag.ca.gov/sites/all/files/agweb/pdfs/firearms/forms/dros_chart.pdf?).
 
 #What's here
+
 Data from a handful of requests to the state DOJ. Be alert to differences between DROS and CRIS; handguns and long guns; and approved, pending and denied sales.
 
 * [dros2016.csv](./data/dros2016.csv): Sale-by-sale DROS transactions for 2016, including city and county. Originally provided as 34,308 pages of PDFs in January 2017, converted by @amendelson
@@ -17,7 +19,8 @@ Data from a handful of requests to the state DOJ. Be alert to differences betwee
 * [cnty_codes](./data/cnty_codes.csv): County codes that can be joined to the sales to make them more human-readable.
 
 
-#KPCC coverage California gun sales
+#KPCC coverage of California gun sales
+
 * [Politics, gun-control anxiety cited for California's record 2016 gun sales
 ](http://www.scpr.org/news/2017/03/15/69644/california-gun-sales-shattered-records-last-year-w/)
 * [Calif. gun transactions at highest level since '91, still rising](http://projects.scpr.org/charts/calif-dros-transactions/), 2012
