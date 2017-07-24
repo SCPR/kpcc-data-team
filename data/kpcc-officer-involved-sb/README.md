@@ -50,7 +50,7 @@ Data Dictionary
     * Name of person shot
 
 * **person_ethnicity** (string):
-    * Race/ethnicity of person shot and killed pulled from [San Bernardino County Sheriff's Department, Coroner Division](http://mec.lacounty.gov/wps/portal/mec) data for shootings during the five-year period of review in which there were "law enforcement-related circumstances."
+    * Race/ethnicity of person shot and killed pulled from San Bernardino County Sheriff's Department, Coroner Division data for shootings during the five-year period of review in which there were "law enforcement-related circumstances."
 
 * **person_gender** (string):
     * Gender based on district attorney records or coroner data.
