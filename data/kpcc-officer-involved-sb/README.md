@@ -1,5 +1,7 @@
-KPCC's Officer Involved
-=======================
+Data from KPCC's Officer Involved, San Bernardino project
+=============
+The published project [can be found here](http://projects.scpr.org/officer-involved-sb/). This repo contains the database built by KPCC for our reporting.
+
 
 In This Guide
 =============
@@ -9,8 +11,8 @@ In This Guide
 * [Data Dictionary](#data-dictionary)
 * [Authors and Contributors](#authors-and-contributors)
 
-[How We Did It](http://projects.scpr.org/officer-involved-sb/stories/how-we-did-it/)
-=================================================================================
+How We Did It
+=============================
 
 How many people do police shoot in San Bernardino? Who is shot by law enforcement? What circumstances lead to shootings?
 
@@ -50,7 +52,7 @@ Data Dictionary
     * Name of person shot
 
 * **person_ethnicity** (string):
-    * Race/ethnicity of person shot and killed pulled from San Bernardino County Sheriff's Department, Coroner Division data for shootings during the five-year period of review in which there were "law enforcement-related circumstances."
+    * Race/ethnicity of person shot and killed pulled from the San Bernardino County Sheriff's Department, Coroner Division data for shootings during the five-year period of review in which there were "law enforcement-related circumstances."
 
 * **person_gender** (string):
     * Gender based on district attorney records or coroner data.
