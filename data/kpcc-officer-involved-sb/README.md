@@ -29,7 +29,7 @@ To turn hundreds pages of memos into a database, reporters at KPCC and The Sun r
 What's Here
 ============
 
-Of the data KPCC compiled we've made select fields available in a [csv](kpcc-officer-involved-data-sb.csv) and [json](kpcc-officer-involved-data-sb.json) formats.
+Of the data KPCC and The Sun compiled we've made select fields available in a [csv](kpcc-officer-involved-data-sb.csv) and [json](kpcc-officer-involved-data-sb.json) formats.
 
 Data Dictionary
 ===============
@@ -133,7 +133,7 @@ Data Dictionary
 * **moving_car** (boolean):
     * FALSE: Officer did not shoot at a moving vehicle during the encounter.
     * TRUE: Officer did shoot at a moving vehicle during the encounter.
-   
+
 
 Related: Los Angeles County Shooting Data
 ========================
