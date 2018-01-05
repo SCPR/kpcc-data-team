@@ -1,10 +1,11 @@
 KPCC Data Team Thomas Guide
 ===========================================================================
 
-Where we attempt to lay a foundation, document practices and find our way...
+Where we lay a foundation, document practices, share data and push forward...
 
 Table of Contents
 =================
+Things of interest here could include:
 
 * [Blog Posts](/blog)
 * [Checklists](/checklists)
@@ -23,15 +24,15 @@ We bring data analysis, graphics, public records and traditional shoe leather re
     * Report data-driven stories for KPCC's website and broadcast.
     * Collaborate on reporting, stories and projects with reporters.
     * Offer advice on how to request records and data, find and clean datasets and check findings.
-    * Brainstorm how to present findings and data whether in a narrative or visual form.
+    * Brainstorm how to present findings and data whether in a narrative and visual forms.
     * Recommend data to use to make apples-to-apples comparisons, data sources to shy away from and how to understand limitations.
-    * Request records and data, find and clean datasets and check findings when required.
-    * Offer insight about the things that don't lead to stories and how we do work.
+    * Offer insight about our work.
     * Ask "Who is our audience?", "What do they need?" and "What can we make?"
     * Figure out how to build databases when what we need doesn't exist yet.
+    * Share and create tools that make life easier for reporters and editors.
 
 * What we shy away from:
-    * A service desk where you drop off a spreadsheet and continue on your way.
+    * Being a service desk where you drop off a spreadsheet and continue on your way.
     * The place where you go when you "want a map" for a story.
 
 Sharing & Showing Our Work
@@ -48,7 +49,6 @@ Sharing & Showing Our Work
     * [Earthquake Tracker codebase](https://github.com/SCPR/calif-earthquakes)
     * ["Periodically updated archive of data" from city of Los Angeles open data portal](https://github.com/SCPR/opendata-la-watchdog)
     * [Generate timeline content from KPCC's API](https://github.com/SCPR/timeline-data-generator)
-    * [Iterative in-house Django project to store and provide data](https://github.com/SCPR/accountability-tracker)
 
 * **Data**
     * [Datasets, information and other goodies from KPCC/SCPR](https://github.com/SCPR/data)
