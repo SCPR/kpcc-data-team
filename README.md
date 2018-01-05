@@ -1,4 +1,4 @@
-KPCC Data Team "[Thomas Guide](https://en.wikipedia.org/wiki/Thomas_Guide)"
+KPCC Data Team Thomas Guide
 ===========================================================================
 
 Where we attempt to lay a foundation, document practices and find our way...
@@ -12,37 +12,23 @@ Table of Contents
 * [Guides to Datasets and Presentation](/guides)
 * [Tools and Scripts for Working with Data](/tools-and-scripts)
 
-Dare we say a "Statement of Purpose"
+What role does data reporting play at KPCC?
 ====================================
 
-**["When deciding whether to commit to something, if I feel anything less than, 'Wow! That would be amazing! Absolutely! Hell yeah!' - then my answer is no."](https://sivers.org/hellyeah)**
-
-While not always an appropriate - or practical - attitude in a newsroom setting, the above-anecdote from Derek Sivers is an important one...
-
-----
-
-So what are common elements of successful projects?
-
-----
-
-Each Tuesday we've have a Muddle Huddle to consider the following:
-
-* What did we accomplish last week? What worked? What didn't?
-* What do we want to accomplish in the week ahead?
-* What did we learn that we didn't know before?
-
-We will share this information with the KPCC Regional Desk, Chris Knap, Paul Glickman, Stephen Gregory and the shows.
+We bring data analysis, graphics, public records and traditional shoe leather reporting to KPCC's journalism — from long-term investigative projects to dailies. 
 
 ----
 
 * What we're ready to do:
-    * Collaborate on reporting, stories or projects with reporters.
+    * Report data-driven stories for KPCC's website and broadcast.
+    * Collaborate on reporting, stories and projects with reporters.
     * Offer advice on how to request records and data, find and clean datasets and check findings.
     * Brainstorm how to present findings and data whether in a narrative or visual form.
     * Recommend data to use to make apples-to-apples comparisons, data sources to shy away from and how to understand limitations.
     * Request records and data, find and clean datasets and check findings when required.
     * Offer insight about the things that don't lead to stories and how we do work.
     * Ask "Who is our audience?", "What do they need?" and "What can we make?"
+    * Figure out how to build databases when what we need doesn't exist yet.
 
 * What we shy away from:
     * A service desk where you drop off a spreadsheet and continue on your way.
@@ -78,13 +64,16 @@ These compendium is based largely on the work by Investigative News Network and 
 * [Guides](https://github.com/newsapps/guides) and [Process Docs](http://blog.apps.chicagotribune.com/2014/03/05/everything-you-ever-wanted-to-know-about-the-news-apps-process/) from The Chicago Tribune's News Apps Team
 * [MinnPost's UI Style Guide](https://github.com/MinnPost/minnpost-styles)
 * Noah Veltman's [Principles for making things for the web](https://github.com/veltman/principles/blob/master/README.md)
-
-Suggestions
-===========
+* [POLITICO Interactive News developer guide](https://politico.gitbooks.io/politico-newsroom-developer-guide/content/)
 
 Contributors
 ============
 
-* **[Chris Keller](https://github.com/chrislkeller)**: [@chrislkeller](http://twitter.com/chrislkeller)
+*Current*
+
 * **[Aaron Mendelson](https://github.com/amendelson)**: [@a_mendelson](https://twitter.com/a_mendelson)
+
+*Previous*
+
+* **[Chris Keller](https://github.com/chrislkeller)**: [@chrislkeller](http://twitter.com/chrislkeller)
 * **[Will Craft](https://github.com/wcraft)**: [@craftworksxyz](https://twitter.com/craftworksxyz)
