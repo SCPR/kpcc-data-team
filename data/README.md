@@ -3,6 +3,10 @@ Selected data we've gathered and worked with
 
 A repository containing datasets, information and other goodies from KPCC/SCPR
 
+* **[LA County police shootings 2001-2017](https://github.com/SCPR/kpcc-data-team/tree/master/data/la-county-ois-2001-2017)**
+    * **WHAT**: A yearly breakdown of the number of police shootings in Los Angeles County, from 2001 through 2017, in csv format
+    * **HOW ACQUIRED**: CPRA to LADA.
+
 * **[OpenData LA](https://github.com/SCPR/opendata-la-watchdog)**
     * **WHAT**: Using code created by the [Los Angeles Times Data Desk](https://github.com/datadesk) and its [Checkbook LA Watchdog project](https://github.com/datadesk/checkbook-la-watchdog), this is a "periodically updated archive of data" published by the city of Los Angeles on its [open data portal](https://data.lacity.org/).
     * **HOW ACQUIRED**: [Python script](https://github.com/SCPR/opendata-la-watchdog/blob/master/watchdog.py) will download each dataset.
