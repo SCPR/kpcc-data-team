@@ -1,4 +1,4 @@
-##California Lottery Data
+# California Lottery Data
 
 In June 2018, KPCC/LAist published [a story on the California Lottery](http://laist.com/2018/06/19/lottery.php).
 
