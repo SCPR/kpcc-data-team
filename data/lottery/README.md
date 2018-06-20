@@ -17,3 +17,18 @@ KPCC's analysis focused on sales in 2016 and 2017, and we geocoded the retailers
 It is this data that KPCC used to perform our analysis of lottery sales by census tract.
 
 If you have questions or make use of the data, please get in touch --> amendelsonATscprDOTorg
+
+----
+
+
+```
+ /$$   /$$ /$$$$$$$   /$$$$$$   /$$$$$$         /$$$$$$   /$$$$$$      /$$$$$$ 
+| $$  /$$/| $$__  $$ /$$__  $$ /$$__  $$       /$$__  $$ /$$__  $$    /$$__  $$
+| $$ /$$/ | $$  \ $$| $$  \__/| $$  \__/      | $$  \ $$| $$  \ $$   |__/  \ $$
+| $$$$$/  | $$$$$$$/| $$      | $$            |  $$$$$$/|  $$$$$$$      /$$$$$/
+| $$  $$  | $$____/ | $$      | $$             >$$__  $$ \____  $$     |___  $$
+| $$\  $$ | $$      | $$    $$| $$    $$      | $$  \ $$ /$$  \ $$    /$$  \ $$
+| $$ \  $$| $$      |  $$$$$$/|  $$$$$$/      |  $$$$$$/|  $$$$$$//$$|  $$$$$$/
+|__/  \__/|__/       \______/  \______/        \______/  \______/|__/ \______/ 
+```                                   
+                                        
