@@ -12,7 +12,7 @@ We are publishing **monthly lottery sales by retailer, from 2010 through January
 
 That dataset is in this repo as *monthly-lottery-sales-2010-to-jan-2018.csv.zip* (the csv is too large to post here). Once unzipped, it includes all the fields provided by the California Lottery in response to KPCC's records request, as well as the total monthly sales by store (the sum of draw and scratcher sales) and the date on the first of the month, to facilitate analysis.
 
-KPCC's analysis focused on sales in 2016 and 2017, and we geocoded the retailers active during that year. Because no one should ever have to geocode these 25,460 retailers ever again, we are publishing that here as *stores_geocoded.csv*.
+KPCC's analysis focused on sales in 2016 and 2017, and we geocoded the retailers active during those two years. Because no one should ever have to geocode these 25,460 retailers ever again, we are publishing that here as *stores_geocoded.csv*.
 
 It is this data that KPCC used to perform our analysis of lottery sales by census tract.
 
