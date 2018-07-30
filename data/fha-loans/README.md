@@ -1,6 +1,6 @@
 # Monthly FHA loans in California
 
-KPCC reporters recently crunched the numbers on FHA loans, a government-backed mortgage insured by the Federal Housing Administration. We are releasing the data used for our analysis in this repo.
+KPCC reporters recently crunched the numbers on FHA loans, a government-backed mortgage insured by the Federal Housing Administration. We are releasing the data used for our analysis in this repo. It's here as a zip file, since the csv is too large for GitHub.
 
 These loans are a common choice for first-time buyers who prefer their low down payment options and relaxed credit requirements. The program data [is available on HUD's website](https://www.hud.gov/program_offices/housing/rmra/oe/rpts/sfsnap/sfsnap), but unfortunately for anyone hoping to analyze the use of the program over time, is spread across dozens of files.
 
